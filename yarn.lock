@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@Adventech/bible-tools@^1.0.6":
-  version "1.0.6"
-  resolved "https://npm.pkg.github.com/download/@Adventech/bible-tools/1.0.6/3f8ee5b7492c72d6d724aed95cc4d15aaa35b01a#3f8ee5b7492c72d6d724aed95cc4d15aaa35b01a"
-  integrity sha512-E0MpuCavk6UbGgqMZmN4b2YKgU8Cxw55n9fSB2j+b0pxt8lrz6Xg4gRpI0mPZg702K63Ikuu48t5hkw5zlZLQw==
+"@Adventech/bible-tools@^1.0.8":
+  version "1.0.8"
+  resolved "https://npm.pkg.github.com/download/@Adventech/bible-tools/1.0.8/2fa1bb081274aa0d0ec75abe8c3340b0f9999e5d#2fa1bb081274aa0d0ec75abe8c3340b0f9999e5d"
+  integrity sha512-ZSbxePTPLBBREXLcriO0G3oVPX6ziLCDJ6NKonRp5fBX48lsQvdo6OOUXl5vAXSb09vQ/AN2mS43/AvXWclRwg==
 
 "@Adventech/egw-tools@>=1.0.9":
   version "1.0.9"
