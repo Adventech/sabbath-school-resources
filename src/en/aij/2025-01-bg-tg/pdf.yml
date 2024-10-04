@@ -11,6 +11,10 @@ pdf:
     target: en/aij/2025-01-bg-tg/004-at-a-glance
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-005.pdf
     target: en/aij/2025-01-bg-tg/005-simple-program-outline
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-006.pdf
+    target: en/aij/2025-01-bg-tg/006-printed-resources
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007.pdf
+    target: en/aij/2025-01-bg-tg/007-crafts
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-01.pdf
     target: en/aij/2025-01-bg-tg/01
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-02.pdf
@@ -37,3 +41,42 @@ pdf:
     target: en/aij/2025-01-bg-tg/12
   - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-13.pdf
     target: en/aij/2025-01-bg-tg/13
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft1.pdf
+    target: en/aij/2025-01-bg-tg/01
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft2.pdf
+    target: en/aij/2025-01-bg-tg/02
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft3.pdf
+    target: en/aij/2025-01-bg-tg/03
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft4.pdf
+    target: en/aij/2025-01-bg-tg/04
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft5.pdf
+    target: en/aij/2025-01-bg-tg/05
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft6.pdf
+    target: en/aij/2025-01-bg-tg/06
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft7.pdf
+    target: en/aij/2025-01-bg-tg/07
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft8.pdf
+    target: en/aij/2025-01-bg-tg/08
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft9.pdf
+    target: en/aij/2025-01-bg-tg/09
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft10.pdf
+    target: en/aij/2025-01-bg-tg/10
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft11.pdf
+    target: en/aij/2025-01-bg-tg/11
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft12.pdf
+    target: en/aij/2025-01-bg-tg/12
+    title: Craft
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-01/ABSG-2025-01-BG-TG-007-craft13.pdf
+    target: en/aij/2025-01-bg-tg/13
+    title: Craft
