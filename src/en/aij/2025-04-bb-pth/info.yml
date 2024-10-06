@@ -1,0 +1,106 @@
+title: Parent Time Handouts. Quarter Four.
+subtitle: Growing Character
+primaryColor: '#E8E9E0'
+primaryColorDark: '#CED0B8'
+credits:
+  - name: Principal Contributor
+    value: Nina Atcheson
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard and Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Frank M. Hasel
+  - name: Creative Direction
+    value: Nina Atcheson
+  - name: Designer
+    value: Jordan Bariesheff
+  - name: Illustrator
+    value: Jayde Bray
+  - name: Copy Editors
+    value: James and Ida Cavil
+featuredResources:
+  - en/aij/2025-00-bb-pb
+  - en/aij/2025-00-bb-tg
+  - en/aij/aij-training-videos
+defaultStyles:
+  inline:
+    all:
+      text:
+        typeface: PTSans-Regular
+  nested:
+    all:
+      text:
+        typeface: PTSans-Regular
+  title:
+    text:
+      typeface: Astralaga Bold
+      color: '#c18967'
+      align: center
+  subtitle:
+    text:
+      align: center
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/splash.png
+fonts:
+  - name: BaskervilleBT-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-Bold.ttf
+  - name: BaskervilleBT-BoldItalic
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-BoldItalic.ttf
+  - name: BaskervilleBT-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-Italic.ttf
+  - name: BaskervilleBT-Roman
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-Roman.ttf
+  - name: PTSans-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-Bold.ttf
+  - name: PTSans-BoldItalic
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-BoldItalic.ttf
+  - name: PTSans-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-Italic.ttf
+  - name: PTSans-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-Regular.ttf
+  - name: Astralaga Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-bold.ttf
+  - name: Astralaga Light
+    weight: 300
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-light.ttf
+  - name: Astralaga Medium
+    weight: 500
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-medium.ttf
+  - name: Astralaga Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-regular.ttf
+  - name: Astralaga SemiBold
+    weight: 600
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-semibold.ttf
