@@ -8,7 +8,7 @@ God has given your precious child to your family on loan. People say the days of
 
 In this publication you’ll find carefully selected, age-appropriate stories and activities to help guide your child toward knowing and loving Jesus. **Every day, read the simple weekly story** and invite **interaction from your child** as you do so. The (prompts) throughout the narrative will be your guide as you read. Point to the pictures (or invite your child to) as you read. Make this learning time a very special daily routine. The **Play Throughout the Day activities** are ideas you can do with your child to reinforce the Bible story messages. Turn these activities into memories that are woven into your lives to strengthen the Bible messages. Take time to read the **Heart of the Matter** spiritual message that is written just for you. Say the **memory verse** to your child every day, even if they are still learning to speak. Place the memory verse card somewhere prominent in your home to remind you to do so and show this to your child.
 
-Accept the challenge to “lead them to Jesus Christ day by day, lovingly, tenderly, earnestly. You must not allow anything to come between you and this great work” (Ellen G. White, Child Guidance, p. 41).
+Accept the challenge to “lead them to Jesus Christ day by day, lovingly, tenderly, earnestly. You must not allow anything to come between you and this great work” (Ellen G. White, _Child Guidance_, p. 41).
 
 It’s often the small, daily routines, rather than the big moments in our lives, that shape our characters.
 

@@ -34,7 +34,7 @@ There is godly wisdom, interesting facts, and well-researched information to con
 {"style":{"text":{"color":"#bf9648", "typeface": "PTSans-Bold"}}}
 **Tips**
 
-As you talk to other parents, read, and learn new ideas and strategies, you’ll discover there’s an endless sea of parenting advice out there! How do you choose what to implement and what to disregard? This curriculum seeks to offer ideas from a biblical worldview, with a special focus on character development. We’re told, “Character building is the most important work ever entrusted to human beings; and never before was its diligent study so important as now” (Ellen G. White, Education, p. 225). This curriculum can’t cover everything, but it can be a place for you to start.
+As you talk to other parents, read, and learn new ideas and strategies, you’ll discover there’s an endless sea of parenting advice out there! How do you choose what to implement and what to disregard? This curriculum seeks to offer ideas from a biblical worldview, with a special focus on character development. We’re told, “Character building is the most important work ever entrusted to human beings; and never before was its diligent study so important as now” (Ellen G. White, _Education_, p. 225). This curriculum can’t cover everything, but it can be a place for you to start.
 
 ### ^[Part 2—The Sabbath School Program]({"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}})
 

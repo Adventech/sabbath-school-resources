@@ -20,7 +20,7 @@ On that first day of Creation the earth was glowing with light, the very presenc
 
 You may have moments when your day is full, yet you feel empty. You have tripped over toys or cleaned food off the floor one too many times, your energy and patience drained. It is in those moments that it can be the hardest to answer His invitation. 
 
-Take a breath, exhale a prayer, or sing a praise to God. “Song has wonderful power. It has power to subdue rude and uncultivated natures; power to quicken thought and to awaken sympathy, to promote harmony of action, and to banish gloom and foreboding that destroy courage and weaken effort” (Ellen G. White, Education, p. 168).
+Take a breath, exhale a prayer, or sing a praise to God. “Song has wonderful power. It has power to subdue rude and uncultivated natures; power to quicken thought and to awaken sympathy, to promote harmony of action, and to banish gloom and foreboding that destroy courage and weaken effort” (Ellen G. White, _Education_, p. 168).
 
 His light will shine in your heart. It cannot be contained. The glorious light of God will radiate through your life, renewing your spirit and filling your home with His goodness. 
 

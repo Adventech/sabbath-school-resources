@@ -22,7 +22,7 @@ Some species use mimicry to help them catch a meal by using camouflage to hide a
 
 Just like the saber-toothed blenny, Satan will use any method at his disposal to lure and trick victims to his snare. Learning to be on guard for the methods of the master mimic, Satan, requires knowing the one and only God. It is through a personal relationship with God that we can discern the great deceiver’s methods. 
 
-Time alone with God spent in His Word and in prayer will draw you closer to the knowledge of the ways of the Deliverer and will unveil the trickery of the deceiver. The more we know God, the less susceptible we are to being fooled by Satan’s mimicry. “Jesus lived in dependence upon God and communion with Him. . . . The life of Jesus was a life of constant trust, sustained by continual communion” (Ellen G. White, Education, p. 80).	
+Time alone with God spent in His Word and in prayer will draw you closer to the knowledge of the ways of the Deliverer and will unveil the trickery of the deceiver. The more we know God, the less susceptible we are to being fooled by Satan’s mimicry. “Jesus lived in dependence upon God and communion with Him. . . . The life of Jesus was a life of constant trust, sustained by continual communion” (Ellen G. White, _Education_, p. 80).	
 
 In knowing the truth that God is both loving and merciful, we are protected from the snare of Satan. There are many lessons to be gained by observing God’s creation; the greatest of these is His love and care. Just as a mother bird shields her babies under her wings, God will cover you with His loving protection.
 

@@ -22,5 +22,5 @@ Boundaries also offer the balance needed in raising a child of God. They give no
 > “Train up a child in the way he should go, and when he is old he will not depart from it”  
 
 
-> <callout>Ellen G. White, The Desire of Ages, p. 516</callout>
+> <callout>Ellen G. White, _The Desire of Ages_, p. 516</callout>
 > “Parents, in the training of your children, study the lessons that God has given in nature. . . . Ask the gardener by what process he makes every branch and leaf to flourish so beautifully, and to develop in symmetry and loveliness. . . . By gentle touches, by loving ministrations, seek to fashion their characters after the pattern of the character of Christ”  

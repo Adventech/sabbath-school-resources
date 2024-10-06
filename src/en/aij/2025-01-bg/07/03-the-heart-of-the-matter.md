@@ -22,7 +22,7 @@ Encourage them to expand their learning beyond the repetition of reading the sam
 
 Watch as your child learns and grows through repetition. As they repeat the same actions again and again, you will see them develop coordination and control. Through repetition they will also discover success as they develop perseverance. Take courage in knowing that God too watches us with love and patience as we often require repetition to learn to trust in Him. It is in knowing that we can do it again that we find a resilience not daunted by a fall but rather strengthened in the opportunity to get up and say, “More, please.” 
 
-“What we venture to do once, we are more apt to do again. Habits of sobriety, of self-control, of economy, of close application, of sound, sensible conversation, of patience and true courtesy, are not gained without diligent, close watching over self. . . . Persevering efforts will be required if the Christian graces are ever perfected in our lives” (Ellen G. White, Testimonies for the Church, vol. 4, p. 452).
+“What we venture to do once, we are more apt to do again. Habits of sobriety, of self-control, of economy, of close application, of sound, sensible conversation, of patience and true courtesy, are not gained without diligent, close watching over self. . . . Persevering efforts will be required if the Christian graces are ever perfected in our lives” (Ellen G. White, _Testimonies for the Church_, vol. 4, p. 452).
 
 > <callout>Galatians 6:9</callout>
 > “And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart” 

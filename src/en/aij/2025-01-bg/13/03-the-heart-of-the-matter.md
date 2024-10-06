@@ -24,7 +24,7 @@ Consider your child’s needs and provide positive expectations that will help t
 
 In His infinite wisdom God knew that we would need to take a break from our busy weeks. Pray about how you can carefully and intentionally spend this time with God and your family, knowing that God sees all your needs—your busy life, your tiredness, your need for spiritual food, and your innate desire for connection with others and, ultimately, with Him. 
 
-“God saw that a Sabbath was essential for man, even in Paradise. He needed to lay aside his own interests and pursuits for one day of the seven, that he might more fully contemplate the works of God and meditate upon His power and goodness. He needed a Sabbath to remind him more vividly of God and to awaken gratitude because all that he enjoyed and possessed came from the beneficent hand of the Creator” (Ellen G. White, Patriarchs and Prophets, p. 48).
+“God saw that a Sabbath was essential for man, even in Paradise. He needed to lay aside his own interests and pursuits for one day of the seven, that he might more fully contemplate the works of God and meditate upon His power and goodness. He needed a Sabbath to remind him more vividly of God and to awaken gratitude because all that he enjoyed and possessed came from the beneficent hand of the Creator” (Ellen G. White, _Patriarchs and Prophets_, p. 48).
 
 > <callout>Psalm 100:2, ICB</callout>
 > “Serve the Lord with joy. Come before him with singing”
