@@ -1,11 +1,12 @@
 ---
 title: Community Support
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 Parents of young children tend to feel overwhelmed with the task of educating their little children. Perhaps you aren’t sure if you are parenting well, or you may feel guilty because you think that you aren’t a good parent, yet you don’t want to share this with others and show your vulnerability.

@@ -1,12 +1,13 @@
 ---
 title: Little Devotions
 titleBelowCover: true
-defaultStyles:
-  title:
-    text:
-      typeface: Omnes-BlackItalic
-      align: center
-      color: "#58b0e3"
+style:
+  segment:
+    title:
+      text:
+        typeface: Omnes-BlackItalic
+        align: center
+        color: "#58b0e3"
 ---
 
 One of the most important life skills you can teach your child is to seek God every day in personal devotion. Although your child is now only 1, 2, or 3 years old, it’s not too early to begin teaching them how to do this in simple ways. 

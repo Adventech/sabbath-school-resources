@@ -1,11 +1,12 @@
 ---
 title: Baby Dedication
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 Mary and Joseph took Baby Jesus to the temple to present Him before the priest soon after His birth. It was a Jewish tradition to consecrate the boys to God. This tradition has reached down to our days as a special ceremony for your family, your baby, and your local church.

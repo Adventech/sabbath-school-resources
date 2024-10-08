@@ -1,12 +1,13 @@
 ---
 title: Trust
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-1-03-the-foundation-for-spiritual-growth/bicycle.png
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 The love you express to your baby also serves to teach trust. Unlike many baby animals, your baby has many needs and cannot survive unless they are cared for. As your baby grows, they need to trust that they will receive what they need. As with love, your little one will learn to trust you as you keep them clean and fed, and when you listen to them. As your baby grows, they will need to be reassured through your actions that you say what you mean and you mean what you say; that you will honor promises and follow through with consequences for behavior. Your little one needs to know that you can be counted on.

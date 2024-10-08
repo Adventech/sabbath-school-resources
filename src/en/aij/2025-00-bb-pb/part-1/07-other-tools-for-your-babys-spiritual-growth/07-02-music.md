@@ -1,12 +1,13 @@
 ---
 title: Music
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bb-pb/part-1-07-other-tools-for-your-babys-spiritual-growth/cover.png
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 + Studies have shown that premature babies gain weight more easily when listening to classical music in the intensive-care unit, which contributes to them being discharged faster and having greater chances of survival (Lubetzky, Memouni, et al., 2010).

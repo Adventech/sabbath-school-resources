@@ -1,5 +1,5 @@
 title: The Creation
-subtitle: Teacher Guide. Year A. Quarter 1
+subtitle: Teacher Guide. Year A, Quarter 1
 primaryColor: '#007EAC'
 primaryColorDark: '#005B7B'
 credits:
@@ -31,19 +31,21 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-teacher/assets/cover.png
   splash: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-teacher/assets/splash.png
-defaultStyles:
-  inline:
-    all:
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: CenturyGothic
+    nested:
+      all:
+        text:
+          typeface: CenturyGothic
+  segment:
+    title:
       text:
         typeface: CenturyGothic
-  nested:
-    all:
-      text:
-        typeface: CenturyGothic
-  title:
-    text:
-      typeface: CenturyGothic
-      color: '#f4793b'
+        color: '#f4793b'
 fonts:
   - name: CenturyGothic-Bold
     weight: 700

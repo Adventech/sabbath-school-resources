@@ -24,24 +24,29 @@ credits:
 featuredResources:
   - en/aij/2025-00-bb-pb
   - en/aij/2025-00-bb-tg
+  - en/aij/2025-01-bb-pth
+  - en/aij/2025-03-bb-pth
+  - en/aij/2025-04-bb-pth
   - en/aij/aij-training-videos
-defaultStyles:
-  inline:
-    all:
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: PTSans-Regular
+    nested:
+      all:
+        text:
+          typeface: PTSans-Regular
+  segment:
+    title:
       text:
-        typeface: PTSans-Regular
-  nested:
-    all:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: center
+    subtitle:
       text:
-        typeface: PTSans-Regular
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: center
-  subtitle:
-    text:
-      align: center
+        align: center
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bb-pth/assets/cover-landscape.png

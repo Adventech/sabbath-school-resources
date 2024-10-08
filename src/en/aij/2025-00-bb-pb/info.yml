@@ -1,5 +1,11 @@
 title: 'Baby Steps: Growing with Jesus'
 subtitle: Parent Book
+markdownTitle: >-
+  ^[Baby Steps]({"style": {"text": {"typeface": "CaliforniaPalmsScriptThicker",
+  "size": "xl", "color":"#c18967"}}})\
+
+  ^[Growing with Jesus]({"style": {"text": {"typeface": "Astralaga Bold",
+  "size": "xs","color":"#c18967"}}})
 description: A Guide for Parents of Babies 0–12 Months at Home and in Sabbath School
 primaryColor: '#E8E9E0'
 primaryColorDark: '#CED0B8'
@@ -25,6 +31,9 @@ credits:
 featuredResources:
   - en/aij/2025-00-bb-tg
   - en/aij/2025-01-bb-pth
+  - en/aij/2025-02-bb-pth
+  - en/aij/2025-03-bb-pth
+  - en/aij/2025-04-bb-pth
   - en/aij/aij-training-videos
 covers:
   landscape: >-
@@ -35,23 +44,25 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/cover.png
   splash: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/splash.png
-defaultStyles:
-  inline:
-    all:
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: PTSans-Regular
+    nested:
+      all:
+        text:
+          typeface: PTSans-Regular
+  segment:
+    title:
       text:
-        typeface: PTSans-Regular
-  nested:
-    all:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: center
+    subtitle:
       text:
-        typeface: PTSans-Regular
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: center
-  subtitle:
-    text:
-      align: center
+        align: center
 fonts:
   - name: BaskervilleBT-Bold
     weight: 700
@@ -105,3 +116,7 @@ fonts:
     weight: 600
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/fonts/astralaga-semibold.ttf
+  - name: CaliforniaPalmsScriptThicker
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/fonts/CaliforniaPalms_Script_thicker.ttf

@@ -1,12 +1,13 @@
 ---
 title: Your Role as a Parent
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/part-2-08-the-sabbath-school-curriculum-at-home/basket.png
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 As a parent, you are your baby’s first teacher, mentor, and guide. This means that you are really important to help shape their journey with Jesus, and your home environment is an ideal place for everyday learning. An important part of your role is to establish a regular worship routine in your home, in which you repeat the lessons shared in Sabbath School with your baby. This repetition throughout the week means that your baby will begin to recognize, absorb, and interact with the ideas they also experience at church in Sabbath School.

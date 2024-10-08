@@ -1,11 +1,12 @@
 ---
 title: 3. Home Time
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 Parents are encouraged to repeat the lessons, or components of the lessons, from Sabbath School with their baby at home.

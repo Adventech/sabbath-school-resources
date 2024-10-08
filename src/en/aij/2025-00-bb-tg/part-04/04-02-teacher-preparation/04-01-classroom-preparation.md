@@ -1,11 +1,12 @@
 ---
 title: Teacher's Preparation
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#a65726'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#a65726'
+        align: left
 ---
 
 The people in the classroom have an influence that far outweighs the classroom décor. As the teacher, you have a special role to play. You can create a warm environment, a positive experience, and a spiritual influence that will promote the learning and habits in the little ones and the commitment of the parents to their responsibility. Because you have such a positive influence, you have a great responsibility to nurture your own personal and spiritual preparation. It is vitally important for you to look after your own spiritual needs for you to be equipped with everything you need to fulfill your task.

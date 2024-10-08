@@ -1,16 +1,18 @@
 ---
-title: The heart of the Matter
+title: The Heart of the Matter
 markdownTitle: 'the ^[HEART]({"style": {"text": {"color": "#F38236"}}}) of the ^[MATTER]({"style": {"text": {"color": "#009955"}}})'
-subtitle: For you, Parents
-defaultStyles:
-  title:
-    text:
-      typeface: BaskervilleBT-Roman
-      align: center
-  subtitle:
-    text:
-      typeface: BaskervilleBT-Roman
-      align: center
+subtitle: For Parents
+markdownSubtitle: For you, Parents
+style:
+  segment:
+    title:
+      text:
+        typeface: BaskervilleBT-Roman
+        align: center
+    subtitle:
+      text:
+        typeface: BaskervilleBT-Roman
+        align: center
 background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/11-04.png
 ---
 

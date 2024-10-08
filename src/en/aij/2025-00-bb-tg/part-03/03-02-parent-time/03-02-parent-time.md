@@ -1,11 +1,12 @@
 ---
 title: 2. Parent Time
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 This is a spiritual parenting small group for the remaining time in class (approximately 30 minutes), to nurture parents in their parenting journey and spiritual lives. You can find outlines to facilitate intentional, spiritual discussion during this time at www.aliveinjesus.info. [The Parent Time handouts](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/a04bca07ad0db72ada3549407db38058084f88e483e0039f6409aed505099b0e) offer Bible verses to ponder, questions to discuss, prayer ideas, and challenges for the week ahead, with the purpose of nurturing and equipping parents for the high calling of Christian parenting.

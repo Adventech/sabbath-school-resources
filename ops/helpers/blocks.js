@@ -58,6 +58,10 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
         // does not exist. In this case we will skip it
         if (!processedBlock) { return null }
 
+        if (parentId !== "root") {
+            processedBlock.nested = true
+        }
+
         return { ...processedBlock, ...blockStyle }
     }
 

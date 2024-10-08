@@ -32,6 +32,7 @@ export const list = {
                         "index": index,
                         "id": listItemId,
                         "data": p.data ?? null,
+                        "nested": true,
                     })
                 } else {
                     blockData.items.push(

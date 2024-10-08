@@ -34,7 +34,8 @@ export const excerpt = {
                 let item = {
                     id: crypto.createHash("sha256").update(`${documentIndex}-${r.id}-${block.type}-${index}`).digest("hex"),
                     option: passageArray.name,
-                    type: "excerpt-item"
+                    type: "excerpt-item",
+                    nested: true,
                 }
                 let markdown = ""
                 for (let verse of Object.keys(passageArray.verses)) {

@@ -1,11 +1,12 @@
 ---
 title: Prayer
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 Probably the most practical and effective thing you can do to develop the spirituality of your baby is to regularly pray for and with them. “We must pray as we never have before that God will keep and bless our children” (Ellen G. White, _Child Guidance_, p. 494). If you haven’t done so already, make prayer a regular practice in your home. Pray by yourself, pray together with your family, and pray with your baby. You will never be a perfect parent, but you serve a perfect God who can work powerfully in the life of your children if you allow Him to. If your desire is for your baby to be molded and shaped into the likeness of Christ and to do His will, the best thing you can do is pray. Set aside time each day to intentionally pray for them now and for their future.

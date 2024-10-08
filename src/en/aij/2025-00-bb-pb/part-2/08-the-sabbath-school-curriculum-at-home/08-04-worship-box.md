@@ -1,11 +1,12 @@
 ---
 title: Worship Box
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 Props and objects are great tools to use when teaching stories and lessons to your baby. We suggest you choose a box or basket to use as a special Worship Box for your little one. This box will hold all the items you need to help you reinforce the themes.

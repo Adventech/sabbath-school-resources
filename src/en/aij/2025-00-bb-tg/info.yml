@@ -24,6 +24,9 @@ credits:
 featuredResources:
   - en/aij/2025-00-bb-pb
   - en/aij/2025-01-bb-pth
+  - en/aij/2025-02-bb-pth
+  - en/aij/2025-03-bb-pth
+  - en/aij/2025-04-bb-pth
   - en/aij/aij-training-videos
 covers:
   landscape: >-
@@ -34,23 +37,25 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/cover.png
   splash: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/splash.png
-defaultStyles:
-  inline:
-    all:
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: PTSans-Regular
+    nested:
+      all:
+        text:
+          typeface: PTSans-Regular
+  segment:
+    title:
       text:
-        typeface: PTSans-Regular
-  nested:
-    all:
+        typeface: Astralaga Bold
+        color: '#a65726'
+        align: center
+    subtitle:
       text:
-        typeface: PTSans-Regular
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#a65726'
-      align: center
-  subtitle:
-    text:
-      align: center
+        align: center
 fonts:
   - name: BaskervilleBT-Bold
     weight: 700

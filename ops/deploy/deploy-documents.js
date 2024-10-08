@@ -254,8 +254,8 @@ let processDocuments = async function (resourceType) {
 
             // await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo)
 
-            let defaultStyle = deepMerge(SEGMENT_DEFAULT_BLOCK_STYLES, resourceInfoYaml.defaultStyles)
-            documentInfo.defaultStyles = deepMerge(defaultStyle, documentInfo.defaultStyles)
+            let style = deepMerge(SEGMENT_DEFAULT_BLOCK_STYLES, resourceInfoYaml.style)
+            documentInfo.style = deepMerge(style, documentInfo.style)
 
             fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
         }

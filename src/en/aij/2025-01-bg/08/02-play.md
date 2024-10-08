@@ -3,12 +3,13 @@ title: Play Throughout the Day
 markdownTitle: '^[play]({"style": {"text": {"color": "#fbac50"}}}) throughout the day'
 cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/08-05.png
 titleBelowCover: true
-defaultStyles:
-  title:
-    text:
-      typeface: Omnes-BlackItalic
-      align: center
-      color: "#834f9a"
+style:
+  segment:
+    title:
+      text:
+        typeface: Omnes-BlackItalic
+        align: center
+        color: "#834f9a"
 ---
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#834f9a"}}}

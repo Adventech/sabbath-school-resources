@@ -1,11 +1,12 @@
 ---
 title: Invest in Your Physical and Emotional Health
-defaultStyles:
-  title:
-    text:
-      typeface: Astralaga Bold
-      color: '#c18967'
-      align: left
+style:
+  segment:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: '#c18967'
+        align: left
 ---
 
 Because you’re the object of His love, God isn’t interested in just your spiritual life. He’s interested in all aspects of your life, which includes your physical, emotional, and mental health.

@@ -1,5 +1,5 @@
 title: Creation
-subtitle: Year A. Quarter 1
+subtitle: Year A, Quarter 1
 primaryColor: '#39788D'
 primaryColorDark: '#1F5A6D'
 credits:
@@ -35,15 +35,16 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/cover.png
   splash: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/splash.png
-defaultStyles:
-  inline:
-    all:
-      text:
-        typeface: Omnes-Regular
-  nested:
-    all:
-      text:
-        typeface: Omnes-Regular
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: Omnes-Regular
+    nested:
+      all:
+        text:
+          typeface: Omnes-Regular
 fonts:
   - name: BaskervilleBT-Roman
     weight: 400
