@@ -26,14 +26,15 @@ export const paragraph = {
                     id: crypto.createHash("sha256").update(`${documentIndex}-${r.id}-excerpt-${index}`).digest("hex"),
                     type: "excerpt",
                     items: [],
-                    options: [...new Set(bibleData.bibleData.map(obj => obj.name))]
+                    options: [...new Set(bibleData.bibleData.map(obj => obj.name))],
                 }
 
                 for (let passageArray of bibleData.bibleData) {
                     let item = {
                         id: crypto.createHash("sha256").update(`${documentIndex}-${r.id}-excerpt-${index}-${r.type}-${index}`).digest("hex"),
                         option: passageArray.name,
-                        type: "excerpt-item"
+                        type: "excerpt-item",
+                        nested: true
                     }
                     let markdown = passageArray.verses[verse]
 

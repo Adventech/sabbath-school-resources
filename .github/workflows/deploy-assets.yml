@@ -5,6 +5,7 @@ on:
       - prod
       - stage
     paths:
+      - './github/workflows/deploy-assets.yml'
       - 'ops/deploy/deploy-resources.js'
       - 'ops/deploy/deploy-sections.js'
       - 'ops/deploy/deploy-documents.js'
@@ -18,6 +19,7 @@ on:
       - 'src/**/*.mp3'
       - 'src/**/*.mp4'
       - 'src/**/*.md'
+      - 'src/**/*.yml'
 jobs:
   transfer-resource-assets:
     if: (github.repository == 'Adventech/sabbath-school-resources')

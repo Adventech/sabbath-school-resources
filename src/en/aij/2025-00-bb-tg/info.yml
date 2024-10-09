@@ -51,7 +51,7 @@ style:
     title:
       text:
         typeface: Astralaga Bold
-        color: "#AF7852"
+        color: "#af7852"
     subtitle:
       text:
         typeface: BaskervilleBT-BoldItalic
