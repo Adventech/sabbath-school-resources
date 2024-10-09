@@ -109,3 +109,12 @@ style:
     subtitle:
       text:
         align: center
+  resource:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: "#AF7852"
+    subtitle:
+      text:
+        typeface: BaskervilleBT-BoldItalic
+        color: "#d2b67f"

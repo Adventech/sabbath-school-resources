@@ -1,5 +1,5 @@
 title: Babies Teacher Guide
-description: A Sabbath School Teacher Guide for Babies 0–12 Months
+subtitle: A Sabbath School Teacher Guide for Babies 0–12 Months
 primaryColor: '#E8E9E0'
 primaryColorDark: '#CED0B8'
 credits:
@@ -47,6 +47,15 @@ style:
       all:
         text:
           typeface: PTSans-Regular
+  resource:
+    title:
+      text:
+        typeface: Astralaga Bold
+        color: "#AF7852"
+    subtitle:
+      text:
+        typeface: BaskervilleBT-BoldItalic
+        color: "#d2b67f"
   segment:
     title:
       text:

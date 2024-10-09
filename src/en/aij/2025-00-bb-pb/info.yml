@@ -2,10 +2,11 @@ title: 'Baby Steps: Growing with Jesus'
 subtitle: Parent Book
 markdownTitle: >-
   ^[Baby Steps]({"style": {"text": {"typeface": "CaliforniaPalmsScriptThicker",
-  "size": "xl", "color":"#c18967"}}})\
+  "size": "xl", "color":"#AF7852"}}})\
 
   ^[Growing with Jesus]({"style": {"text": {"typeface": "Astralaga Bold",
-  "size": "xs","color":"#c18967"}}})
+  "size": "xs","color":"#AF7852"}}})
+markdownSubtitle: PARENT BOOK
 description: A Guide for Parents of Babies 0–12 Months at Home and in Sabbath School
 primaryColor: '#E8E9E0'
 primaryColorDark: '#CED0B8'
@@ -54,6 +55,19 @@ style:
       all:
         text:
           typeface: PTSans-Regular
+  resource:
+    title:
+      text:
+        size: "xs"
+    subtitle:
+      text:
+        typeface: PTSans-Bold
+        color: "#a2b596"
+        size: "xs"
+    description:
+      text:
+        typeface: BaskervilleBT-BoldItalic
+        color: "#d2b67f"
   segment:
     title:
       text:

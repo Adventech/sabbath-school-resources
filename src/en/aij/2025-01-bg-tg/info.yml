@@ -1,4 +1,4 @@
-title: The Creation
+title: Creation
 subtitle: Teacher Guide. Year A, Quarter 1
 primaryColor: '#007EAC'
 primaryColorDark: '#005B7B'
@@ -46,6 +46,13 @@ style:
       text:
         typeface: CenturyGothic
         color: '#f4793b'
+  resource:
+    title:
+      text:
+        typeface: Omnes-Bold
+    subtitle:
+      text:
+        typeface: Omnes-Regular
 fonts:
   - name: CenturyGothic-Bold
     weight: 700

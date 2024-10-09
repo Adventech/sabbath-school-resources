@@ -45,6 +45,13 @@ style:
       all:
         text:
           typeface: Omnes-Regular
+  resource:
+    title:
+      text:
+        typeface: Omnes-Bold
+    subtitle:
+      text:
+        typeface: Omnes-Regular
 fonts:
   - name: BaskervilleBT-Roman
     weight: 400
