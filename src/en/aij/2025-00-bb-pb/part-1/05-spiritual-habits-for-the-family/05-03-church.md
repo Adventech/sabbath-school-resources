@@ -6,7 +6,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 Going to church regularly will create positive Sabbath routines for your baby, your family, and yourself. Church is a wonderful opportunity to honor God on His Sabbath and be blessed. It is also a day to bless others by sharing and encouraging each other in your Christian journey. Here are some suggestions to make church a positive and joyful experience for you and your family:

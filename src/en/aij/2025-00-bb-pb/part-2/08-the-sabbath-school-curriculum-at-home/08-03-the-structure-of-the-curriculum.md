@@ -6,7 +6,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 The _Baby Steps_ curriculum consists of four quarterly programs. Each program is repeated every week for a full quarter. The topics have been carefully selected for their potential to express God’s love, to show nature as God’s second book, and to appeal to the senses. Your little one will begin understanding God’s love and care through their senses.

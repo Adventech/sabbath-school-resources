@@ -17,8 +17,7 @@ God Made the\
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-01.png)
 {"style":{"text":{"color": "#ffffff"}}}
-_Sit with your child under a blanket with a flashlight._\
-In the beginning, before there were lion cubs having fun, or cheetahs on the run, there was God. Before God created the earth for you and me, it was dark and empty. It was so dark (whisper). No glimmer of light shone. There was no sun or moon, nor twinkling stars to see. God had a special plan for Day 1 (hold up one finger). The time had come, and He was excited to begin! He was going to make a wonderful world for you and me. This would be the first day of Creation. All was quiet, waiting to see what God would do.  
+_Sit with your child under a blanket with a flashlight._ In the beginning, before there were lion cubs having fun, or cheetahs on the run, there was God. Before God created the earth for you and me, it was dark and empty. It was so dark (whisper). No glimmer of light shone. There was no sun or moon, nor twinkling stars to see. God had a special plan for Day 1 (hold up one finger). The time had come, and He was excited to begin! He was going to make a wonderful world for you and me. This would be the first day of Creation. All was quiet, waiting to see what God would do.  
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/02-02.png)

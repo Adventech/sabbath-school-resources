@@ -6,7 +6,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 Because you’re the object of His love, God isn’t interested in just your spiritual life. He’s interested in all aspects of your life, which includes your physical, emotional, and mental health.

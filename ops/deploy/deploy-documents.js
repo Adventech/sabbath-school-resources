@@ -232,6 +232,29 @@ let processDocuments = async function (resourceType) {
                             }
                         }
                     }
+
+                    if (block.header && block.header.length) {
+                        for (let header of block.header) {
+                            for (let itemBlock of header.items) {
+                                if (itemBlock && itemBlock.id) {
+                                    await setBlockInDatabase(itemBlock)
+                                }
+                            }
+                        }
+                    }
+
+                    if (block.rows && block.rows.length) {
+                        for (let row of block.rows) {
+                            for (let rowItems of row.items) {
+                                for (let itemBlock of rowItems.items) {
+                                    if (itemBlock && itemBlock.id) {
+                                        await setBlockInDatabase(itemBlock)
+                                    }
+                                }
+                            }
+                        }
+                    }
+
                     if (block && block.id) {
                         await database.collection(FIREBASE_DATABASE_BLOCKS).doc(block.id).set(block);
                     }
@@ -239,7 +262,11 @@ let processDocuments = async function (resourceType) {
 
                 if (segmentInfo.blocks) {
                     for (let block of segmentInfo.blocks) {
-                        await setBlockInDatabase(block)
+                        try {
+                            await setBlockInDatabase(block)
+                        } catch (e) {
+                            console.error(e)
+                        }
                     }
                 }
 

@@ -8,6 +8,10 @@ export const paragraph = {
     process: async function (block, resourcePath, depth) {
         let text = block.text.trim()
 
+        if (/<a>?/g.test(block.raw)) {
+            return false
+        }
+
         const bibleData = depth !== "no-bible" ? getBibleData(resourcePath, text) : null
 
         let r =  { id: block.id, type: block.type, markdown: text }

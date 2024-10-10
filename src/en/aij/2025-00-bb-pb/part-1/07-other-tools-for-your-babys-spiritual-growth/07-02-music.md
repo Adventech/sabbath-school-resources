@@ -7,7 +7,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 + Studies have shown that premature babies gain weight more easily when listening to classical music in the intensive-care unit, which contributes to them being discharged faster and having greater chances of survival (Lubetzky, Memouni, et al., 2010).

@@ -7,7 +7,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 When your baby is about 2 months old (depending on your little one’s engagement and eye contact), catch their attention and say, “Look at this flower” (showing a natural flower or an artificial flower that looks natural). “What a beautiful color! It smells beautiful! I wonder who made the flowers?”

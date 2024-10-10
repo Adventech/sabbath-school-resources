@@ -7,7 +7,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 Obedience can be learned more easily when your baby has first learned love and trust. As a parent, you have control over their life, because you make all the decisions about their daily experiences. These repeated experiences become habits and routines. Routines bring security and happiness to them, making it easier for them to obey you.

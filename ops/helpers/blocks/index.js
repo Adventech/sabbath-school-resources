@@ -13,6 +13,8 @@ import { list } from "./list.js"
 import { paragraph } from "./paragraph.js"
 import { poll } from "./poll.js"
 import { excerpt } from "./excerpt.js"
+import { table } from "./table.js"
+import { html } from "./html.js"
 
 import { style } from "./style.js"
 import { superscript } from "./superscript.js"
@@ -36,5 +38,7 @@ export {
     style,
     superscript,
     poll,
-    excerpt
+    excerpt,
+    table,
+    html,
 }

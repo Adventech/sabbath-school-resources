@@ -15,7 +15,7 @@ God Made\
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/06-01.png)
-{"style":{"text":{"color": "##1f5d40"},"block":{"backgroundColor": "#e1e1e1ad"}}}
+{"style":{"text":{"color": "#1f5d40"},"block":{"backgroundColor": "#e1e1e1ad"}}}
 In the beginning, before there were bears that snore or eagles that soar, there was God.  On Day 1 He made the light (one finger). On Day 2 He made the sky (two fingers). On Day 3 He made the land and sea, and grass so green (three fingers). It was now Day 4 (hold up four fingers). God created a beautiful world for you and me. The new day shone as a gentle breeze blew through the trees.  The smell of roses and sweet oranges filled the air. God had been creating a world He wanted to share.  The river tumbled (roll hands in tumbling motion) into the sparkling sea, and the tall grasses danced on the shore.  The time had come for God to show what was to be done on Day 4 (four fingers). 
 ^^^
 ^^^

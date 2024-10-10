@@ -7,7 +7,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 As a parent, you are your baby’s first teacher, mentor, and guide. This means that you are really important to help shape their journey with Jesus, and your home environment is an ideal place for everyday learning. An important part of your role is to establish a regular worship routine in your home, in which you repeat the lessons shared in Sabbath School with your baby. This repetition throughout the week means that your baby will begin to recognize, absorb, and interact with the ideas they also experience at church in Sabbath School.
