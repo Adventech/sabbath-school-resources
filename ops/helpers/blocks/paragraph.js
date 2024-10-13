@@ -2,6 +2,7 @@ import { getBibleData } from "../bible.js"
 import { getEGWData } from "../egw.js"
 import crypto from "crypto"
 import { parseSegment } from "../blocks.js"
+import { completion } from "./completion.js"
 
 export const paragraph = {
     extension: {},
@@ -82,6 +83,13 @@ export const paragraph = {
             }
 
             r["markdown"] = egwData.output
+        }
+
+        const completionRet = await completion.process(r.markdown, r.id)
+
+        if (completionRet) {
+            r.markdown = completionRet.text
+            r.data = { ...r.data, completion: completionRet.data }
         }
 
         return r

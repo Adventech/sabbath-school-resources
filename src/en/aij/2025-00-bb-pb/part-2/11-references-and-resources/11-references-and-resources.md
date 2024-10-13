@@ -16,7 +16,9 @@ Children’s Hospital of Orange County affiliated with the University of Califor
 
 Dumont, E., E. Syurina, F. Feron, and S. van Hooren. 2017. “Music Interventions and Child Development: A Critical Review and Further Directions.” _Frontiers in Psychology_ 8:1694. Doi:10.3389/fpsyg.2017.01694.
 
-Habenicht, D. 1994. _How to Help Your Child Really Love Jesus_. Hagerstown, MD: Review and Herald. Habenicht, Donna J., and Larry Burton. 2004. _Teaching the Faith: An Essential Guide for Building Faith shaped Kids_. Hagerstown, MD: Review and Herald.
+Habenicht, D. 1994. _How to Help Your Child Really Love Jesus_. Hagerstown, MD: Review and Herald.
+
+Habenicht, Donna J., and Larry Burton. 2004. _Teaching the Faith: An Essential Guide for Building Faith shaped Kids_. Hagerstown, MD: Review and Herald.
 
 Hasel, Frank M. 2018. _Longing for God_: A Prayer and Bible Journal. Nampa, ID: Pacific Press (a resource for the spiritual self-care of the parents).
 
