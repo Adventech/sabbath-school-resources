@@ -1,0 +1,10 @@
+name: Lithuanian
+native: Lietuviškai
+code: lt
+sections:
+  default: Main
+bible:
+  - lbd-eku
+  - lit
+  - ltb
+feedSeeAll: Matyti viską

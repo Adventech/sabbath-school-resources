@@ -1,0 +1,13 @@
+title: Sabbath School
+groups:
+  - group: Puitling
+    view: folio
+    scope: resource
+  - group: PowerPoints
+    view: folio
+    resources:
+      - '*[0-9-]+-pp'
+  - group: Primary
+    view: folio
+    resources:
+      - '*[0-9-]+-pr'

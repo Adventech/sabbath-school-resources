@@ -3,6 +3,9 @@ import https from "https"
 import { imageSize } from "image-size"
 import { fileURLToPath } from "url"
 import { createRequire } from "module"
+import yargParser from "yargs-parser"
+import fs from "fs-extra"
+import { hideBin } from "yargs/helpers"
 import {
     SOURCE_DIR,
     RESOURCE_TYPE,
@@ -14,6 +17,26 @@ import {
     DOCUMENT_INFO_FILENAME,
     SECTION_INFO_FILENAME
 } from "./constants.js"
+
+const options = {
+    alias: {
+        lang: 'l',
+        types: 't',
+        resource: 'r',
+    },
+    default: {
+        lang: '*',
+        types: '*',
+        resource: '*',
+    },
+    description: {
+        lang: 'Language',
+        types: 'Types',
+        resource: 'Resource',
+    }
+};
+
+const args = yargParser.detailed(hideBin(process.argv), options)
 
 async function getBufferFromUrl(url) {
     return new Promise((resolve) => {
@@ -66,8 +89,8 @@ let isURL = function (src) {
 }
 
 let slug = function (input) {
-    return input.replace(/\s|—/g, "-").replace(/([^A-Za-z0-9\-])|(-$)/g, "").toLowerCase()
-}
+    return input.replace(/\s|—/g, "-").replace(/[^\p{L}\p{N}-]+/gu, "").replace(/-+$/g, "").toLowerCase()
+};
 
 let pad = function(num, size) {
     let s = num + ""
@@ -97,7 +120,7 @@ let getNegativeCoverImagesGlob = function () {
 
 let parseResourcePath = function (resourcePath) {
 
-    if (/^\.\/src\//.test(resourcePath)) {
+    if (/^\.?\/?src\//.test(resourcePath)) {
         resourcePath = resourcePath.replace(`${SOURCE_DIR}/`, "")
     }
 
@@ -257,6 +280,77 @@ let deepMerge = function (target, source) {
         }
     }
     return output;
+}
+
+export const arg = {}
+
+if (!args.defaulted.lang
+    || !args.defaulted.lang
+    || !args.defaulted.lang) {
+    arg[args.argv.lang] = {
+        [args.argv.types] : {
+            resources: args.argv.resource,
+        }
+    }
+} else if (fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
+    const data = await fs.readFile('./.github/outputs/all_changed_files.json', 'utf-8')
+
+    try {
+        const changedFiles = JSON.parse(data)
+
+        if (changedFiles && changedFiles.length) {
+            changedFiles.filter((f) => /^src\//.test(f))
+                .map((f) => {
+                    const p = f.replace(/\.?\/?src\//, '')
+                    const changedFilePath = parseResourcePath(p)
+
+                    const language = changedFilePath.language
+                    const type = changedFilePath.type
+                    let r = changedFilePath.title
+
+                    if (type === "ss") {
+                        r = getCurrentQuarterGlob()
+                    }
+
+                    if (!arg[language]) {
+                        arg[language] = {
+                            [type]: {
+                                resources: [r],
+                            }
+                        }
+                    } else {
+                        if (!arg[language][type]) {
+                            arg[language][type] = {
+                                resources: []
+                            }
+                        }
+                        arg[language][type].resources.push(r)
+                    }
+                }
+            )
+        }
+
+        for (let argLanguage of Object.keys(arg)) {
+            for (let argType of Object.keys(arg[argLanguage])) {
+                arg[argLanguage][argType].resources = [...new Set(arg[argLanguage][argType].resources)]
+
+                if (arg[argLanguage][argType].resources.length > 1) {
+                    arg[argLanguage][argType].resources = `(${arg[argLanguage][argType].resources.join('|')})`
+                } else {
+                    arg[argLanguage][argType].resources = arg[argLanguage][argType].resources.join('')
+                }
+            }
+        }
+    } catch (e) {
+        console.log(e)
+    }
+} else {
+    // Default if nothing is provided
+    arg['**'] = {
+        '**': {
+            resources: getCurrentQuarterGlob()
+        }
+    }
 }
 
 export {

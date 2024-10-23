@@ -1,0 +1,9 @@
+title: Субботняя Школа
+groups:
+  - group: Пособие с комментарием
+    view: folio
+    scope: resource
+  - group: Молодёжное пособие
+    view: folio
+    resources:
+      - '*[0-9-]+-ay|*-iv'

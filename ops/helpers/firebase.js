@@ -13,6 +13,7 @@ const localFirestore = function () {
         doc: function () { return localFirestore() },
         set: function () { return localFirestore() },
         get: function () { return localFirestore() },
+        batch: function () {return { commit: function () {}, set: function () {} }},
     }
 }
 

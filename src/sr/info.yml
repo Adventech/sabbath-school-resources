@@ -1,0 +1,8 @@
+name: Serbian
+native: Srpski
+code: sr
+sections:
+  default: Main
+bible:
+  - biblija
+feedSeeAll: Види све

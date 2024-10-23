@@ -1,0 +1,8 @@
+name: Arabic
+native: عربى
+code: ar
+sections:
+  default: Main
+bible:
+  - svd
+feedSeeAll: اظهار الكل

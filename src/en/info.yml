@@ -1,52 +1,47 @@
 name: English
 native: English
 code: en
-kinds:
-  devotional: Devotional
-  plan: Plan
-  book: Book
-  blog: Blog
-  external: Link
-  magazine: Magazine
-bible:
-  - nasb
-  - nkjv
-  - kjv
-  - name: niv
-    copyright: "\n\n^[HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission. All rights reserved worldwide.]({\"style\": {\"text\": {\"size\": \"xs\"}}})"
-  - asv
 sections:
   default: Main
 featuredResources:
   title: Featured
+egw: true
+bible:
+  - nasb
+  - nkjv
+  - kjv
+  - asv
+  - name: niv
+    copyright: "\n\n^[HOLY BIBLE, NEW INTERNATIONAL VERSION TM, NIV TM. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission. All rights reserved worldwide.]({\"style\": {\"text\": {\"size\": \"xs\"}}})"
 features:
   teacher-comments:
     name: teacher-comments
     title: Teacher Comments
     description: Prepare to facilitate Sabbath School lesson discussion with this teacher's edition
-    image: "images/features/feature_teacher_comments.png"
+    image: images/features/feature_teacher_comments.png
   egw-quotes:
     name: egw-quotes
     title: Ellen G. White Quotes
     description: Enhance your study with additional selected quotes from Ellen G. White writings
-    image: "images/features/feature_egw.png"
+    image: images/features/feature_egw.png
   inside-story:
     name: inside-story
     title: Inside Story
     description: Read inspiring mission stories from all over the world
-    image: "images/features/feature_inside_story.png"
+    image: images/features/feature_inside_story.png
   audio:
     name: audio
     title: Audio
     description: Listen to the lesson on the go with the audio version
-    image: "images/features/feature_audio.png"
+    image: images/features/feature_audio.png
   video:
     name: video
     title: Video
     description: Watch the weekly lesson discussion to deepen your study
-    image: "images/features/feature_video.png"
+    image: images/features/feature_video.png
   original_layout:
     name: original-layout
     title: Original Layout
     description: Enhance your study of the lesson using original print layout with numerous annotation tools
-    image: "images/features/feature_original_layout.png"
+    image: images/features/feature_original_layout.png
+feedSeeAll: See All

@@ -1,0 +1,8 @@
+name: Assamese
+native: অসমীয়া
+code: as
+sections:
+  default: Main
+bible:
+  - irv
+feedSeeAll: See All

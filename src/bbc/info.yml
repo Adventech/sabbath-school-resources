@@ -1,0 +1,8 @@
+name: Batak Toba
+native: Batak Toba
+code: bbc
+sections:
+  default: Main
+bible:
+  - bbc
+feedSeeAll: See All

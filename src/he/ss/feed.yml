@@ -1,0 +1,5 @@
+title: Sabbath School
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

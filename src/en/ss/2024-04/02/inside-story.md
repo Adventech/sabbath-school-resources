@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  11/10/2024
-
-
 ---
 
 #### Revival in Rural Colombia

@@ -1,0 +1,8 @@
+name: Fijian
+native: Viti
+code: fj
+sections:
+  default: Main
+bible:
+  - fov
+feedSeeAll: Raica Taucoko

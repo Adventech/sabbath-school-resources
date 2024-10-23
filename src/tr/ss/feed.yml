@@ -1,0 +1,5 @@
+title: Sebt Okulu
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

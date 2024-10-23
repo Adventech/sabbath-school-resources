@@ -1,0 +1,8 @@
+name: Twi
+native: Twi
+code: tw
+sections:
+  default: Main
+bible:
+  - asw
+feedSeeAll: See All

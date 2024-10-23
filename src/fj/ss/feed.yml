@@ -1,0 +1,5 @@
+title: Wili Vola VakaSigatabu
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

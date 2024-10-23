@@ -35,9 +35,10 @@ export const list = {
                         "nested": true,
                     })
                 } else {
-                    blockData.items.push(
-                        await parseBlock(token, resourcePath, index, block.id, depth+1)
-                    )
+                    let innerList = await parseBlock(token, resourcePath, index, block.id, depth+1)
+                    if (innerList) {
+                        blockData.items.push(innerList)
+                    }
                 }
             }
         }

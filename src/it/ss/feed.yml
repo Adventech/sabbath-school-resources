@@ -1,0 +1,9 @@
+title: Scuola del Sabato
+groups:
+  - group: Edizione per adulti
+    view: folio
+    scope: resource
+  - group: InVerse
+    view: folio
+    resources:
+      - '*[0-9-]+-cq|*-iv'

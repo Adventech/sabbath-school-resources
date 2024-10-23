@@ -6,11 +6,16 @@ export const blockquote = {
         let blockquote = { id: block.id, type: block.type }
 
         // memory-verse
-        const memoryVerseRegex = /<p>([^<>]+)<\/p>/g
+        const memoryVerseRegex = /<p>([^<>]*)<\/p>/g
         let memoryVerse = memoryVerseRegex.exec(block.text)
         if (memoryVerse) {
             block.text = block.text.replace(memoryVerseRegex, "").trim()
-            block.text = `**${memoryVerse[1]}**\n\n${block.text}`
+            block.text = `${block.text}`
+
+            if (memoryVerse[1]?.length) {
+                block.text = `**${memoryVerse[1]}**\n\n${block.text}`
+            }
+
             blockquote.memoryVerse = true
         }
 

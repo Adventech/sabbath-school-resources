@@ -1,0 +1,8 @@
+name: Hmong
+native: Lus Hmoob
+code: hmn
+sections:
+  default: Main
+bible:
+  - hmowsv
+feedSeeAll: See All

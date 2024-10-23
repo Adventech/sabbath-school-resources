@@ -1,0 +1,5 @@
+title: Școala de Sabat
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

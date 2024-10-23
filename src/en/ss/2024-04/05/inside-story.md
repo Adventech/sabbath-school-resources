@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  01/11/2024
-
-
 ---
 
 #### Unsolicited Book in the Mail

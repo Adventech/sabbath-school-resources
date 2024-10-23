@@ -1,0 +1,8 @@
+name: Persian
+native: فارسی
+code: fa
+sections:
+  default: Main
+bible:
+  - opv-1896
+feedSeeAll: همه را ببین

@@ -1,0 +1,8 @@
+name: Nepali
+native: नेपाली
+code: ne
+sections:
+  default: Main
+bible:
+  - erv
+feedSeeAll: सबै हेर

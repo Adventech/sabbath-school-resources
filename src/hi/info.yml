@@ -1,0 +1,8 @@
+name: Hindi
+native: हिन्दी
+code: hi
+sections:
+  default: Main
+bible:
+  - hhbd
+feedSeeAll: सभी देखें

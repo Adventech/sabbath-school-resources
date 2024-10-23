@@ -1,0 +1,8 @@
+name: Catalan
+native: Català
+code: ca
+sections:
+  default: Main
+bible:
+  - bci
+feedSeeAll: Veure-ho tot

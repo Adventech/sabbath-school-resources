@@ -12,7 +12,6 @@ import {
     RESOURCE_TYPE,
     RESOURCE_KIND,
     RESOURCE_INFO_FILENAME,
-    RESOURCE_CONTENT_DIRNAME,
     SECTION_INFO_FILENAME,
     RESOURCE_ASSETS_DIRNAME, RESOURCE_COVERS
 } from "../helpers/constants.js"
@@ -144,7 +143,7 @@ let validateResources = async function (resourceType) {
         }
 
         try {
-            const resourceContentPath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_CONTENT_DIRNAME}`
+            const resourceContentPath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`
             const sections = new fdir()
                 .withBasePath()
                 .withRelativePaths()

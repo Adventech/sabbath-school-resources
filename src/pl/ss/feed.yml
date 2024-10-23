@@ -1,0 +1,9 @@
+title: Szkoła Sobotnia
+groups:
+  - group: Dorosły
+    view: folio
+    scope: resource
+  - group: Młodzież
+    view: folio
+    resources:
+      - '*[0-9-]+-rt'

@@ -1,0 +1,5 @@
+title: Hingamispäevakooli õppetükk
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

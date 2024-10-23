@@ -1,0 +1,8 @@
+name: Turkish
+native: Türk
+code: tr
+sections:
+  default: Main
+bible:
+  - kitab
+feedSeeAll: Tümünü Gör

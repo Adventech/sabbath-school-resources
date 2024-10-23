@@ -1,0 +1,5 @@
+title: 안식일 학교
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

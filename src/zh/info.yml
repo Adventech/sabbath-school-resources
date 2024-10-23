@@ -1,0 +1,9 @@
+name: Chinese
+native: 中文
+code: zh
+sections:
+  default: Main
+bible:
+  - cuvs
+  - cuv
+feedSeeAll: 看到所有

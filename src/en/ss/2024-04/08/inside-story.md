@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  22/11/2024
-
-
 ---
 
 #### God’s Perfect Timing in Tbilisi

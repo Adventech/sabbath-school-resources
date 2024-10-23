@@ -1,0 +1,8 @@
+name: Greek
+native: Ελληνικά
+code: el
+sections:
+  default: Main
+bible:
+  - fpb1994
+feedSeeAll: Προβολή όλων

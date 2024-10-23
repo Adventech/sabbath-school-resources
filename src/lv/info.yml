@@ -1,0 +1,8 @@
+name: Latvian
+native: Latviešu valoda
+code: lv
+sections:
+  default: Main
+bible:
+  - rt65
+feedSeeAll: See All

@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  15/11/2024
-
-
 ---
 
 #### From Pin Trader to Camper

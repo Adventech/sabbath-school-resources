@@ -1,0 +1,8 @@
+name: Vietnamese
+native: Việt
+code: vi
+sections:
+  default: Main
+bible:
+  - bpt
+feedSeeAll: Nhìn thấy tất cả

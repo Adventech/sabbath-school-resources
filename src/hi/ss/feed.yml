@@ -1,0 +1,5 @@
+title: सब्बाथ स्कूल
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

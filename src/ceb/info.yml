@@ -1,0 +1,8 @@
+name: Cebuano
+native: Sinugboanon
+code: ceb
+sections:
+  default: Main
+bible:
+  - cbv
+feedSeeAll: See All

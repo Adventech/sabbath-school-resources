@@ -1,8 +1,6 @@
 ---
 title:  Teacher Comments
 date:  11/10/2024
-
-
 ---
 
 #### Part I: Overview

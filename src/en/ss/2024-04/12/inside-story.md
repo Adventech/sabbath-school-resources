@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  20/12/2024
-
-
 ---
 
 #### Kingston Finds Hope

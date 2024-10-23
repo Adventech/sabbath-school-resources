@@ -14,7 +14,7 @@ import {
     RESOURCE_INFO_FILENAME,
     LANGUAGE_INFO_FILENAME,
     OPS_DIR_MANAGE_RESOURCE_ASSETS,
-    RESOURCE_ASSETS_DIRNAME, RESOURCE_CONTENT_DIRNAME
+    RESOURCE_ASSETS_DIRNAME
 } from "../helpers/constants.js"
 
 const args = yargs(hideBin(process.argv))
@@ -137,7 +137,7 @@ let createResource = async function () {
     let createDocs = function (sectionName) {
         for (let i = 1; i <= numDocuments; i++) {
             fs.outputFileSync(
-                `${resourcePath}/${RESOURCE_CONTENT_DIRNAME}/${sectionName ? `${sectionName}/` : ""}${documentPrefix}${pad(i, (Math.max(2, (numDocuments+"").length)))}.md`,
+                `${resourcePath}/${sectionName ? `${sectionName}/` : ""}${documentPrefix}${pad(i, (Math.max(2, (numDocuments+"").length)))}.md`,
                 `---\ntitle: Document ${i}\n---`
             )
         }

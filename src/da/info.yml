@@ -1,0 +1,10 @@
+name: Danish
+native: Dansk
+code: da
+sections:
+  default: Main
+bible:
+  - bph
+  - dn1933
+  - bibelen1992
+feedSeeAll: Se alt

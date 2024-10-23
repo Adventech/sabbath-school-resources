@@ -1,0 +1,8 @@
+name: Finnish
+native: Suomen kieli
+code: fi
+sections:
+  default: Main
+bible:
+  - fb92
+feedSeeAll: See All

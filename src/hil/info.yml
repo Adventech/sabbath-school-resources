@@ -1,0 +1,8 @@
+name: Hiligaynon
+native: Hiligaynon
+code: hil
+sections:
+  default: Main
+bible:
+  - hil82
+feedSeeAll: See All

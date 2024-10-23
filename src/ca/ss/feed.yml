@@ -1,0 +1,5 @@
+title: Escola Sabàtica
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

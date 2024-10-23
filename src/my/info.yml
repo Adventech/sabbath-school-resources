@@ -1,0 +1,8 @@
+name: Burmese
+native: မြန်မာဘာသာ
+code: my
+sections:
+  default: Main
+bible:
+  - jbb
+feedSeeAll: အားလုံးကြည့်ပါ

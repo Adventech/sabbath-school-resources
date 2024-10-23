@@ -1,0 +1,5 @@
+title: Sekolah Sabat
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

@@ -1,0 +1,5 @@
+title: Sabato Mokykla
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

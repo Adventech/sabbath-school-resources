@@ -1,0 +1,13 @@
+title: Escola Sabatina
+groups:
+  - group: Lição Adultos
+    view: folio
+    scope: resource
+  - group: Lição Jovens
+    view: folio
+    resources:
+      - '*[0-9-]+-cq|*-iv'
+  - group: Edição de Portugal
+    view: folio
+    resources:
+      - '*[0-9-]+-pt'

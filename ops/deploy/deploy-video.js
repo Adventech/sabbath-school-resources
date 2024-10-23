@@ -1,11 +1,3 @@
-// deploy languages with at least 1 video (scope only SS & AIJ resource type)
-// deploy video for each resource (glob current quarter if ss & aij)
-// deploy latest.json for each language
-//  - group by artist
-//  - truncate to last 15 videos
-//  - scope ss & aij resource types only
-//  - reverse order
-
 import crypto from "crypto"
 import yaml from "js-yaml"
 import fs from "fs-extra"
@@ -23,7 +15,7 @@ import {
     SOURCE_DIR,
     LANGUAGE_INFO_FILENAME,
     RESOURCE_FEED_FILENAME,
-    MEDIA_URL, ASSETS_URL, RESOURCE_ASSETS_DIRNAME,
+    MEDIA_URL, MEDIA_URL_LEGACY, ASSETS_URL, RESOURCE_ASSETS_DIRNAME,
     RESOURCE_COVERS, DOCUMENT_INFO_FILENAME, API_DIST
 } from "../helpers/constants.js"
 
@@ -113,9 +105,6 @@ let videoAPI = async function (mode) {
                 aPriority = (aPriority === -1) ? Infinity : aPriority
                 bPriority = (bPriority === -1) ? Infinity : bPriority
 
-
-                // console.log(`comparing ${aPath.language}-${aPath.type}-${aPath.title} = ${aPriority}, with ${bPath.language}-${bPath.type}-${bPath.title} = ${bPriority}`)
-
                 if (aPriority < bPriority) return -1
                 if (aPriority > bPriority) return 1
                 return 0
@@ -150,7 +139,15 @@ let videoAPI = async function (mode) {
                             artist: artistVideo.artist
                         }
 
-                        videoItem.id = crypto.createHash('sha256').update(artistVideo.artist + clip['target'] + clip['src']).digest('hex');
+                        let targetForId = clip.target
+
+                        // For already uploaded and processed videos from sabbath-school-lessons
+                        // Generate matching ID
+                        if (videoPathInfo.type === "ss") {
+                            targetForId = targetForId.replace(/^([a-z]{2,3})\/ss\//, '$1/')
+                        }
+
+                        videoItem.id = crypto.createHash('sha256').update(artistVideo.artist + targetForId + clip['src']).digest('hex');
 
                         for (let k of Object.keys(clip)) {
                             if (allowedVideoItemKeys.indexOf(k) >= 0) {
@@ -165,6 +162,12 @@ let videoAPI = async function (mode) {
                         }
 
                         videoItem.src = `${MEDIA_URL}/video/${videoPathInfo.language}/${videoPathInfo.type}/${videoPathInfo.title}/${videoItem.id}/${videoItem.id}${extname}`
+
+                        // For already uploaded and processed videos from sabbath-school-lessons
+                        // set the src to point to legacy storage
+                        if (videoPathInfo.type === "ss") {
+                            videoItem.src = `${MEDIA_URL_LEGACY}/video/${videoPathInfo.language}/${videoPathInfo.title}/${videoItem.id}/${videoItem.id}${extname}`
+                        }
 
                         videoItem.targetIndex = videoItem.target.replace(/\//g, '-')
 
@@ -181,6 +184,10 @@ let videoAPI = async function (mode) {
                         }
 
                         videoItem.thumbnail = `${MEDIA_URL}/video/${videoPathInfo.language}/${videoPathInfo.type}/${videoPathInfo.title}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`
+
+                        if (videoPathInfo.type === "ss") {
+                            videoItem.thumbnail = `${MEDIA_URL_LEGACY}/video/${videoPathInfo.language}/${videoPathInfo.title}/${videoItem.id}/thumb/${videoItem.id}${thumbExtname}`
+                        }
 
                         // If no title specified, obtain the title
                         if (!videoItem.title) {
@@ -214,9 +221,14 @@ let videoAPI = async function (mode) {
                         const videoDotKeepLocalFile = `media/video/${videoPathInfo.language}/${videoPathInfo.type}/${videoPathInfo.title}/${videoItem.id}/.keep`
                         const videoDotKeepThumbnailLocalFile = `media/video/${videoPathInfo.language}/${videoPathInfo.type}/${videoPathInfo.title}/${videoItem.id}/thumb/.keep`
 
+                        // For already uploaded and processed videos from sabbath-school-lessons
+                        // set paths that
+                        if (videoPathInfo.type === "ss") {
+                            videoItem.src = `${MEDIA_URL_LEGACY}/video/${videoPathInfo.language}/${videoPathInfo.title}/${videoItem.id}/${videoItem.id}${extname}`
+                        }
 
                         // Keep mode. i.e creating .keep files for the downloaded videos & thumbnails
-                        if (mode === "keep") {
+                        if (mode === "keep" && videoPathInfo.type !== "ss") {
                             if (fs.pathExistsSync(videoClipLocalFile)) {
                                 let stats = fs.statSync(videoClipLocalFile)
                                 if (stats.size > 0) {
@@ -232,7 +244,7 @@ let videoAPI = async function (mode) {
                             }
                         }
 
-                        if (mode === "gen") {
+                        if (mode === "gen" && videoPathInfo.type !== "ss") {
                             if (!fs.pathExistsSync(videoClipLocalPath)) {
                                 curlConfig.push(`
 url = "${clip.src}"

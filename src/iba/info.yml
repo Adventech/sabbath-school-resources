@@ -1,0 +1,8 @@
+name: Iban
+native: Jaku Iban
+code: iba
+sections:
+  default: Main
+bible:
+  - bk
+feedSeeAll: See All

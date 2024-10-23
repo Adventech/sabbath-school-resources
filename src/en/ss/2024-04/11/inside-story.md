@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  13/12/2024
-
-
 ---
 
 #### A Dream in Dallas

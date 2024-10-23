@@ -1,0 +1,8 @@
+name: Marathi
+native: मराठी
+code: mr
+sections:
+  default: Main
+bible:
+  - mar
+feedSeeAll: See All

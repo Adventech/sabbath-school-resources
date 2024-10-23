@@ -1,9 +1,37 @@
----
-  title: Sabbath School
-  groups:
-  - group: Adult
-    resources:
-      - en-ss-*
+title: Sabbath School
+groups:
+  - group: Standard Adult
+    view: folio
+    scope: resource
   - group: InVerse
+    view: folio
     resources:
-      - en-ss-*-cq
+      - '*[0-9-]+-cq|*-iv'
+  - group: Easy Reading
+    view: folio
+    resources:
+      - '*[0-9-]+-er'
+  - group: Cornerstone Connections
+    view: folio
+    resources:
+      - '*[0-9-]+-cc'
+  - group: Real Time Faith
+    view: folio
+    resources:
+      - '*[0-9-]+-rt'
+  - group: Junior PowerPoints
+    view: folio
+    resources:
+      - '*[0-9-]+-pp'
+  - group: Primary
+    view: folio
+    resources:
+      - '*[0-9-]+-pr'
+  - group: Kindergarten
+    view: folio
+    resources:
+      - '*[0-9-]+-kd'
+  - group: Beginner
+    view: folio
+    resources:
+      - '*[0-9-]+-bg'

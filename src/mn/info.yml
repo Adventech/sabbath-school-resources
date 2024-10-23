@@ -1,0 +1,9 @@
+name: Mongolian
+native: Монгол хэл
+code: mn
+sections:
+  default: Main
+bible:
+  - ab2013
+  - ab2004
+feedSeeAll: See All

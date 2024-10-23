@@ -1,0 +1,8 @@
+name: Albanian
+native: Shqiptar
+code: sq
+sections:
+  default: Main
+bible:
+  - albb
+feedSeeAll: See All

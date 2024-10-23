@@ -1,0 +1,8 @@
+name: Estonian
+native: Eesti Keel
+code: et
+sections:
+  default: Main
+bible:
+  - eep
+feedSeeAll: Vaata kõiki

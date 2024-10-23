@@ -1,0 +1,41 @@
+title: 安息日学校
+groups:
+  - group: 成人学课
+    view: folio
+    scope: resource
+  - group: 成人學課
+    view: folio
+    resources:
+      - '*[0-9-]+-hant'
+  - group: 深入人心
+    view: folio
+    resources:
+      - '*[0-9-]+-inv'
+  - group: 深入人心
+    view: folio
+    resources:
+      - '*[0-9-]+-hant-inv'
+  - group: 房角石
+    view: folio
+    resources:
+      - '*[0-9-]+-cc'
+  - group: 房角石
+    view: folio
+    resources:
+      - '*[0-9-]+-hant-cc'
+  - group: 少年学课
+    view: folio
+    resources:
+      - '*[0-9-]+-pp'
+  - group: 高级学课
+    view: folio
+    resources:
+      - '*[0-9-]+-pr'
+  - group: 中级学课
+    view: folio
+    resources:
+      - '*[0-9-]+-kd'
+  - group: 初级学课
+    view: folio
+    resources:
+      - '*[0-9-]+-bg'

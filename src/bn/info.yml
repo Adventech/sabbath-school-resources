@@ -1,0 +1,8 @@
+name: Bengali
+native: বাংলা
+code: bn
+sections:
+  default: Main
+bible:
+  - bsi2016
+feedSeeAll: See All

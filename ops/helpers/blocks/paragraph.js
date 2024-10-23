@@ -3,11 +3,14 @@ import { getEGWData } from "../egw.js"
 import crypto from "crypto"
 import { parseSegment } from "../blocks.js"
 import { completion } from "./completion.js"
+import { superscript } from "../blocks/index.js"
 
 export const paragraph = {
     extension: {},
     process: async function (block, resourcePath, depth) {
         let text = block.text.trim()
+
+        text = superscript(text)
 
         if (/<a>?/g.test(block.raw)) {
             return false
@@ -31,8 +34,10 @@ export const paragraph = {
                     id: crypto.createHash("sha256").update(`${documentIndex}-${r.id}-excerpt-${index}`).digest("hex"),
                     type: "excerpt",
                     items: [],
-                    options: [...new Set(bibleData.bibleData.map(obj => obj.name))],
+                    options: [],
                 }
+
+                // options: [...new Set(bibleData.bibleData.map(obj => obj.name))],
 
                 for (let passageArray of bibleData.bibleData) {
                     let item = {
@@ -43,11 +48,18 @@ export const paragraph = {
                     }
                     let markdown = passageArray.verses[verse]
 
-                    item.items = await parseSegment(markdown, resourcePath, item.id, "no-bible")
-                    excerpt.items.push(item)
+                    if (markdown) {
+                        item.items = await parseSegment(markdown, resourcePath, item.id, "no-bible")
+                        excerpt.items.push(item)
+                        excerpt.options.push(passageArray.name)
+                    } else {
+                        // console.log(verse, passageArray, resourcePath)
+                    }
                     index++
-
                 }
+
+                excerpt.options = [...new Set(excerpt.options)]
+
                 r.data.bible[verse] = excerpt
             }
         }

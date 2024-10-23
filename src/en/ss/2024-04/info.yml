@@ -4,14 +4,15 @@ description: >-
   Beautifully done, it re-created a scene in Switzerland: mountains, a
   waterfall, a turquoise lake, forested hillsides, and an expansive blue sky
   dotted with clouds.
-subtitle: October · November · December 2024
+human_date: October · November · December 2024
 start_date: 28/09/2024
 end_date: 27/12/2024
 color_primary: '#5A2C32'
 color_primary_dark: '#541B23'
+splash: true
 credits:
   - name: Principal Contributors
-    value: E. Edward Zinke, Thomas Shepherd
+    value: E. Edward Zinke, Thomas R. Shepherd
   - name: Editor
     value: Clifford R. Goldstein
   - name: Associate Editor
@@ -21,5 +22,9 @@ credits:
   - name: Editorial Assistant
     value: Sharon Thomas-Crews
 covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/ss/2024-04/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/ss/2024-04/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/ss/2024-04/assets/cover.png

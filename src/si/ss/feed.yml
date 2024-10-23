@@ -1,0 +1,13 @@
+title: Sabbath School
+groups:
+  - group: වැඩිහිටි මාර්ගෝපදේශකය
+    view: folio
+    scope: resource
+  - group: මහඟු අදහස්‌
+    view: folio
+    resources:
+      - '*[0-9-]+-pp'
+  - group: ප්‍රාථමික
+    view: folio
+    resources:
+      - '*[0-9-]+-pr'

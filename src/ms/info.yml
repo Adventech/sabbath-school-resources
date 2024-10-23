@@ -1,0 +1,8 @@
+name: Malay
+native: Bahasa Malaysia
+code: ms
+sections:
+  default: Main
+bible:
+  - alkitab
+feedSeeAll: Lihat semua

@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  04/10/2024
-
-
 ---
 
 #### Heaviness in a Camp Cabin

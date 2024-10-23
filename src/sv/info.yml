@@ -1,0 +1,8 @@
+name: Swedish
+native: Svenska
+code: sv
+sections:
+  default: Main
+bible:
+  - sf1998
+feedSeeAll: Se allt

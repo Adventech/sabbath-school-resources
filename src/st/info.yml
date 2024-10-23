@@ -1,0 +1,9 @@
+name: Sesotho
+native: Sesotho
+code: st
+sections:
+  default: Main
+bible:
+  - sso61
+  - sso89
+feedSeeAll: Bona tsohle

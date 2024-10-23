@@ -1,0 +1,9 @@
+name: Xhosa
+native: IsiXhosa
+code: xh
+sections:
+  default: Main
+bible:
+  - xho75
+  - xho96
+feedSeeAll: Ndinibone nonke

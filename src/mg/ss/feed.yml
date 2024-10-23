@@ -1,0 +1,9 @@
+title: Sabbath School
+groups:
+  - group: Lesona Lehibe
+    view: folio
+    scope: resource
+  - group: Lesona Tanora Zokiny
+    view: folio
+    resources:
+      - '*[0-9-]+-cq'

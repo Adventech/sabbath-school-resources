@@ -1,0 +1,8 @@
+name: Mizo
+native: Mizo ṭawng
+code: lus
+sections:
+  default: Main
+bible:
+  - miz
+feedSeeAll: See All

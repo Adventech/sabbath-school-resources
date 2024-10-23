@@ -1,0 +1,7 @@
+---
+title:  Palīgmateriāls Bībeles studiju skolotājiem
+date:   28/02/2020
+---
+
+### Mēs strādājam pie šīs nodarbības.
+<center>Lūdzu, atgriezieties vēlāk.</center>

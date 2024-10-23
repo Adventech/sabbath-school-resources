@@ -1,0 +1,8 @@
+name: Thai
+native: ไทย
+code: th
+sections:
+  default: Main
+bible:
+  - th-1971
+feedSeeAll: ดูทั้งหมด

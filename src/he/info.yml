@@ -1,0 +1,8 @@
+name: Hebrew
+native: עִברִית
+code: he
+sections:
+  default: Main
+bible:
+  - em-1865
+feedSeeAll: See All

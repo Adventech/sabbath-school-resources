@@ -1,0 +1,5 @@
+title: Sekolo sa Sabatha
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

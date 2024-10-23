@@ -1,0 +1,9 @@
+name: Bulgarian
+native: Български
+code: bg
+sections:
+  default: Main
+bible:
+  - bg1940
+  - ribbd
+feedSeeAll: Виж всички

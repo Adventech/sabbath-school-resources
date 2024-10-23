@@ -48,7 +48,6 @@ export const RESOURCE_COVERS = {
 export const RESOURCE_INFO_FILENAME = "info.yml"
 export const RESOURCE_FEED_FILENAME = "feed.yml"
 export const RESOURCE_ASSETS_DIRNAME = "assets"
-export const RESOURCE_CONTENT_DIRNAME = "content"
 export const RESOURCE_FONTS_DIRNAME = "fonts"
 
 // Sections
@@ -119,17 +118,21 @@ export const RESOURCE_VIDEO_FILENAME = "video.yml"
 
 // API related
 export const API_PREFIX = "/api/v3/"
-export const API_DIST = `${DIST_DIR}/${API_PREFIX}`
+export const API_DIST = `${DIST_DIR}${API_PREFIX}`
 export const API_URL = function () { return `https://sabbath-school${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io` }
 export const ASSETS_URL = (DEPLOY_ENV === "local") ? `http://localhost:3002${API_PREFIX.replace(/\/$/, "")}` : `https://sabbath-school-resources-assets.adventech.io`
 export const REMOTE_ASSETS_URL = `s3://sabbath-school-resources-assets.adventech.io`
 export const MEDIA_URL = (DEPLOY_ENV === "local") ? `http://localhost:3002${API_PREFIX.replace(/\/$/, "")}` : `https://sabbath-school-resources-media${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io`
+export const MEDIA_URL_LEGACY = `https://sabbath-school-media${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io`
+export const MEDIA_PDF_URL_LEGACY = `https://sabbath-school-pdf${DEPLOY_ENV === "prod" ? "" : "-stage" }.adventech.io`
 export const FIREBASE_DATABASE_NAME = (DEPLOY_ENV === "prod") ? "https://blistering-inferno-8720.firebaseio.com" : "https://sabbath-school-stage.firebaseio.com"
 export const FIREBASE_DATABASE_LANGUAGES = "languages"
 export const FIREBASE_DATABASE_RESOURCES = "resources"
 export const FIREBASE_DATABASE_BLOCKS = "blocks"
 export const FIREBASE_DATABASE_DOCUMENTS = "documents"
 export const FIREBASE_DATABASE_SEGMENTS = "segments"
+export const FIREBASE_DATABASE_FEEDS = "feeds"
+export const RESOURCE_COVER_PLACEHOLDER = "https://sabbath-school-resources-assets.adventech.io/resources-cover-portrait.png"
 
 // Misc
 export const DATE_FORMAT = "DD/MM/YYYY"
@@ -142,7 +145,7 @@ export const OPS_SYNC_DOWNLOAD_LOCATION = "download"
 export const OPS_SYNC_DOWNLOAD_COMMANDS_FILENAME = "download_commands.txt"
 export const OPS_SYNC_DETECTED_LINKS_FILENAME = "detected_links.txt"
 export const OPS_SYNC_ASSET_EXTENSIONS = [
-    ".mp4", ".mp3", ".pdf", ".png", ".jpg", ".jpeg"
+    ".mp4", ".mp3", ".pdf", ".png", ".jpg", ".jpeg", ".JPG", ".JPEG", ".PNG"
 ]
 
 export const BIBLES_LOCATION = `./node_modules/@Adventech/bible-tools/bibles`

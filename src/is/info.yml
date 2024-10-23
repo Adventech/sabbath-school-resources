@@ -1,0 +1,8 @@
+name: Icelandic
+native: Íslenska
+code: is
+sections:
+  default: Main
+bible:
+  - biblian
+feedSeeAll: Sjá allt

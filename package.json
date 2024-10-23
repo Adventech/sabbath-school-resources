@@ -7,7 +7,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@Adventech/bible-tools": "^1.0.8",
+    "@Adventech/bible-tools": "^1.0.9",
     "@Adventech/egw-tools": ">=1.0.9",
     "cheerio": "^1.0.0-rc.12",
     "dayjs": "^1.11.10",

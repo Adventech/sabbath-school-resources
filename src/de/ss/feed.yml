@@ -1,0 +1,9 @@
+title: Sabbatschule
+groups:
+  - group: Standardausgabe
+    view: folio
+    scope: resource
+  - group: imWort
+    view: folio
+    resources:
+      - '*[0-9-]+-cq|*-iv'

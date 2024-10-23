@@ -45,7 +45,7 @@ export const getBibleData = function (resourcePath, text) {
             newBibleData["verses"] = bibleSearchResult.verses.reduce(function (result, item) {
                 let key = Object.keys(item)[0]
                 const verse = item[key]
-                result[key] = superscript({raw: verse, text: verse}).text
+                result[key] = superscript(verse)
                 if (bibleCopyright) {
                     result[key] = result[key] + bibleCopyright
                 }

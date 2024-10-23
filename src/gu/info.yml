@@ -1,0 +1,8 @@
+name: Gujarathi
+native: ગુજરાતી
+code: gu
+sections:
+  default: Main
+bible:
+  - gu2017
+feedSeeAll: See All

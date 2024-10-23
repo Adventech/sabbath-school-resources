@@ -1,0 +1,5 @@
+title: Isikole seSabatha
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

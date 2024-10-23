@@ -1,0 +1,8 @@
+name: Haitian Creole
+native: Kreyòl ayisyen
+code: ht
+sections:
+  default: Main
+bible:
+  - hcv
+feedSeeAll: See All

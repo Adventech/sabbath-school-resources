@@ -1,0 +1,8 @@
+name: Malagasy
+native: Malagasy
+code: mg
+sections:
+  default: Main
+bible:
+  - mbp
+feedSeeAll: See All

@@ -6,20 +6,18 @@ import yaml from "js-yaml"
 import fs from "fs-extra"
 import frontMatter from "front-matter"
 import { fdir } from "fdir"
-import { isMainModule, parseResourcePath, deepMerge } from "../helpers/helpers.js"
+import { isMainModule, parseResourcePath, deepMerge, arg } from "../helpers/helpers.js"
 import { parseSegment } from "../helpers/blocks.js"
 import { database } from "../helpers/firebase.js"
 import {
     SOURCE_DIR,
     API_DIST,
-    RESOURCE_TYPE,
     SEGMENT_TYPES,
-    FIREBASE_DATABASE_BLOCKS,
     DEPLOY_ENV,
     GLOBAL_ASSETS_DIR,
     ASSETS_URL,
     RESOURCE_PDF_FILENAME,
-    DOCUMENT_INFO_FILENAME, MEDIA_URL, SEGMENT_FILENAME_EXTENSION, RESOURCE_ASSETS_DIRNAME
+    DOCUMENT_INFO_FILENAME, MEDIA_URL, SEGMENT_FILENAME_EXTENSION, RESOURCE_ASSETS_DIRNAME, MEDIA_PDF_URL_LEGACY
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 
@@ -129,9 +127,19 @@ let processPDFOnlyResource = async function (resource, returnOnly) {
             pdf.target = `${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${String(i+1).padStart(2, '0')}`
         }
 
-        pdf.id = crypto.createHash('sha256').update(pdf.target + pdf.src).digest('hex')
+        let targetForId = pdf.target
+
+        if (resourcePathInfo.type === "ss") {
+            targetForId = targetForId.replace(/^([a-z]{2,3})\/ss\//, '$1/')
+        }
+
+        pdf.id = crypto.createHash('sha256').update(targetForId + pdf.src).digest('hex')
         pdf.targetIndex = pdf.target.replace(/\//g, '-')
         pdf.src = `${MEDIA_URL}/pdf/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${pdf.id}/${pdf.id}.pdf`
+
+        if (resourcePathInfo.type === "ss") {
+            pdf.src = `${MEDIA_PDF_URL_LEGACY}/pdf/${resourcePathInfo.language}/${resourcePathInfo.title}/${pdf.id}/${pdf.id}.pdf`
+        }
 
         if (!pdfsForDocument[pdf.target]) {
             pdfsForDocument[pdf.target] = [pdf]
@@ -145,10 +153,12 @@ let processPDFOnlyResource = async function (resource, returnOnly) {
         if (!pdfs.length) continue
         const documentPathInfo = parseResourcePath(`${pdfs[0].target}/${DOCUMENT_INFO_FILENAME}`)
         const segmentPathInfo = parseResourcePath(`${pdfs[0].target}/${documentPathInfo.document}.md`)
+
         const documentInfo = {
             title: pdfs[0].title,
             id: `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}-${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}`,
             resourceId: `${documentPathInfo.language}-${documentPathInfo.type}-${documentPathInfo.title}`,
+            resourceIndex: `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}`,
             index: `${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}`,
             name: `${documentPathInfo.document}`,
             segments: [
@@ -178,17 +188,18 @@ let processPDFOnlyResource = async function (resource, returnOnly) {
 
 // TODO: instead of wildcard for the resource glob, process only the ones that are in the git change
 //       if more than lets say 20 then use **
-let processDocuments = async function (resourceType) {
-
+let processDocuments = async function (language, resourceType, resourceGlob) {
     const resources = new fdir()
         .withBasePath()
         .withRelativePaths()
-        .withMaxDepth(7)
-        .glob(`**/${resourceType}/*/info.yml`)
+        .withMaxDepth(3)
+        .glob(`${language}/${resourceType}/${resourceGlob}/info.yml`)
         .crawl(SOURCE_DIR)
         .sync();
 
     for (let resource of resources) {
+        console.log(`Processing resource, ${resource}`)
+        const batch = database.batch()
         let resourcePathInfo = parseResourcePath(`${SOURCE_DIR}/${resource}`)
         const resourceInfoYaml = yaml.load(fs.readFileSync(`${SOURCE_DIR}/${resource}`, "utf8"));
 
@@ -196,7 +207,7 @@ let processDocuments = async function (resourceType) {
             .withBasePath()
             .withRelativePaths()
             .withMaxDepth(5)
-            .glob(`**/${resourceType}/${resourcePathInfo.title}/*/**/info.yml`)
+            .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/*/**/info.yml`)
             .crawl(SOURCE_DIR)
             .sync();
 
@@ -216,6 +227,7 @@ let processDocuments = async function (resourceType) {
             const segments = new fdir()
                 .withBasePath()
                 .withRelativePaths()
+                .withMaxDepth(1)
                 .glob(`*${SEGMENT_FILENAME_EXTENSION}`)
                 .crawl(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}`)
                 .sync();
@@ -224,74 +236,26 @@ let processDocuments = async function (resourceType) {
                 let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true)
                 let segmentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`)
 
-                let setBlockInDatabase = async function (block) {
-                    if (block.items && block.items.length) {
-                        for (let itemBlock of block.items) {
-                            if (itemBlock && itemBlock.id) {
-                                await setBlockInDatabase(itemBlock)
-                            }
-                        }
-                    }
-
-                    if (block.header && block.header.length) {
-                        for (let header of block.header) {
-                            for (let itemBlock of header.items) {
-                                if (itemBlock && itemBlock.id) {
-                                    await setBlockInDatabase(itemBlock)
-                                }
-                            }
-                        }
-                    }
-
-                    if (block.rows && block.rows.length) {
-                        for (let row of block.rows) {
-                            for (let rowItems of row.items) {
-                                for (let itemBlock of rowItems.items) {
-                                    if (itemBlock && itemBlock.id) {
-                                        await setBlockInDatabase(itemBlock)
-                                    }
-                                }
-                            }
-                        }
-                    }
-
-                    if (block && block.id) {
-                        await database.collection(FIREBASE_DATABASE_BLOCKS).doc(block.id).set(block);
-                    }
-                }
-
-                if (segmentInfo.blocks) {
-                    for (let block of segmentInfo.blocks) {
-                        try {
-                            await setBlockInDatabase(block)
-                        } catch (e) {
-                            console.error(e)
-                        }
-                    }
-                }
-
-                // await database.collection(FIREBASE_DATABASE_SEGMENTS).doc(segmentInfo.id).set(segmentInfo)
-
                 // skipping hidden segments
                 if (!/^_/.test(segment)) {
                     documentInfo.segments.push(segmentInfo)
                 }
-                fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${resourceType}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
+                fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
             }
-
-            // await database.collection(FIREBASE_DATABASE_DOCUMENTS).doc(documentInfo.id).set(documentInfo)
 
             let style = deepMerge(SEGMENT_DEFAULT_BLOCK_STYLES, resourceInfoYaml.style)
             documentInfo.style = deepMerge(style, documentInfo.style)
 
-            fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${resourceType}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
+            fs.outputFileSync(`${API_DIST}/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}/index.json`, JSON.stringify(documentInfo))
         }
     }
 }
 
 if (isMainModule(import.meta)) {
-    Object.keys(RESOURCE_TYPE).map(async (key) => {
-        await processDocuments(RESOURCE_TYPE[key])
+    Object.keys(arg).map(async (argLanguage) => {
+        Object.keys(arg[argLanguage]).map(async (argType) => {
+            await processDocuments(argLanguage, argType, arg[argLanguage][argType].resources)
+        })
     })
 }
 

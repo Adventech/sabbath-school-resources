@@ -1,0 +1,8 @@
+name: Kirundi
+native: Ikirundi
+code: run
+sections:
+  default: Main
+bible:
+  - byk
+feedSeeAll: See All

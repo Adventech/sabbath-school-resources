@@ -1,0 +1,15 @@
+title: Prva Mojzesova knjiga
+description: Svetopisemski nauki
+human_date: II/2022
+start_date: 26/03/2022
+end_date: 24/06/2022
+color_primary: '#909757'
+color_primary_dark: '#757C36'
+splash: true
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/sl/ss/2022-02/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/sl/ss/2022-02/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/sl/ss/2022-02/assets/cover.png

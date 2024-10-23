@@ -2,6 +2,7 @@
   title: Alive in Jesus
   groups:
   - group: Babies
+    reverse: true
     resources:
       - en-aij-*-bb*
   - group: Beginners

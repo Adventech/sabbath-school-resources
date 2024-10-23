@@ -8,6 +8,7 @@ import { fdir } from "fdir"
 import { isMainModule, getCurrentQuarterGlob, parseResourcePath } from "../helpers/helpers.js"
 import {
     MEDIA_URL,
+    MEDIA_PDF_URL_LEGACY,
     SOURCE_DIR,
     RESOURCE_TYPE,
     RESOURCE_PDF_FILENAME,
@@ -53,7 +54,14 @@ let deployPdf = async function () {
             if (!pdf.target) {
                 pdf.target = `${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${String(i+1).padStart(2, '0')}`
             }
-            pdf.id = crypto.createHash('sha256').update(pdf.target + pdf.src).digest('hex')
+
+            let targetForId = pdf.target
+
+            if (pdfPathInfo.type === "ss") {
+                targetForId = targetForId.replace(/^([a-z]{2,3})\/ss\//, '$1/')
+            }
+
+            pdf.id = crypto.createHash('sha256').update(targetForId + pdf.src).digest('hex')
             pdf.targetIndex = pdf.target.replace(/\//g, '-')
 
             if (!pdf.title) {
@@ -87,6 +95,7 @@ let deployPdf = async function () {
             // Generate mode
             // Used in the CI/CD to create download list of PDFs but only if not already downloaded
             if (mode === "gen"
+                && pdfPathInfo.type !== "ss"
                 && !fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/`)) {
                 curlConfig += `
 url = "${pdf.src}"
@@ -101,7 +110,12 @@ output = "media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.ti
             // Used in CI/CD to create and empty .keep file for the newly downloaded PDFs which file size is non zero
             if (mode === "keep") {
                 pdf.src = `${MEDIA_URL}/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`
-                if (fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`)) {
+
+                if (pdfPathInfo.type === "ss") {
+                    pdf.src = `${MEDIA_PDF_URL_LEGACY}/pdf/${pdfPathInfo.language}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`
+                }
+
+                if (pdfPathInfo.type !== "ss" && fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`)) {
                     let stats = fs.statSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/${pdf.id}${extname}`)
                     if (stats.size > 0) {
                         fs.outputFileSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/.keep`, "")
@@ -110,6 +124,7 @@ output = "media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.ti
 
                 if (fs.pathExistsSync(`media/pdf/${pdfPathInfo.language}/${pdfPathInfo.type}/${pdfPathInfo.title}/${pdf.id}/.keep`)
                     || DEPLOY_ENV === "local"
+                    || pdfPathInfo.type === "ss"
                 ) {
                     pdfsForAPI.push(pdf)
                 }

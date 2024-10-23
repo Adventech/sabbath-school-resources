@@ -1,0 +1,9 @@
+title: Escuela Sabática
+groups:
+  - group: Edición para Adultos
+    view: folio
+    scope: resource
+  - group: InVerse
+    view: folio
+    resources:
+      - '*[0-9-]+-cq|*-iv|*-jo'

@@ -1,0 +1,11 @@
+name: Dutch
+native: Nederlandse taal
+code: nl
+sections:
+  default: Main
+bible:
+  - nbg51
+  - nbv
+  - hsv
+  - bgt
+feedSeeAll: Alles zien

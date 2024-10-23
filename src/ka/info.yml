@@ -1,0 +1,9 @@
+name: Georgian
+native: ქართული ენა
+code: ka
+sections:
+  default: Main
+bible:
+  - geo
+  - orthodox
+feedSeeAll: See All

@@ -1,0 +1,10 @@
+name: Kannada
+native: ಕನ್ನಡ
+code: kn
+sections:
+  default: Main
+bible:
+  - kanjv-bsi
+  - kanirv
+  - kcl-bsi
+feedSeeAll: ಎಲ್ಲವನ್ನೂ ನೋಡಿ

@@ -1,0 +1,5 @@
+title: Szombatiskola
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

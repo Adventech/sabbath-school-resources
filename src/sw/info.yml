@@ -1,0 +1,8 @@
+name: Swahili
+native: Kiswahili
+code: sw
+sections:
+  default: Main
+bible:
+  - suv
+feedSeeAll: Ona yote

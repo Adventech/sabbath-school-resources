@@ -1,0 +1,8 @@
+name: Armenian
+native: Հայերեն
+code: hy
+sections:
+  default: Main
+bible:
+  - m43
+feedSeeAll: See All

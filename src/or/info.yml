@@ -1,0 +1,8 @@
+name: Odia
+native: ଓଡ଼ିଆ
+code: or
+sections:
+  default: Main
+bible:
+  - orov
+feedSeeAll: See All

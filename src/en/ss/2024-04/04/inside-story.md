@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  25/10/2024
-
-
 ---
 
 #### Power of Prayer in Uzbekistan

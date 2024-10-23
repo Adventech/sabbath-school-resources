@@ -1,0 +1,10 @@
+name: Slovenian
+native: Slovenščina
+code: sl
+sections:
+  default: Main
+bible:
+  - chr
+  - eku
+  - ssp
+feedSeeAll: See All

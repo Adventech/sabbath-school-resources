@@ -6,11 +6,10 @@ import yaml from "js-yaml"
 import { fdir } from "fdir"
 import { getResourceInfo } from "./deploy-resources.js"
 import { getDocumentInfoYml, processPDFOnlyResource } from "./deploy-documents.js"
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
+import { arg, isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
     API_DIST,
-    RESOURCE_TYPE,
     RESOURCE_INFO_FILENAME,
     SECTION_INFO_FILENAME,
     RESOURCE_ORDER,
@@ -49,12 +48,12 @@ let processSection = async function (resourceInfo, section) {
     return sectionDocuments
 }
 
-let processSections = async function (resourceType) {
+let processSections = async function (language, resourceType, resourceGlob) {
     const resources = new fdir()
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(3)
-        .glob(`**/${resourceType}/**/${RESOURCE_INFO_FILENAME}`)
+        .glob(`${language}/${resourceType}/${resourceGlob}/${RESOURCE_INFO_FILENAME}`)
         .crawl(SOURCE_DIR)
         .sync();
 
@@ -122,13 +121,15 @@ let processSections = async function (resourceType) {
         // TODO: consider number of sections and type of resource to determine the section view
         resourceInfo.sectionView = totalDocuments < 100 ? SECTION_VIEWS.NORMAL : SECTION_VIEWS.DROPDOWN
 
-        fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourceType}/${resourcePathInfo.title}/${SECTION_DIRNAME}/index.json`, JSON.stringify(resourceInfo))
+        fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${SECTION_DIRNAME}/index.json`, JSON.stringify(resourceInfo))
     }
 }
 
 if (isMainModule(import.meta)) {
-    Object.keys(RESOURCE_TYPE).map(async (key) => {
-        await processSections(RESOURCE_TYPE[key])
+    Object.keys(arg).map(async (argLanguage) => {
+        Object.keys(arg[argLanguage]).map(async (argType) => {
+            await processSections(argLanguage, argType, arg[argLanguage][argType].resources)
+        })
     })
 }
 

@@ -1,0 +1,8 @@
+name: Kinyarwanda
+native: Ikinyarwanda
+code: kin
+sections:
+  default: Main
+bible:
+  - bysb
+feedSeeAll: See All

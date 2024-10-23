@@ -1,0 +1,8 @@
+name: Khasi
+native: Khasi
+code: kha
+sections:
+  default: Main
+bible:
+  - khb
+feedSeeAll: See All

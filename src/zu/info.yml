@@ -1,0 +1,8 @@
+name: Zulu
+native: IsiZulu
+code: zu
+sections:
+  default: Main
+bible:
+  - zul59
+feedSeeAll: Bona konke

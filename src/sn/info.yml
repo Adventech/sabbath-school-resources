@@ -1,0 +1,8 @@
+name: Shona
+native: ChiShona
+code: sn
+sections:
+  default: Main
+bible:
+  - bdsc
+feedSeeAll: See All

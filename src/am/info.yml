@@ -1,0 +1,8 @@
+name: Amharic
+native: አማርኛ
+code: am
+sections:
+  default: Main
+bible:
+  - nasv
+feedSeeAll: See All

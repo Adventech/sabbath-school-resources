@@ -1,0 +1,8 @@
+name: Khmer
+native: ខ្មែរ
+code: km
+sections:
+  default: Main
+bible:
+  - ksv
+feedSeeAll: See All

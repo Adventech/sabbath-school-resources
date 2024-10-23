@@ -1,0 +1,8 @@
+name: Telugu
+native: తెలుగు
+code: te
+sections:
+  default: Main
+bible:
+  - irv
+feedSeeAll: See All

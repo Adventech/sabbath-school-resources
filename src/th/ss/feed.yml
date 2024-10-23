@@ -1,0 +1,5 @@
+title: โรงเรียนวันสะบาโต
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

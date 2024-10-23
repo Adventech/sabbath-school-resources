@@ -1,0 +1,40 @@
+name: Afrikaans
+native: Afrikaans
+code: af
+sections:
+  default: Main
+bible:
+  - afr83
+  - afr1953
+features:
+  teacher-comments:
+    name: teacher-comments
+    title: Onderwyser se kommentaar
+    description: Berei voor om Sabbatskool-lesbespreking met hierdie onderwyser se uitgawe te fasiliteer
+    image: images/features/feature_teacher_comments.png
+  egw-quotes:
+    name: egw-quotes
+    title: Ellen G. White Quotes
+    description: Verbeter jou studie met bykomende geselekteerde aanhalings uit Ellen G. White geskrifte
+    image: images/features/feature_egw.png
+  inside-story:
+    name: inside-story
+    title: Sendingverhaal
+    description: Lees inspirerende sendingverhale van regoor die wêreld
+    image: images/features/feature_inside_story.png
+  audio:
+    name: audio
+    title: Oudio
+    description: Luister onderweg na die les met die oudioweergawe
+    image: images/features/feature_audio.png
+  video:
+    name: video
+    title: Video
+    description: Kyk na die weeklikse lesbespreking om jou studie te verdiep
+    image: images/features/feature_video.png
+  original_layout:
+    name: original-layout
+    title: Oorspronklike uitleg
+    description: Verbeter jou studie van die les deur oorspronklike drukuitleg met talle annotasie-nutsmiddels te gebruik
+    image: images/features/feature_original_layout.png
+feedSeeAll: Sien alles

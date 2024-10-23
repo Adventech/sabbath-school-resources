@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  18/10/2024
-
-
 ---
 
 #### A Sabbath Seed

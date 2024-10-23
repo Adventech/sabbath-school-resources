@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  29/11/2024
-
-
 ---
 
 #### “Please Stay”

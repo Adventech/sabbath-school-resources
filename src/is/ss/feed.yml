@@ -1,0 +1,5 @@
+title: Biblíulexíur
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

@@ -2,6 +2,7 @@ dist
 node_modules
 .idea
 archive
-deploy-creds*.json
+deploy-creds*
+!deploy-creds.tar.gpg
 .DS_Store
 parsing

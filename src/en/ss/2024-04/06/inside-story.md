@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  08/11/2024
-
-
 ---
 
 #### “We Didn’t Send Anyone”

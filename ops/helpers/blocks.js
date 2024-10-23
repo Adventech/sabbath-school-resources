@@ -1,6 +1,6 @@
 import crypto from "crypto"
 import { marked } from "marked"
-import { story, storySlide, carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, superscript, excerpt, table, html } from "./blocks/index.js"
+import { story, storySlide, carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, excerpt, table, html } from "./blocks/index.js"
 
 marked.use({
     extensions: [
@@ -22,8 +22,6 @@ marked.use({
 let parseBlock = async function (block, resourcePath, index, parentId, depth) {
     let blockStyleReturn = style(block)
     let blockStyle = blockStyleReturn.blockStyle
-
-    block = superscript(blockStyleReturn.block)
 
     let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
 

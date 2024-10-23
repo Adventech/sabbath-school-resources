@@ -208,7 +208,7 @@ let transferResourcesFonts = async function () {
             }
         }
 
-        // if (mode === "remote")
+        if (mode === "remote")
             fs.outputFileSync(resourceInfoFile, yaml.dump(resourceInfo))
     }
 }

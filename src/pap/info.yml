@@ -1,0 +1,8 @@
+name: Papiamento
+native: Papiamentu
+code: pap
+sections:
+  default: Main
+bible:
+  - bpk13
+feedSeeAll: See All

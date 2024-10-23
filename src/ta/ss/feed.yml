@@ -1,0 +1,13 @@
+title: ஓய்வுநாட் பள்ளி
+groups:
+  - group: பெரியோர் பாடங்கள்
+    view: folio
+    scope: resource
+  - group: சக்தி கூர்முனை
+    view: folio
+    resources:
+      - '*[0-9-]+-pp'
+  - group: சிறுவர் பாலர் பாடம்
+    view: folio
+    resources:
+      - '*[0-9-]+-pr'

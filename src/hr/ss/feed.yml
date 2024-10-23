@@ -1,0 +1,5 @@
+title: Biblijske Pouke
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true

@@ -1,8 +1,6 @@
 ---
 title:  Inside Story
 date:  06/12/2024
-
-
 ---
 
 #### Gift to a Well-Dressed Woman

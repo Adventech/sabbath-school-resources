@@ -1,0 +1,13 @@
+title: Ecole du Sabbat
+groups:
+  - group: Classe des Adultes
+    view: folio
+    scope: resource
+  - group: InVerse
+    view: folio
+    resources:
+      - '*[0-9-]+-cq|*-iv|*-jo'
+  - group: Division Interaméricaine
+    view: folio
+    resources:
+      - '*[0-9-]+-iad'

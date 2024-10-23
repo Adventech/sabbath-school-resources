@@ -17,7 +17,8 @@ import {
     RESOURCE_COVERS,
     DOCUMENT_INFO_FILENAME,
     API_DIST,
-    RESOURCE_AUDIO_FILENAME
+    RESOURCE_AUDIO_FILENAME,
+    MEDIA_URL_LEGACY
 } from "../helpers/constants.js"
 
 const args = yargs(hideBin(process.argv))
@@ -69,7 +70,15 @@ let videoAPI = async function (mode) {
                     }
                 }
 
-                audioItem.id = crypto.createHash('sha256').update(artist.artist + track['target'] + track['src']).digest('hex')
+                let targetForId = track.target
+
+                // For already uploaded and processed videos from sabbath-school-lessons
+                // Generate matching ID
+                if (info.type === "ss") {
+                    targetForId = targetForId.replace(/^([a-z]{2,3})\/ss\//, '$1/')
+                }
+
+                audioItem.id = crypto.createHash('sha256').update(artist.artist + targetForId + track['src']).digest('hex')
 
                 for (let k of Object.keys(track)) {
                     if (allowedAudioItemKeys.indexOf(k) >= 0) {
@@ -85,6 +94,12 @@ let videoAPI = async function (mode) {
 
                 audioItem.src = `${MEDIA_URL}/audio/${info.language}/${info.type}/${info.title}/${audioItem.id}/${audioItem.id}${extname}`
 
+                // For already uploaded and processed videos from sabbath-school-lessons
+                // set the src to point to legacy storage
+                if (info.type === "ss") {
+                    audioItem.src = `${MEDIA_URL_LEGACY}/audio/${info.language}/${info.title}/${audioItem.id}/${audioItem.id}${extname}`
+                }
+
                 audioItem.targetIndex = audioItem.target.replace(/\//g, '-')
 
                 if (!audioItem.image) {
@@ -96,13 +111,20 @@ let videoAPI = async function (mode) {
                 }
 
                 if (!audioItem.title) {
-                    let audioItemInfo = parseResourcePath(`${audioItem.target}`)
+                    let audioItemInfoTarget = audioItem.target
+
+                    if (/^[a-z]{2,3}\/(.*?)\/(.*?)\/(.*?)\/(.*?)/.test(audioItemInfoTarget)) {
+                        audioItemInfoTarget = `${audioItemInfoTarget}.md`
+                    }
+
+                    let audioItemInfo = parseResourcePath(`${audioItemInfoTarget}`)
+
                     if (!audioItemInfo.document) {
                         continue
                     }
 
                     if (audioItemInfo.segment) {
-                        let segment = await getSegmentInfo(`${SOURCE_DIR}/${audioItem.target}`)
+                        let segment = await getSegmentInfo(`${SOURCE_DIR}/${audioItemInfoTarget}`)
                         audioItem.title = segment.title
                     } else {
 
@@ -122,14 +144,18 @@ let videoAPI = async function (mode) {
 
                 audioInfo.push(audioItem)
 
-                if (mode === "keep" && fs.pathExistsSync(audioClipLocalFile)) {
+                if (mode === "keep"
+                    && info.type !== "ss"
+                    && fs.pathExistsSync(audioClipLocalFile)) {
                     let stats = fs.statSync(audioClipLocalFile);
                     if (stats.size > 0) {
                         fs.outputFileSync(audioDotKeepLocalFile, "");
                     }
                 }
 
-                if (mode === "gen" && !fs.pathExistsSync(audioClipLocalPath)) {
+                if (mode === "gen"
+                    && info.type !== "ss"
+                    && !fs.pathExistsSync(audioClipLocalPath)) {
                     curlConfig += `
 url = "${track.src.replace(/ /g, "\%20")}"
 output = "${audioClipLocalFile}"

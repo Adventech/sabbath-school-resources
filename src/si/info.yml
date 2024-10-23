@@ -1,0 +1,8 @@
+name: Sinhala
+native: සිංහල
+code: si
+sections:
+  default: Main
+bible:
+  - srov
+feedSeeAll: See All

@@ -18,6 +18,15 @@ jobs:
         with:
           ref: ${{ inputs.branch }}
         name: Fetch the repository files
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+      - name: Get changed files and write the outputs to a JSON file
+        id: changed-files-write-output-files-json
+        uses: tj-actions/changed-files@v39
+        with:
+          json: true
+          write_output_files: true
       - uses: actions/setup-node@v3
         name: Setup Node
         with:
@@ -49,10 +58,6 @@ jobs:
         name: Deploy documents
       - run: node ops/deploy/deploy-sections.js
         name: Deploy sections
-      - run: node ops/deploy/deploy-categories.js
-        name: Deploy categories
-      - run: node ops/deploy/deploy-authors.js
-        name: Deploy authors
       - run: node ops/deploy/deploy-resources.js
         name: Deploy resources
       - run: node ops/deploy/deploy-languages.js
