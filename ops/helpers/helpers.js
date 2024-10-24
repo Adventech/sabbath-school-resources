@@ -15,7 +15,7 @@ import {
     OPS_SYNC_ASSET_EXTENSIONS,
     SEGMENT_FILENAME_EXTENSION,
     DOCUMENT_INFO_FILENAME,
-    SECTION_INFO_FILENAME
+    SECTION_INFO_FILENAME, LANGUAGE_INFO_FILENAME, RESOURCE_FEED_FILENAME
 } from "./constants.js"
 
 const options = {
@@ -305,11 +305,20 @@ if (!args.defaulted.lang
                     const changedFilePath = parseResourcePath(p)
 
                     const language = changedFilePath.language
-                    const type = changedFilePath.type
+                    let type = changedFilePath.type
                     let r = changedFilePath.title
 
-                    if (type === "ss") {
-                        r = getCurrentQuarterGlob()
+                    if (r === RESOURCE_FEED_FILENAME) {
+                        r = "*"
+                    } else {
+                        if (type === LANGUAGE_INFO_FILENAME) {
+                            type = "ss"
+                        }
+
+                        // TODO: consider not having the forced current quarter
+                        if (type === "ss") {
+                            r = getCurrentQuarterGlob()
+                        }
                     }
 
                     if (!arg[language]) {

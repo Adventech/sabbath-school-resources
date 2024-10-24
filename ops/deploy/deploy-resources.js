@@ -356,8 +356,14 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                     // Get existing feed for non-global deployments
                     if (resourceGlob !== "*") {
-                        const existingFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`)
-                        const existingFeed = await existingFeedResponse.json()
+                        let existingFeedResponse
+                        let existingFeed
+                        try {
+                            existingFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`)
+                            existingFeed = await existingFeedResponse.json()
+                        } catch (e) {
+                            existingFeed = { resources: [] }
+                        }
 
                         for (let feedGroupResource of feedGroup.resources) {
                             let found = false
@@ -388,8 +394,14 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                 // Get existing feed for non-global deployments
                 if (resourceGlob !== "*") {
-                    const existingMainFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/index.json`)
-                    const existingMainFeed = await existingMainFeedResponse.json()
+                    let existingMainFeedResponse
+                    let existingMainFeed
+                    try {
+                        existingMainFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/index.json`)
+                        existingMainFeed = await existingMainFeedResponse.json()
+                    } catch (e) {
+                        existingMainFeed = { groups: [] }
+                    }
 
                     existingMainFeed.groups = existingMainFeed.groups.map((existingMainFeedGroup) => {
                         for (let feedGroup of resourceFeed.groups) {
