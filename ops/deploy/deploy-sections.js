@@ -14,7 +14,7 @@ import {
     SECTION_INFO_FILENAME,
     RESOURCE_ORDER,
     SECTION_DEFAULT_NAME,
-    SECTION_DIRNAME, SECTION_VIEWS, RESOURCE_PDF_FILENAME,
+    SECTION_DIRNAME, SECTION_VIEWS, RESOURCE_PDF_FILENAME, RESOURCE_TYPE,
 } from "../helpers/constants.js"
 import { getLanguageInfo } from "./deploy-languages.js"
 
@@ -22,6 +22,7 @@ let getSectionInfo = async function (section) {
     const sectionInfo = yaml.load(fs.readFileSync(section, "utf8"))
     const sectionPathInfo = parseResourcePath(section)
     sectionInfo.name = sectionPathInfo.section ?? SECTION_DEFAULT_NAME
+    sectionInfo.displaySequence = sectionPathInfo.displaySequence ?? sectionPathInfo.type === RESOURCE_TYPE.SS
     return sectionInfo
 }
 
@@ -83,6 +84,7 @@ let processSections = async function (language, resourceType, resourceGlob) {
                 name: SECTION_DEFAULT_NAME,
                 title: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
                 isRoot: true,
+                displaySequence: resourcePathInfo.type === RESOURCE_TYPE.SS,
                 documents: await processSection(resourceInfo, `${resourceContentPath}`)
             }
         }
@@ -114,6 +116,7 @@ let processSections = async function (language, resourceType, resourceGlob) {
                 name: SECTION_DEFAULT_NAME,
                 title: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
                 isRoot: true,
+                displaySequence: resourcePathInfo.type === RESOURCE_TYPE.SS,
                 documents,
             }]
         }

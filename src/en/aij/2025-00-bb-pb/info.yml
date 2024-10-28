@@ -1,7 +1,7 @@
 title: 'Baby Steps: Growing with Jesus'
 subtitle: Parent Book
 markdownTitle: >-
-  ^[Baby Steps]({"style": {"text": {"typeface": "CaliforniaPalmsScriptThicker",
+  ^[Baby Steps]({"style": {"text": {"typeface": "CaliforniaPalmsScriptThicker-",
   "size": "xl", "color":"#AF7852"}}})\
 
   ^[Growing with Jesus]({"style": {"text": {"typeface": "Astralaga Bold",
@@ -9,7 +9,7 @@ markdownTitle: >-
 markdownSubtitle: PARENT BOOK
 description: A Guide for Parents of Babies 0–12 Months at Home and in Sabbath School
 primaryColor: '#E8E9E0'
-primaryColorDark: '#CED0B8'
+primaryColorDark: '#AF7852'
 credits:
   - name: Contributors
     value: Raquel de Korniejzuk, Nilde Itin, and Nina Atcheson
@@ -43,8 +43,6 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/cover.png
-  splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/splash.png
 style:
   blocks:
     inline:
@@ -130,7 +128,7 @@ fonts:
     weight: 600
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/fonts/astralaga-semibold.ttf
-  - name: CaliforniaPalmsScriptThicker
+  - name: CaliforniaPalmsScriptThicker-
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-pb/assets/fonts/CaliforniaPalms_Script_thicker.ttf

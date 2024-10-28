@@ -52,6 +52,20 @@ let getResourceInfo = async function (resource, depth = 0) {
     resourceInfo.primaryColor = resourceInfo.primaryColor ?? (resourceInfo.color_primary ?? RESOURCE_COLOR_PRIMARY)
     resourceInfo.primaryColorDark = resourceInfo.primaryColorDark ?? (resourceInfo.color_primary_dark ?? RESOURCE_COLOR_PRIMARY_DARK)
 
+    if (resourceInfo.start_date) {
+        resourceInfo.startDate = resourceInfo.start_date
+        delete resourceInfo.start_date
+    }
+
+    if (resourceInfo.end_date) {
+        resourceInfo.endDate = resourceInfo.end_date
+        delete resourceInfo.end_date
+    }
+
+    if (resourceInfo.splash) {
+        delete resourceInfo.splash
+    }
+
     if (resourceInfo.color_primary) {
         delete resourceInfo.color_primary
     }
@@ -95,7 +109,6 @@ let getResourceInfo = async function (resource, depth = 0) {
     delete resourceInfo.featuredResources
 
     if (DEPLOY_ENV === "local" && !resourceInfo.covers) {
-        console.log('fdsfds')
         resourceInfo.covers = {
             portrait: `http://localhost:3002${API_PREFIX}${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/assets/cover.png`,
         }
@@ -399,20 +412,20 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     try {
                         existingMainFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/index.json`)
                         existingMainFeed = await existingMainFeedResponse.json()
+
+                        existingMainFeed.groups = existingMainFeed.groups.map((existingMainFeedGroup) => {
+                            for (let feedGroup of resourceFeed.groups) {
+                                if (feedGroup.id === existingMainFeedGroup.id) {
+                                    existingMainFeedGroup = feedGroup
+                                }
+                            }
+                            return existingMainFeedGroup
+                        })
+
+                        resourceFeed.groups = existingMainFeed.groups
                     } catch (e) {
                         existingMainFeed = { groups: [] }
                     }
-
-                    existingMainFeed.groups = existingMainFeed.groups.map((existingMainFeedGroup) => {
-                        for (let feedGroup of resourceFeed.groups) {
-                            if (feedGroup.id === existingMainFeedGroup.id) {
-                                existingMainFeedGroup = feedGroup
-                            }
-                        }
-                        return existingMainFeedGroup
-                    })
-
-                    resourceFeed.groups = existingMainFeed.groups
                 }
 
                 fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
