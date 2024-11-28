@@ -33,5 +33,5 @@ Do církve nešel kvůli misijní iniciativě. Ale díky misijnímu duchu člen�
 
 _Část letošních darů třinácté soboty putovala do zdravotního střediska v Gruzii. Modlete se prosím, aby Bůh přitahoval lidi do centra, stejně jako přivedl Zuraba do sboru, aby se o něm dozvěděli více. Podívejte se na krátké video se Zurabem na adrese: bit.ly/Zurab-Georgia._
 
-![Zurab](picture08.jpg)  
+![Zurab](https://sabbath-school-resources-assets.adventech.io/sk/ss/2024-04/08/picture08.jpg)  
 Zurab
