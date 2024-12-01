@@ -16,7 +16,7 @@ import {
     LANGUAGE_INFO_FILENAME,
     RESOURCE_FEED_FILENAME,
     MEDIA_URL, MEDIA_URL_LEGACY, ASSETS_URL, RESOURCE_ASSETS_DIRNAME,
-    RESOURCE_COVERS, DOCUMENT_INFO_FILENAME, API_DIST
+    RESOURCE_COVERS, DOCUMENT_INFO_FILENAME, API_DIST, RESOURCE_PDF_FILENAME
 } from "../helpers/constants.js"
 
 const args = yargs(hideBin(process.argv))
@@ -132,7 +132,7 @@ let videoAPI = async function (mode) {
                         if (!clip['src']) { continue }
 
                         if (!clip['target']) {
-                            clip['target'] = `${videoPathInfo.language}/${videoPathInfo.type}/${videoPathInfo.title}}/${String(i+1).padStart(2, '0')}`
+                            clip['target'] = `${videoPathInfo.language}/${videoPathInfo.type}/${videoPathInfo.title}/${String(i+1).padStart(2, '0')}`
                         }
 
                         let videoItem = {
@@ -206,6 +206,14 @@ let videoAPI = async function (mode) {
                                     let document = await getDocumentInfoYml(`${SOURCE_DIR}/${videoItem.target}/${DOCUMENT_INFO_FILENAME}`)
                                     if (!document.title) { continue }
                                     videoItem.title = document.title
+                                } else if (fs.pathExistsSync(`${SOURCE_DIR}/${videoItemInfo.language}/${videoItemInfo.type}/${videoItemInfo.title}/${RESOURCE_PDF_FILENAME}`)) {
+                                    let pdfLesson = yaml.load(fs.readFileSync(`${SOURCE_DIR}/${videoItemInfo.language}/${videoItemInfo.type}/${videoItemInfo.title}/${RESOURCE_PDF_FILENAME}`), "utf8");
+                                    let pdfLessonItem = pdfLesson.pdf.find((e) => e.target === `${videoItem.target}`)
+                                    if (!pdfLessonItem) {
+                                        console.error('Can not determine the lesson title from PDF')
+                                    } else {
+                                        videoItem.title = pdfLessonItem.title
+                                    }
                                 } else {
                                     continue
                                 }
