@@ -1,12 +1,12 @@
 title: Discipleship Handbook
 subtitle: >-
-  Book · A Resource for Seventh-day Adventist Church Members. The Discipleship
+  A Resource for Seventh-day Adventist Church Members.
+description: The Discipleship
   Handbook is part of the GROW Your Church series of Personal Ministries
   resources.
-description: This is a description
 kind: book
 primaryColor: '#7A0119'
-primaryColorDark: '#000000'
+primaryColorDark: '#1A1A19'
 author: sspm
 credits:
   - name: Copyright
@@ -28,5 +28,3 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover.png
-  splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/splash.png
