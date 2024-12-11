@@ -1,4 +1,4 @@
-title: Parent Time Handouts
+title: Babies Parent Time Handouts
 subtitle: 'Quarter Three: Growing a Heart of Love'
 primaryColor: '#E8E9E0'
 primaryColorDark: '#AF7852'
@@ -53,6 +53,10 @@ style:
         typeface: Astralaga Bold
         color: "#AF7852"
     subtitle:
+      text:
+        typeface: BaskervilleBT-BoldItalic
+        color: "#d2b67f"
+    description:
       text:
         typeface: BaskervilleBT-BoldItalic
         color: "#d2b67f"

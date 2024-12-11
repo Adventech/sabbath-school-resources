@@ -61,7 +61,6 @@ style:
       text:
         typeface: PTSans-Bold
         color: "#a2b596"
-        size: "xs"
     description:
       text:
         typeface: BaskervilleBT-BoldItalic

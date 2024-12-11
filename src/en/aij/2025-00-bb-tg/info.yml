@@ -54,6 +54,10 @@ style:
       text:
         typeface: BaskervilleBT-BoldItalic
         color: "#d2b67f"
+    description:
+      text:
+        typeface: BaskervilleBT-BoldItalic
+        color: "#d2b67f"
   segment:
     title:
       text:

@@ -46,9 +46,8 @@ date:   05/10/2018
 _서중한합회 인천세천사교회 담임목사 채승석_
 
 ![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-04/assets/d464508ae113cac6cb6f924c0c11311b6b78d9b7cf343220ef4eb6d06625c4a8.jpg)
-<p></p>
+
 ![](https://sabbath-school-resources-assets.adventech.io/ko/ss/2018-04/assets/324210713c2d0f9dc851b35ff38fa79924eb1503a22d33dab79e12150b9e8129.jpg)
-<p></p>
 
 <blockquote>
 **개인, 소그룹, 교회의 TMI 활동 소식을 올려주십시오.**
