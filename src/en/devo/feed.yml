@@ -8,10 +8,11 @@
     view: square
     resources:
       - en-devo-test
-  - group: Devotionals
-    view: banner
+  - group: Believe His Prophets
+    reverse: true
+    view: tile
     resources:
-      - en-devo-bhp-2024
+      - en-devo-bhp-*
   - group: Other resources
     scope: resource
     direction: vertical

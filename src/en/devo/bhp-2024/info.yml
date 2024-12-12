@@ -2,10 +2,8 @@ title: Believe His Prophets 2024
 description: Daily Bible Reading Guide. A five-year program reading through the Bible
 primaryColor: '#666906'
 primaryColorDark: '#364601'
-id: en-devo-test
-index: en/devo/test
-credits: []
-features: []
+startDate: 01/01/2024
+endDate: 31/12/2024
 kind: plan
 covers:
   landscape: >-

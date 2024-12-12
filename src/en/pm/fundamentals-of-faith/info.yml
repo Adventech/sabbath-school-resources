@@ -15,6 +15,9 @@ credits:
       Adventists® All rights reserved
   - name: ISBN
     value: 978-0-8280-2835-6
+featuredResources:
+  - en/pm/discipleship-handbook
+  - en/pm/spread-the-word
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/pm/fundamentals-of-faith/assets/cover-landscape.png

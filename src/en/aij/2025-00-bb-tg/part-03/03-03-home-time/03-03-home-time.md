@@ -6,7 +6,7 @@ style:
       text:
         typeface: Astralaga Bold
         color: '#c18967'
-        align: left
+        align: start
 ---
 
 Parents are encouraged to repeat the lessons, or components of the lessons, from Sabbath School with their baby at home.

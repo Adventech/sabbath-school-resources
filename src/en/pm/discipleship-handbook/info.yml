@@ -21,6 +21,9 @@ credits:
     value: Kenton Rogers
   - name: ISBN
     value: 978-0-8280-2834-9
+featuredResources:
+  - en/pm/spread-the-word
+  - en/pm/fundamentals-of-faith
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/pm/discipleship-handbook/assets/cover-landscape.png

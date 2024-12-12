@@ -54,29 +54,11 @@ It is a sad reality that God’s people have been notorious for claiming to foll
 
 ### Spiritual Discernment for Perilous Times
 
-!v[45755e5bc007ecf3571c22de2cf3d8422630c02ac5c582b27f78c64035192b1d.mp4] This is an example of the embedded video
-
 The apostle Paul describes the period immediately preceding the second coming of Christ as “perilous times” (2 Timothy 3:1). Of these times, Jesus warned that “even the elect” (Matthew 24:24) could be deceived, as Satan works “with all power, signs, and lying wonders” (2 Thessalonians 2:9). “All the depths of satanic skill and subtlety acquired . . . will be brought to bear against God’s people in the final conflict” (The Great Controversy, p. x). In order to meet this crisis, God has given us a special manifestation of the gift of prophecy in the ministry of Ellen G. White.
 
 We must remember that without the ministry of the Holy Spirit, we can never arrive at a right understanding of truth (see 1 Corinthians 2:14). It is the Holy Spirit who Jesus promised would guide us into all truth (see John 16:13). One of the primary ways He does this is through the gift of prophecy. To be guided by the Spirit, we must be willing to heed the counsel of the prophets whom the Spirit inspires.
 
 At a time when Satan’s deceptions are at their height, when every wind of doctrine is blowing and we live in an atmosphere of theological confusion, God has given His people a discerning and authoritative voice to unite us on the truths of His Word. The fundamental beliefs of the Seventh-day Adventist Church affirm our conviction that this voice can be heard in the writings of Ellen G. White.
-
-### Practical Application
-
-???=Are you sure ready for Jesus' Second Coming?
-- Yes
-- No
-- Maybe
-???
-
-Poll 2
-
-???=Are you sure ready for Jesus' Second Coming?
-- Yes
-- No
-- Maybe
-???
 
 As mentioned in the previous chapter, there are many inspirational books that we can read with benefit. But we should not be content to read only inspirational books when we could be reading inspired books. Seventh-day Adventists recognize Ellen White’s writings as an end-time manifestation of the biblical “spirit of prophecy.” These writings are a product of divine inspiration. God has given them specially to His church in these last days to help prepare us for the second coming of Christ. They expose the enemy’s deceptive snares and establish the reader in the truths of Scripture. Yet “many are going directly contrary to the light which God has given to His people, because they do not read the books which contain the light and knowledge in cautions, reproofs, and warnings” (Testimonies for the Church, vol. 5, p. 681).
 
