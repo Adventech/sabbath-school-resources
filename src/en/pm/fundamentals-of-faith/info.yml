@@ -1,0 +1,24 @@
+title: Fundamentals of Faith
+kind: book
+subtitle: A Summary of Essential Bible Doctrines
+description: >-
+  Fundamentals of Faith is part of the GROW Your Church series of personal
+  ministries resources. GROW Your Church is an initiative of the General
+  Conference Sabbath School and Personal Ministries Department.
+primaryColor: '#A67311'
+primaryColorDark: '#1A1A19'
+author: sspm
+credits:
+  - name: Copyright
+    value: >-
+      Copyright © 2018 by the General Conference Corporation of Seventh-day
+      Adventists® All rights reserved
+  - name: ISBN
+    value: 978-0-8280-2835-6
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/fundamentals-of-faith/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/fundamentals-of-faith/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/fundamentals-of-faith/assets/cover.png

@@ -8,14 +8,10 @@
     view: square
     resources:
       - en-devo-test
-  - group: Other
-    view: folio
-    resources:
-      - en-devo-bhp-2023
   - group: Devotionals
     view: banner
     resources:
-      - en-devo-test
+      - en-devo-bhp-2024
   - group: Other resources
     scope: resource
     direction: vertical

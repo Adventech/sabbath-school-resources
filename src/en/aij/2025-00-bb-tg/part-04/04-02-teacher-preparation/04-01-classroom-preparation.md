@@ -1,5 +1,5 @@
 ---
-title: Teacher's Preparation
+title: Teacher Preparation
 style:
   segment:
     title:
