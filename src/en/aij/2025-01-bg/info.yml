@@ -1,4 +1,5 @@
-title: Creation
+title: Year A, Quarter 1. Creation
+markdownTitle: Creation
 subtitle: Year A, Quarter 1
 primaryColor: '#39788D'
 primaryColorDark: '#1F5A6D'
@@ -33,8 +34,6 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/cover.png
-  splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/splash.png
 style:
   blocks:
     inline:

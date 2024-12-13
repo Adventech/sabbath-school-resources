@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/13-04.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/13/hm-background.png
 ---
 
 Imagine what that first Sabbath was like for Adam and Eve! Their excitement and wonder about being with God in His garden would have been expressed through praise to their Creator. It would have been a day filled with discovery as they spent time together and learned more about God, each other, and all He had made. 

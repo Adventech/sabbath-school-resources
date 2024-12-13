@@ -5,7 +5,7 @@
     reverse: true
     resources:
       - en-aij-*-bb*
-  - group: Beginners
+  - group: Beginner
     reverse: true
     view: folio
     resources:

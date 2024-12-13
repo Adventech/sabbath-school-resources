@@ -14,4 +14,6 @@
     resources:
       - en-pm-keys-*
   - group: Other resources
-    scope: resource
+    view: folio
+    resources:
+      - en-pm-the-way-back-to-altar

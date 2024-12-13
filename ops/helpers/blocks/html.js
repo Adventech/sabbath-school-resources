@@ -4,7 +4,7 @@ import { parseSegment } from "../blocks.js"
 export const html = {
     extension: {},
     process: async function (block, resourcePath) {
-        if (/<(table|img|center|p|b|i)>?/g.test(block.raw)) {
+        if (/<(table|img|center|p|(b$)|(i$))>?/g.test(block.raw)) {
             try {
                 let ret = (await parseSegment(NodeHtmlMarkdown.translate(block.raw), resourcePath))[0] ?? null
 

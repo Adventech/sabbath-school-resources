@@ -14,7 +14,8 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 
 - {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "xl", "end":"sm", "bottom": "sm"}},"wrapper": {"padding": {"start": "none"}}}}
 - Sticks, leaf branches, pinecones, or flowers
-- Small plastic animals and insects • Toy birds, feathers, and plastic eggs
+- Small plastic animals and insects
+- Toy birds, feathers, and plastic eggs
 - Plastic fruits and vegetables, plastic gardening tools
 - Gingerbread men shapes and wooden people
 - Plastic sifter and sorting cups so children can move or pick up items within the box

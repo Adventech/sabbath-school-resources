@@ -29,11 +29,11 @@ export const blockquote = {
         }
 
         // callout
-        const calloutRegex = /<callout>([^<>]+)<\/callout>/g
+        const calloutRegex = /<callout>([^<>]*)<\/callout>/g
         let callout = calloutRegex.exec(block.text)
         if (callout) {
             block.text = block.text.replace(calloutRegex, "").trim()
-            block.text = `${block.text}\n\n_${callout[1]}_`
+            block.text = callout[1] ? `${block.text}\n\n_${callout[1]}_` : block.text
             blockquote.callout = true
         }
 
