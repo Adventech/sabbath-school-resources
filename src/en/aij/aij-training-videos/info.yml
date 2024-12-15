@@ -1,8 +1,11 @@
-title: Training Videos
+title: General Training Videos
 kind: blog
-subtitle: To begin your training, view the videos in the General section. These apply to all levels. Next, view the videos that apply to the specific age level you are teaching.
-primaryColor: "#FBBC1B"
-primaryColorDark: "#C18D00"
+subtitle: >-
+  To begin your training, view the videos in the General section. These apply to
+  all levels. Next, view the videos that apply to the specific age level you are
+  teaching.
+primaryColor: '#FBBC1B'
+primaryColorDark: '#C18D00'
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover-landscape.png
@@ -13,6 +16,6 @@ covers:
   splash: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/splash.png
 featuredResources:
-  - en/aij/2025-00-bb-pb
-  - en/aij/2025-00-bb-tg
-  - en/aij/2025-01-bb-pth
+  - en/aij/aij-training-videos-babies
+  - en/aij/aij-training-videos-beginner
+featuredResourcesView: tile

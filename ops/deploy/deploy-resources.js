@@ -99,7 +99,7 @@ let getResourceInfo = async function (resource, depth = 0) {
             ).digest("hex"),
             direction: featuredResources.length > 1 ? FEED_DIRECTION.HORIZONTAL : FEED_DIRECTION.VERTICAL,
             scope: FEED_SCOPES.RESOURCE,
-            view: FEED_VIEWS.TILE,
+            view: resourceInfo.featuredResourcesView ?? FEED_VIEWS.FOLIO,
             title: languageInfo.featuredResources.title,
             resources: featuredResources.filter(r => r),
             seeAll: languageInfo.feedSeeAll ?? "See All",
