@@ -1,18 +1,13 @@
 ---
   title: Devotionals
   groups:
-  - group: Recent
-    view: square
-    recent: true
-  - group: Featured
-    view: square
-    resources:
-      - en-devo-test
   - group: Believe His Prophets
     reverse: true
     view: tile
     resources:
       - en-devo-bhp-*
   - group: Other resources
-    scope: resource
-    direction: vertical
+    view: folio
+    resources:
+      - en-devo-the-way-back-to-altar
+      - en-devo-test

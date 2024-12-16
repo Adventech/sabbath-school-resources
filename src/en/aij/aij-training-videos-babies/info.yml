@@ -9,6 +9,8 @@ featuredResources:
   - en/aij/aij-training-videos
   - en/aij/aij-training-videos-beginner
 featuredResourcesView: tile
+cta:
+  text: WATCH
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-babies/assets/cover-landscape.png

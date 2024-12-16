@@ -1,7 +1,12 @@
 ---
   title: Personal Ministries
   groups:
-  - group: Personal Ministries
+  - group: Global TMI
+    reverse: true
+    view: square
+    resources:
+      - en-pm-global-tmi*
+  - group: GROW Series
     reverse: true
     view: folio
     resources:
@@ -13,7 +18,3 @@
     view: folio
     resources:
       - en-pm-keys-*
-  - group: Other resources
-    view: folio
-    resources:
-      - en-pm-the-way-back-to-altar
