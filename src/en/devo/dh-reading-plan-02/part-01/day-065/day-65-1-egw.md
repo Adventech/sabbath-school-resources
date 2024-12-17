@@ -1,0 +1,16 @@
+---
+title: EGW Reading
+subtitle: Jehoshaphat PK 190-192b
+---
+
+### Chapter 15—Jehoshaphat
+
+Until called to the throne at the age of thirty-five, Jehoshaphat had before him the example of good King Asa, who in nearly every crisis had done “that which was right in the eyes of the Lord.” 1 Kings 15:11. During a prosperous reign of twenty-five years, Jehoshaphat sought to walk “in all the ways of Asa his father; he turned not aside.”
+
+In his efforts to rule wisely, Jehoshaphat endeavored to persuade his subjects to take a firm stand against idolatrous practices. Many of the people in his realm “offered and burnt incense yet in the high places.” 1 Kings 22:43. The king did not at once destroy these shrines; but from the beginning he tried to safeguard Judah from the sins characterizing the northern kingdom under the rule of Ahab, of whom he was a contemporary for many years. Jehoshaphat himself was loyal to God. He “sought not unto Baalim; but sought to the Lord God of his father, and walked in His commandments, and not after the doings of Israel.” Because of his integrity, the Lord was with him, and “stablished the kingdom in his hand.” 2 Chronicles 17:3-5.
+
+“All Judah brought to Jehoshaphat presents; and he had riches and honor in abundance. And his heart was lifted up in the ways of the Lord.” As time passed and reformations were wrought, the king “took away the high places and groves out of Judah.” Verses 5, 6. “And the remnant of the Sodomites, which remained in the days of his father Asa, he took out of the land.” 1 Kings 22:46. Thus gradually the inhabitants of Judah were freed from many of the perils that had been threatening to retard seriously their spiritual development.
+
+Throughout the kingdom the people were in need of instruction in the law of God. In an understanding of this law lay their safety; by conforming their lives to its requirements they would become loyal both to God and to man. Knowing this, Jehoshaphat took steps to ensure to his people thorough instruction in the Holy Scriptures. The princes in charge of the different portions of his realm were directed to arrange for the faithful ministry of teaching priests. By royal appointment these instructors, working under the direct supervision of the princes, “went about throughout all the cities of Judah, and taught the people.” 2 Chronicles 17:7-9. And as many endeavored to understand God's requirements and to put away sin, a revival was effected.
+
+To this wise provision for the spiritual needs of his subjects, Jehoshaphat owed much of his prosperity as a ruler. In obedience to God's law there is great gain. In conformity to the divine requirements there is a transforming power that brings peace and good will among men. If the teachings of God's word were made the controlling influence in the life of every man and woman, if mind and heart were brought under its restraining power, the evils that now exist in national and in social life would find no place. From every home would go forth an influence that would make men and women strong in spiritual insight and in moral power, and thus nations and individuals would be placed on vantage ground.

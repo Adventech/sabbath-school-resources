@@ -1,0 +1,20 @@
+---
+title: EGW Reading
+subtitle: Results of Transgression PK 65c-68a
+---
+
+Another of the deviations from right principles that finally led to the downfall of Israel's king was his yielding to the temptation to take to himself the glory that belongs to God alone.
+
+From the day that Solomon was entrusted with the work of building the temple, to the time of its completion, his avowed purpose was “to build an house for the name of the Lord God of Israel.” 2 Chronicles 6:7. This purpose was fully recognized before the assembled hosts of Israel at the time of the dedication of the temple. In his prayer the king acknowledged that Jehovah had said, “My name shall be there.” 1 Kings 8:29.
+
+One of the most touching portions of Solomon's dedicatory prayer was his plea to God for the strangers that should come from countries afar to learn more of Him whose fame had been spread abroad among the nations. “They shall hear,” the king pleaded, “of Thy great name, and of Thy strong hand, and of Thy stretched-out arm.” In behalf of every one of these stranger worshipers Solomon had petitioned: “Hear Thou, ... and do according to all that the stranger calleth to Thee for: that all people of the earth may know Thy name, to fear Thee, as do Thy people Israel; and that they may know that this house, which I have builded, is called by Thy name.” Verses 42, 43.
+
+At the close of the service, Solomon had exhorted Israel to be faithful and true to God, in order that “all the people of the earth may know,” he said, “that the Lord is God, and that there is none else.” Verse 60.
+
+A Greater than Solomon was the designer of the temple; the wisdom and glory of God stood there revealed. Those who were unacquainted with this fact naturally admired and praised Solomon as the architect and builder; but the king disclaimed any honor for its conception or erection.
+
+Thus it was when the Queen of Sheba came to visit Solomon. Hearing of his wisdom and of the magnificent temple he had built, she determined “to prove him with hard questions” and to see for herself his famous works. Attended by a retinue of servants, and with camels bearing “spices, and gold in abundance, and precious stones,” she made the long journey to Jerusalem. “And when she was come to Solomon, she communed with him of all that was in her heart.” She talked with him of the mysteries of nature; and Solomon taught her of the God of nature, the great Creator, who dwells in the highest heaven and rules over all. “Solomon told her all her questions: there was not anything hid from the king, which he told her not.” 1 Kings 10:1-3; 2 Chronicles 9:1, 2.
+
+“When the Queen of Sheba had seen all Solomon's wisdom, and the house that he had built, ... there was no more spirit in her.” “It was a true report,” she acknowledged, “which I heard in mine own land of thine acts, and of thy wisdom: howbeit I believed not their words, until I came, and mine eyes had seen it:” “and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard. Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom.” 1 Kings 10:4-8; 2 Chronicles 9:3-7.
+
+By the time of the close of her visit the queen had been so fully taught by Solomon as to the source of his wisdom and prosperity that she was constrained, not to extol the human agent, but to exclaim, “Blessed be the Lord thy God, which delighted in thee, to set thee on the throne of Israel: because the Lord loved Israel forever, therefore made He thee king, to do judgment and justice.” 1 Kings 10:9. This is the impression that God designed should be made upon all peoples. And when “all the kings of the earth sought the presence of Solomon, to hear his wisdom, that God had put in his heart” (2 Chronicles 9:23), Solomon for a time honored God by reverently pointing them to the Creator of the heavens and the earth, the Ruler of the universe, the All-wise.

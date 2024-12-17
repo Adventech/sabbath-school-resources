@@ -9,7 +9,7 @@ primaryColorDark: '#2A6585'
 author: sspm
 cta:
   hidden: true
-preferredCover: square
+preferredCover: landscape
 featuredResources:
   - en/pm/global-tmi-disciple-making-evangelism-plan
 featuredResourcesView: tile

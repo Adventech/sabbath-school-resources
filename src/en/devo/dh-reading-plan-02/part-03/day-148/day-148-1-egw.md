@@ -1,0 +1,8 @@
+---
+title: EGW Reading
+subtitle: Jeremiah PK 414d-415b
+---
+
+“Why,” the Lord inquired, “is this people of Jerusalem slidden back by a perpetual backsliding?” Jeremiah 8:5. In the language of the prophet it was because they had obeyed not the voice of the Lord their God and had refused to be corrected. See Jeremiah 5:3. “Truth is perished,” he mourned, “and is cut off from their mouth.” “The stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but My people know not the judgment of the Lord.” “Shall I not visit them for these things? saith the Lord: shall not My soul be avenged on such a nation as this?” Jeremiah 7:28; 8:7; 9:9.
+
+The time had come for deep heart searching. While Josiah had been their ruler, the people had had some ground for hope. But no longer could he intercede in their behalf, for he had fallen in battle. The sins of the nation were such that the time for intercession had all but passed by. “Though Moses and Samuel stood before Me,” the Lord declared, “yet My mind could not be toward this people: cast them out of My sight, and let them go forth. And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them. Thus saith the Lord; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity.” Jeremiah 15:1, 2.

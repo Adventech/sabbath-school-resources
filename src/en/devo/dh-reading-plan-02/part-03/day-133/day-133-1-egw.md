@@ -1,0 +1,8 @@
+---
+title: EGW Reading
+subtitle: Hope for the Heathen PK 373c-374b
+---
+
+This glorious Light of the world was to bring salvation to every nation, kindred, tongue, and people. Of the work before Him, the prophet heard the eternal Father declare: “It is a light thing that Thou shouldest be My servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give Thee for a light to the Gentiles, that Thou mayest be My salvation unto the end of the earth.” “In an acceptable time have I heard Thee, and in a day of salvation have I helped Thee: and I will preserve Thee, and give Thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages; that Thou mayest say to the prisoners, Go forth; to them that are in darkness, Show yourselves.” “Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.” Isaiah 49:6, 8, 9, 12.
+
+Looking on still farther through the ages, the prophet beheld the literal fulfillment of these glorious promises. He saw the bearers of the glad tidings of salvation going to the ends of the earth, to every kindred and people. He heard the Lord saying of the gospel church, “Behold, I will extend peace to her like a river, and the glory of the Gentiles like a flowing stream;” and he heard the commission, “Enlarge the place of thy tent, and let them stretch forth the curtains of thine habitations: spare not, lengthen thy cords, and strengthen thy stakes; for thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles.” Isaiah 66:12; 54:2, 3.

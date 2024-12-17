@@ -1,0 +1,26 @@
+---
+title: EGW Reading
+subtitle: Solomon PK 31e-34
+---
+
+The wisdom that Solomon desired above riches, honor, or long life, God gave him. His petition for a quick mind, a large heart, and a tender spirit was granted. “God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the seashore. And Solomon's wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt. For he was wiser than all men; ... and his fame was in all nations round about.” 1 Kings 4:29-31.
+
+“And all Israel ... feared the king: for they saw that the wisdom of God was in him, to do judgment.” 1 Kings 3:28. The hearts of the people were turned toward Solomon, as they had been toward David, and they obeyed him in all things. “Solomon ... was strengthened in his kingdom, and the Lord his God was with him, and magnified him exceedingly.” 2 Chronicles 1:1.
+
+For many years Solomon's life was marked with devotion to God, with uprightness and firm principle, and with strict obedience to God's commands. He directed in every important enterprise and managed wisely the business matters connected with the kingdom. His wealth and wisdom, the magnificent buildings and public works that he constructed during the early years of his reign, the energy, piety, justice, and magnanimity that he revealed in word and deed, won the loyalty of his subjects and the admiration and homage of the rulers of many lands.
+
+The name of Jehovah was greatly honored during the first part of Solomon's reign. The wisdom and righteousness revealed by the king bore witness to all nations of the excellency of the attributes of the God whom he served. For a time Israel was as the light of the world, showing forth the greatness of Jehovah. Not in the surpassing wisdom, the fabulous riches, the far-reaching power and fame that were his, lay the real glory of Solomon's early reign; but in the honor that he brought to the name of the God of Israel through a wise use of the gifts of Heaven.
+
+As the years went by and Solomon's fame increased, he sought to honor God by adding to his mental and spiritual strength, and by continuing to impart to others the blessings he received. None understood better than he that it was through the favor of Jehovah that he had come into possession of power and wisdom and understanding, and that these gifts were bestowed that he might give to the world a knowledge of the King of kings.
+
+Solomon took an especial interest in natural history, but his researches were not confined to any one branch of learning. Through a diligent study of all created things, both animate and inanimate, he gained a clear conception of the Creator. In the forces of nature, in the mineral and the animal world, and in every tree and shrub and flower, he saw a revelation of God's wisdom; and as he sought to learn more and more, his knowledge of God and his love for Him constantly increased.
+
+Solomon's divinely inspired wisdom found expression in songs of praise and in many proverbs. “He spake three thousand proverbs: and his songs were a thousand and five. And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.” 1 Kings 4:32, 33.
+
+In the proverbs of Solomon are outlined principles of holy living and high endeavor, principles that are heaven-born and that lead to godliness, principles that should govern every act of life. It was the wide dissemination of these principles, and the recognition of God as the One to whom all praise and honor belong, that made Solomon's early reign a time of moral uplift as well as of material prosperity.
+
+“Happy is the man that findeth wisdom,” he wrote, “and the man that getteth understanding. For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold. She is more precious than rubies: and all things thou canst desire are not to be compared unto her. Length of days is in her right hand; and in her left hand riches and honor. Her ways are ways of pleasantness, and all her paths are peace. She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.” Proverbs 3:13-18.
+
+“Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.” Proverbs 4:7. “The fear of the Lord is the beginning of wisdom.” Psalm 111:10. “The fear of the Lord is to hate evil: pride, and arrogancy, and the evil way, and the froward mouth, do I hate.” Proverbs 8:13.
+
+O that in later years Solomon had heeded these wonderful words of wisdom! O that he who had declared, “The lips of the wise disperse knowledge” (Proverbs 15:7), and who had himself taught the kings of the earth to render to the King of kings the praise they desired to give to an earthly ruler, had never with a “froward mouth,” in “pride and arrogancy,” taken to himself the glory due to God alone!

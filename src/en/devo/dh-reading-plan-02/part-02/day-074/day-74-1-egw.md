@@ -1,0 +1,12 @@
+---
+title: EGW Reading
+subtitle: The Fall of the House of Ahab PK 214b-215b
+---
+
+Jehoram the son of Ahab was still reigning in the kingdom of Israel when his nephew, Ahaziah, came to the throne of Judah. Ahaziah ruled only one year, and during this time, influenced by his mother, Athaliah, “his counselor to do wickedly,” “he walked in the way of the house of Ahab, and did evil in the sight of the Lord.” 2 Chronicles 22:3, 4; 2 Kings 8:27. Jezebel, his grandmother, was still living, and he allied himself boldly with Jehoram of Israel, his uncle.
+
+Ahaziah of Judah soon met a tragic end. The surviving members of the house of Ahab were indeed “his counselors after the death of his father to his destruction.” 2 Chronicles 22:3, 4. While Ahaziah was visiting his uncle at Jezreel, the prophet Elisha was divinely directed to send one of the sons of the prophets to Ramoth-gilead to anoint Jehu king of Israel. The combined forces of Judah and Israel were at that time engaged in a military campaign against the Syrians of Ramoth-gilead. Jehoram had been wounded in battle, and had returned to Jezreel, leaving Jehu in charge of the royal armies.
+
+In anointing Jehu, the messenger of Elisha declared, “I have anointed thee king over the people of the Lord, even over Israel.” And then he solemnly charged Jehu with a special commission from heaven. “Thou shalt smite the house of Ahab thy master,” the Lord declared through His messenger, “that I may avenge the blood of My servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezebel. For the whole house of Ahab shall perish.” 2 Kings 9:6-8.
+
+After he had been proclaimed king by the army, Jehu hastened to Jezreel, where he began his work of execution on those who had deliberately chosen to continue in sin and to lead others into sin. Jehoram of Israel, Ahaziah of Judah, and Jezebel the queen mother, with “all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests,” were slain. “All the prophets of Baal, all his servants, and all his priests” dwelling at the center of Baal worship near Samaria, were put to the sword. The idolatrous images were broken down and burned, and the temple of Baal was laid in ruins. “Thus Jehu destroyed Baal out of Israel.” 2 Kings 10:11, 19, 28.

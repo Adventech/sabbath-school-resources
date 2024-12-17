@@ -1,0 +1,20 @@
+---
+title: EGW Reading
+subtitle: Ahaz PK 325c-327c
+---
+
+Through Micah came the wonderful appeal, “Hear ye now what the Lord saith; Arise, contend thou before the mountains, and let the hills hear thy voice. Hear ye, O mountains, the Lord's controversy, and ye strong foundations of the earth: for the Lord hath a controversy with His people, and He will plead with Israel.
+
+“O My people, what have I done unto thee? and wherein have I wearied thee? testify against Me. For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.
+
+“O My people, remember now what Balak king of Moab consulted, and what Balaam the son of Beor answered him from Shittim unto Gilgal; that ye may know the righteousness of the Lord.” Micah 6:1-5.
+
+The God whom we serve is long-suffering; “His compassions fail not.” Lamentations 3:22. Throughout the period of probationary time His Spirit is entreating men to accept the gift of life. “As I live, saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die?” Ezekiel 33:11. It is Satan's special device to lead man into sin and then leave him there, helpless and hopeless, fearing to seek for pardon. But God invites, “Let him take hold of My strength, that he may make peace with Me; and he shall make peace with Me.” Isaiah 27:5. In Christ every provision has been made, every encouragement offered.
+
+In the days of apostasy in Judah and Israel, many were inquiring: “Wherewith shall I come before the Lord, and bow myself before the high God? shall I come before Him with burnt offerings, with calves of a year old? will the Lord be pleased with thousands of rams, or with ten thousands of rivers of oil?” The answer is plain and positive: “He hath showed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?” Micah 6:6-8.
+
+In urging the value of practical godliness, the prophet was only repeating the counsel given Israel centuries before. Through Moses, as they were about to enter the Promised Land, the word of the Lord had been: “And now, Israel, what doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all His ways, and to love Him, and to serve the Lord thy God with all thy heart and with all thy soul, to keep the commandments of the Lord, and His statutes, which I command thee this day for thy good?” Deuteronomy 10:12, 13. From age to age these counsels were repeated by the servants of Jehovah to those who were in danger of falling into habits of formalism and of forgetting to show mercy. When Christ Himself, during His earthly ministry, was approached by a lawyer with the question, “Master, which is the great commandment in the law?” Jesus said to him, “Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind. This is the first and great commandment. And the second is like unto it, Thou shalt love thy neighbor as thyself. On these two commandments hang all the law and the prophets.” Matthew 22:36-40.
+
+These plain utterances of the prophets and of the Master Himself, should be received by us as the voice of God to every soul. We should lose no opportunity of performing deeds of mercy, of tender forethought and Christian courtesy, for the burdened and the oppressed. If we can do no more, we may speak words of courage and hope to those who are unacquainted with God, and who can be approached most easily by the avenue of sympathy and love.
+
+Rich and abundant are the promises made to those who are watchful of opportunities to bring joy and blessing into the lives of others. “If thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness be as the noonday: and the Lord shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.” Isaiah 58:10, 11.

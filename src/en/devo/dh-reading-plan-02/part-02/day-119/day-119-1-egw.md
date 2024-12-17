@@ -1,0 +1,20 @@
+---
+title: EGW Reading
+subtitle: Ahaz PK 327d-330
+---
+
+The idolatrous course of Ahaz, in the face of the earnest appeals of the prophets, could have but one result. “The wrath of the Lord was upon Judah and Jerusalem, and He ... delivered them to trouble, to astonishment, and to hissing.” 2 Chronicles 29:8. The kingdom suffered a rapid decline, and its very existence was soon imperiled by invading armies. “Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz.” 2 Kings 16:5.
+
+Had Ahaz and the chief men of his realm been true servants of the Most High, they would have had no fear of so unnatural an alliance as had been formed against them. But repeated transgression had shorn them of strength. Stricken with a nameless dread of the retributive judgments of an offended God, the heart of the king “was moved, and the heart of his people, as the trees of the wood are moved with the wind.” Isaiah 7:2. In this crisis the word of the Lord came to Isaiah, bidding him meet the trembling king and say:
+
+“Take heed, and be quiet; fear not, neither be fainthearted .... Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying, Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it: ... thus saith the Lord God, It shall not stand, neither shall it come to pass.” The prophet declared that the kingdom of Israel, and Syria as well, would soon come to an end. “If ye will not believe,” he concluded, “surely ye shall not be established.” Verses 4-7, 9.
+
+Well would it have been for the kingdom of Judah had Ahaz received this message as from heaven. But choosing to lean on the arm of flesh, he sought help from the heathen. In desperation he sent word to Tiglath-pileser, king of Assyria: “I am thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me.” 2 Kings 16:7. The request was accompanied by a rich present from the king's treasure and from the temple storehouse.
+
+The help asked for was sent, and King Ahaz was given temporary relief, but at what a cost to Judah! The tribute offered aroused the cupidity of Assyria, and that treacherous nation soon threatened to overflow and spoil Judah. Ahaz and his unhappy subjects were now harassed by the fear of falling completely into the hands of the cruel Assyrians.
+
+“The Lord brought Judah low” because of continued transgression. In this time of chastisement Ahaz, instead of repenting, trespassed “yet more against the Lord: ... for he sacrificed unto the gods of Damascus.” “Because the gods of the kings of Syria help them,” he said, “therefore will I sacrifice to them, that they may help me.” 2 Chronicles 28:19, 22, 23.
+
+As the apostate king neared the end of his reign, he caused the doors of the temple to be closed. The sacred services were interrupted. No longer were the candlesticks kept burning before the altar. No longer were offerings made for the sins of the people. No longer did sweet incense ascend on high at the time of the morning and the evening sacrifice. Deserting the courts of the house of God and locking fast its doors, the inhabitants of the godless city boldly set up altars for the worship of heathen deities on the street corners throughout Jerusalem. Heathenism had seemingly triumphed; the powers of darkness had well-nigh prevailed.
+
+But in Judah there dwelt some who maintained their allegiance to Jehovah, steadfastly refusing to be led into idolatry. It was to these that Isaiah and Micah and their associates looked in hope as they surveyed the ruin wrought during the last years of Ahaz. Their sanctuary was closed, but the faithful ones were assured: “God is with us.” “Sanctify the Lord of hosts Himself; and let Him be your fear, and let Him be your dread. And He shall be for a sanctuary.” Isaiah 8:10, 13, 14.

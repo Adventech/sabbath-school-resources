@@ -1,0 +1,12 @@
+---
+title: EGW Reading
+subtitle: The Magnanimity of David PP 673c-674
+---
+
+At David's request for a residence in the country, removed from the royal city, the king graciously granted Ziklag as a possession. David realized that it would be dangerous for himself and his men to be under the influence of idolaters. In a town wholly separated for their use they might worship God with more freedom than they could if they remained in Gath, where the heathen rites could not but prove a source of evil and annoyance.
+
+While dwelling in this isolated town David made war upon the Geshurites, the Gezrites, and the Amalekites, and he left none alive to bring tidings to Gath. When he returned from battle he gave Achish to understand that he had been warring against those of his own nation, the men of Judah. By this dissembling he was the means of strengthening the hand of the Philistines; for the king said, “He hath made his people Israel utterly to abhor him; therefore he shall be my servant forever.” David knew that it was the will of God that those heathen tribes should be destroyed, and he knew that he was appointed to do this work; but he was not walking in the counsel of God when he practiced deception.
+
+“And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.” David had no intention of lifting his hand against his people; but he was not certain as to what course he would pursue, until circumstances should indicate his duty. He answered the king evasively, and said, “Surely thou shalt know what thy servant can do.” Achish understood these words as a promise of assistance in the approaching war, and pledged his word to bestow upon David great honor, and give him a high position at the Philistine court.
+
+But although David's faith had staggered somewhat at the promises of God, he still remembered that Samuel had anointed him king of Israel. He recalled the victories that God had given him over his enemies in the past. He reviewed the great mercy of God in preserving him from the hand of Saul, and determined not to betray a sacred trust. Even though the king of Israel had sought his life, he would not join his forces with the enemies of his people.

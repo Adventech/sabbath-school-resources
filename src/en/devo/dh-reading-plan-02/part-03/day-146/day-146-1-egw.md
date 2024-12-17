@@ -1,0 +1,12 @@
+---
+title: EGW Reading
+subtitle: Jeremiah PK 411b-412b
+---
+
+Jeremiah called their attention repeatedly to the counsels given in Deuteronomy. More than any other of the prophets, he emphasized the teachings of the Mosaic law and showed how these might bring the highest spiritual blessing to the nation and to every individual heart. “Ask for the old paths, where is the good way, and walk therein,” he pleaded, “and ye shall find rest for your souls.” Jeremiah 6:16.
+
+On one occasion, by command of the Lord, the prophet took his position at one of the principal entrances to the city and there urged the importance of keeping holy the Sabbath day. The inhabitants of Jerusalem were in danger of losing sight of the sanctity of the Sabbath, and they were solemnly warned against following their secular pursuits on that day. A blessing was promised on condition of obedience. “If ye diligently hearken unto Me,” the Lord declared, and “hallow the Sabbath day, to do no work therein; then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain forever.” Jeremiah 17:24, 25.
+
+This promise of prosperity as the reward of allegiance was accompanied by a prophecy of the terrible judgments that would befall the city should its inhabitants prove disloyal to God and His law. If the admonitions to obey the Lord God of their fathers and to hallow His Sabbath day were not heeded, the city and its palaces would be utterly destroyed by fire.
+
+Thus the prophet stood firmly for the sound principles of right living so clearly outlined in the book of the law. But the conditions prevailing in the land of Judah were such that only by the most decided measures could a change for the better be brought about; therefore he labored most earnestly in behalf of the impenitent. “Break up your fallow ground,” he pleaded, “and sow not among thorns.” “O Jerusalem, wash thine heart from wickedness, that thou mayest be saved.” Jeremiah 4:3, 14.

@@ -1,0 +1,16 @@
+---
+title: EGW Reading
+subtitle: The Temple and Its Dedication PK 41-45a
+---
+
+“When the heaven is shut up, and there is no rain, because they have sinned against Thee; yet if they pray toward this place, and confess Thy name, and turn from their sin, when Thou dost afflict them; then hear Thou from heaven, and forgive the sin of Thy servants, and of Thy people Israel, when Thou hast taught them the good way, wherein they should walk; and send rain upon Thy land, which Thou hast given unto Thy people for an inheritance.
+
+“If there be dearth in the land, if there be pestilence, if there be blasting, or mildew, locusts, or caterpillars; if their enemies besiege them in the cities of their land; whatsoever sore or whatsoever sickness there be: then what prayer or what supplication soever shall be made of any man, or of all Thy people Israel, when everyone shall know his own sore and his own grief, and shall spread forth his hands in his house: then hear Thou from heaven Thy dwelling place, and forgive, and render unto every man according unto all his ways, whose heart Thou knowest; ... that they may fear Thee, to walk in Thy ways, so long as they live in the land which Thou gavest unto our fathers.
+
+“Moreover concerning the stranger, which is not of Thy people Israel, but is come from a far country for Thy great name's sake, and Thy mighty hand, and Thy stretched-out arm; if they come and pray in this house; then hear Thou from the heavens, even from Thy dwelling place, and do according to all that the stranger calleth to Thee for; that all people of the earth may know Thy name, and fear Thee, as doth Thy people Israel, and may know that this house which I have built is called by Thy name.
+
+“If Thy people go out to war against their enemies by the way that Thou shalt send them, and they pray unto Thee toward this city which Thou hast chosen, and the house which I have built for Thy name; then hear Thou from the heavens their prayer and their supplication, and maintain their cause.
+
+“If they sin against Thee, (for there is no man which sinneth not,) and Thou be angry with them, and deliver them over before their enemies, and they carry them away captives unto a land far off or near; yet if they bethink themselves in the land whither they are carried captive, and turn and pray unto Thee in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly; if they return to Thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which Thou gavest unto their fathers, and toward the city which Thou hast chosen, and toward the house which I have built for Thy name: then hear Thou from the heavens, even from Thy dwelling place, their prayer and their supplications, and maintain their cause, and forgive Thy people which have sinned against Thee.
+
+“Now, my God, let, I beseech Thee, Thine eyes be open, and let Thine ears be attent unto the prayer that is made in this place. Now therefore arise, O Lord God, into Thy resting place, Thou, and the ark of Thy strength: let Thy priests, O Lord God, be clothed with salvation, and let Thy saints rejoice in goodness. O Lord God, turn not away the face of Thine anointed: remember the mercies of David Thy servant.” Verses 14-42.

@@ -3,7 +3,7 @@
   groups:
   - group: Global TMI
     reverse: true
-    view: square
+    view: tile
     resources:
       - en-pm-global-tmi*
   - group: GROW Series

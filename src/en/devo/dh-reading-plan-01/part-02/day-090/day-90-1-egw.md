@@ -1,0 +1,18 @@
+---
+title: EGW Reading
+subtitle: The Law Given to Israel PP 310b-311d
+---
+
+The minds of the people, blinded and debased by slavery and heathenism, were not prepared to appreciate fully the far-reaching principles of God's ten precepts. That the obligations of the Decalogue might be more fully understood and enforced, additional precepts were given, illustrating and applying the principles of the Ten Commandments. These laws were called judgments, both because they were framed in infinite wisdom and equity and because the magistrates were to give judgment according to them. Unlike the Ten Commandments, they were delivered privately to Moses, who was to communicate them to the people.
+
+The first of these laws related to servants. In ancient times criminals were sometimes sold into slavery by the judges; in some cases, debtors were sold by their creditors; and poverty even led persons to sell themselves or their children. But a Hebrew could not be sold as a slave for life. His term of service was limited to six years; on the seventh he was to be set at liberty. Manstealing, deliberate murder, and rebellion against parental authority were to be punished with death. The holding of slaves not of Israelitish birth was permitted, but their life and person were strictly guarded. The murderer of a slave was to be punished; an injury inflicted upon one by his master, though no more than the loss of a tooth, entitled him to his freedom.
+
+The Israelites had lately been servants themselves, and now that they were to have servants under them, they were to beware of indulging the spirit of cruelty and exaction from which they had suffered under their Egyptian taskmasters. The memory of their own bitter servitude should enable them to put themselves in the servant's place, leading them to be kind and compassionate, to deal with others as they would wish to be dealt with.
+
+The rights of widows and orphans were especially guarded, and a tender regard for their helpless condition was enjoined. “If thou afflict them in any wise,” the Lord declared, “and they cry at all unto Me, I will surely hear their cry; and My wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.” Aliens who united themselves with Israel were to be protected from wrong or oppression. “Thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.”
+
+The taking of usury from the poor was forbidden. A poor man's raiment or blanket taken as a pledge, must be restored to him at nightfall. He who was guilty of theft was required to restore double. Respect for magistrates and rulers was enjoined, and judges were warned against perverting judgment, aiding a false cause, or receiving bribes. Calumny and slander were prohibited, and acts of kindness enjoined, even toward personal enemies.
+
+Again the people were reminded of the sacred obligation of the Sabbath. Yearly feasts were appointed, at which all the men of the nation were to assemble before the Lord, bringing to Him their offerings of gratitude and the first fruits of His bounties. The object of all these regulations was stated: they proceeded from no exercise of mere arbitrary sovereignty; all were given for the good of Israel. The Lord said, “Ye shall be holy men unto Me”—worthy to be acknowledged by a holy God.
+
+These laws were to be recorded by Moses, and carefully treasured as the foundation of the national law, and, with the ten precepts which they were given to illustrate, the condition of the fulfillment of God's promises to Israel.

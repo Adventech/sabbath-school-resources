@@ -1,0 +1,53 @@
+---
+title: EGW Reading
+subtitle: Balaam PP 441c-447
+---
+
+Balaam had received permission to go with the messengers from Moab if they came in the morning to call him. But, annoyed at his delay, and expecting another refusal, they set out on their homeward journey without further consultation with him. Every excuse for complying with the request of Balak had now been removed. But Balaam was determined to secure the reward; and, taking the beast upon which he was accustomed to ride, he set out on the journey. He feared that even now the divine permission might be withdrawn, and he pressed eagerly forward, impatient lest he should by some means fail to gain the coveted reward.
+
+But “the angel of the Lord stood in the way for an adversary against him.” The animal saw the divine messenger, who was unperceived by the man, and turned aside from the highway into a field. With cruel blows Balaam brought the beast back into the path; but again, in a narrow place shut in by walls, the angel appeared, and the animal, trying to avoid the menacing figure, crushed her master's foot against the wall. Balaam was blinded to the heavenly interposition, and knew not that God was obstructing his path. The man became exasperated, and beating the ass unmercifully, forced it to proceed.
+
+Again, “in a narrow place, where was no way to turn either to the right hand or to the left,” the angel appeared, as before, in a threatening attitude; and the poor beast, trembling with terror, made a full stop, and fell to the earth under its rider. Balaam's rage was unbounded, and with his staff he smote the animal more cruelly than before. God now opened its mouth, and by “the dumb ass speaking with man's voice,” he “forbade the madness of the prophet.” 2 Peter 2:16. “What have I done unto thee,” it said, “that thou hast smitten me these three times?”
+
+Furious at being thus hindered in his journey, Balaam answered the beast as he would have addressed an intelligent being—“Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.” Here was a professed magician, on his way to pronounce a curse upon a whole people with the intent to paralyze their strength, while he had not power even to slay the animal upon which he rode!
+
+The eyes of Balaam were now opened, and he beheld the angel of God standing with drawn sword ready to slay him. In terror “he bowed down his head, and fell flat on his face.” The angel said to him, “Wherefore hast thou smitten thine ass these three times? Behold, I went out to withstand thee, because thy way is perverse before me: and the ass saw me, and turned from me these three times: unless she had turned from me surely now also I had slain thee, and saved her alive.”
+
+Balaam owed the preservation of his life to the poor animal that he had treated so cruelly. The man who claimed to be a prophet of the Lord, who declared that his eyes were open, and he saw the “vision of the Almighty,” was so blinded by covetousness and ambition that he could not discern the angel of God visible to his beast. “The god of this world hath blinded the minds of them which believe not.” 2 Corinthians 4:4. How many are thus blinded! They rush on in forbidden paths, transgressing the divine law, and cannot discern that God and His angels are against them. Like Balaam they are angry at those who would prevent their ruin.
+
+Balaam had given evidence of the spirit that controlled him, by his treatment of his beast. “A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.” Proverbs 12:10. Few realize as they should the sinfulness of abusing animals or leaving them to suffer from neglect. He who created man made the lower animals also, and “His tender mercies are over all His works.” Psalm 145:9. The animals were created to serve man, but he has no right to cause them pain by harsh treatment or cruel exaction.
+
+It is because of man's sin that “the whole creation groaneth and travaileth in pain together.” Romans 8:22. Suffering and death were thus entailed, not only upon the human race, but upon the animals. Surely, then, it becomes man to seek to lighten, instead of increasing, the weight of suffering which his transgression has brought upon God's creatures. He who will abuse animals because he has them in his power is both a coward and a tyrant. A disposition to cause pain, whether to our fellow men or to the brute creation, is satanic. Many do not realize that their cruelty will ever be known, because the poor dumb animals cannot reveal it. But could the eyes of these men be opened, as were those of Balaam, they would see an angel of God standing as a witness, to testify against them in the courts above. A record goes up to heaven, and a day is coming when judgment will be pronounced against those who abuse God's creatures.
+
+When he beheld the messenger of God, Balaam exclaimed in terror, “I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.” The Lord suffered him to proceed on his journey, but gave him to understand that his words should be controlled by divine power. God would give evidence to Moab that the Hebrews were under the guardianship of Heaven, and this He did effectually when He showed them how powerless Balaam was even to utter a curse against them without divine permission.
+
+The king of Moab, being informed of the approach of Balaam, went out with a large retinue to the borders of his kingdom, to receive him. When he expressed his astonishment at Balaam's delay, in view of the rich rewards awaiting him, the prophet's answer was, “Lo, I am come unto thee: have I now any power at all to say anything? the word that God putteth in my mouth, that shall I speak.” Balaam greatly regretted this restriction; he feared that his purpose could not be carried out, because the Lord's controlling power was upon him.
+
+With great pomp the king, with the chief dignitaries of his kingdom, escorted Balaam to “the high places of Baal,” from which he could survey the Hebrew host. Behold the prophet as he stands upon the lofty height, looking down over the encampment of God's chosen people. How little do the Israelites know of what is taking place so near them! How little do they know of the care of God, extended over them by day and by night! How dull are the perceptions of God's people! How slow are they, in every age, to comprehend His great love and mercy! If they could discern the wonderful power of God constantly exerted in their behalf, would not their hearts be filled with gratitude for His love, and with awe at the thought of His majesty and power?
+
+Balaam had some knowledge of the sacrificial offerings of the Hebrews, and he hoped that by surpassing them in costly gifts he might secure the blessing of God and ensure the accomplishment of his sinful projects. Thus the sentiments of the idolatrous Moabites were gaining control of his mind. His wisdom had become foolishness; his spiritual vision was beclouded; he had brought blindness upon himself by yielding to the power of Satan.
+
+By Balaam's direction seven altars were erected, and he offered a sacrifice upon each. He then withdrew to a “high place,” to meet with God, promising to make known to Balak whatever the Lord should reveal.
+
+With the nobles and princes of Moab the king stood beside the sacrifice, while around them gathered the eager multitude, watching for the return of the prophet. He came at last, and the people waited for the words that should paralyze forever that strange power exerted in behalf of the hated Israelites. Balaam said:
+
+“The king of Moab hath brought me from Aram,\
+Out of the mountains of the east,\
+Saying, Come, curse me Jacob,\
+And come, defy Israel.\
+How shall I curse, whom God hath not cursed?\
+Or how shall I defy, whom the Lord hath not defied?\
+For from the top of the rocks I see him ,\
+And from the hills I behold him :\
+Lo, the people shall dwell alone,\
+And shall not be reckoned among the nations.\
+Who can count the dust of Jacob,\
+And the number of the fourth part of Israel?\
+Let me die the death of the righteous,\
+And let my last end be like his!”
+
+Balaam confessed that he came with the purpose of cursing Israel, but the words he uttered were directly contrary to the sentiments of his heart. He was constrained to pronounce blessings, while his soul was filled with curses.
+
+As Balaam looked upon the encampment of Israel he beheld with astonishment the evidence of their prosperity. They had been represented to him as a rude, disorganized multitude, infesting the country in roving bands that were a pest and terror to the surrounding nations; but their appearance was the reverse of all this. He saw the vast extent and perfect arrangement of their camp, everything bearing the marks of thorough discipline and order. He was shown the favor with which God regarded Israel, and their distinctive character as His chosen people. They were not to stand upon a level with other nations, but to be exalted above them all. “The people shall dwell alone, and shall not be reckoned among the nations.” At the time when these words were spoken the Israelites had no permanent settlement, and their peculiar character, their manners and customs, were not familiar to Balaam. But how strikingly was this prophecy fulfilled in the after-history of Israel! Through all the years of their captivity, through all the ages since they were dispersed among the nations, they have remained a distinct people. So the people of God—the true Israel—though scattered throughout all nations, are on earth but sojourners, whose citizenship is in heaven.
+
+Not only was Balaam shown the history of the Hebrew people as a nation, but he beheld the increase and prosperity of the true Israel of God to the close of time. He saw the special favor of the Most High attending those who love and fear Him . He saw them supported by His arm as they enter the dark valley of the shadow of death. And he beheld them coming forth from their graves, crowned with glory, honor, and immortality. He saw the redeemed rejoicing in the unfading glories of the earth made new. Gazing upon the scene, he exclaimed, “Who can count the dust of Jacob, and the number of the fourth part of Israel?” And as he saw the crown of glory on every brow, the joy beaming from every countenance, and looked forward to that endless life of unalloyed happiness, he uttered the solemn prayer, “Let me die the death of the righteous, and let my last end be like his!”

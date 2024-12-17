@@ -1,0 +1,12 @@
+---
+title: EGW Reading
+subtitle: Jeremiah PK 409d-411a
+---
+
+As a wise master builder, Jeremiah at the very beginning of his lifework sought to encourage the men of Judah to lay the foundations of their spiritual life broad and deep, by making thorough work of repentance. Long had they been building with material likened by the apostle Paul to wood, hay, and stubble, and by Jeremiah himself to dross. “Refuse silver shall men call them,” he declared of the impenitent nation, “because the Lord hath rejected them.” Jeremiah 6:30, margin. Now they were urged to begin building wisely and for eternity, casting aside the rubbish of apostasy and unbelief, and using as foundation material the pure gold, the refined silver, the precious stones—faith and obedience and good works—which alone are acceptable in the sight of a holy God.
+
+Through Jeremiah the word of the Lord to His people was: “Return, thou backsliding Israel, ... and I will not cause Mine anger to fall upon you: for I am merciful, saith the Lord, and I will not keep anger forever. Only acknowledge thine iniquity, that thou hast transgressed against the Lord thy God.... Turn, O backsliding children, saith the Lord; for I am married unto you.” “Thou shalt call Me, my Father; and shalt not turn away from Me.” “Return, ye backsliding children, and I will heal your backslidings.” Jeremiah 3:12-14, 19, 22.
+
+And in addition to these wonderful pleadings, the Lord gave His erring people the very words with which they might turn to Him. They were to say: “Behold, we come unto Thee; for Thou art the Lord our God. Truly in vain is salvation hoped for from the hills, and from the multitude of mountains: truly in the Lord our God is the salvation of Israel.... We lie down in our shame, and our confusion covereth us: for we have sinned against the Lord our God, we and our fathers, from our youth even unto this day, and have not obeyed the voice of the Lord our God.” Verses 22-25.
+
+The reformation under Josiah had cleansed the land of the idolatrous shrines, but the hearts of the multitude had not been transformed. The seeds of truth that had sprung up and given promise of an abundant harvest had been choked by thorns. Another such backsliding would be fatal; and the Lord sought to arouse the nation to a realization of their danger. Only as they should prove loyal to Jehovah could they hope for the divine favor and for prosperity.

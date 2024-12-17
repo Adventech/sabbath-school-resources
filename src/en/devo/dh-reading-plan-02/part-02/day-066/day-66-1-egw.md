@@ -1,0 +1,14 @@
+---
+title: EGW Reading
+subtitle: Jehoshaphat PK 192c-196a
+---
+
+For many years Jehoshaphat lived in peace, unmolested by surrounding nations. “The fear of the Lord fell upon all the kingdoms of the lands that were round about Judah.” Verse 10. From Philistia he received tribute money and presents; from Arabia, large flocks of sheep and goats. “Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of stores.... Men of war, mighty men of valor, ... waited on the king, beside those whom the king put in the fenced cities throughout all Judah.” Verses 12-19. Blessed abundantly with “riches and honor,” he was enabled to wield a mighty influence for truth and righteousness. 2 Chronicles 18:1.
+
+Some years after coming to the throne, Jehoshaphat, now in the height of his prosperity, consented to the marriage of his son, Jehoram, to Athaliah, daughter of Ahab and Jezebel. By this union there was formed between the kingdoms of Judah and Israel an alliance which was not in the order of God and which in a time of crisis brought disaster to the king and to many of his subjects.
+
+On one occasion Jehoshaphat visited the king of Israel at Samaria. Special honor was shown the royal guest from Jerusalem, and before the close of his visit he was persuaded to unite with the king of Israel in war against the Syrians. Ahab hoped that by joining his forces with those of Judah he might regain Ramoth, one of the old cities of refuge, which, he contended, rightfully belonged to the Israelites.
+
+Although Jehoshaphat in a moment of weakness had rashly promised to join the king of Israel in his war against the Syrians, yet his better judgment led him to seek to learn the will of God concerning the undertaking. “Inquire, I pray thee, at the word of the Lord today,” he suggested to Ahab. In response, Ahab called together four hundred of the false prophets of Samaria, and asked of them, “Shall we go to Ramoth-gilead to battle, or shall I forbear?” And they answered, “Go up; for God will deliver it into the kings's hand.” Verses 4, 5.
+
+Unsatisfied, Jehoshaphat sought to learn for a certainty the will of God. “Is there not here a prophet of the Lord,” he asked, “that we might inquire of him?” Verse 6. “There is yet one man, Micaiah the son of Imlah, by whom we may inquire of the Lord,” Ahab answered; “but I hate him; for he doth not prophesy good concerning me, but evil.” 1 Kings 22:8. Jehoshaphat was firm in his request that the man of God be called; and upon appearing before them and being adjured by Ahab to tell “nothing but that which is true in the name of the Lord,” Micaiah said: “I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the Lord said, These have no master: let them return every man to his house in peace.” Verses 16, 17.

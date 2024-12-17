@@ -1,0 +1,16 @@
+---
+title: EGW Reading
+subtitle: The Last King of Judah PK 450-451
+---
+
+The day of doom for the kingdom of Judah was fast approaching. No longer could the Lord set before them the hope of averting the severest of His judgments. “Should ye be utterly unpunished?” He inquired. “Ye shall not be unpunished.” Jeremiah 25:29.
+
+Even these words were received with mocking derision. “The days are prolonged, and every vision faileth,” declared the impenitent. But through Ezekiel this denial of the sure word of prophecy was sternly rebuked. “Tell them,” the Lord declared, “I will make this proverb to cease, and they shall no more use it as a proverb in Israel; but say unto them, The days are at hand, and the effect of every vision. For there shall be no more any vain vision nor flattering divination within the house of Israel. For I am the Lord: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord God.
+
+“Again,” testifies Ezekiel, “the word of the Lord came to me, saying, Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off. Therefore say unto them, Thus saith the Lord God; There shall none of My words be prolonged any more, but the word which I have spoken shall be done, saith the Lord God.” Ezekiel 12:22-28.
+
+Foremost among those who were rapidly leading the nation to ruin was Zedekiah their king. Forsaking utterly the counsels of the Lord as given through the prophets, forgetting the debt of gratitude he owed Nebuchadnezzar, violating his solemn oath of allegiance taken in the name of the Lord God of Israel, Judah's king rebelled against the prophets, against his benefactor, and against his God. In the vanity of his own wisdom he turned for help to the ancient enemy of Israel's prosperity, “sending his ambassadors into Egypt, that they might give him horses and much people.”
+
+“Shall he prosper?” the Lord inquired concerning the one who had thus basely betrayed every sacred trust; “shall he escape that doeth such things? or shall he break the covenant, and be delivered? As I live, saith the Lord God, surely in the place where the king dwelleth that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die. Neither shall Pharaoh with his mighty army and great company make for him in the war: ... seeing he despised the oath by breaking the covenant, when, lo, he had given his hand, and hath done all these things, he shall not escape.” Ezekiel 17:15-18.
+
+To the “profane wicked prince” had come the day of final reckoning. “Remove the diadem,” the Lord decreed, “and take off the crown.” Not until Christ Himself should set up His kingdom was Judah again to be permitted to have a king. “I will overturn, overturn, overturn, it,” was the divine edict concerning the throne of the house of David; “and it shall be no more, until He come whose right it is; and I will give it Him.” Ezekiel 21:25-27.

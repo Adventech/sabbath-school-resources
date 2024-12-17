@@ -1,0 +1,6 @@
+---
+title: EGW Reading
+subtitle: The Return of the Exiles PK 554b
+---
+
+Through another vision further light was thrown upon the events of the future; and it was at the close of this vision that Daniel heard “one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision?” Daniel 8:13. The answer that was given, “Unto two thousand and three hundred days; then shall the sanctuary be cleansed” (verse 14), filled him with perplexity. Earnestly he sought for the meaning of the vision. He could not understand the relation sustained by the seventy years’ captivity, as foretold through Jeremiah, to the twenty-three hundred years that in vision he heard the heavenly visitant declare should elapse before the cleansing of God's sanctuary. The angel Gabriel gave him a partial interpretation; yet when the prophet heard the words, “The vision ... shall be for many days,” he fainted away. “I Daniel fainted,” he records of his experience, “and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it.” Verses 26, 27.

@@ -1,0 +1,10 @@
+---
+title: EGW Reading
+subtitle: Solomon’s Repentance PK 78b-79a
+---
+
+In gratitude Solomon acknowledged the power and the loving-kindness of the One who is “higher than the highest” (Ecclesiastes 5:8); in penitence he began to retrace his steps toward the exalted plane of purity and holiness from whence he had fallen so far. He could never hope to escape the blasting results of sin, he could never free his mind from all remembrance of the self-indulgent course he had been pursuing, but he would endeavor earnestly to dissuade others from following after folly. He would humbly confess the error of his ways and lift his voice in warning lest others be lost irretrievably because of the influences for evil he had been setting in operation.
+
+The true penitent does not put his past sins from his remembrance. He does not, as soon as he has obtained peace, grow unconcerned in regard to the mistakes he has made. He thinks of those who have been led into evil by his course, and tries in every possible way to lead them back into the true path. The clearer the light that he has entered into, the stronger is his desire to set the feet of others in the right way. He does not gloss over his wayward course, making his wrong a light thing, but lifts the danger signal, that others may take warning.
+
+Solomon acknowledged that “the heart of the sons of men is full of evil, and madness is in their heart.” Ecclesiastes 9:3. And again he declared, “Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil. Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before Him: but it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.” Ecclesiastes 8:11-13.

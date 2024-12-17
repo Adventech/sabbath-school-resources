@@ -1,0 +1,18 @@
+---
+title: EGW Reading
+subtitle: The Death of Moses PP 469-470c
+---
+
+Chapter 43—The Death of Moses
+
+This chapter is based on Deuteronomy 31 to 34.
+
+In all the dealings of God with His people there is, mingled with His love and mercy, the most striking evidence of His strict and impartial justice. This is exemplified in the history of the Hebrew people. God had bestowed great blessings upon Israel. His loving-kindness toward them is touchingly portrayed: “As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings: so the Lord alone did lead him.” And yet what swift and severe retribution was visited upon them for their transgressions!
+
+The infinite love of God has been manifested in the gift of His only-begotten Son to redeem a lost race. Christ came to the earth to reveal to men the character of His Father, and His life was filled with deeds of divine tenderness and compassion. And yet Christ Himself declares, “Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law.” Matthew 5:18. The same voice that with patient, loving entreaty invites the sinner to come to Him and find pardon and peace, will in the judgment bid the rejecters of His mercy, “Depart from Me, ye cursed.” Matthew 25:41. In all the Bible, God is represented not only as a tender father but as a righteous judge. Though He delights in showing mercy, and “forgiving iniquity and transgression and sin,” yet He “will by no means clear the guilty.” Exodus 34:7.
+
+The great Ruler of nations had declared that Moses was not to lead the congregation of Israel into the goodly land, and the earnest pleading of God's servant could not secure a reversing of His sentence. He knew that he must die. Yet he had not for a moment faltered in his care for Israel. He had faithfully sought to prepare the congregation to enter upon the promised inheritance. At the divine command Moses and Joshua repaired to the tabernacle, while the pillar of cloud came and stood over the door. Here the people were solemnly committed to the charge of Joshua. The work of Moses as leader of Israel was ended. Still he forgot himself in his interest for his people. In the presence of the assembled multitude Moses, in the name of God, addressed to his successor these words of holy cheer: “Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.” He then turned to the elders and officers of the people, giving them a solemn charge to obey faithfully the instructions he had communicated to them from God.
+
+As the people gazed upon the aged man, so soon to be taken from them, they recalled, with a new and deeper appreciation, his parental tenderness, his wise counsels, and his untiring labors. How often, when their sins had invited the just judgments of God, the prayers of Moses had prevailed with Him to spare them! Their grief was heightened by remorse. They bitterly remembered that their own perversity had provoked Moses to the sin for which he must die.
+
+The removal of their beloved leader would be a far stronger rebuke to Israel than any which they could have received had his life and mission been continued. God would lead them to feel that they were not to make the life of their future leader as trying as they had made that of Moses. God speaks to His people in blessings bestowed; and when these are not appreciated, He speaks to them in blessings removed, that they may be led to see their sins, and return to Him with all the heart.

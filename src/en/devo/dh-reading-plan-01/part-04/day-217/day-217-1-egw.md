@@ -1,0 +1,45 @@
+---
+title: EGW Reading
+subtitle: The Magnanimity of David PP 660c-664b
+---
+
+Still hunted by the king, David found no place of rest or security. At Keilah his brave band saved the town from capture by the Philistines, but they were not safe, even among the people whom they had delivered. From Keilah they repaired to the wilderness of Ziph.
+
+At this time, when there were so few bright spots in the path of David, he was rejoiced to receive an unexpected visit from Jonathan, who had learned the place of his refuge. Precious were the moments which these two friends passed in each other's society. They related their varied experiences, and Jonathan strengthened the heart of David, saying, “Fear not: for the hand of Saul my father shall not find thee; and thou shalt be king over Israel, and I shall be next unto thee; and that also Saul my father knoweth.” As they talked of the wonderful dealings of God with David, the hunted fugitive was greatly encouraged. “And they two made a covenant before the Lord: and David abode in the wood, and Jonathan went to his house.”
+
+After the visit of Jonathan, David encouraged his soul with songs of praise, accompanying his voice with his harp as he sang: “In the Lord put I my trust:\
+How say ye to my soul,\
+Flee as a bird to your mountain?\
+For, lo, the wicked bend their bow,\
+They make ready their arrow upon the string,\
+That they may privily shoot at the upright in heart.\
+If the foundations be destroyed,\
+What can the righteous do?\
+The Lord is in His holy temple,\
+The Lord's throne is in heaven:\
+His eyes behold, His eyelids try, the children of men.\
+The Lord trieth the righteous:\
+But the wicked and him that loveth violence His soul\
+hateth.” Psalm 11:1-5.
+
+The Ziphites, into whose wild regions David went from Keilah, sent word to Saul in Gibeah that they knew where David was hiding, and that they would guide the king to his retreat. But David, warned of their intentions, changed his position, seeking refuge in the mountains between Maon and the Dead Sea.
+
+Again word was sent to Saul, “Behold, David is in the wilderness of Engedi. Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.” David had only six hundred men in his company, while Saul advanced against him with an army of three thousand. In a secluded cave the son of Jesse and his men waited for the guidance of God as to what should be done. As Saul was pressing his way up the mountains, he turned aside, and entered, alone, the very cavern in which David and his band were hidden. When David's men saw this they urged their leader to kill Saul. The fact that the king was now in their power was interpreted by them as certain evidence that God Himself had delivered the enemy into their hand, that they might destroy him. David was tempted to take this view of the matter; but the voice of conscience spoke to him, saying, “Touch not the anointed of the Lord.”
+
+David's men were still unwilling to leave Saul in peace, and they reminded their commander of the words of God, “Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul's robe privily.” But his conscience smote him afterward, because he had even marred the garment of the king.
+
+Saul rose up and went out of the cave to continue his search, when a voice fell upon his startled ears, saying, “My lord the king.” He turned to see who was addressing him, and lo! it was the son of Jesse, the man whom he had so long desired to have in his power that he might kill him. David bowed himself to the king, acknowledging him as his master. Then he addressed Saul in these words: “Wherefore hearest thou men's words, saying, Behold, David seeketh thy hurt? Behold, this day thine eyes have seen how that the Lord hath delivered thee today into mine hand in the cave: and some bade me kill thee; but mine eye spared thee; and I said, I will not put forth mine hand against my lord; for he is the Lord's anointed. Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.”
+
+When Saul heard the words of David he was humbled, and could not but admit their truthfulness. His feelings were deeply moved as he realized how completely he had been in the power of the man whose life he sought. David stood before him in conscious innocence. With a softened spirit, Saul exclaimed, “Is this thy voice, my son David? And Saul lifted up his voice, and wept.” Then he declared to David: “Thou art more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.... For if a man find his enemy, will he let him go well away? wherefore the Lord reward thee good for that thou hast done unto me this day. And now, behold, I know well that thou shalt surely be king, and that the kingdom of Israel shall be established in thine hand.” And David made a covenant with Saul that when this should take place he would favorably regard the house of Saul, and not cut off his name.
+
+Knowing what he did of Saul's past course, David could put no confidence in the assurances of the king, nor hope that his penitent condition would long continue. So when Saul returned to his home David remained in the strongholds of the mountains.
+
+The enmity that is cherished toward the servants of God by those who have yielded to the power of Satan changes at times to a feeling of reconciliation and favor, but the change does not always prove to be lasting. After evil-minded men have engaged in doing and saying wicked things against the Lord's servants, the conviction that they have been in the wrong sometimes takes deep hold upon their minds. The Spirit of the Lord strives with them, and they humble their hearts before God, and before those whose influence they have sought to destroy, and they may change their course toward them. But as they again open the door to the suggestions of the evil one, the old doubts are revived, the old enmity is awakened, and they return to engage in the same work which they repented of, and for a time abandoned. Again they speak evil, accusing and condemning in the bitterest manner the very ones to whom they made most humble confession. Satan can use such souls with far greater power after such a course has been pursued than he could before, because they have sinned against greater light.
+
+“And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah.” The death of Samuel was regarded as an irreparable loss by the nation of Israel. A great and good prophet and an eminent judge had fallen in death, and the grief of the people was deep and heartfelt. From his youth up Samuel had walked before Israel in the integrity of his heart; although Saul had been the acknowledged king, Samuel had wielded a more powerful influence than he, because his record was one of faithfulness, obedience, and devotion. We read that he judged Israel all the days of his life.
+
+As the people contrasted the course of Saul with that of Samuel, they saw what a mistake they had made in desiring a king that they might not be different from the nations around them. Many looked with alarm at the condition of society, fast becoming leavened with irreligion and godlessness. The example of their ruler was exerting a widespread influence, and well might Israel mourn that Samuel, the prophet of the Lord, was dead.
+
+The nation had lost the founder and president of its sacred schools, but that was not all. It had lost him to whom the people had been accustomed to go with their great troubles—lost one who had constantly interceded with God in behalf of the best interests of its people. The intercession of Samuel had given a feeling of security; for “the effectual fervent prayer of a righteous man availeth much.” James 5:16. The people felt now that God was forsaking them. The king seemed little less than a madman. Justice was perverted, and order was turned to confusion.
+
+It was when the nation was racked with internal strife, when the calm, God-fearing counsel of Samuel seemed to be most needed, that God gave His aged servant rest. Bitter were the reflections of the people as they looked upon his quiet resting place, and remembered their folly in rejecting him as their ruler; for he had had so close a connection with Heaven that he seemed to bind all Israel to the throne of Jehovah. It was Samuel who had taught them to love and obey God; but now that he was dead, the people felt that they were left to the mercies of a king who was joined to Satan, and who would divorce the people from God and heaven.

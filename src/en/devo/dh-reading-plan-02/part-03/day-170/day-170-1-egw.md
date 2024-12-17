@@ -1,0 +1,8 @@
+---
+title: EGW Reading
+subtitle: Carried Captive Into Babylon PK 460c-461a
+---
+
+Released from prison by the Babylonian officers, the prophet chose to cast in his lot with the feeble remnant, certain “poor of the land” left by the Chaldeans to be “vinedressers and husbandmen.” Over these the Babylonians set Gedaliah as governor. Only a few months passed before the newly appointed governor was treacherously slain. The poor people, after passing through many trials, were finally persuaded by their leaders to take refuge in the land of Egypt. Against this move, Jeremiah lifted his voice in protest. “Go ye not into Egypt,” he pleaded. But the inspired counsel was not heeded, and “all the remnant of Judah, ... even men, and women, and children,” took flight into Egypt. “They obeyed not the voice of the Lord: thus came they even to Tahpanhes.” Jeremiah 43:5-7.
+
+The prophecies of doom pronounced by Jeremiah upon the remnant that had rebelled against Nebuchadnezzar by fleeing to Egypt were mingled with promises of pardon to those who should repent of their folly and stand ready to return. While the Lord would not spare those who turned from His counsel to the seductive influences of Egyptian idolatry, yet He would show mercy to those who should prove loyal and true. “A small number that escape the sword shall return out of the land of Egypt into the land of Judah,” He declared; “and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, Mine, or theirs.” Jeremiah 44:28.

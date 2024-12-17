@@ -1,0 +1,20 @@
+---
+title: EGW Reading
+subtitle: Elisha’s Closing Ministry PK 258b-260c
+---
+
+For a time after this, Israel was free from the attacks of the Syrians. But later, under the energetic direction of a determined king, Hazael, the Syrian hosts surrounded Samaria and besieged it. Never had Israel been brought into so great a strait as during this siege. The sins of the fathers were indeed being visited upon the children and the children's children. The horrors of prolonged famine were driving the king of Israel to desperate measures, when Elisha predicted deliverance the following day.
+
+As the next morning was about to dawn, the Lord “made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host;” and they, seized with fear, “arose and fled in the twilight,” leaving “their tents, and their horses, and their asses, even the camp as it was,” with rich stores of food. They “fled for their life,” not tarrying until after the Jordan had been crossed.
+
+During the night of the flight, four leprous men at the gate of the city, made desperate by hunger, had proposed to visit the Syrian camp and throw themselves upon the mercy of the besiegers, hoping thereby to arouse sympathy and obtain food. What was their astonishment when, entering the camp, they found “no man there.” With none to molest or forbid, “they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it. Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace.” Quickly they returned to the city with the glad news.
+
+Great was the spoil; so abundant were the supplies that on that day “a measure of fine flour was sold for a shekel, and two measures of barley for a shekel,” as had been foretold by Elisha the day before. Once more the name of God was exalted before the heathen “according to the word of the Lord” through His prophet in Israel. See 2 Kings 7:5-16.
+
+Thus the man of God continued to labor from year to year, drawing close to the people in faithful ministry, and in times of crisis standing by the side of kings as a wise counselor. The long years of idolatrous backsliding on the part of rulers and people had wrought their baleful work; the dark shadow of apostasy was still everywhere apparent, yet here and there were those who had steadfastly refused to bow the knee to Baal. As Elisha continued his work of reform, many were reclaimed from heathenism, and these learned to rejoice in the service of the true God. The prophet was cheered by these miracles of divine grace, and he was inspired with a great longing to reach all who were honest in heart. Wherever he was he endeavored to be a teacher of righteousness.
+
+From a human point of view the outlook for the spiritual regeneration of the nation was as hopeless as is the outlook today before God's servants who are laboring in the dark places of the earth. But the church of Christ is God's agency for the proclamation of truth; she is empowered by Him to do a special work; and if she is loyal to God, obedient to His commandments, there will dwell within her the excellency of divine power. If she will be true to her allegiance, there is no power that can stand against her. The forces of the enemy will be no more able to overwhelm her than is the chaff to resist the whirlwind.
+
+There is before the church the dawn of a bright, glorious day, if she will put on the robe of Christ's righteousness, withdrawing from all allegiance to the world.
+
+God calls upon His faithful ones, who believe in Him, to talk courage to those who are unbelieving and hopeless. Turn to the Lord, ye prisoners of hope. Seek strength from God, the living God. Show an unwavering, humble faith in His power and His willingness to save. When in faith we take hold of His strength, He will change, wonderfully change, the most hopeless, discouraging outlook. He will do this for the glory of His name.

@@ -1,0 +1,32 @@
+---
+title: EGW Reading
+subtitle: Naaman PK 249d-253
+---
+
+Gratefully “he returned to the man of God, he and all his company,” with the acknowledgment, “Behold, now I know that there is no God in all the earth, but in Israel.”
+
+In accordance with the custom of the times, Naaman now asked Elisha to accept a costly present. But the prophet refused. It was not for him to take payment for a blessing that God had in mercy bestowed. “As the Lord liveth,” he said, “I will receive none.” The Syrian “urged him to take it; but he refused.
+
+“And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the Lord. In this thing the Lord pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the Lord pardon thy servant in this thing.
+
+“And he said unto him, Go in peace. So he departed from him a little way.”
+
+Gehazi, Elisha's servant, had had opportunity during the years to develop the spirit of self-denial characterizing his master's lifework. It had been his privilege to become a noble standard-bearer in the army of the Lord. The best gifts of Heaven had long been within his reach; yet, turning from these, he had coveted instead the base alloy of worldly wealth. And now the hidden longings of his avaricious spirit led him to yield to an overmastering temptation. “Behold,” he reasoned within himself, “my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but ... I will run after him, and take somewhat of him.” And thus it came about that in secrecy “Gehazi followed after Naaman.”
+
+“When Naaman saw him running after him, he lighted down from the chariot to meet him, and said, Is all well? And he said, All is well.” Then Gehazi uttered a deliberate lie. “My master,” he said, “hath sent me, saying, Behold, even now there be come to me from Mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments.” To the request Naaman gladly acceded, pressing upon Gehazi two talents of silver instead of one, “with two changes of garments,” and commissioning servants to bear the treasure back.
+
+As Gehazi neared Elisha's home, he dismissed the servants and placed the silver and the garments in hiding. This accomplished, “he went in, and stood before his master;” and, to shield himself from censure, he uttered a second lie. In response to the inquiry of the prophet, “Whence comest thou?” Gehazi answered, “Thy servant went no whither.”
+
+Then came the stern denunciation, showing that Elisha knew all. “Went not mine heart with thee,” he asked, “when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and olive yards, and vineyards, and sheep, and oxen, and menservants, and maidservants? The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed forever.” Swift was the retribution that overtook the guilty man. He went out from Elisha's presence “a leper as white as snow.”
+
+Solemn are the lessons taught by this experience of one to whom had been given high and holy privileges. The course of Gehazi was such as to place a stumbling block in the pathway of Naaman, upon whose mind had broken a wonderful light, and who was favorably disposed toward the service of the living God. For the deception practiced by Gehazi there could be pleaded no excuse. To the day of his death he remained a leper, cursed of God and shunned by his fellow men.
+
+“A false witness shall not be unpunished, and he that speaketh lies shall not escape.” Proverbs 19:5. Men may think to hide their evil deeds from human eyes, but they cannot deceive God. “All things are naked and opened unto the eyes of Him with whom we have to do.” Hebrews 4:13. Gehazi thought to deceive Elisha, but God revealed to His prophet the words that Gehazi had spoken to Naaman, and every detail of the scene between the two men.
+
+Truth is of God; deception in all its myriad forms is of Satan, and whoever in any way departs from the straight line of truth is betraying himself into the power of the wicked one. Those who have learned of Christ will “have no fellowship with the unfruitful works of darkness.” Ephesians 5:11. In speech, as in life, they will be simple, straightforward, and true, for they are preparing for the fellowship of those holy ones in whose mouth is found no guile. See Revelation 14:5.
+
+Centuries after Naaman returned to his Syrian home, healed in body and converted in spirit, his wonderful faith was referred to and commended by the Saviour as an object lesson for all who claim to serve God. “Many lepers were in Israel in the time of Eliseus the prophet,” the Saviour declared; “and none of them was cleansed, saving Naaman the Syrian.” Luke 4:27. God passed over the many lepers in Israel because their unbelief closed the door of good to them. A heathen nobleman who had been true to his convictions of right, and who felt his need of help, was in the sight of God more worthy of His blessing than were the afflicted in Israel, who had slighted and despised their God-given privileges. God works for those who appreciate His favors and respond to the light given them from heaven.
+
+Today in every land there are those who are honest in heart, and upon these the light of heaven is shining. If they continue faithful in following that which they understand to be duty, they will be given increased light, until, like Naaman of old, they will be constrained to acknowledge that “there is no God in all the earth,” save the living God, the Creator.
+
+To every sincere soul “that walketh in darkness, and hath no light,” is given the invitation, “Let him trust in the name of the Lord, and stay upon his God.” “For since the beginning of the world men have not heard, nor perceived by the ear, neither hath the eye seen, O God, beside Thee, what He hath prepared for him that waiteth for Him. Thou meetest him that rejoiceth and worketh righteousness, those that remember Thee in Thy ways.” Isaiah 50:10; 64:4, 5.

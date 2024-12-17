@@ -1,0 +1,18 @@
+---
+title: EGW Reading
+subtitle: The Assyrian Captivity PK 280c-282c
+---
+
+Some of the leaders in Israel felt keenly their loss of prestige and wished that this might be regained. But instead of turning away from those practices which had brought weakness to the kingdom, they continued in iniquity, flattering themselves that when occasion arose, they would attain to the political power they desired by allying themselves with the heathen. “When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian.” “Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.” “They do make a covenant with the Assyrians.” Hosea 5:13; 7:11; 12:1.
+
+Through the man of God that had appeared before the altar at Bethel, through Elijah and Elisha, through Amos and Hosea, the Lord had repeatedly set before the ten tribes the evils of disobedience. But notwithstanding reproof and entreaty, Israel had sunk lower and still lower in apostasy. “Israel slideth back as a backsliding heifer,” the Lord declared; “My people are bent to backsliding from Me.” Hosea 4:16; 11:7.
+
+There were times when the judgments of Heaven fell very heavily on the rebellious people. “I hewed them by the prophets,” God declared; “I have slain them by the words of My mouth: and thy judgments are as the light that goeth forth. For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings. But they like men have transgressed the covenant: there have they dealt treacherously against Me.” Hosea 6:5-7.
+
+“Hear the word of the Lord, ye children of Israel,” was the message that finally came to them: “Seeing thou hast forgotten the law of thy God, I will also forget thy children. As they were increased, so they sinned against Me: therefore will I change their glory into shame.... I will punish them for their ways, and reward them their doings.” Hosea 4:1, 6-9.
+
+The iniquity in Israel during the last half century before the Assyrian captivity was like that of the days of Noah, and of every other age when men have rejected God and have given themselves wholly to evil-doing. The exaltation of nature above the God of nature, the worship of the creature instead of the Creator, has always resulted in the grossest of evils. Thus when the people of Israel, in their worship of Baal and Ashtoreth, paid supreme homage to the forces of nature, they severed their connection with all that is uplifting and ennobling, and fell an easy prey to temptation. With the defenses of the soul broken down, the misguided worshipers had no barrier against sin and yielded themselves to the evil passions of the human heart.
+
+Against the marked oppression, the flagrant injustice, the unwonted luxury and extravagance, the shameless feasting and drunkenness, the gross licentiousness and debauchery, of their age, the prophets lifted their voices; but in vain were their protests, in vain their denunciation of sin. “Him that rebuketh in the gate,” declared Amos, “they hate, ... and they abhor him that speaketh uprightly.” “They afflict the just, they take a bribe, and they turn aside the poor in the gate from their right.” Amos 5:10, 12.
+
+Such were some of the results that had followed the setting up of two calves of gold by Jeroboam. The first departure from established forms of worship had led to the introduction of grosser forms of idolatry, until finally nearly all the inhabitants of the land had given themselves over to the alluring practices of nature worship. Forgetting their Maker, Israel “deeply corrupted themselves.” Hosea 9:9.

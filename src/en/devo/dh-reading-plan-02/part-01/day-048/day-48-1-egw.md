@@ -1,0 +1,10 @@
+---
+title: EGW Reading
+subtitle: Jeroboam PK 107c-108
+---
+
+Toward the close of a troubled reign of twenty-two years, Jeroboam met with a disastrous defeat in a war with Abijah, the successor of Rehoboam. “Neither did Jeroboam recover strength again in the days of Abijah: and the Lord struck him, and he died.” 2 Chronicles 13:20.
+
+The apostasy introduced during Jeroboam's reign became more and more marked, until finally it resulted in the utter ruin of the kingdom of Israel. Even before the death of Jeroboam, Ahijah, the aged prophet at Shiloh who many years before had predicted the elevation of Jeroboam to the throne, declared: “The Lord shall smite Israel, as a reed is shaken in the water, and He shall root up Israel out of this good land, which He gave to their fathers, and shall scatter them beyond the river, because they have made their groves, provoking the Lord to anger. And He shall give Israel up because of the sins of Jeroboam, who did sin, and who made Israel to sin.” 1 Kings 14:15, 16.
+
+Yet the Lord did not give Israel up without first doing all that could be done to lead them back to their allegiance to Him. Through long, dark years when ruler after ruler stood up in bold defiance of Heaven and led Israel deeper and still deeper into idolatry, God sent message after message to His backslidden people. Through His prophets He gave them every opportunity to stay the tide of apostasy and to return to Him. During the years that were to follow the rending of the kingdom, Elijah and Elisha were to live and labor, and the tender appeals of Hosea and Amos and Obadiah were to be heard in the land. Never was the kingdom of Israel to be left without noble witnesses to the mighty power of God to save from sin. Even in the darkest hours some would remain true to their divine Ruler and in the midst of idolatry would live blameless in the sight of a holy God. These faithful ones were numbered among the goodly remnant through whom the eternal purpose of Jehovah was finally to be fulfilled.

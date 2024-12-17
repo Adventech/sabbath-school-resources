@@ -1,0 +1,10 @@
+---
+title: EGW Reading
+subtitle: The Temple and Its Dedication PK 38b-39a
+---
+
+At the appointed time the hosts of Israel, with richly clad representatives from many foreign nations, assembled in the temple courts. The scene was one of unusual splendor. Solomon, with the elders of Israel and the most influential men among the people, had returned from another part of the city, whence they had brought the ark of the testament. From the sanctuary on the heights of Gibeon had been transferred the ancient “tabernacle of the congregation, and all the holy vessels that were in the tabernacle” (2 Chronicles 5:5); and these cherished reminders of the earlier experiences of the children of Israel during their wanderings in the wilderness and their conquest of Canaan, now found a permanent home in the splendid building that had been erected to take the place of the portable structure.
+
+In bringing to the temple the sacred ark containing the two tables of stone on which were written by the finger of God the precepts of the Decalogue, Solomon had followed the example of his father David. Every six paces he sacrificed. With singing and with music and with great ceremony, “the priests brought in the ark of the covenant of the Lord unto his place, to the oracle of the house, into the most holy place.” Verse 7. As they came out of the inner sanctuary, they took the positions assigned them. The singers—Levites arrayed in white linen, having cymbals and psalteries and harps—stood at the east end of the altar, and with them a hundred and twenty priests sounding with trumpets. See Verse 12.
+
+“It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the Lord; and when they lifted up their voice with the trumpets and cymbals and instruments of music, and praised the Lord, saying, For He is good; for His mercy endureth forever: that then the house was filled with a cloud, even the house of the Lord; so that the priests could not stand to minister by reason of the cloud: for the glory of the Lord had filled the house of God.” Verses 13, 14.

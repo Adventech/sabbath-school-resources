@@ -1,0 +1,22 @@
+---
+title: EGW Reading
+subtitle: Jacob’s Flight and Exile PP 192d-194
+---
+
+When Jacob, growing weary of Laban's service, proposed to return to Canaan, he said to his father-in-law, “Send me away, that I may go unto mine own place, and to my country. Give me my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.” But Laban urged him to remain, declaring, “I have learned by experience that the Lord hath blessed me for thy sake.” He saw that his property was increasing under the care of his son-in-law.
+
+Said Jacob, “It was little which thou hadst before I came, and it is now increased unto a multitude.” But as time passed on, Laban became envious of the greater prosperity of Jacob, who “increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.” Laban's sons shared their father's jealousy, and their malicious speeches came to Jacob's ears: He “hath taken away all that was our father's, and of that which was our father's hath he gotten all this glory. And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before.”
+
+Jacob would have left his crafty kinsman long before but for the fear of encountering Esau. Now he felt that he was in danger from the sons of Laban, who, looking upon his wealth as their own, might endeavor to secure it by violence. He was in great perplexity and distress, not knowing which way to turn. But mindful of the gracious Bethel promise, he carried his case to God, and sought direction from Him. In a dream his prayer was answered: “Return unto the land of thy fathers, and to thy kindred; and I will be with thee.”
+
+Laban's absence afforded opportunity for departure. The flocks and herds were speedily gathered and sent forward, and with his wives, children, and servants, Jacob crossed the Euphrates, urging his way toward Gilead, on the borders of Canaan. After three days Laban learned of their flight, and set forth in pursuit, overtaking the company on the seventh day of their journey. He was hot with anger, and bent on forcing them to return, which he doubted not he could do, since his band was much the stronger. The fugitives were indeed in great peril.
+
+That he did not carry out his hostile purpose was due to the fact that God Himself had interposed for the protection of His servant. “It is in the power of my hand to do you hurt,” said Laban, “but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad;” that is, he should not force him to return, or urge him by flattering inducements.
+
+Laban had withheld the marriage dowry of his daughters and had ever treated Jacob with craft and harshness; but with characteristic dissimulation he now reproached him for his secret departure, which had given the father no opportunity to make a parting feast or even to bid farewell to his daughters and their children.
+
+In reply Jacob plainly set forth Laban's selfish and grasping policy, and appealed to him as a witness to his own faithfulness and honesty. “Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me,” said Jacob, “surely thou hadst sent me away now empty. God hath seen mine affliction, and the labor of my hands, and rebuked thee yesternight.”
+
+Laban could not deny the facts brought forward, and he now proposed to enter into a covenant of peace. Jacob consented to the proposal, and a pile of stones was erected as a token of the compact. To this pillar Laban gave the name Mizpah, “watchtower,” saying, “The Lord watch between me and thee, when we are absent one from another.”
+
+“And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and thee; this heap be witness, and this pillar be witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm. The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.” To confirm the treaty, the parties held a feast. The night was spent in friendly communing; and at the dawn of day, Laban and his company departed. With this separation ceased all trace of connection between the children of Abraham and the dwellers in Mesopotamia.

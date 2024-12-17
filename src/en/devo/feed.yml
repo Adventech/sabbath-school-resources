@@ -1,6 +1,11 @@
 ---
   title: Devotionals
   groups:
+  - group: Correlated Bible Reading Plan
+    reverse: true
+    view: square
+    resources:
+      - en-devo-dh-reading-plan*
   - group: Believe His Prophets
     reverse: true
     view: tile

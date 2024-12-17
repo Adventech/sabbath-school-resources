@@ -1,0 +1,26 @@
+---
+title: EGW Reading
+subtitle: The Book of the Law PK 400c-405b
+---
+
+To this vast assembly the king himself read “all the words of the book of the covenant which was found in the house of the Lord.” 2 Kings 23:2. The royal reader was deeply affected, and he delivered his message with the pathos of a broken heart. His hearers were profoundly moved. The intensity of feeling revealed in the countenance of the king, the solemnity of the message itself, the warning of judgments impending—all these had their effect, and many determined to join with the king in seeking forgiveness.
+
+Josiah now proposed that those highest in authority unite with the people in solemnly covenanting before God to co-operate with one another in an effort to institute decided changes. “The king stood by a pillar, and made a covenant before the Lord, to walk after the Lord, and to keep His commandments and His testimonies and His statutes with all their heart and all their soul, to perform the words of this covenant that were written in this book.” The response was more hearty than the king had dared hope for: “All the people stood to the covenant.” Verse 3.
+
+In the reformation that followed, the king turned his attention to the destruction of every vestige of idolatry that remained. So long had the inhabitants of the land followed the customs of the surrounding nations in bowing down to images of wood and stone, that it seemed almost beyond the power of man to remove every trace of these evils. But Josiah persevered in his effort to cleanse the land. Sternly he met idolatry by slaying “all the priests of the high places;” “moreover the workers with familiar spirits, and the wizards, and the images, and the idols, and all the abominations that were spied in the land of Judah and in Jerusalem, did Josiah put away, that he might perform the words of the law which were written in the book that Hilkiah the priest found in the house of the Lord.” Verses 20, 24.
+
+In the days of the rending of the kingdom, centuries before, when Jeroboam the son of Nebat, in bold defiance of the God whom Israel had served, was endeavoring to turn the hearts of the people away from the services of the temple in Jerusalem to new forms of worship, he had set up an unconsecrated altar at Bethel. During the dedication of this altar, where many in years to come were to be seduced into idolatrous practices, there had suddenly appeared a man of God from Judea, with words of condemnation for the sacrilegious proceedings. He had “cried against the altar,” declaring:
+
+“O altar, altar, thus saith the Lord; Behold, a child shall be born unto the house of David, Josiah by name; and upon thee shall he offer the priests of the high places that burn incense upon thee, and men's bones shall be burnt upon thee.” 1 Kings 13:2. This announcement had been accompanied by a sign that the word spoken was of the Lord.
+
+Three centuries had passed. During the reformation wrought by Josiah, the king found himself in Bethel, where stood this ancient altar. The prophecy uttered so many years before in the presence of Jeroboam, was now to be literally fulfilled.
+
+“The altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, and stamped it small to powder, and burned the grove.
+
+“And as Josiah turned himself, he spied the sepulchers that were there in the mount, and sent, and took the bones out of the sepulchers, and burned them upon the altar, and polluted it, according to the word of the Lord which the man of God proclaimed, who proclaimed these words.
+
+“Then he said, What title is that that I see? And the men of the city told him, It is the sepulcher of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Bethel. And he said, Let him alone; let no man move his bones. So they let his bones alone, with the bones of the prophet that came out of Samaria.” 2 Kings 23:15-18.
+
+On the southern slopes of Olivet, opposite the beautiful temple of Jehovah on Mount Moriah, were the shrines and images that had been placed there by Solomon to please his idolatrous wives. See 1 Kings 11:6-8. For upwards of three centuries the great, misshapen images had stood on the “Mount of Offense,” mute witnesses to the apostasy of Israel's wisest king. These, too, were removed and destroyed by Josiah.
+
+The king sought further to establish the faith of Judah in the God of their fathers by holding a great Passover feast, in harmony with the provisions made in the book of the law. Preparation was made by those having the sacred services in charge, and on the great day of the feast, offerings were freely made. “There was not holden such a Passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah.” 2 Kings 23:22. But the zeal of Josiah, acceptable though it was to God, could not atone for the sins of past generations; nor could the piety displayed by the king's followers effect a change of heart in many who stubbornly refused to turn from idolatry to the worship of the true God.

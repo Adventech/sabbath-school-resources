@@ -1,0 +1,16 @@
+---
+title: EGW Reading
+subtitle: Hezekiah PK 331-333a
+---
+
+### Chapter 28—Hezekiah
+
+In sharp contrast with the reckless rule of Ahaz was the reformation wrought during the prosperous reign of his son. Hezekiah came to the throne determined to do all in his power to save Judah from the fate that was overtaking the northern kingdom. The messages of the prophets offered no encouragement to halfway measures. Only by most decided reformation could the threatened judgments be averted.
+
+In the crisis, Hezekiah proved to be a man of opportunity. No sooner had he ascended the throne than he began to plan and to execute. He first turned his attention to the restoration of the temple services, so long neglected; and in this work he earnestly solicited the co-operation of a band of priests and Levites who had remained true to their sacred calling. Confident of their loyal support, he spoke with them freely concerning his desire to institute immediate and far-reaching reforms. “Our fathers have trespassed,” he confessed, “and done that which was evil in the eyes of the Lord our God, and have forsaken Him, and have turned away their faces from the habitation of the Lord.” “Now it is in mine heart to make a covenant with the Lord God of Israel, that His fierce wrath may turn away from us.” 2 Chronicles 29:6, 10.
+
+In a few well-chosen words the king reviewed the situation they were facing—the closed temple and the cessation of all services within its precincts; the flagrant idolatry practiced in the streets of the city and throughout the kingdom; the apostasy of multitudes who might have remained true to God had the leaders in Judah set before them a right example; and the decline of the kingdom and loss of prestige in the estimation of surrounding nations. The northern kingdom was rapidly crumbling to pieces; many were perishing by the sword; a multitude had already been carried away captive; soon Israel would fall completely into the hands of the Assyrians, and be utterly ruined; and this fate would surely befall Judah as well, unless God should work mightily through chosen representatives.
+
+Hezekiah appealed directly to the priests to unite with him in bringing about the necessary reforms. “Be not now negligent,” he exhorted them; “for the Lord hath chosen you to stand before Him, to serve Him, and that ye should minister unto Him, and burn incense.” “Sanctify now yourselves, and sanctify the house of the Lord God of your fathers.” Verses 11, 5.
+
+It was a time for quick action. The priests began at once. Enlisting the co-operation of others of their number who had not been present during this conference, they engaged heartily in the work of cleansing and sanctifying the temple. Because of the years of desecration and neglect, this was attended with many difficulties; but the priests and the Levites labored untiringly, and within a remarkably short time they were able to report their task completed. The temple doors had been repaired and thrown open; the sacred vessels had been assembled and put into place; and all was in readiness for the re-establishment of the sanctuary services.
