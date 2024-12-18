@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Law Given to Israel PP 305b-310a
+title: The Law Given to Israel PP 305b-310a
+subtitle: EGW Reading
 ---
 
 Jehovah revealed Himself, not alone in the awful majesty of the judge and lawgiver, but as the compassionate guardian of His people: “I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.” He whom they had already known as their Guide and Deliverer, who had brought them forth from Egypt, making a way for them through the sea, and overthrowing Pharaoh and his hosts, who had thus shown Himself to be above all the gods of Egypt—He it was who now spoke His law.

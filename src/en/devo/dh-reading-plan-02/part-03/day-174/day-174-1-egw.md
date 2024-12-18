@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Light Through Darkness PK 472d-474d
+title: Light Through Darkness PK 472d-474d
+subtitle: EGW Reading
 ---
 
 In confirmation of these assurances of deliverance and restoration, “the word of the Lord came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying,

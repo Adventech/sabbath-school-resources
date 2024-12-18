@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: David and Goliath PP 643-645c
+title: David and Goliath PP 643-645c
+subtitle: EGW Reading
 ---
 
-Chapter 63—David and Goliath
+### Chapter 63—David and Goliath
 
 This chapter is based on 1 Samuel 16:14-23; 17.
 

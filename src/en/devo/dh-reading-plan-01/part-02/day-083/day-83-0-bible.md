@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 14:15-15:21
+title: Ex 14:15-15:21
+subtitle: Bible Reading
 ---
 
 [[Ex 14:15-15:21]]

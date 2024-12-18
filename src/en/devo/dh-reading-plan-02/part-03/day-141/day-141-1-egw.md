@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Book of the Law PK 398d-400b
+title: The Book of the Law PK 398d-400b
+subtitle: EGW Reading
 ---
 
 At that time the prophetess Huldah was living in Jerusalem, near the temple. The mind of the king, filled with anxious foreboding, reverted to her, and he determined to inquire of the Lord through this chosen messenger to learn, if possible, whether by any means within his power he might save erring Judah, now on the verge of ruin.

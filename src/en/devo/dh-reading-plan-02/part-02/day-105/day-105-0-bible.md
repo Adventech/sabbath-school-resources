@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 14-16
+title: Isa 14-16
+subtitle: Bible Reading
 ---
 
 [[Isa 14-16]]

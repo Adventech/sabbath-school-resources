@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Neh 6:1-14
+title: 'Neh 6:1-14'
+subtitle: Bible Reading
 ---
 
 [[Neh 6:1-14]]

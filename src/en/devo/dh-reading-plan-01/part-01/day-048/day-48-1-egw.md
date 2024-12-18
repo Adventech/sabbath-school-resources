@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return to Canaan PP 209b-212
+title: The Return to Canaan PP 209b-212
+subtitle: EGW Reading
 ---
 
 There was one, however, of a widely different character—the elder son of Rachel, Joseph, whose rare personal beauty seemed but to reflect an inward beauty of mind and heart. Pure, active, and joyous, the lad gave evidence also of moral earnestness and firmness. He listened to his father's instructions, and loved to obey God. The qualities that afterward distinguished him in Egypt—gentleness, fidelity, and truthfulness—were already manifest in his daily life. His mother being dead, his affections clung the more closely to the father, and Jacob's heart was bound up in this child of his old age. He “loved Joseph more than all his children.”

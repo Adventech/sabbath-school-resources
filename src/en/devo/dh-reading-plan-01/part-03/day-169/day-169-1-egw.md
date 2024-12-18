@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Division of Canaan PP 511c-513c
+title: The Division of Canaan PP 511c-513c
+subtitle: EGW Reading
 ---
 
 Joshua was not, however, to continue the war. There was another work for the great leader to perform before he should relinquish the command of Israel. The whole land, both the parts already conquered and that which was yet unsubdued, was to be apportioned among the tribes. And it was the duty of each tribe to fully subdue its own inheritance. If the people should prove faithful to God, He would drive out their enemies from before them; and He promised to give them still greater possessions if they would but be true to His covenant.

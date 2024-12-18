@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Destruction of Sodom PP 159b-161b
+title: Destruction of Sodom PP 159b-161b
+subtitle: EGW Reading
 ---
 
 He had hoped to conceal his intention from the idlers at the gate by bringing the strangers to his home by a circuitous route; but their hesitation and delay, and his persistent urging, caused them to be observed, and before they had retired for the night, a lawless crowd gathered about the house. It was an immense company, youth and aged men alike inflamed by the vilest passions. The strangers had been making inquiry in regard to the character of the city, and Lot had warned them not to venture out of his door that night, when the hooting and jeers of the mob were heard, demanding that the men be brought out to them.

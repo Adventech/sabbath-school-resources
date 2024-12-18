@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 37
+title: Gen 37
+subtitle: Bible Reading
 ---
 
 [[Gen 37]]

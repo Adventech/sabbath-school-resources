@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Law and the Covenants PP 366c-373
+title: The Law and the Covenants PP 366c-373
+subtitle: EGW Reading
 ---
 
 Christ was not only the leader of the Hebrews in the wilderness—the Angel in whom was the name of Jehovah, and who, veiled in the cloudy pillar, went before the host—but it was He who gave the law to Israel. \[See Appendix, note 7.\] Amid the awful glory of Sinai, Christ declared in the hearing of all the people the ten precepts of His Father's law. It was He who gave to Moses the law engraved upon the tables of stone.

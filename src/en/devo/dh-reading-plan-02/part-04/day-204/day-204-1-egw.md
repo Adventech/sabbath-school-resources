@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Unseen Watcher PK 527c-530
+title: The Unseen Watcher PK 527c-530
+subtitle: EGW Reading
 ---
 
 Then the queen mother remembered Daniel, who, over half a century before, had made known to King Nebuchadnezzar the dream of the great image and its interpretation. “O king, live forever,” she said. “Let not thy thoughts trouble thee, nor let thy countenance be changed: there is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar ... made master of the magicians, astrologers, Chaldeans, and soothsayers; forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and showing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will show the interpretation.

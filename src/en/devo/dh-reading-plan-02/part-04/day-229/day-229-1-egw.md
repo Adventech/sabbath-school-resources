@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: In the Days of Queen Esther PK 600c-601
+title: In the Days of Queen Esther PK 600c-601
+subtitle: EGW Reading
 ---
 
 Through Haman the Agagite, an unscrupulous man high in authority in Medo-Persia, Satan worked at this time to counterwork the purposes of God. Haman cherished bitter malice against Mordecai, a Jew. Mordecai had done Haman no harm, but had simply refused to show him worshipful reverence. Scorning to “lay hands on Mordecai alone,” Haman plotted “to destroy all the Jews that were throughout the whole kingdom of Ahasuerus, even the people of Mordecai.” Esther 3:6.

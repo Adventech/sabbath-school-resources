@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “In the Spirit and Power of Elias” PK 177-183c
+title: “In the Spirit and Power of Elias” PK 177-183c
+subtitle: EGW Reading
 ---
 
 ### Chapter 14—“In the Spirit and Power of Elias”

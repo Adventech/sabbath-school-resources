@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Blessings and the Curses PP 499-504
+title: The Blessings and the Curses PP 499-504
+subtitle: EGW Reading
 ---
 
-Chapter 46—The Blessings and the Curses
+### Chapter 46—The Blessings and the Curses
 
 This chapter is based on Joshua 8.
 

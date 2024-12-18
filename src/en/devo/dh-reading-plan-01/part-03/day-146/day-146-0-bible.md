@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Num 33-35
+title: Num 33-35
+subtitle: Bible Reading
 ---
 
 [[Num 33-35]]

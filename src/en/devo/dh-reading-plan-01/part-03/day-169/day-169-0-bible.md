@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Josh 13-14
+title: Josh 13-14
+subtitle: Bible Reading
 ---
 
 [[Josh 13-14]]

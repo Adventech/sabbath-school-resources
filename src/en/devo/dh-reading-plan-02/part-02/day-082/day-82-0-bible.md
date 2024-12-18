@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: 2 Ki 5:1-14
+title: '2 Ki 5:1-14'
+subtitle: Bible Reading
 ---
 
 [[2 Ki 5:1-14]]

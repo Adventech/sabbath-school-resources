@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Zech 3
+title: Zech 3
+subtitle: Bible Reading
 ---
 
 [[Zech 3]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Nebuchadnezzar’s Dream PK 491-494b
+title: Nebuchadnezzar’s Dream PK 491-494b
+subtitle: EGW Reading
 ---
 
 ### Chapter 40—Nebuchadnezzar's Dream

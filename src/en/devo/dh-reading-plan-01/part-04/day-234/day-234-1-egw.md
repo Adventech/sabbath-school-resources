@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Reign of David PP 706c-708d
+title: The Reign of David PP 706c-708d
+subtitle: EGW Reading
 ---
 
 Upon David the divine rebuke accomplished its work. He was led to realize as he had never realized before the sacredness of the law of God and the necessity of strict obedience. The favor shown to the house of Obed-edom led David again to hope that the ark might bring a blessing to him and to his people.

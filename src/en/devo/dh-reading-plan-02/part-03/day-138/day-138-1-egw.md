@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Mannasseh and Josiah PK 387c-388
+title: Mannasseh and Josiah PK 387c-388
+subtitle: EGW Reading
 ---
 
 We must cherish and cultivate the faith of which prophets and apostles have testified—the faith that lays hold on the promises of God and waits for deliverance in His appointed time and way. The sure word of prophecy will meet its final fulfillment in the glorious advent of our Lord and Saviour Jesus Christ, as King of kings and Lord of lords. The time of waiting may seem long, the soul may be oppressed by discouraging circumstances, many in whom confidence has been placed may fall by the way; but with the prophet who endeavored to encourage Judah in a time of unparalleled apostasy, let us confidently declare, “The Lord is in His holy temple: let all the earth keep silence before Him.” Habakkuk 2:20. Let us ever hold in remembrance the cheering message, “The vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.... The just shall live by his faith.” Verses 3, 4.

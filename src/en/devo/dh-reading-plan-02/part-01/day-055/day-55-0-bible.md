@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ps 104
+title: Ps 104
+subtitle: Bible Reading
 ---
 
 [[Ps 104]]

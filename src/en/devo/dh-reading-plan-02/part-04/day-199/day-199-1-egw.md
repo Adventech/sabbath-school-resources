@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fiery Furnace PK 506b-509b
+title: The Fiery Furnace PK 506b-509b
+subtitle: EGW Reading
 ---
 
 The appointed day came, and a vast concourse from all “people, nations, and languages,” assembled on the plain of Dura. In harmony with the king's command, when the sound of music was heard, the whole company “fell down and worshipped the golden image.” On that eventful day the powers of darkness seemed to be gaining a signal triumph; the worship of the golden image bade fair to become connected permanently with the established forms of idolatry recognized as the state religion of the land. Satan hoped thereby to defeat God's purpose of making the presence of captive Israel in Babylon a means of blessing to all the nations of heathendom.

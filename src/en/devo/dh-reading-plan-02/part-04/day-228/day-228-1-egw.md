@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: In the Days of Queen Esther PK 598-600b
+title: In the Days of Queen Esther PK 598-600b
+subtitle: EGW Reading
 ---
 
 ### Chapter 49—In the Days of Queen Esther

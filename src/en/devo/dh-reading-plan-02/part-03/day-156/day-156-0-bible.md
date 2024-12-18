@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 19; 25
+title: Jer 19; 25
+subtitle: Bible Reading
 ---
 
 [[Jer 19; 25]]

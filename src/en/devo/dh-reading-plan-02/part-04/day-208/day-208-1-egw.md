@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Lions’ Den PK 539-544a
+title: The Lions’ Den PK 539-544a
+subtitle: EGW Reading
 ---
 
 ### Chapter 44—In the Lions’ Den

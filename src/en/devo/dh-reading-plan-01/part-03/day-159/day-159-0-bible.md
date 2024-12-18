@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ps 90
+title: Ps 90
+subtitle: Bible Reading
 ---
 
 [[Ps 90]]

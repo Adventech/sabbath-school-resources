@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Deliverance From Assyria PK 352d-354b
+title: Deliverance From Assyria PK 352d-354b
+subtitle: EGW Reading
 ---
 
 The Assyrian officers, sure of the strength of their disciplined forces, arranged for a conference with the chief men of Judah, during which they insolently demanded the surrender of the city. This demand was accompanied by blasphemous revilings against the God of the Hebrews. Because of the weakness and apostasy of Israel and Judah, the name of God was no longer feared among the nations, but had become a subject for continual reproach. See Isaiah 52:5.

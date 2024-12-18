@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Elisha’s Closing Ministry PK 258b-260c
+title: Elisha’s Closing Ministry PK 258b-260c
+subtitle: EGW Reading
 ---
 
 For a time after this, Israel was free from the attacks of the Syrians. But later, under the energetic direction of a determined king, Hazael, the Syrian hosts surrounded Samaria and besieged it. Never had Israel been brought into so great a strait as during this siege. The sins of the fathers were indeed being visited upon the children and the children's children. The horrors of prolonged famine were driving the king of Israel to desperate measures, when Elisha predicted deliverance the following day.

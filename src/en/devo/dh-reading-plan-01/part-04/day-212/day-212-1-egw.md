@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: David a Fugitive PP 649-652b
+title: David a Fugitive PP 649-652b
+subtitle: EGW Reading
 ---
 
-Chapter 64—David a Fugitive
+### Chapter 64—David a Fugitive
 
 This chapter is based on 1 Samuel 18 to 22.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Neh 13:23-31
+title: 'Neh 13:23-31'
+subtitle: Bible Reading
 ---
 
 [[Neh 13:23-31]]

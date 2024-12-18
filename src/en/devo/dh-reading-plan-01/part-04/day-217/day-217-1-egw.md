@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Magnanimity of David PP 660c-664b
+title: The Magnanimity of David PP 660c-664b
+subtitle: EGW Reading
 ---
 
 Still hunted by the king, David found no place of rest or security. At Keilah his brave band saved the town from capture by the Philistines, but they were not safe, even among the people whom they had delivered. From Keilah they repaired to the wilderness of Ziph.

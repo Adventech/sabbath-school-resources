@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Absalom PP 729e-735
+title: The Rebellion of Absalom PP 729e-735
+subtitle: EGW Reading
 ---
 
 The influence of David's listlessness and irresolution extended to his subordinates; negligence and delay characterized the administration of justice. Absalom artfully turned every cause of dissatisfaction to his own advantage. Day by day this man of noble mien might be seen at the gate of the city, where a crowd of suppliants waited to present their wrongs for redress. Absalom mingled with them and listened to their grievances, expressing sympathy with their sufferings and regret at the inefficiency of the government. Having thus listened to the story of a man of Israel, the prince would reply, “Thy matters are good and right; but there is no man deputed of the king to hear thee;” adding, “O that I were made judge in the land, that every man which hath any suit or cause might come unto me, and I would do him justice! And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him.”

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Exodus PP 284c-290
+title: The Exodus PP 284c-290
+subtitle: EGW Reading
 ---
 
 It was not an easy thing to hold the hosts of Israel in waiting before the Lord. Lacking discipline and self-control, they became violent and unreasonable. They expected speedily to fall into the hands of their oppressors, and their wailings and lamentations were loud and deep. The wonderful pillar of cloud had been followed as the signal of God to go forward; but now they questioned among themselves if it might not foreshadow some great calamity; for had it not led them on the wrong side of the mountain, into an impassable way? Thus the angel of God appeared to their deluded minds as the harbinger of disaster.

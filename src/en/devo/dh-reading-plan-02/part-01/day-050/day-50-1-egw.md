@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: National Apostasy PK 112b-113
+title: National Apostasy PK 112b-113
+subtitle: EGW Reading
 ---
 
 As the victorious armies of Judah and Benjamin were returning to Jerusalem, “the Spirit of God came upon Azariah the son of Oded: and he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The Lord is with you, while ye be with Him; and if ye seek Him, He will be found of you; but if ye forsake Him, He will forsake you.” “Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.” 2 Chronicles 15:1, 2, 7.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Abraham in Canaan PP 136c-138b
+title: Abraham in Canaan PP 136c-138b
+subtitle: EGW Reading
 ---
 
 Abraham gladly returned to his tents and his flocks, but his mind was disturbed by harassing thoughts. He had been a man of peace, so far as possible shunning enmity and strife; and with horror he recalled the scene of carnage he had witnessed. But the nations whose forces he had defeated would doubtless renew the invasion of Canaan, and make him the special object of their vengeance. Becoming thus involved in national quarrels, the peaceful quiet of his life would be broken. Furthermore, he had not entered upon the possession of Canaan, nor could he now hope for an heir, to whom the promise might be fulfilled.

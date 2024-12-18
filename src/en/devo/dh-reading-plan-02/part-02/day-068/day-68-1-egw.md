@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jehoshaphat PK 198d-201c
+title: Jehoshaphat PK 198d-201c
+subtitle: EGW Reading
 ---
 
 Toward the close of Jehoshaphat's reign the kingdom of Judah was invaded by an army before whose approach the inhabitants of the land had reason to tremble. “The children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle.” Tidings of this invasion reached the king through a messenger, who appeared with the startling word, “There cometh a great multitude against thee from beyond the sea on this side Syria: and, behold, they be in Hazazon-tamar, which is Engedi.” 2 Chronicles 20:1, 2.

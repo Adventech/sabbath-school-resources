@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rending of the Kingdom PK 93b-98
+title: The Rending of the Kingdom PK 93b-98
+subtitle: EGW Reading
 ---
 
 In continuing this course lay Rehoboam's opportunity to redeem in large measure the mistakes of the past and to restore confidence in his ability to rule with discretion. But the pen of inspiration has traced the sad record of Solomon's successor as one who failed to exert a strong influence for loyalty to Jehovah. Naturally headstrong, confident, self-willed, and inclined to idolatry, nevertheless, had he placed his trust wholly in God, he would have developed strength of character, steadfast faith, and submission to the divine requirements. But as time passed, the king put his trust in the power of position and in the strongholds he had fortified. Little by little he gave way to inherited weakness, until he threw his influence wholly on the side of idolatry. “It came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the Lord, and all Israel with him.” 2 Chronicles 12:1.

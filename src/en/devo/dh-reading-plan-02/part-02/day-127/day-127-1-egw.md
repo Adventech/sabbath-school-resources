@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Deliverance From Assyria PK 354c-355b
+title: Deliverance From Assyria PK 354c-355b
+subtitle: EGW Reading
 ---
 
 A messenger was dispatched to Isaiah to inform him of the outcome of the conference. “This day is a day of trouble, and of rebuke, and blasphemy,” was the word the king sent. “It may be the Lord thy God will hear all the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the Lord thy God hath heard: wherefore lift up thy prayer for the remnant that are left.” Verses 3, 4.

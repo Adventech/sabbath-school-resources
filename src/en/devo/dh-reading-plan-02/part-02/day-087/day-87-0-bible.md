@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jonah 1-2
+title: Jonah 1-2
+subtitle: Bible Reading
 ---
 
 [[Jonah 1-2]]

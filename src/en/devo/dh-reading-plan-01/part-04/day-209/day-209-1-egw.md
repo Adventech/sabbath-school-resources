@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Anointing of David PP 637-642
+title: The Anointing of David PP 637-642
+subtitle: EGW Reading
 ---
 
-Chapter 62—The Anointing of David
+### Chapter 62—The Anointing of David
 
 This chapter is based on 1 Samuel 16:1-13.
 

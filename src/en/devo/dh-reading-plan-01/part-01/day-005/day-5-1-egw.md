@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Creation PP 44-45
+title: The Creation PP 44-45
+subtitle: EGW Reading
 ---
 
 ### Chapter 2—The Creation

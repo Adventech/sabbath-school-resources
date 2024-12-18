@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Solomon PK 31e-34
+title: Solomon PK 31e-34
+subtitle: EGW Reading
 ---
 
 The wisdom that Solomon desired above riches, honor, or long life, God gave him. His petition for a quick mind, a large heart, and a tender spirit was granted. “God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the seashore. And Solomon's wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt. For he was wiser than all men; ... and his fame was in all nations round about.” 1 Kings 4:29-31.

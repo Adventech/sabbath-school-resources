@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Visions of Future Glory PK 722-727c
+title: Visions of Future Glory PK 722-727c
+subtitle: EGW Reading
 ---
 
 ### Chapter 60—Visions of Future Glory

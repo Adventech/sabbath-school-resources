@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Isaiah PK 306d-310
+title: The Call of Isaiah PK 306d-310
+subtitle: EGW Reading
 ---
 
 In the face of such conditions it is not surprising that when, during the last year of Uzziah's reign, Isaiah was called to bear to Judah God's messages of warning and reproof, he shrank from the responsibility. He well knew that he would encounter obstinate resistance. As he realized his own inability to meet the situation and thought of the stubbornness and unbelief of the people for whom he was to labor, his task seemed hopeless. Should he in despair relinquish his mission and leave Judah undisturbed to their idolatry? Were the gods of Nineveh to rule the earth in defiance of the God of heaven?

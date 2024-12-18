@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Job 40-42
+title: Job 40-42
+subtitle: Bible Reading
 ---
 
 [[Job 40-42]]

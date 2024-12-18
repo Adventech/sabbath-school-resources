@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Law Given to Israel PP 313c-314
+title: The Law Given to Israel PP 313c-314
+subtitle: EGW Reading
 ---
 
 Upon the seventh day, which was the Sabbath, Moses was called up into the cloud. The thick cloud opened in the sight of all Israel, and the glory of the Lord broke forth like devouring fire. “And Moses went into the midst of the cloud, and gat him up into the mount; and Moses was in the mount forty days and forty nights.” The forty days’ tarry in the mount did not include the six days of preparation. During the six days Joshua was with Moses, and together they ate of the manna and drank of “the brook that descended out of the mount.” But Joshua did not enter with Moses into the cloud. He remained without, and continued to eat and drink daily while awaiting the return of Moses, but Moses fasted during the entire forty days.

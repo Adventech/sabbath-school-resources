@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fiery Furnace PK 509c-513
+title: The Fiery Furnace PK 509c-513
+subtitle: EGW Reading
 ---
 
 How did that heathen king know what the Son of God was like? The Hebrew captives filling positions of trust in Babylon had in life and character represented before him the truth. When asked for a reason of their faith, they had given it without hesitation. Plainly and simply they had presented the principles of righteousness, thus teaching those around them of the God whom they worshiped. They had told of Christ, the Redeemer to come; and in the form of the fourth in the midst of the fire the king recognized the Son of God.

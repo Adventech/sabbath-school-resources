@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Exodus PP 281-284b
+title: The Exodus PP 281-284b
+subtitle: EGW Reading
 ---
 
-Chapter 25—The Exodus
+### Chapter 25—The Exodus
 
 This chapter is based on Exodus 12:34-51; 13-15.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Num 3-4
+title: Num 3-4
+subtitle: Bible Reading
 ---
 
 [[Num 3-4]]

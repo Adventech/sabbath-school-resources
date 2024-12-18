@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Neh 10
+title: Neh 10
+subtitle: Bible Reading
 ---
 
 [[Neh 10]]

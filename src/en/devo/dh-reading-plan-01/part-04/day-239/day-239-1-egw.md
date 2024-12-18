@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: David’s Sin and Repentance PP 717-720b
+title: David’s Sin and Repentance PP 717-720b
+subtitle: EGW Reading
 ---
 
-Chapter 71—David's Sin and Repentance
+### Chapter 71—David's Sin and Repentance
 
 This chapter is based on 2 Samuel 11; 12.
 

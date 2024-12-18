@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 12; 41; 44
+title: Isa 12; 41; 44
+subtitle: Bible Reading
 ---
 
 [[Isa 12; 41; 44]]

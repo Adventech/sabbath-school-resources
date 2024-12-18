@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: 2 Chr 36:15-16; Eze 12
+title: '2 Chr 36:15-16; Eze 12'
+subtitle: Bible Reading
 ---
 
 [[2 Chr 36:15-16; Eze 12]]

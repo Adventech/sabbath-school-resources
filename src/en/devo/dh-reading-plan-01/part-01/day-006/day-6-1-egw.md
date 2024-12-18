@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Creation PP 46-51
+title: The Creation PP 46-51
+subtitle: EGW Reading
 ---
 
 After the creation of Adam every living creature was brought before him to receive its name; he saw that to each had been given a companion, but among them “there was not found an help meet for him.” Among all the creatures that God had made on the earth, there was not one equal to man. And God said, “It is not good that the man should be alone; I will make him an help meet for him.” Man was not made to dwell in solitude; he was to be a social being. Without companionship the beautiful scenes and delightful employments of Eden would have failed to yield perfect happiness. Even communion with angels could not have satisfied his desire for sympathy and companionship. There was none of the same nature to love and to be loved.

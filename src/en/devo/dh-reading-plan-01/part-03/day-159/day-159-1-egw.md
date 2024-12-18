@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Death of Moses PP 478c-480
+title: The Death of Moses PP 478c-480
+subtitle: EGW Reading
 ---
 
 Had not the life of Moses been marred with that one sin, in failing to give God the glory of bringing water from the rock at Kadesh, he would have entered the Promised Land, and would have been translated to heaven without seeing death. But he was not long to remain in the tomb. Christ Himself, with the angels who had buried Moses, came down from heaven to call forth the sleeping saint. Satan had exulted at his success in causing Moses to sin against God, and thus come under the dominion of death. The great adversary declared that the divine sentence—“Dust thou art, and unto dust shalt thou return” (Genesis 3:19)—gave him possession of the dead. The power of the grave had never been broken, and all who were in the tomb he claimed as his captives, never to be released from his dark prison house.

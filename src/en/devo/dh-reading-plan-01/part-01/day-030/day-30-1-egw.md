@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Test of Faith PP 147c-153a
+title: The Test of Faith PP 147c-153a
+subtitle: EGW Reading
 ---
 
 God had called Abraham to be the father of the faithful, and his life was to stand as an example of faith to succeeding generations. But his faith had not been perfect. He had shown distrust of God in concealing the fact that Sarah was his wife, and again in his marriage with Hagar. That he might reach the highest standard, God subjected him to another test, the closest which man was ever called to endure. In a vision of the night he was directed to repair to the land of Moriah, and there offer up his son as a burnt offering upon a mountain that should be shown him.

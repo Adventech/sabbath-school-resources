@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return to Canaan PP 204-206c
+title: The Return to Canaan PP 204-206c
+subtitle: EGW Reading
 ---
 
 ### Chapter 19—The Return to Canaan

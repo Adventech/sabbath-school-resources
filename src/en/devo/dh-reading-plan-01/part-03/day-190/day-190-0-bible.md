@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Judg 19-21
+title: Judg 19-21
+subtitle: Bible Reading
 ---
 
 [[Judg 19-21]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Presumption of Saul PP 623-626
+title: The Presumption of Saul PP 623-626
+subtitle: EGW Reading
 ---
 
 God had permitted matters to be thus brought to a crisis that He might rebuke the perversity of Saul and teach His people a lesson of humility and faith. Because of Saul's sin in his presumptuous offering, the Lord would not give him the honor of vanquishing the Philistines. Jonathan, the king's son, a man who feared the Lord, was chosen as the instrument to deliver Israel. Moved by a divine impulse, he proposed to his armor-bearer that they should make a secret attack upon the enemy's camp. “It may be,” he urged, “that the Lord will work for us: for there is no restraint to the Lord to save by many or by few.”

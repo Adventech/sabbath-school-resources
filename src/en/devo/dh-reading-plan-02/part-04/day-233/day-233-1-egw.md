@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Ezra, the Priest and Scribe PK 612b-617
+title: Ezra, the Priest and Scribe PK 612b-617
+subtitle: EGW Reading
 ---
 
 In the issuing of this decree by Artaxerxes, God's providence was manifest. Some discerned this and gladly took advantage of the privilege of returning under circumstances so favorable. A general place of meeting was named, and at the appointed time those who were desirous of going to Jerusalem assembled for the long journey. “I gathered them together to the river that runneth to Ahava,” Ezra says, “and there abode we in tents three days.” Ezra 8:15.

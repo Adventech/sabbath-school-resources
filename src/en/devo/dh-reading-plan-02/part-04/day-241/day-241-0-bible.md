@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Neh 5:1-11
+title: 'Neh 5:1-11'
+subtitle: Bible Reading
 ---
 
 [[Neh 5:1-11]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Idolatry at Sinai PP 328d-330
+title: Idolatry at Sinai PP 328d-330
+subtitle: EGW Reading
 ---
 
 God did not rebuke his request as presumptuous; but the gracious words were spoken, “I will make all My goodness pass before thee.” The unveiled glory of God, no man in this mortal state can look upon and live; but Moses was assured that he should behold as much of the divine glory as he could endure. Again he was summoned to the mountain summit; then the hand that made the world, that hand that “removeth the mountains, and they know not” (Job 9:5), took this creature of the dust, this mighty man of faith, and placed him in a cleft of the rock, while the glory of God and all His goodness passed before him.

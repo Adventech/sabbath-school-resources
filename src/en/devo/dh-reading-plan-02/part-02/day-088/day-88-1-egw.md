@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Nineveh, That Great City” PK 269c-273a
+title: “Nineveh, That Great City” PK 269c-273a
+subtitle: EGW Reading
 ---
 
 “Then I said, I am cast out of Thy sight;\

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Heathen Plots PK 653-656
+title: Heathen Plots PK 653-656
+subtitle: EGW Reading
 ---
 
 ### Chapter 55—Heathen Plots

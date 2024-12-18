@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: 1 Chr 26-27
+title: 1 Chr 26-27
+subtitle: Bible Reading
 ---
 
 [[1 Chr 26-27]]

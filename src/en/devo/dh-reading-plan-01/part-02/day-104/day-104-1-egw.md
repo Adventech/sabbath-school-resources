@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Tabernacle and Its Services PP 348c-350a
+title: The Tabernacle and Its Services PP 348c-350a
+subtitle: EGW Reading
 ---
 
 Beyond the inner veil was the holy of holies, where centered the symbolic service of atonement and intercession, and which formed the connecting link between heaven and earth. In this apartment was the ark, a chest of acacia wood, overlaid within and without with gold, and having a crown of gold about the top. It was made as a depository for the tables of stone, upon which God Himself had inscribed the Ten Commandments. Hence it was called the ark of God's testament, or the ark of the covenant, since the Ten Commandments were the basis of the covenant made between God and Israel.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temple and Its Dedication PK 38b-39a
+title: The Temple and Its Dedication PK 38b-39a
+subtitle: EGW Reading
 ---
 
 At the appointed time the hosts of Israel, with richly clad representatives from many foreign nations, assembled in the temple courts. The scene was one of unusual splendor. Solomon, with the elders of Israel and the most influential men among the people, had returned from another part of the city, whence they had brought the ark of the testament. From the sanctuary on the heights of Gibeon had been transferred the ancient “tabernacle of the congregation, and all the holy vessels that were in the tabernacle” (2 Chronicles 5:5); and these cherished reminders of the earlier experiences of the children of Israel during their wanderings in the wilderness and their conquest of Canaan, now found a permanent home in the splendid building that had been erected to take the place of the portable structure.

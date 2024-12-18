@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Judg 7
+title: Judg 7
+subtitle: Bible Reading
 ---
 
 [[Judg 7]]

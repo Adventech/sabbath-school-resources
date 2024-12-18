@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph and His Brothers PP 224-227a
+title: Joseph and His Brothers PP 224-227a
+subtitle: EGW Reading
 ---
 
 ### Chapter 21—Joseph and His Brothers

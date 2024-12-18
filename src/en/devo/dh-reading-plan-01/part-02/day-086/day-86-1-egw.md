@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: From the Red Sea to Sinai PP 297d-300b
+title: From the Red Sea to Sinai PP 297d-300b
+subtitle: EGW Reading
 ---
 
 After leaving the wilderness of Sin, the Israelites encamped in Rephidim. Here there was no water, and again they distrusted the providence of God. In their blindness and presumption the people came to Moses with the demand, “Give us water that we may drink.” But his patience failed not. “Why chide ye with me?” he said; “wherefore do ye tempt the Lord?” They cried in anger, “Wherefore is this, that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?” When they had been so abundantly supplied with food, they remembered with shame their unbelief and murmurings, and promised to trust the Lord in the future; but they soon forgot their promise, and failed at the first trial of their faith. The pillar of cloud that was leading them seemed to veil a fearful mystery. And Moses—who was he? they questioned, and what could be his object in bringing them from Egypt? Suspicion and distrust filled their hearts, and they boldly accused him of designing to kill them and their children by privations and hardships that he might enrich himself with their possessions. In the tumult of rage and indignation they were about to stone him.

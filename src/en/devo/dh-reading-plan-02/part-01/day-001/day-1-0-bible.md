@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ps 65-66; 68-71; 77; 86
+title: Ps 65-66; 68-71; 77; 86
+subtitle: Bible Reading
 ---
 
 [[Ps 65-66; 68-71; 77; 86]]

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Neh 8
+title: Neh 8
+subtitle: Bible Reading
 ---
 
 [[Neh 8]]

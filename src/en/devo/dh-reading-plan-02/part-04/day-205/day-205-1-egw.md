@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Unseen Watcher PK 531-532b
+title: The Unseen Watcher PK 531-532b
+subtitle: EGW Reading
 ---
 
 More than a century before, Inspiration had foretold that “the night of ... pleasure” during which king and counselors would vie with one another in blasphemy against God, would suddenly be changed into a season of fear and destruction. And now, in rapid succession, momentous events followed one another exactly as had been portrayed in the prophetic scriptures years before the principals in the drama had been born.

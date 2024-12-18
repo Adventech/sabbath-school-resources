@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joshua and the Angel PK 582-587b
+title: Joshua and the Angel PK 582-587b
+subtitle: EGW Reading
 ---
 
 ### Chapter 47—Joshua and the Angel

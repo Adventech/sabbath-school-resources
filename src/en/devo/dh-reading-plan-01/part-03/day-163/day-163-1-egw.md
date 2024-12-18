@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of Jericho PP 491d-494a
+title: The Fall of Jericho PP 491d-494a
+subtitle: EGW Reading
 ---
 
 All the inhabitants of the city, with every living thing that it contained, “both man and woman, young and old, and ox, and sheep, and ass,” were put to the sword. Only faithful Rahab, with her household, was spared, in fulfillment of the promise of the spies. The city itself was burned; its palaces and temples, its magnificent dwellings with all their luxurious appointments, the rich draperies and the costly garments, were given to the flames. That which could not be destroyed by fire, “the silver, and the gold, and the vessels of brass and of iron,” was to be devoted to the service of the tabernacle. The very site of the city was accursed; Jericho was never to be rebuilt as a stronghold; judgments were threatened upon anyone who should presume to restore the walls that divine power had cast down. The solemn declaration was made in the presence of all Israel, “Cursed be the man before the Lord, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his first-born, and in his youngest son shall he set up the gates of it.”

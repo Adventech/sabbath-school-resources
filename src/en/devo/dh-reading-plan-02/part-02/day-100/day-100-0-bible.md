@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Hosea 1-3
+title: Hosea 1-3
+subtitle: Bible Reading
 ---
 
 [[Hosea 1-3]]

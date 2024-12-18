@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: From Jezreel to Horeb PK 155-159c
+title: From Jezreel to Horeb PK 155-159c
+subtitle: EGW Reading
 ---
 
 ### Chapter 12—From Jezreel to Horeb

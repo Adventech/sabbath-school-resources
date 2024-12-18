@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Abraham in Canaan PP 132-136b
+title: Abraham in Canaan PP 132-136b
+subtitle: EGW Reading
 ---
 
 ### Chapter 12—Abraham in Canaan

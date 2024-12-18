@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Korah PP 395-398c
+title: The Rebellion of Korah PP 395-398c
+subtitle: EGW Reading
 ---
 
-Chapter 35—The Rebellion of Korah
+### Chapter 35—The Rebellion of Korah
 
 This chapter is based on Numbers 16 and 17.
 

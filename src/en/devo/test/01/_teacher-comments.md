@@ -3,6 +3,8 @@ title:  Teacher Comments
 date:  05/04/2024
 ---
 
+{#[en/devo/test/01/_video.md]}
+
 #### Part I: Overview
 
 Key Text: Revelation 12:7, 8

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Approaching Doom PK 427c-430b
+title: Approaching Doom PK 427c-430b
+subtitle: EGW Reading
 ---
 
 Like sweetest music these promises of deliverance fell upon the ears of those who were steadfast in their worship of Jehovah. In the homes of the high and the lowly, where the counsels of a covenant-keeping God were still held in reverence, the words of the prophet were repeated again and again. Even the children were mightily stirred, and upon their young and receptive minds lasting impressions were made.

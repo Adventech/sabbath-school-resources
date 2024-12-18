@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “The House of Israel” PK 703-706b
+title: “The House of Israel” PK 703-706b
+subtitle: EGW Reading
 ---
 
 ### Chapter 59—“The House of Israel”

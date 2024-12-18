@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Crossing the Jordan PP 484b-486
+title: Crossing the Jordan PP 484b-486
+subtitle: EGW Reading
 ---
 
 At the appointed time began the onward movement, the ark, borne upon the shoulders of the priests, leading the van. The people had been directed to fall back, so that there was a vacant space of more than half a mile about the ark. All watched with deep interest as the priests advanced down the bank of the Jordan. They saw them with the sacred ark move steadily forward toward the angry, surging stream, till the feet of the bearers were dipped into the waters. Then suddenly the tide above was swept back, while the current below flowed on, and the bed of the river was laid bare.

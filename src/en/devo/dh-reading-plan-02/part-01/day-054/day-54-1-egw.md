@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Voice of Stern Rebuke PK 129-132
+title: The Voice of Stern Rebuke PK 129-132
+subtitle: EGW Reading
 ---
 
 ### Chapter 10—The Voice of Stern Rebuke

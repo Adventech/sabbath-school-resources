@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Twelve Spies PP 387-390c
+title: The Twelve Spies PP 387-390c
+subtitle: EGW Reading
 ---
 
-Chapter 34—The Twelve Spies
+### Chapter 34—The Twelve Spies
 
 This chapter is based on Numbers 13 and 14.
 

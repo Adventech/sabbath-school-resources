@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last Years of David PP 752b-753
+title: The Last Years of David PP 752b-753
+subtitle: EGW Reading
 ---
 
 “Wherefore David blessed the Lord before all the congregation: and David said, Blessed be Thou, Lord God of Israel our father, forever and ever. Thine, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is Thine; Thine is the kingdom, O Lord, and Thou art exalted as head above all. Both riches and honor come of Thee, and Thou reignest over all; and in Thine hand is power and might; and in Thine hand it is to make great, and to give strength unto all. Now therefore, our God, we thank Thee, and praise Thy glorious name. But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of Thee, and of Thine own have we given Thee. For we are strangers before Thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding. O Lord our God, all this store that we have prepared to build Thee an house for Thine holy name cometh of Thine hand, and is all Thine own. I know also, my God, that Thou triest the heart, and hast pleasure in uprightness.

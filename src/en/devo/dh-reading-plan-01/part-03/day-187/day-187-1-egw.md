@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Samson PP 562c-564c
+title: Samson PP 562c-564c
+subtitle: EGW Reading
 ---
 
 The divine promise to Manoah was in due time fulfilled in the birth of a son, to whom the name of Samson was given. As the boy grew up it became evident that he possessed extraordinary physical strength. This was not, however, as Samson and his parents well knew, dependent upon his well-knit sinews, but upon his condition as a Nazarite, of which his unshorn hair was a symbol. Had Samson obeyed the divine commands as faithfully as his parents had done, his would have been a nobler and happier destiny. But association with idolaters corrupted him. The town of Zorah being near the country of the Philistines, Samson came to mingle with them on friendly terms. Thus in his youth intimacies sprang up, the influence of which darkened his whole life. A young woman dwelling in the Philistine town of Timnath engaged Samson's affections, and he determined to make her his wife. To his God-fearing parents, who endeavored to dissuade him from his purpose, his only answer was, “She pleaseth me well.” The parents at last yielded to his wishes, and the marriage took place.

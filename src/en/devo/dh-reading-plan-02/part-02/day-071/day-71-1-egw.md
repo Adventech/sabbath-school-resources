@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of the House of Ahab PK 205d-207d
+title: The Fall of the House of Ahab PK 205d-207d
+subtitle: EGW Reading
 ---
 
 Jezebel soon learned the particulars, and, indignant that anyone should refuse the request of the king, she assured Ahab that he need no longer be sad. “Dost thou now govern the kingdom of Israel?” she said. “Arise, and eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite.”

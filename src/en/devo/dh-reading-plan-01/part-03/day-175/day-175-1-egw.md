@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Tithes and Offerings PP 525-529
+title: Tithes and Offerings PP 525-529
+subtitle: EGW Reading
 ---
 
-Chapter 50—Tithes and Offerings
+### Chapter 50—Tithes and Offerings
 
 In the Hebrew economy one tenth of the income of the people was set apart to support the public worship of God. Thus Moses declared to Israel: “All the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the Lord's: it is holy unto the Lord.” “And concerning the tithe of the herd, or of the flock, ... the tenth shall be holy unto the Lord.” Leviticus 27:30, 32.
 

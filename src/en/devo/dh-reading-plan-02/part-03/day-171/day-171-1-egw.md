@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Carried Captive Into Babylon PK 461b-463b
+title: Carried Captive Into Babylon PK 461b-463b
+subtitle: EGW Reading
 ---
 
 The sorrow of the prophet over the utter perversity of those who would have been the spiritual light of the world, his sorrow over the fate of Zion and of the people carried captive to Babylon, is revealed in the lamentations he has left on record as a memorial of the folly of turning from the counsels of Jehovah to human wisdom. Amid the ruin wrought, Jeremiah could still declare, “It is of the Lord's mercies that we are not consumed;” and his constant prayer was, “Let us search and try our ways, and turn again to the Lord.” Lamentations 3:22, 40. While Judah was still a kingdom among the nations, he had inquired of his God, “Hast Thou utterly rejected Judah? hath Thy soul loathed Zion?” and he had made bold to plead, “Do not abhor us, for Thy name's sake.” Jeremiah 14:19, 21. The prophet's absolute faith in God's eternal purpose to bring order out of confusion, and to demonstrate to the nations of earth and to the entire universe His attributes of justice and love, now led him to plead confidently in behalf of those who might turn from evil to righteousness.

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Prov 21-24
+title: Prov 21-24
+subtitle: Bible Reading
 ---
 
 [[Prov 21-24]]

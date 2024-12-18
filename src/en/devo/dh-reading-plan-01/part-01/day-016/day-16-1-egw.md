@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Flood PP 97d-101a
+title: The Flood PP 97d-101a
+subtitle: EGW Reading
 ---
 
 The period of their probation was about to expire. Noah had faithfully followed the instructions which he had received from God. The ark was finished in every part as the Lord had directed, and was stored with food for man and beast. And now the servant of God made his last solemn appeal to the people. With an agony of desire that words cannot express, he entreated them to seek a refuge while it might be found. Again they rejected his words, and raised their voices in jest and scoffing. Suddenly a silence fell upon the mocking throng. Beasts of every description, the fiercest as well as the most gentle, were seen coming from mountain and forest and quietly making their way toward the ark. A noise as of a rushing wind was heard, and lo, birds were flocking from all directions, their numbers darkening the heavens, and in perfect order they passed to the ark. Animals obeyed the command of God, while men were disobedient. Guided by holy angels, they “went in two and two unto Noah into the ark,” and the clean beasts by sevens. The world looked on in wonder, some in fear. Philosophers were called upon to account for the singular occurrence, but in vain. It was a mystery which they could not fathom. But men had become so hardened by their persistent rejection of light that even this scene produced but a momentary impression. As the doomed race beheld the sun shining in its glory, and the earth clad in almost Eden beauty, they banished their rising fears by boisterous merriment, and by their deeds of violence they seemed to invite upon themselves the visitation of the already awakened wrath of God.

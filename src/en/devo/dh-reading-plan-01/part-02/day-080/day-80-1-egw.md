@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Passover PP 273-278b
+title: The Passover PP 273-278b
+subtitle: EGW Reading
 ---
 
-Chapter 24—The Passover
+### Chapter 24—The Passover
 
 This chapter is based on Exodus 11; 12:1-32.
 

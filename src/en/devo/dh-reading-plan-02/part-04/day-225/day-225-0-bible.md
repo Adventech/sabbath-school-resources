@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ezra 6:13-22; Zech 4
+title: 'Ezra 6:13-22; Zech 4'
+subtitle: Bible Reading
 ---
 
 [[Ezra 6:13-22; Zech 4]]

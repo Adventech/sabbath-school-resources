@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Solomon’s Repentance PK 78b-79a
+title: Solomon’s Repentance PK 78b-79a
+subtitle: EGW Reading
 ---
 
 In gratitude Solomon acknowledged the power and the loving-kindness of the One who is “higher than the highest” (Ecclesiastes 5:8); in penitence he began to retrace his steps toward the exalted plane of purity and holiness from whence he had fallen so far. He could never hope to escape the blasting results of sin, he could never free his mind from all remembrance of the self-indulgent course he had been pursuing, but he would endeavor earnestly to dissuade others from following after folly. He would humbly confess the error of his ways and lift his voice in warning lest others be lost irretrievably because of the influences for evil he had been setting in operation.

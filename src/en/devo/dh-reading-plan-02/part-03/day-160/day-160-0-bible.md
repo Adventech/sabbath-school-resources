@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 27-28
+title: Jer 27-28
+subtitle: Bible Reading
 ---
 
 [[Jer 27-28]]

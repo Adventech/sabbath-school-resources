@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Idolatry at Sinai PP 319d-326a
+title: Idolatry at Sinai PP 319d-326a
+subtitle: EGW Reading
 ---
 
 As Moses and Joshua came down from the mount, the former bearing the “tables of the testimony,” they heard the shouts and outcries of the excited multitude, evidently in a state of wild uproar. To Joshua the soldier, the first thought was of an attack from their enemies. “There is a noise of war in the camp,” he said. But Moses judged more truly the nature of the commotion. The sound was not that of combat, but of revelry. “It is not the voice of them that shout for mastery, neither is it the voice of them that cry for being overcome; but the noise of them that sing do I hear.”

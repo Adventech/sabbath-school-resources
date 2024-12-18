@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 13-14
+title: Gen 13-14
+subtitle: Bible Reading
 ---
 
 [[Gen 13-14]]

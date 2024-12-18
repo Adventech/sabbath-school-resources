@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 50
+title: Gen 50
+subtitle: Bible Reading
 ---
 
 [[Gen 50]]

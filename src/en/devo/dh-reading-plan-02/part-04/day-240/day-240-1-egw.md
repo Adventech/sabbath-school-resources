@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Builders on the Wall PK 642b-645
+title: The Builders on the Wall PK 642b-645
+subtitle: EGW Reading
 ---
 
 The builders were soon beset by more active opposition. They were compelled to guard continually against the plots of their adversaries, who, professing friendliness, sought in various ways to cause confusion and perplexity, and to arouse distrust. They endeavored to destroy the courage of the Jews; they formed conspiracies to draw Nehemiah into their toils; and falsehearted Jews were found ready to aid the treacherous undertaking. The report was spread that Nehemiah was plotting against the Persian monarch, intending to exalt himself as a king over Israel, and that all who aided him were traitors.

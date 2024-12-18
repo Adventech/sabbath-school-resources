@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 32:1-14
+title: Ex 32:1-14
+subtitle: Bible Reading
 ---
 
 [[Ex 32:1-14]]

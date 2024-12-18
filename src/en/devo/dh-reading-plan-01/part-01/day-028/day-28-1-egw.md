@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Abraham in Canaan PP 140d-144
+title: Abraham in Canaan PP 140d-144
+subtitle: EGW Reading
 ---
 
 Of Abraham it is written that “he was called the friend of God,” “the father of all them that believe.” James 2:23; Romans 4:11. The testimony of God concerning this faithful patriarch is, “Abraham obeyed My voice, and kept My charge, My commandments, My statutes, and My laws.” And again, “I know him, that he will command his children and his household after him, and they shall keep the way of the Lord, to do justice and judgment; that the Lord may bring upon Abraham that which he hath spoken of him.” It was a high honor to which Abraham was called, that of being the father of the people who for centuries were the guardians and preservers of the truth of God for the world—of that people through whom all the nations of the earth should be blessed in the advent of the promised Messiah. But He who called the patriarch judged him worthy. It is God that speaks. He who understands the thoughts afar off, and places the right estimate upon men, says, “I know him.” There would be on the part of Abraham no betraying of the truth for selfish purposes. He would keep the law and deal justly and righteously. And he would not only fear the Lord himself, but would cultivate religion in his home. He would instruct his family in righteousness. The law of God would be the rule in his household.

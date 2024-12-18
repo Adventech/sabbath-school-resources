@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Zech 5-9
+title: Zech 5-9
+subtitle: Bible Reading
 ---
 
 [[Zech 5-9]]

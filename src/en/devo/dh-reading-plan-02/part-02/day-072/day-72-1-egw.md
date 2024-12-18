@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of the House of Ahab PK 207e-212b
+title: The Fall of the House of Ahab PK 207e-212b
+subtitle: EGW Reading
 ---
 
 It was less than three years later that King Ahab met his death at the hands of the Syrians. Ahaziah, his successor, “did evil in the sight of the Lord, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam.” “He served Baal, and worshiped him, and provoked to anger the Lord God of Israel,” as his father Ahab had done. 1 Kings 22:52, 53. But judgments followed close upon the sins of the rebellious king. A disastrous war with Moab, and then an accident by which his own life was threatened, attested to God's wrath against him.

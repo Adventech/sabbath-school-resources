@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The First King of Israel PP 608b-611a
+title: The First King of Israel PP 608b-611a
+subtitle: EGW Reading
 ---
 
 Though a monarchical form of government for Israel had been foretold in prophecy, God had reserved to Himself the right to choose their king. The Hebrews so far respected the authority of God as to leave the selection entirely to Him. The choice fell upon Saul, a son of Kish, of the tribe of Benjamin.

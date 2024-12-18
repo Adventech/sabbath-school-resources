@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Isaiah PK 303-305a
+title: The Call of Isaiah PK 303-305a
+subtitle: EGW Reading
 ---
 
 ### Chapter 25—The Call of Isaiah

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Amos 1-4
+title: Amos 1-4
+subtitle: Bible Reading
 ---
 
 [[Amos 1-4]]

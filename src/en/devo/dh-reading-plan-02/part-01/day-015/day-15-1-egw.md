@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temple and Its Dedication PK 35c-36
+title: The Temple and Its Dedication PK 35c-36
+subtitle: EGW Reading
 ---
 
 Simultaneously with the preparation of wood and stone, to which task many thousands were bending their energies, the manufacture of the furnishings for the temple was steadily progressing under the leadership of Hiram of Tyre, “a cunning man, endued with understanding, ... skillful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson.” 2 Chronicles 2:13, 14.

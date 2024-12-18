@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 20
+title: Gen 20
+subtitle: Bible Reading
 ---
 
 [[Gen 20]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of the House of Ahab PK 204-205c
+title: The Fall of the House of Ahab PK 204-205c
+subtitle: EGW Reading
 ---
 
 ### Chapter 16—The Fall of the House of Ahab

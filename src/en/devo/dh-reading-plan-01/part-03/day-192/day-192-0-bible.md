@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: 1 Sam 1:1-23
+title: 1 Sam 1:1-23
+subtitle: Bible Reading
 ---
 
 [[1 Sam 1:1-23]]

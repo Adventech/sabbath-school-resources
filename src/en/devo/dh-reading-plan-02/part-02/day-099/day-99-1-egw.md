@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Destroyed for Lack of Knowledge” PK 293-297
+title: “Destroyed for Lack of Knowledge” PK 293-297
+subtitle: EGW Reading
 ---
 
 ### Chapter 24—“Destroyed for Lack of Knowledge”

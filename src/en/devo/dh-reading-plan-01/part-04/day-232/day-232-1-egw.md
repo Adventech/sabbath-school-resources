@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David Called to the Throne PP 699d-702
+title: David Called to the Throne PP 699d-702
+subtitle: EGW Reading
 ---
 
 David, upon hearing of this treacherous assault, exclaimed, “I and my kingdom are guiltless before the Lord forever from the blood of Abner the son of Ner. Let it rest on the head of Joab; and on all his father's house.” In view of the unsettled state of the kingdom, and the power and position of the murderers—for Joab's brother Abishai had been united with him—David could not visit the crime with just retribution, yet he publicly manifested his abhorrence of the bloody deed. The burial of Abner was attended with public honors. The army, with Joab at their head, were required to take part in the services of mourning, with rent garments and clothed in sackcloth. The king manifested his grief by keeping a fast upon the day of burial; he followed the bier as chief mourner; and at the grave he pronounced an elegy which was a cutting rebuke of the murderers. “The king lamented over Abner, and said:

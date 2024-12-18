@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 409d-411a
+title: Jeremiah PK 409d-411a
+subtitle: EGW Reading
 ---
 
 As a wise master builder, Jeremiah at the very beginning of his lifework sought to encourage the men of Judah to lay the foundations of their spiritual life broad and deep, by making thorough work of repentance. Long had they been building with material likened by the apostle Paul to wood, hay, and stubble, and by Jeremiah himself to dross. “Refuse silver shall men call them,” he declared of the impenitent nation, “because the Lord hath rejected them.” Jeremiah 6:30, margin. Now they were urged to begin building wisely and for eternity, casting aside the rubbish of apostasy and unbelief, and using as foundation material the pure gold, the refined silver, the precious stones—faith and obedience and good works—which alone are acceptable in the sight of a holy God.

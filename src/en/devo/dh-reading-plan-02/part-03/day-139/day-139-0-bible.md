@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Zeph 1-3
+title: Zeph 1-3
+subtitle: Bible Reading
 ---
 
 [[Zeph 1-3]]

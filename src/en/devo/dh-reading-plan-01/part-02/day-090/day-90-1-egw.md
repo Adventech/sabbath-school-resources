@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Law Given to Israel PP 310b-311d
+title: The Law Given to Israel PP 310b-311d
+subtitle: EGW Reading
 ---
 
 The minds of the people, blinded and debased by slavery and heathenism, were not prepared to appreciate fully the far-reaching principles of God's ten precepts. That the obligations of the Decalogue might be more fully understood and enforced, additional precepts were given, illustrating and applying the principles of the Ten Commandments. These laws were called judgments, both because they were framed in infinite wisdom and equity and because the magistrates were to give judgment according to them. Unlike the Ten Commandments, they were delivered privately to Moses, who was to communicate them to the people.

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 4:1-16
+title: Gen 4:1-16
+subtitle: Bible Reading
 ---
 
 [[Gen 4:1-16]]

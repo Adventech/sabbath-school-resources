@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 23:20-24:18
+title: Ex 23:20-24:18
+subtitle: Bible Reading
 ---
 
 [[Ex 23:20-24:18]]

@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: God’s Care for the Poor PP 530-536
+title: God’s Care for the Poor PP 530-536
+subtitle: EGW Reading
 ---
 
-Chapter 51—God's Care for the Poor
+### Chapter 51—God's Care for the Poor
 
 To promote the assembling of the people for religious service, as well as to provide for the poor, a second tithe of all the increase was required. Concerning the first tithe, the Lord had declared, “I have given the children of Levi _all the tenth_ in Israel.” Numbers 18:21. But in regard to the second He commanded, “Thou shalt eat before the Lord thy God, in the place which He shall choose to place His name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the Lord thy God always.” Deuteronomy 14:23, 29; 16:11-14. This tithe, or its equivalent in money, they were for two years to bring to the place where the sanctuary was established. After presenting a thank offering to God, and a specified portion to the priest, the offerers were to use the remainder for a religious feast, in which the Levite, the stranger, the fatherless, and the widow should participate. Thus provision was made for the thank offerings and feasts at the yearly festivals, and the people were drawn to the society of the priests and Levites, that they might receive instruction and encouragement in the service of God.
 

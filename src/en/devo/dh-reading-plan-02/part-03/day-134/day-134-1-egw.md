@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hope for the Heathen PK 374c-376a
+title: Hope for the Heathen PK 374c-376a
+subtitle: EGW Reading
 ---
 
 Jehovah declared to the prophet that He would send His witnesses “unto the nations, to Tarshish, Pul, and Lud, ... to Tubal, and Javan, to the isles afar off.” Isaiah 66:19.

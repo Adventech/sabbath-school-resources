@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Conquest of Bashan PP 435b-437
+title: The Conquest of Bashan PP 435b-437
+subtitle: EGW Reading
 ---
 
 The Israelites crossed the river Arnon and advanced upon the foe. An engagement took place, in which the armies of Israel were victorious; and, following up the advantage gained, they were soon in possession of the country of the Amorites. It was the Captain of the Lord's host who vanquished the enemies of His people; and He would have done the same thirty-eight years before had Israel trusted in Him .

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hope for the Heathen PK 373c-374b
+title: Hope for the Heathen PK 373c-374b
+subtitle: EGW Reading
 ---
 
 This glorious Light of the world was to bring salvation to every nation, kindred, tongue, and people. Of the work before Him, the prophet heard the eternal Father declare: “It is a light thing that Thou shouldest be My servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give Thee for a light to the Gentiles, that Thou mayest be My salvation unto the end of the earth.” “In an acceptable time have I heard Thee, and in a day of salvation have I helped Thee: and I will preserve Thee, and give Thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages; that Thou mayest say to the prisoners, Go forth; to them that are in darkness, Show yourselves.” “Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.” Isaiah 49:6, 8, 9, 12.

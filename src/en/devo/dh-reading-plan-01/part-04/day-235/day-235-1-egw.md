@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Reign of David PP 708e-713a
+title: The Reign of David PP 708e-713a
+subtitle: EGW Reading
 ---
 
 “The Lord of hosts,\

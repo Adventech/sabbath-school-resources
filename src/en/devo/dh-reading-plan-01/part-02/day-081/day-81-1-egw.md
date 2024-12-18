@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Passover PP 278c-280
+title: The Passover PP 278c-280
+subtitle: EGW Reading
 ---
 
 Before obtaining freedom, the bondmen must show their faith in the great deliverance about to be accomplished. The token of blood must be placed upon their houses, and they must separate themselves and their families from the Egyptians, and gather within their own dwellings. Had the Israelites disregarded in any particular the directions given them, had they neglected to separate their children from the Egyptians, had they slain the lamb, but failed to strike the doorpost with blood, or had any gone out of their houses, they would not have been secure. They might have honestly believed that they had done all that was necessary, but their sincerity would not have saved them. All who failed to heed the Lord's directions would lose their first-born by the hand of the destroyer.

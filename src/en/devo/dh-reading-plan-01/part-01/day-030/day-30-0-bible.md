@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 21:22-22:14
+title: Gen 21:22-22:14
+subtitle: Bible Reading
 ---
 
 [[Gen 21:22-22:14]]

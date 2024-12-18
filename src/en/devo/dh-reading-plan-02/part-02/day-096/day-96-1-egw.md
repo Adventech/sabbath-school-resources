@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Assyrian Captivity PK 287c-292
+title: The Assyrian Captivity PK 287c-292
+subtitle: EGW Reading
 ---
 
 Menahem, far from repenting of the evil that had wrought ruin in his kingdom, continued in “the sins of Jeroboam the son of Nebat, who made Israel to sin.” Pekahiah and Pekah, his successors, also “did that which was evil in the sight of the Lord.” Verses 18, 24, 28. “In the days of Pekah,” who reigned twenty years, Tiglath-pileser, king of Assyria, invaded Israel and carried away with him a multitude of captives from among the tribes living in Galilee and east of the Jordan. “The Reubenites, and the Gadites, and the half tribe of Manasseh,” with others of the inhabitants of “Gilead, and Galilee, all the land of Naphtali” (1 Chronicles 5:26; 2 Kings 15:29), were scattered among the heathen in lands far removed from Palestine.

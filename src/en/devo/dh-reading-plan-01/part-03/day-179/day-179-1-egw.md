@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Earlier Judges PP 543-545b
+title: The Earlier Judges PP 543-545b
+subtitle: EGW Reading
 ---
 
-Chapter 53—The Earlier Judges
+### Chapter 53—The Earlier Judges
 
 This chapter is based on Judges 6 to 8; 10.
 

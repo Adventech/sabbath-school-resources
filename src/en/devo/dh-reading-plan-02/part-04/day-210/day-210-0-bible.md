@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Dan 7
+title: Dan 7
+subtitle: Bible Reading
 ---
 
 [[Dan 7]]

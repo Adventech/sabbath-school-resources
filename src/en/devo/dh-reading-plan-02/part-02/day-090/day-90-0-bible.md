@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Hosea 5; 7-10
+title: Hosea 5; 7-10
+subtitle: Bible Reading
 ---
 
 [[Hosea 5; 7-10]]

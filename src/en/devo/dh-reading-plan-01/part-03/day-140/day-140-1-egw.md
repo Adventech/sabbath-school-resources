@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Balaam PP 441c-447
+title: Balaam PP 441c-447
+subtitle: EGW Reading
 ---
 
 Balaam had received permission to go with the messengers from Moab if they came in the morning to call him. But, annoyed at his delay, and expecting another refusal, they set out on their homeward journey without further consultation with him. Every excuse for complying with the request of Balak had now been removed. But Balaam was determined to secure the reward; and, taking the beast upon which he was accustomed to ride, he set out on the journey. He feared that even now the divine permission might be withdrawn, and he pressed eagerly forward, impatient lest he should by some means fail to gain the coveted reward.

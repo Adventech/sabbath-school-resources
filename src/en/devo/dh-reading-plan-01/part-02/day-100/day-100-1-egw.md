@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Satan’s Enmity Against the Law PP 337-342
+title: Satan’s Enmity Against the Law PP 337-342
+subtitle: EGW Reading
 ---
 
 Satan's enmity against God's law had impelled him to war against every precept of the Decalogue. To the great principle of love and loyalty to God, the Father of all, the principle of filial love and obedience is closely related. Contempt for parental authority will soon lead to contempt for the authority of God. Hence Satan's efforts to lessen the obligation of the fifth commandment. Among heathen peoples the principle enjoined in this precept was little heeded. In many nations parents were abandoned or put to death as soon as age had rendered them incapable of providing for themselves. In the family the mother was treated with little respect, and upon the death of her husband she was required to submit to the authority of her eldest son. Filial obedience was enjoined by Moses; but as the Israelites departed from the Lord, the fifth commandment, with others, came to be disregarded.

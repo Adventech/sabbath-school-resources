@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: After the Flood PP 106b-110
+title: After the Flood PP 106b-110
+subtitle: EGW Reading
 ---
 
 Lest the gathering clouds and falling rain should fill men with constant terror, from fear of another flood, the Lord encouraged the family of Noah by a promise: “I will establish My covenant with you; ... neither shall there any more be a flood to destroy the earth.... I do set My bow in the cloud, and it shall be for a token of a covenant between Me and the earth. And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud.... And I will look upon it, that I may remember the everlasting covenant between God and every living creature.”

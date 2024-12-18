@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Assyrian Captivity PK 285-286b
+title: The Assyrian Captivity PK 285-286b
+subtitle: EGW Reading
 ---
 
 From generation to generation the Lord had borne with His wayward children, and even now, in the face of defiant rebellion, He still longed to reveal Himself to them as willing to save. “O Ephraim,” He cried, “what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.” Hosea 6:4.

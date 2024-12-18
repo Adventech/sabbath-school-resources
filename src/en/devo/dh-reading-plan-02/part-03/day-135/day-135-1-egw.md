@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hope for the Heathen PK 376b-378
+title: Hope for the Heathen PK 376b-378
+subtitle: EGW Reading
 ---
 
 “In that day,” says Isaiah, “there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and His rest shall be glorious. And it shall come to pass in that day, that the Lord shall set His hand again the second time to recover the remnant of His people.... And He shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.” Isaiah 11:10-12.

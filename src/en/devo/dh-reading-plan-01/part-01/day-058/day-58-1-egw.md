@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph and His Brothers PP 235c-237c
+title: Joseph and His Brothers PP 235c-237c
+subtitle: EGW Reading
 ---
 
 At the last all the sons of Jacob were gathered about his dying bed. And Jacob called unto his sons, and said, “Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father,” “that I may tell you that which shall befall you in the last days.” Often and anxiously he had thought of their future, and had endeavored to picture to himself the history of the different tribes. Now as his children waited to receive his last blessing the Spirit of Inspiration rested upon him, and before him in prophetic vision the future of his descendants was unfolded. One after another the names of his sons were mentioned, the character of each was described, and the future history of the tribes was briefly foretold.

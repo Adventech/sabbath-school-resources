@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Approaching Doom PK 426b-427b
+title: Approaching Doom PK 426b-427b
+subtitle: EGW Reading
 ---
 
 The children of Judah were numbered among those of whom God had declared, “Ye shall be unto Me a kingdom of priests, and an holy nation.” Exodus 19:6. Never did Jeremiah in his ministry lose sight of the vital importance of heart holiness in the varied relationships of life, and especially in the service of the most high God. Plainly he foresaw the downfall of the kingdom and a scattering of the inhabitants of Judah among the nations; but with the eye of faith he looked beyond all this to the times of restoration. Ringing in his ears was the divine promise: “I will gather the remnant of My flock out of all countries whither I have driven them, and will bring them again to their folds.... Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth. In His days Judah shall be saved, and Israel shall dwell safely: and this is His name whereby He shall be called, The Lord Our Righteousness.” Jeremiah 23:3-6.

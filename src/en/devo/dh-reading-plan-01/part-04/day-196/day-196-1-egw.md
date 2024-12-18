@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Ark Taken by the Philistines PP 581-585d
+title: The Ark Taken by the Philistines PP 581-585d
+subtitle: EGW Reading
 ---
 
-Chapter 57—The Ark Taken by the Philistines
+### Chapter 57—The Ark Taken by the Philistines
 
 This chapter is based on 1 Samuel 3 to 7.
 

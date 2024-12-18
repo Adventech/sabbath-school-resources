@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 14; 16; 20
+title: Jer 14; 16; 20
+subtitle: Bible Reading
 ---
 
 [[Jer 14; 16; 20]]

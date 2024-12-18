@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jacob’s Flight and Exile PP 183-188b
+title: Jacob’s Flight and Exile PP 183-188b
+subtitle: EGW Reading
 ---
 
 ### Chapter 17—Jacob's Flight and Exile

@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Journey Around Edom PP 422-427d
+title: The Journey Around Edom PP 422-427d
+subtitle: EGW Reading
 ---
 
-Chapter 38—The Journey Around Edom
+### Chapter 38—The Journey Around Edom
 
 This chapter is based on Numbers 20:14-29; 21:1-9.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 8
+title: Gen 8
+subtitle: Bible Reading
 ---
 
 [[Gen 8]]

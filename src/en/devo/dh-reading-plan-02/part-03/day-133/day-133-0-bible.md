@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 49; 54; 66
+title: Isa 49; 54; 66
+subtitle: Bible Reading
 ---
 
 [[Isa 49; 54; 66]]

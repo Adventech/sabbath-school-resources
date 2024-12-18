@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Assyrian Captivity PK 280c-282c
+title: The Assyrian Captivity PK 280c-282c
+subtitle: EGW Reading
 ---
 
 Some of the leaders in Israel felt keenly their loss of prestige and wished that this might be regained. But instead of turning away from those practices which had brought weakness to the kingdom, they continued in iniquity, flattering themselves that when occasion arose, they would attain to the political power they desired by allying themselves with the heathen. “When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian.” “Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.” “They do make a covenant with the Assyrians.” Hosea 5:13; 7:11; 12:1.

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Josh 18-19
+title: Josh 18-19
+subtitle: Bible Reading
 ---
 
 [[Josh 18-19]]

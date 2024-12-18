@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Magnanimity of David PP 667e-673b
+title: The Magnanimity of David PP 667e-673b
+subtitle: EGW Reading
 ---
 
 When Abigail returned home she found Nabal and his guests in the enjoyment of a great feast, which they had converted into a scene of drunken revelry. Not until the next morning did she relate to her husband what had occurred in her interview with David. Nabal was a coward at heart; and when he realized how near his folly had brought him to a sudden death, he seemed smitten with paralysis. Fearful that David would still pursue his purpose of revenge, he was filled with horror, and sank down in a condition of helpless insensibility. After ten days he died. The life that God had given him had been only a curse to the world. In the midst of his rejoicing and making merry, God had said to him, as He said to the rich man of the parable, “This night thy soul shall be required of thee.” Luke 12:20.

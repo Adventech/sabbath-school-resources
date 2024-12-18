@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jacob and Esau PP 179d-182
+title: Jacob and Esau PP 179d-182
+subtitle: EGW Reading
 ---
 
 Ever subject to mere outward and earthly attractions, Esau took two wives of the daughters of Heth. They were worshipers of false gods, and their idolatry was a bitter grief to Isaac and Rebekah. Esau had violated one of the conditions of the covenant, which forbade intermarriage between the chosen people and the heathen; yet Isaac was still unshaken in his determination to bestow upon him the birthright. The reasoning of Rebekah, Jacob's strong desire for the blessing, and Esau's indifference to its obligations had no effect to change the father's purpose.

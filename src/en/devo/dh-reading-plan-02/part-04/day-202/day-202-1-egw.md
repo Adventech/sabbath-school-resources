@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: True Greatness PK 517b-521
+title: True Greatness PK 517b-521
+subtitle: EGW Reading
 ---
 
 When Daniel, in response to the royal summons, stood in the king's presence, Nebuchadnezzar said, “O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.” After relating the dream, Nebuchadnezzar said: “O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee.”

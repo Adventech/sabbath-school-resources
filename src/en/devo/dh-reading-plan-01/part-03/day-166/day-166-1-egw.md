@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: League With the Gibeonites PP 505-507c
+title: League With the Gibeonites PP 505-507c
+subtitle: EGW Reading
 ---
 
-Chapter 47—League With the Gibeonites
+### Chapter 47—League With the Gibeonites
 
 This chapter is based on Joshua 9 and 10.
 

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Mannasseh and Josiah PK 389-391
+title: Mannasseh and Josiah PK 389-391
+subtitle: EGW Reading
 ---
 
 Habakkuk was not the only one through whom was given a message of bright hope and of future triumph as well as of present judgment. During the reign of Josiah the word of the Lord came to Zephaniah, specifying plainly the results of continued apostasy, and calling the attention of the true church to the glorious prospect beyond. His prophecies of impending judgment upon Judah apply with equal force to the judgments that are to fall upon an impenitent world at the time of the second advent of Christ:

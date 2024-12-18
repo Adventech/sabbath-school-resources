@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 1-4
+title: Isa 1-4
+subtitle: Bible Reading
 ---
 
 [[Isa 1-4]]

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 38
+title: Jer 38
+subtitle: Bible Reading
 ---
 
 [[Jer 38]]

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lev 27:30-34
+title: Lev 27:30-34
+subtitle: Bible Reading
 ---
 
 [[Lev 27:30-34]]

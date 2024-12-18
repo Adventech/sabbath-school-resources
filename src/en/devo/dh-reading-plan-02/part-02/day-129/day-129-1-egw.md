@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Deliverance From Assyria PK 361c-363c
+title: Deliverance From Assyria PK 361c-363c
+subtitle: EGW Reading
 ---
 
 That very night deliverance came. “The angel of the Lord went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand.” Verse 35. “All the mighty men of valor, and the leaders and captains in the camp of the king of Assyria,” were slain. 2 Chronicles 32:21.

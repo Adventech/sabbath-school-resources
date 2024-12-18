@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 6:2-7:25
+title: Ex 6:2-7:25
+subtitle: Bible Reading
 ---
 
 [[Ex 6:2-7:25]]

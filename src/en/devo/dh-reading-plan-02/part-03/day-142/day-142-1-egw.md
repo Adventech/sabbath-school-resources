@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Book of the Law PK 400c-405b
+title: The Book of the Law PK 400c-405b
+subtitle: EGW Reading
 ---
 
 To this vast assembly the king himself read “all the words of the book of the covenant which was found in the house of the Lord.” 2 Kings 23:2. The royal reader was deeply affected, and he delivered his message with the pathos of a broken heart. His hearers were profoundly moved. The intensity of feeling revealed in the countenance of the king, the solemnity of the message itself, the warning of judgments impending—all these had their effect, and many determined to join with the king in seeking forgiveness.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temptation and Fall PP 52-57a
+title: The Temptation and Fall PP 52-57a
+subtitle: EGW Reading
 ---
 
 ### Chapter 3—The Temptation and Fall

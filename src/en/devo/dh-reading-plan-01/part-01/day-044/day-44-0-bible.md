@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 32
+title: Gen 32
+subtitle: Bible Reading
 ---
 
 [[Gen 32]]

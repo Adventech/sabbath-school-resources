@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Idolatry at Sinai PP 315-319c
+title: Idolatry at Sinai PP 315-319c
+subtitle: EGW Reading
 ---
 
-Chapter 28—Idolatry at Sinai
+### Chapter 28—Idolatry at Sinai
 
 This chapter is based on Exodus 32 to 34.
 

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Nineveh, That Great City” PK 265-269b
+title: “Nineveh, That Great City” PK 265-269b
+subtitle: EGW Reading
 ---
 
 ### Chapter 22—“Nineveh, That Great City”

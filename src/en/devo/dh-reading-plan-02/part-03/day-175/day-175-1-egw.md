@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Light Through Darkness PK 474e-476
+title: Light Through Darkness PK 474e-476
+subtitle: EGW Reading
 ---
 
 In the glad day of restoration the tribes of divided Israel were to be reunited as one people. The Lord was to be acknowledged as ruler over “all the families of Israel.” “They shall be My people.” He declared. “Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O Lord, save Thy people, the remnant of Israel. Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame; ... they shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a Father to Israel, and Ephraim is My first-born.” Jeremiah 31:1, 7-9.

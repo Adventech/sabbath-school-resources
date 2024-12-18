@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last King of Judah PK 440-442c
+title: The Last King of Judah PK 440-442c
+subtitle: EGW Reading
 ---
 
 ### Chapter 36—The Last King of Judah

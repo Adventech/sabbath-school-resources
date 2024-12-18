@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Seth and Enoch PP 80-84b
+title: Seth and Enoch PP 80-84b
+subtitle: EGW Reading
 ---
 
 ### Chapter 6—Seth and Enoch

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Elisha PK 224d-228
+title: The Call of Elisha PK 224d-228
+subtitle: EGW Reading
 ---
 
 The schools of the prophets, established by Samuel, had fallen into decay during the years of Israel's apostasy. Elijah re-established these schools, making provision for young men to gain an education that would lead them to magnify the law and make it honorable. Three of these schools, one at Gilgal, one at Bethel, and one at Jericho, are mentioned in the record. Just before Elijah was taken to heaven, he and Elisha visited these centers of training. The lessons that the prophet of God had given them on former visits, he now repeated. Especially did he instruct them concerning their high privilege of loyally maintaining their allegiance to the God of heaven. He also impressed upon their minds the importance of letting simplicity mark every feature of their education. Only in this way could they receive the mold of heaven and go forth to work in the ways of the Lord.

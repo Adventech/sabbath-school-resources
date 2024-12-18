@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Naaman PK 249d-253
+title: Naaman PK 249d-253
+subtitle: EGW Reading
 ---
 
 Gratefully “he returned to the man of God, he and all his company,” with the acknowledgment, “Behold, now I know that there is no God in all the earth, but in Israel.”

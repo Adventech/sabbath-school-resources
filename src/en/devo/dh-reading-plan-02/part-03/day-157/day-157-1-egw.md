@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Approaching Doom PK 432c-436a
+title: Approaching Doom PK 432c-436a
+subtitle: EGW Reading
 ---
 
 It was about this time that the Lord commanded Jeremiah to commit to writing the messages He desired to bear to those for whose salvation His heart of pity was continually yearning. “Take thee a roll of a book,” the Lord bade His servant, “and write therein all the words that I have spoken unto thee against Israel, and against Judah, and against all the nations, from the day I spake unto thee, from the days of Josiah, even unto this day. It may be that the house of Judah will hear all the evil which I purpose to do unto them; that they may return every man from his evil way; that I may forgive their iniquity and their sin.” Jeremiah 36:2, 3.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Tabernacle and Its Services PP 350b-352b
+title: The Tabernacle and Its Services PP 350b-352b
+subtitle: EGW Reading
 ---
 
 By divine direction the tribe of Levi was set apart for the service of the sanctuary. In the earliest times every man was the priest of his own household. In the days of Abraham the priesthood was regarded as the birthright of the eldest son. Now, instead of the first-born of all Israel, the Lord accepted the tribe of Levi for the work of the sanctuary. By this signal honor He manifested His approval of their fidelity, both in adhering to His service and in executing His judgments when Israel apostatized in the worship of the golden calf. The priesthood, however, was restricted to the family of Aaron. Aaron and his sons alone were permitted to minister before the Lord; the rest of the tribe were entrusted with the charge of the tabernacle and its furniture, and they were to attend upon the priests in their ministration, but they were not to sacrifice, to burn incense, or to see the holy things till they were covered.

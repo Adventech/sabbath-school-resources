@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Coming of a Deliverer PK 698-702
+title: The Coming of a Deliverer PK 698-702
+subtitle: EGW Reading
 ---
 
 The time of the first advent and of some of the chief events clustering about the Saviour's lifework was made known by the angel Gabriel to Daniel. “Seventy weeks,” said the angel, “are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most holy.” Daniel 9:24. A day in prophecy stands for a year. See Numbers 14:34; Ezekiel 4:6. The seventy weeks, or four hundred and ninety days, represent four hundred and ninety years. A starting point for this period is given: “Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks” (Daniel 9:25), sixty-nine weeks, or four hundred and eighty-three years. The commandment to restore and build Jerusalem, as completed by the decree of Artaxerxes Longimanus, went into effect in the autumn of 457 B.C. See Ezra 6:14; 7:1, 9. From this time four hundred and eighty-three years extend to the autumn of A.D. 27. According to the prophecy, this period was to reach to the Messiah, the Anointed One. In A.D. 27, Jesus at His baptism received the anointing of the Holy Spirit and soon afterward began His ministry. Then the message was proclaimed, “The time is fulfilled.” Mark 1:15.

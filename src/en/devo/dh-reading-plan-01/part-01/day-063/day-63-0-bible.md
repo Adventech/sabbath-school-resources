@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Job 15-17
+title: Job 15-17
+subtitle: Bible Reading
 ---
 
 [[Job 15-17]]

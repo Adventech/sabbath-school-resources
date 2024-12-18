@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Instructed in the Law of God PK 661-665b
+title: Instructed in the Law of God PK 661-665b
+subtitle: EGW Reading
 ---
 
 ### Chapter 56—Instructed in the Law of God

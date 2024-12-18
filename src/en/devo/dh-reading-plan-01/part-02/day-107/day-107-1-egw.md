@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Tabernacle and Its Services PP 355b-358
+title: The Tabernacle and Its Services PP 355b-358
+subtitle: EGW Reading
 ---
 
 Such was the work that went on day by day throughout the year. The sins of Israel being thus transferred to the sanctuary, the holy places were defiled, and a special work became necessary for the removal of the sins. God commanded that an atonement be made for each of the sacred apartments, as for the altar, to “cleanse it, and hallow it from the uncleanness of the children of Israel.” Leviticus 16:19.

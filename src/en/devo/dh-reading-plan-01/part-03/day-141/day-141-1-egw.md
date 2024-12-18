@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Balaam PP 448-452
+title: Balaam PP 448-452
+subtitle: EGW Reading
 ---
 
 If Balaam had had a disposition to accept the light that God had given, he would now have made true his words; he would at once have severed all connection with Moab. He would no longer have presumed upon the mercy of God, but would have returned to Him with deep repentance. But Balaam loved the wages of unrighteousness, and these he was determined to secure.

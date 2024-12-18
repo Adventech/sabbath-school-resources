@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Destruction of Sodom PP 156-159a
+title: Destruction of Sodom PP 156-159a
+subtitle: EGW Reading
 ---
 
 ### Chapter 14—Destruction of Sodom

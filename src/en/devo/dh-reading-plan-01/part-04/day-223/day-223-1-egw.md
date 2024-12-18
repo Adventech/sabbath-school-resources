@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Death of Saul PP 680-682
+title: The Death of Saul PP 680-682
+subtitle: EGW Reading
 ---
 
 The woman's first words under the spell of her incantation had been addressed to the king, “Why hast thou deceived me? for thou art Saul.” Thus the first act of the evil spirit which personated the prophet was to communicate secretly with this wicked woman, to warn her of the deception that had been practiced upon her. The message to Saul from the pretended prophet was, “Why hast thou disquieted me, to bring me up? And Saul answered, I am sore distressed; for the Philistines make war against me, and God is departed from me, and answereth me no more, neither by prophets, nor by dreams: therefore I have called thee, that thou mayest make known unto me what I shall do.”

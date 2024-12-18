@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The First King of Israel PP 603-608a
+title: The First King of Israel PP 603-608a
+subtitle: EGW Reading
 ---
 
-Chapter 59—The First King of Israel
+### Chapter 59—The First King of Israel
 
 This chapter is based on 1 Samuel 8 to 12.
 

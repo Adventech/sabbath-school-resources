@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Fall of Jericho PP 487-491c
+title: The Fall of Jericho PP 487-491c
+subtitle: EGW Reading
 ---
 
-Chapter 45—The Fall of Jericho
+### Chapter 45—The Fall of Jericho
 
 This chapter is based on Joshua 5:13-15; 6; 7.
 

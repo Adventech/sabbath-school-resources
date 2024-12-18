@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Destruction of Sodom PP 161c-167b
+title: Destruction of Sodom PP 161c-167b
+subtitle: EGW Reading
 ---
 
 Again the solemn command was given to hasten, for the fiery storm would be delayed but little longer. But one of the fugitives ventured to cast a look backward to the doomed city, and she became a monument of God's judgment. If Lot himself had manifested no hesitancy to obey the angels’ warning, but had earnestly fled toward the mountains, without one word of pleading or remonstrance, his wife also would have made her escape. The influence of his example would have saved her from the sin that sealed her doom. But his hesitancy and delay caused her to lightly regard the divine warning. While her body was upon the plain, her heart clung to Sodom, and she perished with it. She rebelled against God because His judgments involved her possessions and her children in the ruin. Although so greatly favored in being called out from the wicked city, she felt that she was severely dealt with, because the wealth that it had taken years to accumulate must be left to destruction. Instead of thankfully accepting deliverance, she presumptuously looked back to desire the life of those who had rejected the divine warning. Her sin showed her to be unworthy of life, for the preservation of which she felt so little gratitude.

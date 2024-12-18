@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Annual Feasts PP 537-540a
+title: The Annual Feasts PP 537-540a
+subtitle: EGW Reading
 ---
 
-Chapter 52—The Annual Feasts
+### Chapter 52—The Annual Feasts
 
 This chapter is based on Leviticus 23.
 

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Approaching Doom PK 436b-439
+title: Approaching Doom PK 436b-439
+subtitle: EGW Reading
 ---
 
 “Thus saith the Lord of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost. And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, all the evil that I have pronounced against them.” Jeremiah 36:30, 31.

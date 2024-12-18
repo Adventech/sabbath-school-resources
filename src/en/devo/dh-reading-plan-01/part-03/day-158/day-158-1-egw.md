@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Death of Moses PP 471d-478b
+title: The Death of Moses PP 471d-478b
+subtitle: EGW Reading
 ---
 
 Moses turned from the congregation, and in silence and alone made his way up the mountainside. He went to “the mountain of Nebo, to the top of Pisgah.” Upon that lonely height he stood, and gazed with undimmed eye upon the scene spread out before him. Far away to the west lay the blue waters of the Great Sea; in the north, Mount Hermon stood out against the sky; to the east was the tableland of Moab, and beyond lay Bashan, the scene of Israel's triumph; and away to the south stretched the desert of their long wanderings.

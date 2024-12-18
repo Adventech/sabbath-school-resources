@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “The Prophets of God Helping Them” PK 575d-578
+title: “The Prophets of God Helping Them” PK 575d-578
+subtitle: EGW Reading
 ---
 
 As soon as Israel decided to obey, the words of reproof were followed by a message of encouragement. “Then spake Haggai ... unto the people, saying, I am with you, saith the Lord. And the Lord stirred up the spirit of Zerubbabel” and of Joshua, and “of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God.” Verses 13, 14.

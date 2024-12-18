@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Absalom PP 727-729d
+title: The Rebellion of Absalom PP 727-729d
+subtitle: EGW Reading
 ---
 
-Chapter 72—The Rebellion of Absalom
+### Chapter 72—The Rebellion of Absalom
 
 This chapter is based on 2 Samuel 13-19.
 

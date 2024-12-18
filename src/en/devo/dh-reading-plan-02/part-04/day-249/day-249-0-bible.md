@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Neh 13:1-22
+title: 'Neh 13:1-22'
+subtitle: Bible Reading
 ---
 
 [[Neh 13:1-22]]

@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Balaam PP 438-441b
+title: Balaam PP 438-441b
+subtitle: EGW Reading
 ---
 
-Chapter 40—Balaam
+### Chapter 40—Balaam
 
 This chapter is based on Numbers 22 to 24.
 

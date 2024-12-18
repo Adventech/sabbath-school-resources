@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Crossing the Jordan PP 481-484a
+title: Crossing the Jordan PP 481-484a
+subtitle: EGW Reading
 ---
 
-Chapter 44—Crossing the Jordan
+### Chapter 44—Crossing the Jordan
 
 This chapter is based on Joshua 1 to 5:12.
 

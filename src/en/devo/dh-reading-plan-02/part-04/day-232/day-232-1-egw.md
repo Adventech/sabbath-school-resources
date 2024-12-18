@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Ezra, the Priest and Scribe PK 607-612a
+title: Ezra, the Priest and Scribe PK 607-612a
+subtitle: EGW Reading
 ---
 
 ### Chapter 50—Ezra, the Priest and Scribe

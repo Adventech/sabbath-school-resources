@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return of the Exiles PK 551-554a
+title: The Return of the Exiles PK 551-554a
+subtitle: EGW Reading
 ---
 
 ### Chapter 45—The Return of the Exiles

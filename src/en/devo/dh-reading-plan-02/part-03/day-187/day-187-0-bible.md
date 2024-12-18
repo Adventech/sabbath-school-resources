@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Eze 35-37
+title: Eze 35-37
+subtitle: Bible Reading
 ---
 
 [[Eze 35-37]]

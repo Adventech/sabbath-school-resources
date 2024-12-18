@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lev 13
+title: Lev 13
+subtitle: Bible Reading
 ---
 
 [[Lev 13]]

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Prov 5-8
+title: Prov 5-8
+subtitle: Bible Reading
 ---
 
 [[Prov 5-8]]

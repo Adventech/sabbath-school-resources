@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Prov 9-12
+title: Prov 9-12
+subtitle: Bible Reading
 ---
 
 [[Prov 9-12]]

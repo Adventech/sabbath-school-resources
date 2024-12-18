@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 420b-421
+title: Jeremiah PK 420b-421
+subtitle: EGW Reading
 ---
 
 Cruel were the mockings he was called upon to endure. His sensitive soul was pierced through and through by the arrows of derision hurled at him by those who despised his messages and made light of his burden for their conversion. “I was a derision to all my people,” he declared, “and their song all the day.” “I am in derision daily, everyone mocketh me.” “All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.” Lamentations 3:14; Jeremiah 20:7, 10.

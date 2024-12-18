@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 30; 33
+title: Jer 30; 33
+subtitle: Bible Reading
 ---
 
 [[Jer 30; 33]]

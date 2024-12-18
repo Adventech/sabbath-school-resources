@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last King of Judah PK 447-449
+title: The Last King of Judah PK 447-449
+subtitle: EGW Reading
 ---
 
 The unrest caused by the representations of the false prophets brought Zedekiah under suspicion of treason, and only by quick and decisive action on his part was he permitted to continue reigning as a vassal. Opportunity for such action was taken advantage of shortly after the return of the ambassadors from Jerusalem to the surrounding nations, when the king of Judah accompanied Seraiah, “a quiet prince,” on an important mission to Babylon. Jeremiah 51:59. During this visit to the Chaldean court, Zedekiah renewed his oath of allegiance to Nebuchadnezzar.

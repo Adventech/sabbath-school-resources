@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Schools of the Prophets PP 596c-602
+title: The Schools of the Prophets PP 596c-602
+subtitle: EGW Reading
 ---
 
 It is a law of the mind that it gradually adapts itself to the subjects upon which it is trained to dwell. If occupied with commonplace matters only, it will become dwarfed and enfeebled. If never required to grapple with difficult problems, it will after a time almost lose the power of growth. As an educating power the Bible is without a rival. In the word of God the mind finds subject for the deepest thought, the loftiest aspiration. The Bible is the most instructive history that men possess. It came fresh from the fountain of eternal truth, and a divine hand has preserved its purity through all the ages. It lights up the far-distant past, where human research seeks vainly to penetrate. In God's word we behold the power that laid the foundation of the earth and that stretched out the heavens. Here only can we find a history of our race unsullied by human prejudice or human pride. Here are recorded the struggles, the defeats, and the victories of the greatest men this world has ever known. Here the great problems of duty and destiny are unfolded. The curtain that separates the visible from the invisible world is lifted, and we behold the conflict of the opposing forces of good and evil, from the first entrance of sin to the final triumph of righteousness and truth; and all is but a revelation of the character of God. In the reverent contemplation of the truths presented in His word the mind of the student is brought into communion with the infinite mind. Such a study will not only refine and ennoble the character, but it cannot fail to expand and invigorate the mental powers.

@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Plagues of Egypt PP 257-260c
+title: The Plagues of Egypt PP 257-260c
+subtitle: EGW Reading
 ---
 
-Chapter 23—The Plagues of Egypt
+### Chapter 23—The Plagues of Egypt
 
 This chapter is based on Exodus 5-10.
 

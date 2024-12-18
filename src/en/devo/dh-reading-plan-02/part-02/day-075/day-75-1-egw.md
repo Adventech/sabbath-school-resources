@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of the House of Ahab PK 215c-216
+title: The Fall of the House of Ahab PK 215c-216
+subtitle: EGW Reading
 ---
 
 Tidings of this general execution reached Athaliah, Jezebel's daughter, who still occupied a commanding position in the kingdom of Judah. When she saw that her son, the king of Judah, was dead, “she arose and destroyed all the seed royal of the house of Judah.” In this massacre all the descendants of David who were eligible to the throne were destroyed, save one, a babe named Joash, whom the wife of Jehoiada the high priest hid within the precincts of the temple. For six years the child remained hidden, while “Athaliah reigned over the land.” 2 Chronicles 22:10, 12.

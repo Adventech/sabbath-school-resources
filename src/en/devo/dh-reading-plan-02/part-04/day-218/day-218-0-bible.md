@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Joel 1-3
+title: Joel 1-3
+subtitle: Bible Reading
 ---
 
 [[Joel 1-3]]

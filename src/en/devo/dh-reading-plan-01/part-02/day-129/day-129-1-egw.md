@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Korah PP 398d-401c
+title: The Rebellion of Korah PP 398d-401c
+subtitle: EGW Reading
 ---
 
 Moses had not suspected this deep-laid plot, and when its terrible significance burst upon him, he fell upon his face in silent appeal to God. He arose sorrowful indeed, but calm and strong. Divine guidance had been granted him. “Even tomorrow,” he said, “the Lord will show who are His, and who is holy; and will cause him to come near unto Him: even him whom He hath chosen will He cause to come near unto Him.” The test was to be deferred until the morrow, that all might have time for reflection. Then those who aspired to the priesthood were to come each with a censer, and offer incense at the tabernacle in the presence of the congregation. The law was very explicit that only those who had been ordained to the sacred office should minister in the sanctuary. And even the priests, Nadab and Abihu, had been destroyed for venturing to offer “strange fire,” in disregard of a divine command. Yet Moses challenged his accusers, if they dared enter upon so perilous an appeal, to refer the matter to God.

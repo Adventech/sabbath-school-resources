@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Why Was Sin Permitted? PP 33-39a
+title: Why Was Sin Permitted? PP 33-39a
+subtitle: EGW Reading
 ---
 
 ### Chapter 1—Why was Sin Permitted?

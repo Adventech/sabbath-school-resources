@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temptation and Fall PP 57b-62
+title: The Temptation and Fall PP 57b-62
+subtitle: EGW Reading
 ---
 
 After his transgression Adam at first imagined himself entering upon a higher state of existence. But soon the thought of his sin filled him with terror. The air, which had hitherto been of a mild and uniform temperature, seemed to chill the guilty pair. The love and peace which had been theirs was gone, and in its place they felt a sense of sin, a dread of the future, a nakedness of soul. The robe of light which had enshrouded them, now disappeared, and to supply its place they endeavored to fashion for themselves a covering; for they could not, while unclothed, meet the eye of God and holy angels.

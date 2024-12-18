@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Eli and His Sons PP 575-577b
+title: Eli and His Sons PP 575-577b
+subtitle: EGW Reading
 ---
 
-Chapter 56—Eli and His Sons
+### Chapter 56—Eli and His Sons
 
 This chapter is based on 1 Samuel 2:12-36.
 

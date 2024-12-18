@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 26
+title: Jer 26
+subtitle: Bible Reading
 ---
 
 [[Jer 26]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Book of the Law PK 405c-406
+title: The Book of the Law PK 405c-406
+subtitle: EGW Reading
 ---
 
 For more than a decade following the celebration of the Passover, Josiah continued to reign. At the age of thirty-nine he met death in battle with the forces of Egypt, “and was buried in one of the sepulchers of his fathers.” “All Judah and Jerusalem mourned for Josiah. And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they are written in the lamentations.” 2 Chronicles 35:24, 25. Like unto Josiah “was there no king before him, that turned to the Lord with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him. Notwithstanding the Lord turned not from the fierceness of His great wrath, ... because of all the provocations that Manasseh had provoked Him withal.” 2 Kings 23:25, 26. The time was rapidly approaching when Jerusalem was to be utterly destroyed and the inhabitants of the land carried captive to Babylon, there to learn the lessons they had refused to learn under circumstances more favorable.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Flood PP 101b-104
+title: The Flood PP 101b-104
+subtitle: EGW Reading
 ---
 
 “By the word of God ... the world that then was, being overflowed with water, perished: but the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.” 2 Peter 3:5-7. Another storm is coming. The earth will again be swept by the desolating wrath of God, and sin and sinners will be destroyed.

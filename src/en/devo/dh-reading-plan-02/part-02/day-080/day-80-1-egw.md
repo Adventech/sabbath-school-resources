@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: A Prophet of Peace PK 235-240a
+title: A Prophet of Peace PK 235-240a
+subtitle: EGW Reading
 ---
 
 ### Chapter 19—A Prophet of Peace

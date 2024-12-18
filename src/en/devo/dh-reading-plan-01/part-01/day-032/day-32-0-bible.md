@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 19:1-3
+title: Gen 19:1-3
+subtitle: Bible Reading
 ---
 
 [[Gen 19:1-3]]

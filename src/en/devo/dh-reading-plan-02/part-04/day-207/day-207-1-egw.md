@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Unseen Watcher PK 535-538
+title: The Unseen Watcher PK 535-538
+subtitle: EGW Reading
 ---
 
 Every nation that has come upon the stage of action has been permitted to occupy its place on the earth, that the fact might be determined whether it would fulfill the purposes of the Watcher and the Holy One. Prophecy has traced the rise and progress of the world's great empires—Babylon, Medo-Persia, Greece, and Rome. With each of these, as with the nations of less power, history has repeated itself. Each has had its period of test; each has failed, its glory faded, its power departed.

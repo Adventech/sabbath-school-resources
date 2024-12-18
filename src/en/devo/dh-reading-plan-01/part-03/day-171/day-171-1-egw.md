@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Division of Canaan PP 514d-515b
+title: The Division of Canaan PP 514d-515b
+subtitle: EGW Reading
 ---
 
 Heretofore Gilgal had been the headquarters of the nation and the seat of the tabernacle. But now the tabernacle was to be removed to the place chosen for its permanent location. This was Shiloh, a little town in the lot of Ephraim. It was near the center of the land, and was easy of access to all the tribes. Here a portion of country had been thoroughly subdued, so that the worshipers would not be molested. “And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there.” The tribes that were still encamped when the tabernacle was removed from Gilgal followed it, and pitched near Shiloh. Here these tribes remained until they dispersed to their possessions.

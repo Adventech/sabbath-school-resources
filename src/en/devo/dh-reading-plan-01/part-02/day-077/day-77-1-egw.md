@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Plagues of Egypt PP 260d-265b
+title: The Plagues of Egypt PP 260d-265b
+subtitle: EGW Reading
 ---
 
 The Lord directed Moses to go again to the people and repeat the promise of deliverance, with a fresh assurance of divine favor. He went as he was commanded; but they would not listen. Says the Scripture, “They hearkened not ... for anguish of spirit, and for cruel bondage.” Again the divine message came to Moses, “Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.” In discouragement he replied, “Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me?” He was told to take Aaron with him and go before Pharaoh, and again demand “that he send the children of Israel out of his land.”

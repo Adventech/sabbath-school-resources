@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Test of Faith PP 145-147b
+title: The Test of Faith PP 145-147b
+subtitle: EGW Reading
 ---
 
 ### Chapter 13—The Test of Faith

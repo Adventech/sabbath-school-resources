@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: From the Red Sea to Sinai PP 300c-302
+title: From the Red Sea to Sinai PP 300c-302
+subtitle: EGW Reading
 ---
 
 Not far distant from where the Israelites were now encamped was the home of Jethro, the father-in-law of Moses. Jethro had heard of the deliverance of the Hebrews, and he now set out to visit them, and restore to Moses his wife and two sons. The great leader was informed by messengers of their approach, and he went out with joy to meet them, and, the first greetings over, conducted them to his tent. He had sent back his family when on his way to the perils of leading Israel from Egypt, but now he could again enjoy the relief and comfort of their society. To Jethro he recounted the wonderful dealings of God with Israel, and the patriarch rejoiced and blessed the Lord, and with Moses and the elders he united in offering sacrifice and holding a solemn feast in commemoration of God's mercy.

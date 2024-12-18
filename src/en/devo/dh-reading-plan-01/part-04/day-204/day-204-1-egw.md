@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The First King of Israel PP 613c-615
+title: The First King of Israel PP 613c-615
+subtitle: EGW Reading
 ---
 
 Samuel now proposed that a national assembly should be convoked at Gilgal, that the kingdom might there be publicly confirmed to Saul. It was done; “and there they sacrificed sacrifices of peace offerings before the Lord; and there Saul and all the men of Israel rejoiced greatly.”

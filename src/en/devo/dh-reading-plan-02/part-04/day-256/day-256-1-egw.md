@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “The House of Israel” PK 706c-710c
+title: “The House of Israel” PK 706c-710c
+subtitle: EGW Reading
 ---
 
 Solemnly evildoers were warned of the day of judgment to come and of Jehovah's purpose to visit with swift destruction every transgressor. Yet none were left without hope; Malachi's prophecies of judgment were accompanied by invitations to the impenitent to make their peace with God. “Return unto Me,” the Lord urged; “and I will return unto you.” Malachi 3:7.

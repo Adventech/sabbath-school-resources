@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Elisha PK 217-221a
+title: The Call of Elisha PK 217-221a
+subtitle: EGW Reading
 ---
 
 ### Chapter 17—The Call of Elisha

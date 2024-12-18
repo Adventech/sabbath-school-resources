@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph in Egypt PP 219-220b
+title: Joseph in Egypt PP 219-220b
+subtitle: EGW Reading
 ---
 
 The chief baker and chief butler of the king had been cast into prison for some offense, and they came under Joseph's charge. One morning, observing that they appeared very sad, he kindly inquired the cause and was told that each had had a remarkable dream, of which they were anxious to learn the significance. “Do not interpretations belong to God?” said Joseph, “tell me them, I pray you.” As each related his dream, Joseph made known its import: In three days the butler was to be reinstated in his position, and give the cup into Pharaoh's hand as before, but the chief baker would be put to death by the king's command. In both cases the event occurred as foretold.

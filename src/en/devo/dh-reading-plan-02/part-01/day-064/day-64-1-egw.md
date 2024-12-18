@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “In the Spirit and Power of Elias” PK 183d-189
+title: “In the Spirit and Power of Elias” PK 183d-189
+subtitle: EGW Reading
 ---
 
 During the Christian dispensation, the great enemy of man's happiness has made the Sabbath of the fourth commandment an object of special attack. Satan says, “I will work at cross purposes with God. I will empower my followers to set aside God's memorial, the seventh-day Sabbath. Thus I will show the world that the day sanctified and blessed by God has been changed. That day shall not live in the minds of the people. I will obliterate the memory of it. I will place in its stead a day that does not bear the credentials of God, a day that cannot be a sign between God and His people. I will lead those who accept this day to place upon it the sanctity that God placed upon the seventh day.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Ahaz PK 327d-330
+title: Ahaz PK 327d-330
+subtitle: EGW Reading
 ---
 
 The idolatrous course of Ahaz, in the face of the earnest appeals of the prophets, could have but one result. “The wrath of the Lord was upon Judah and Jerusalem, and He ... delivered them to trouble, to astonishment, and to hissing.” 2 Chronicles 29:8. The kingdom suffered a rapid decline, and its very existence was soon imperiled by invading armies. “Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz.” 2 Kings 16:5.

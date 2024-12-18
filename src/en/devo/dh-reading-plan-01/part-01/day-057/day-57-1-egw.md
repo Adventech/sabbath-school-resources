@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph and His Brothers PP 233-235b
+title: Joseph and His Brothers PP 233-235b
+subtitle: EGW Reading
 ---
 
 Upon reaching Egypt the company proceeded directly to the land of Goshen. Thither came Joseph in his chariot of state, attended by a princely retinue. The splendor of his surroundings and the dignity of his position were alike forgotten; one thought alone filled his mind, one longing thrilled his heart. As he beheld the travelers approaching, the love whose yearnings had for so many long years been repressed, would no longer be controlled. He sprang from his chariot and hastened forward to bid his father welcome. “And he fell on his neck, and wept on his neck a good while. And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.”

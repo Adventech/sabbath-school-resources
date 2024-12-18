@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Dan 8
+title: Dan 8
+subtitle: Bible Reading
 ---
 
 [[Dan 8]]

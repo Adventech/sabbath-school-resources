@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Job 38-39
+title: Job 38-39
+subtitle: Bible Reading
 ---
 
 [[Job 38-39]]

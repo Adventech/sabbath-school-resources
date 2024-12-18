@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 11; 42
+title: Isa 11; 42
+subtitle: Bible Reading
 ---
 
 [[Isa 11; 42]]

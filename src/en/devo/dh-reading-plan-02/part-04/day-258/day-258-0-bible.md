@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Mal 4
+title: Mal 4
+subtitle: Bible Reading
 ---
 
 [[Mal 4]]

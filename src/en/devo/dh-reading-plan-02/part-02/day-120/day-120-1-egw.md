@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hezekiah PK 331-333a
+title: Hezekiah PK 331-333a
+subtitle: EGW Reading
 ---
 
 ### Chapter 28—Hezekiah

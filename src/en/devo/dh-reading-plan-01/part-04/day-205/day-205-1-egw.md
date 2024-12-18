@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Presumption of Saul PP 616-622
+title: The Presumption of Saul PP 616-622
+subtitle: EGW Reading
 ---
 
-Chapter 60—The Presumption of Saul
+### Chapter 60—The Presumption of Saul
 
 This chapter is based on 1 Samuel 13; 1 Samuel 14.
 

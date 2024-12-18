@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “What Doest Thou Here?” PK 167-170b
+title: “What Doest Thou Here?” PK 167-170b
+subtitle: EGW Reading
 ---
 
 ### Chapter 13—“What Doest Thou Here?”

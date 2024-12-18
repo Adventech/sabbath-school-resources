@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: From the Red Sea to Sinai PP 294d-297c
+title: From the Red Sea to Sinai PP 294d-297c
+subtitle: EGW Reading
 ---
 
 God was not unmindful of the wants of Israel. He said to their leader, “I will rain bread from heaven for you.” And directions were given that the people gather a daily supply, with a double amount on the sixth day, that the sacred observance of the Sabbath might be maintained.

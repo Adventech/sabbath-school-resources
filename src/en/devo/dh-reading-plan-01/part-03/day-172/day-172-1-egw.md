@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Division of Canaan PP 515c-517d
+title: The Division of Canaan PP 515c-517d
+subtitle: EGW Reading
 ---
 
 Six of the cities assigned to the Levites—three on each side the Jordan—were appointed as cities of refuge, to which the manslayer might flee for safety. The appointment of these cities had been commanded by Moses, “that the slayer may flee thither, which killeth any person at unawares. And they shall be unto you cities for refuge,” he said, “that the manslayer die not, until he stand before the congregation in judgment.” Numbers 35:11, 12. This merciful provision was rendered necessary by the ancient custom of private vengeance, by which the punishment of the murderer devolved on the nearest relative or the next heir of the deceased. In cases where guilt was clearly evident it was not necessary to wait for a trial by the magistrates. The avenger might pursue the criminal anywhere and put him to death wherever he should be found. The Lord did not see fit to abolish this custom at that time, but He made provision to ensure the safety of those who should take life unintentionally.

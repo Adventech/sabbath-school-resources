@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 33
+title: Gen 33
+subtitle: Bible Reading
 ---
 
 [[Gen 33]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jehoshaphat PK 196b-198c
+title: Jehoshaphat PK 196b-198c
+subtitle: EGW Reading
 ---
 
 The words of the prophet should have been enough to show the kings that their project was not favored by Heaven, but neither ruler felt inclined to heed the warning. Ahab had marked out his course, and he was determined to follow it. Jehoshaphat had given his word of honor, “We will be with thee in the war;” and after making such a promise, he was reluctant to withdraw his forces. 2 Chronicles 18:3. “So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead.” 1 Kings 22:29.

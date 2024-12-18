@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “The House of Israel” PK 710d-715
+title: “The House of Israel” PK 710d-715
+subtitle: EGW Reading
 ---
 
 In the parable of the vineyard, Christ near the close of His earthly ministry called the attention of the Jewish teachers to the rich blessings bestowed upon Israel, and in these showed God's claim to their obedience. Plainly He set before them the glory of God's purpose, which through obedience they might have fulfilled. Withdrawing the veil from the future, He showed how, by failure to fulfill His purpose, the whole nation was forfeiting His blessing and bringing ruin upon itself.

@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: From Sinai to Kadesh PP 374-376c
+title: From Sinai to Kadesh PP 374-376c
+subtitle: EGW Reading
 ---
 
-Chapter 33—From Sinai to Kadesh
+### Chapter 33—From Sinai to Kadesh
 
 This chapter is based on Numbers 11 and 12.
 

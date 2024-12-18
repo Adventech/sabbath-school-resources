@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Behold Your God!” PK 316d-321
+title: “Behold Your God!” PK 316d-321
+subtitle: EGW Reading
 ---
 
 The heart of Infinite Love yearns after those who feel powerless to free themselves from the snares of Satan; and He graciously offers to strengthen them to live for Him. “Fear thou not,” He bids them; “for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of My righteousness.” “I the Lord thy God will hold thy right hand, saying unto thee, Fear not; I will help thee. Fear not, thou worm Jacob, and ye man of Israel; I will help thee, saith the Lord, and thy Redeemer, the Holy One of Israel.” Isaiah 41:10, 13, 14.

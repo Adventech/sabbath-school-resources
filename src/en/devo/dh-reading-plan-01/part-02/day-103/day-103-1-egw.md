@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Tabernacle and Its Services PP 347c-348b
+title: The Tabernacle and Its Services PP 347c-348b
+subtitle: EGW Reading
 ---
 
 The building was divided into two apartments by a rich and beautiful curtain, or veil, suspended from gold-plated pillars; and a similar veil closed the entrance of the first apartment. These, like the inner covering, which formed the ceiling, were of the most gorgeous colors, blue, purple, and scarlet, beautifully arranged, while inwrought with threads of gold and silver were cherubim to represent the angelic host who are connected with the work of the heavenly sanctuary and who are ministering spirits to the people of God on earth.

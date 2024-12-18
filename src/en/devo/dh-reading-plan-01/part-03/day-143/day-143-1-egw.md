@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Apostasy at the Jordan PP 456c-461
+title: Apostasy at the Jordan PP 456c-461
+subtitle: EGW Reading
 ---
 
 God had sent judgments upon Israel for yielding to the enticements of the Midianites; but the tempters were not to escape the wrath of divine justice. The Amalekites, who had attacked Israel at Rephidim, falling upon those who were faint and weary behind the host, were not punished till long after; but the Midianites who seduced them into sin were speedily made to feel God's judgments, as being the more dangerous enemies. “Avenge the children of Israel of the Midianites” (Numbers 31:2), was the command of God to Moses; “afterward shalt thou be gathered unto thy people.” This mandate was immediately obeyed. One thousand men were chosen from each of the tribes and sent out under the leadership of Phinehas. “And they warred against the Midianites, as the Lord commanded Moses.... And they slew the kings of Midian, beside the rest of them that were slain; ... five kings of Midian: Balaam also the son of Beor they slew with the sword.” Verses 7, 8. The women also, who had been made captives by the attacking army, were put to death at the command of Moses, as the most guilty and most dangerous of the foes of Israel.

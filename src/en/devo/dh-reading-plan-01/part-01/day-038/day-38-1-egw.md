@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jacob and Esau PP 177-179c
+title: Jacob and Esau PP 177-179c
+subtitle: EGW Reading
 ---
 
 ### Chapter 16—Jacob and Esau

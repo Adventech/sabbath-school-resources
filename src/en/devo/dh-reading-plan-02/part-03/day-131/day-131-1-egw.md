@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hope for the Heathen PK 367-371a
+title: Hope for the Heathen PK 367-371a
+subtitle: EGW Reading
 ---
 
 ### Chapter 31—Hope for the Heathen

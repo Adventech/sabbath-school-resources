@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 11:10-12:5
+title: Gen 11:10-12:5
+subtitle: Bible Reading
 ---
 
 [[Gen 11:10-12:5]]

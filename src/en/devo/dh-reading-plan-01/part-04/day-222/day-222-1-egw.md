@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Death of Saul PP 675-679
+title: The Death of Saul PP 675-679
+subtitle: EGW Reading
 ---
 
-Chapter 66—The Death of Saul
+### Chapter 66—The Death of Saul
 
 Again war was declared between Israel and the Philistines. “The Philistines gathered themselves together, and came and pitched in Shunem,” on the northern edge of the plain of Jezreel; while Saul and his forces encamped but a few miles distant, at the foot of Mount Gilboa, on the southern border of the plain. It was on this plain that Gideon, with three hundred men, had put to flight the hosts of Midian. But the spirit that inspired Israel's deliverer was widely different from that which now stirred the heart of the king. Gideon went forth strong in faith in the mighty God of Jacob; but Saul felt himself to be alone and defenseless, because God had forsaken him. As he looked abroad upon the Philistine host, “he was afraid, and his heart greatly trembled.”
 

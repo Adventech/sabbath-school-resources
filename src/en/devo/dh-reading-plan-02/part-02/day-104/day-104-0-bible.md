@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 8; 10; 13
+title: Isa 8; 10; 13
+subtitle: Bible Reading
 ---
 
 [[Isa 8; 10; 13]]

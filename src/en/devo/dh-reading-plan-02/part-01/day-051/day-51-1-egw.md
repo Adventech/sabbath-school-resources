@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: National Apostasy PK 114-116
+title: National Apostasy PK 114-116
+subtitle: EGW Reading
 ---
 
 Two years before the death of Asa, Ahab began to rule in the kingdom of Israel. From the beginning his reign was marked by a strange and terrible apostasy. His father, Omri, the founder of Samaria, had “wrought evil in the eyes of the Lord, and did worse than all that were before him” (1 Kings 16:25); but the sins of Ahab were even greater. He “did more to provoke the Lord God of Israel to anger than all the kings of Israel that were before him,” acting “as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat.” Verses 33, 31. Not content with encouraging the forms of religious service followed at Bethel and Dan, he boldly led the people into the grossest heathenism, by setting aside the worship of Jehovah for Baal worship.

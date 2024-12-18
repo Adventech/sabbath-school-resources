@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph and His Brothers PP 237d-240
+title: Joseph and His Brothers PP 237d-240
+subtitle: EGW Reading
 ---
 
 Jacob's last years brought an evening of tranquillity and repose after a troubled and weary day. Clouds had gathered dark above his path, yet his sun set clear, and the radiance of heaven illumined his parting hours. Says the Scripture, “At evening time it shall be light.” Zechariah 14:7. “Mark the perfect man, and behold the upright: for the end of that man is peace.” Psalm 37:37.

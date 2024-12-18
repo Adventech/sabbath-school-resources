@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 22-24
+title: Isa 22-24
+subtitle: Bible Reading
 ---
 
 [[Isa 22-24]]

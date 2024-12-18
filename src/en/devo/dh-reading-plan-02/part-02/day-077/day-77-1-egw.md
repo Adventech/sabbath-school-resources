@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Elisha PK 221b-224c
+title: The Call of Elisha PK 221b-224c
+subtitle: EGW Reading
 ---
 
 Similar to the call that came to Elisha was the answer given by Christ to the young ruler who asked Him the question, “What good thing shall I do, that I may have eternal life?” “If thou wilt be perfect,” Christ replied, “go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow Me.” Matthew 19:16, 21.

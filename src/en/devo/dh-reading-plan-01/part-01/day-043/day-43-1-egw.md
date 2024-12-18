@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jacob’s Flight and Exile PP 192d-194
+title: Jacob’s Flight and Exile PP 192d-194
+subtitle: EGW Reading
 ---
 
 When Jacob, growing weary of Laban's service, proposed to return to Canaan, he said to his father-in-law, “Send me away, that I may go unto mine own place, and to my country. Give me my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.” But Laban urged him to remain, declaring, “I have learned by experience that the Lord hath blessed me for thy sake.” He saw that his property was increasing under the care of his son-in-law.

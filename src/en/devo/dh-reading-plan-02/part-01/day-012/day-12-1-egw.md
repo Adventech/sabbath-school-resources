@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Solomon PK 27b-31d
+title: Solomon PK 27b-31d
+subtitle: EGW Reading
 ---
 
 In his days shall the righteous flourish;\

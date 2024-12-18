@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Mal 3:1-6
+title: 'Mal 3:1-6'
+subtitle: Bible Reading
 ---
 
 [[Mal 3:1-6]]

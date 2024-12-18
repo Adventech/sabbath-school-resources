@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Magnanimity of David PP 673c-674
+title: The Magnanimity of David PP 673c-674
+subtitle: EGW Reading
 ---
 
 At David's request for a residence in the country, removed from the royal city, the king graciously granted Ziklag as a possession. David realized that it would be dangerous for himself and his men to be under the influence of idolaters. In a town wholly separated for their use they might worship God with more freedom than they could if they remained in Gath, where the heathen rites could not but prove a source of evil and annoyance.

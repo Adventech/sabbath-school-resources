@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David a Fugitive PP 655d-659
+title: David a Fugitive PP 655d-659
+subtitle: EGW Reading
 ---
 
 The king's son returned to Gibeah, and David hastened to reach Nob, a city but a few miles distant, and also belonging to the tribe of Benjamin. The tabernacle had been taken to this place from Shiloh, and here Ahimelech the high priest ministered. David knew not whither to flee for refuge, except to the servant of God. The priest looked upon him with astonishment, as he came in haste and apparently alone, with a countenance marked by anxiety and sorrow. He inquired what had brought him there. The young man was in constant fear of discovery, and in his extremity he resorted to deception. David told the priest that he had been sent by the king on a secret errand, one which required the utmost expedition. Here he manifested a want of faith in God, and his sin resulted in causing the death of the high priest. Had the facts been plainly stated, Ahimelech would have known what course to pursue to preserve his life. God requires that truthfulness shall mark His people, even in the greatest peril. David asked the priest for five loaves of bread. There was nothing but hallowed bread in the possession of the man of God, but David succeeded in removing his scruples, and obtained the bread to satisfy his hunger.

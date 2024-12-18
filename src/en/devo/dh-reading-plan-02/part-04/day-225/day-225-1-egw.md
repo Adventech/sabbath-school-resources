@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Not by Might, nor by Power” PK 593-597
+title: “Not by Might, nor by Power” PK 593-597
+subtitle: EGW Reading
 ---
 
 ### Chapter 48—“Not by Might, nor by Power”

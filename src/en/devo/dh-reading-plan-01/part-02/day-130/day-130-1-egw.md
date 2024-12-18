@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Korah PP 401d-405
+title: The Rebellion of Korah PP 401d-405
+subtitle: EGW Reading
 ---
 
 Jesus, the Angel who went before the Hebrews, sought to save them from destruction. Forgiveness was lingering for them. The judgment of God had come very near, and appealed to them to repent. A special, irresistible interference from heaven had arrested their rebellion. Now, if they would respond to the interposition of God's providence, they might be saved. But while they fled from the judgments, through fear of destruction, their rebellion was not cured. They returned to their tents that night terrified, but not repentant.

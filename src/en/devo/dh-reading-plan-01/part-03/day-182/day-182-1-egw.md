@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Earlier Judges PP 548d-554b
+title: The Earlier Judges PP 548d-554b
+subtitle: EGW Reading
 ---
 
 Thus encouraged, Gideon led out his forces to give battle to the invaders. “All the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.” The entire force under Gideon's command numbered only thirty-two thousand men; but with the vast host of the enemy spread out before him, the word of the Lord came to him: “The people that are with thee are too many for Me to give the Midianites into their hands, lest Israel vaunt themselves against Me, saying, Mine own hand hath saved me. Now therefore go to, proclaim in the ears of the people, saying, Whosoever is fearful and afraid, let him return and depart early from Mount Gilead.” Those who were unwilling to face danger and hardships, or whose worldly interests would draw their hearts from the work of God, would add no strength to the armies of Israel. Their presence would prove only a cause of weakness.

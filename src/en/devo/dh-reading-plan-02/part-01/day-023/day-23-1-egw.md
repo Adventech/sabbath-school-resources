@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Results of Transgression PK 61-65b
+title: Results of Transgression PK 61-65b
+subtitle: EGW Reading
 ---
 
 ### Chapter 4—Results of Transgression

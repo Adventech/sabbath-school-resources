@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 30:25-31:55
+title: Gen 30:25-31:55
+subtitle: Bible Reading
 ---
 
 [[Gen 30:25-31:55]]

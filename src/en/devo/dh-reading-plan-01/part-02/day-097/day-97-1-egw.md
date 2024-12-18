@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Idolatry at Sinai PP 326b-328c
+title: Idolatry at Sinai PP 326b-328c
+subtitle: EGW Reading
 ---
 
 As the people were roused to see the enormity of their guilt, terror pervaded the entire encampment. It was feared that every offender was to be cut off. Pitying their distress, Moses promised to plead once more with God for them.

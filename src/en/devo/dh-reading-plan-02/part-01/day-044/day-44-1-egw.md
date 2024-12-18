@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rending of the Kingdom PK 90c-93a
+title: The Rending of the Kingdom PK 90c-93a
+subtitle: EGW Reading
 ---
 
 The Lord did not allow Rehoboam to carry out the policy he had outlined. Among the tribes were many thousands who had become thoroughly aroused over the oppressive measures of Solomon's reign, and these now felt that they could not do otherwise than rebel against the house of David. “When all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.” Verse 16.

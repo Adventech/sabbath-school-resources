@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Mal 1-2
+title: Mal 1-2
+subtitle: Bible Reading
 ---
 
 [[Mal 1-2]]

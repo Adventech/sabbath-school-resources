@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 44
+title: Jer 44
+subtitle: Bible Reading
 ---
 
 [[Jer 44]]

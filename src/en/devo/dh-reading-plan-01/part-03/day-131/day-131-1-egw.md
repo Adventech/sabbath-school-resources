@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: In the Wilderness PP 406-410
+title: In the Wilderness PP 406-410
+subtitle: EGW Reading
 ---
 
-Chapter 36—In the Wilderness
+### Chapter 36—In the Wilderness
 
 For nearly forty years the children of Israel are lost to view in the obscurity of the desert. “The space,” says Moses, “in which we came from Kadesh-barnea, until we were come over the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the Lord sware unto them. For indeed the hand of the Lord was against them, to destroy them from among the host, until they were consumed.” Deuteronomy 2:14, 15.
 

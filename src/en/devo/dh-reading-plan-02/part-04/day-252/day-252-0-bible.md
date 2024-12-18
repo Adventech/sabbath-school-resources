@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 53
+title: Isa 53
+subtitle: Bible Reading
 ---
 
 [[Isa 53]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Carried Captive Into Babylon PK 454b-455c
+title: Carried Captive Into Babylon PK 454b-455c
+subtitle: EGW Reading
 ---
 
 The hopes that had sprung up in the hearts of princes and people when the armies of Nebuchadnezzar turned south to meet the Egyptians, were soon dashed to the ground. The word of the Lord had been, “Behold, I am against thee, Pharaoh king of Egypt.” The might of Egypt was but a broken reed. “All the inhabitants of Egypt,” Inspiration had declared, “shall know that I am the Lord, because they have been a staff of reed to the house of Israel.” “I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I am the Lord, when I shall put My sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.” Ezekiel 29:3, 6; 30:25.

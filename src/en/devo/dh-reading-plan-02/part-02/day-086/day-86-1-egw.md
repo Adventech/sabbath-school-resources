@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Elisha’s Closing Ministry PK 260d-264
+title: Elisha’s Closing Ministry PK 260d-264
+subtitle: EGW Reading
 ---
 
 So long as Elisha was able to journey from place to place throughout the kingdom of Israel, he continued to take an active interest in the upbuilding of the schools of the prophets. Wherever he was, God was with him, giving him words to speak and power to work miracles. On one occasion “the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us. Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell.” 2 Kings 6:1, 2. Elisha went with them to Jordan, encouraging them by his presence, giving them instruction, and even performing a miracle to aid them in their work. “As one was felling a beam, the axhead fell into the water: and he cried, and said, Alas, master! for it was borrowed. And the man of God said, Where fell it? And he showed him the place. And he cut down a stick, and cast it in thither; and the iron did swim. Therefore said he, Take it up to thee. And he put out his hand, and took it.” Verses 5-7.

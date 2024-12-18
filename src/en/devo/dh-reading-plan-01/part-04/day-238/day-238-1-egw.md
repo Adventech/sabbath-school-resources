@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Reign of David PP 715d-716
+title: The Reign of David PP 715d-716
+subtitle: EGW Reading
 ---
 
 The dangers which had threatened the nation with utter destruction proved, through the providence of God, to be the very means by which it rose to unprecedented greatness. In commemorating his remarkable deliverances, David sings:

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lev 16
+title: Lev 16
+subtitle: Bible Reading
 ---
 
 [[Lev 16]]

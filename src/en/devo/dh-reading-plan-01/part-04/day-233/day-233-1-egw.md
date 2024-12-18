@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Reign of David PP 703-706b
+title: The Reign of David PP 703-706b
+subtitle: EGW Reading
 ---
 
-Chapter 70—The Reign of David
+### Chapter 70—The Reign of David
 
 This chapter is based on 2 Samuel 5:6-25; 6; 7; 9; 10.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 3:7-24
+title: Gen 3:7-24
+subtitle: Bible Reading
 ---
 
 [[Gen 3:7-24]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Coming of a Deliverer PK 692c-697
+title: The Coming of a Deliverer PK 692c-697
+subtitle: EGW Reading
 ---
 
 “He shall see His seed, He shall prolong His days,\

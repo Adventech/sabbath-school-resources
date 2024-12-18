@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temple and Its Dedication PK 45b-50
+title: The Temple and Its Dedication PK 45b-50
+subtitle: EGW Reading
 ---
 
 As Solomon ended his prayer, “fire came down from heaven, and consumed the burnt offering and the sacrifices.” The priests could not enter the temple because “the glory of the Lord had filled the Lord's house.” “When all the children of Israel saw ... the glory of the Lord upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshiped, and praised the Lord, saying, For He is good; for His mercy endureth forever.”

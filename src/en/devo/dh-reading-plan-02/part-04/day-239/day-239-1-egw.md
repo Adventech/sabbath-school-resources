@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Builders on the Wall PK 638d-642a
+title: The Builders on the Wall PK 638d-642a
+subtitle: EGW Reading
 ---
 
 Nehemiah's whole soul was in the enterprise he had undertaken. His hope, his energy, his enthusiasm, his determination, were contagious, inspiring others with the same high courage and lofty purpose. Each man became a Nehemiah in his turn and helped to make stronger the heart and hand of his neighbor.

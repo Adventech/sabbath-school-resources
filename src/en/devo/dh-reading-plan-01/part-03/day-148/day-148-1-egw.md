@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Law Repeated PP 464-466a
+title: The Law Repeated PP 464-466a
+subtitle: EGW Reading
 ---
 
 “The Lord did not set His love upon you, nor choose you, because ye were more in number than any people; for ye were the fewest of all people: but because the Lord loved you, and because He would keep the oath which He had sworn unto your fathers, hath the Lord brought you out with a mighty hand, and redeemed you out of the house of bondmen, from the hand of Pharaoh king of Egypt. Know therefore that Jehovah thy God, He is God, the faithful God, which keepeth covenant and mercy with them that love Him and keep His commandments to a thousand generations.” Deuteronomy 7:7-9.

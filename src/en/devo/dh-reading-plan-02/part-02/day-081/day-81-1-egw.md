@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: A Prophet of Peace PK 240b-243
+title: A Prophet of Peace PK 240b-243
+subtitle: EGW Reading
 ---
 
 Jesus comforts our sorrow for the dead with a message of infinite hope: “I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction.” Hosea 13:14. “I am He that liveth, and was dead; and, behold, I am alive for evermore, ... and have the keys of hell and of death.” Revelation 1:18. “The Lord Himself shall descend from heaven with a shout, with the voice of the Archangel, and with the trump of God: and the dead in Christ shall rise first: then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.” 1 Thessalonians 4:16, 17.

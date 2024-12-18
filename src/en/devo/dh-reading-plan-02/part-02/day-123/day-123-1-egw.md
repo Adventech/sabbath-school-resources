@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Ambassadors From Babylon PK 340-344a
+title: The Ambassadors From Babylon PK 340-344a
+subtitle: EGW Reading
 ---
 
 ### Chapter 29—The Ambassadors From Babylon

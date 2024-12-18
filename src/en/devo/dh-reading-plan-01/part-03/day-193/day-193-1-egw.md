@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Child Samuel PP 571b-574
+title: The Child Samuel PP 571b-574
+subtitle: EGW Reading
 ---
 
 Once more Hannah journeyed with her husband to Shiloh and presented to the priest, in the name of God, her precious gift, saying, “For this child I prayed; and the Lord hath given me my petition which I asked of Him: therefore also I have lent him to the Lord; as long as he liveth he shall be lent to the Lord.” Eli was deeply impressed by the faith and devotion of this woman of Israel. Himself an overindulgent father, he was awed and humbled as he beheld this mother's great sacrifice in parting with her only child, that she might devote him to the service of God. He felt reproved for his own selfish love, and in humiliation and reverence he bowed before the Lord and worshiped.

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Job 1-3
+title: Job 1-3
+subtitle: Bible Reading
 ---
 
 [[Job 1-3]]

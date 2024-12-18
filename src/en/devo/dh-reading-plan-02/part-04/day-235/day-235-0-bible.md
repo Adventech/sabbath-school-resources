@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ezra 10
+title: Ezra 10
+subtitle: Bible Reading
 ---
 
 [[Ezra 10]]

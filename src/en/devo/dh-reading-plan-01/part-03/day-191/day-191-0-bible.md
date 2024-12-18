@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ruth 1-4
+title: Ruth 1-4
+subtitle: Bible Reading
 ---
 
 [[Ruth 1-4]]

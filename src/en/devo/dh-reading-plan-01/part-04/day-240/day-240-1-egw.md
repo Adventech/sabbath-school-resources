@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David’s Sin and Repentance PP 720c-723d
+title: David’s Sin and Repentance PP 720c-723d
+subtitle: EGW Reading
 ---
 
 Bathsheba observed the customary days of mourning for her husband; and at their close “David sent and fetched her to his house, and she became his wife.” He whose tender conscience and high sense of honor would not permit him, even when in peril of his life, to put forth his hand against the Lord's anointed, had so fallen that he could wrong and murder one of his most faithful and most valiant soldiers, and hope to enjoy undisturbed the reward of his sin. Alas! how had the fine gold become dim! how had the most fine gold changed!

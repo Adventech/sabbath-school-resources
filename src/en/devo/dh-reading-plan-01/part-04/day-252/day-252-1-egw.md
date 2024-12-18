@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last Years of David PP 749b-750a
+title: The Last Years of David PP 749b-750a
+subtitle: EGW Reading
 ---
 
 Still another shadow was to gather over the last years of David. He had reached the age of threescore and ten. The hardships and exposures of his early wanderings, his many wars, the cares and afflictions of his later years, had sapped the fountain of life. Though his mind retained its clearness and strength, feebleness and age, with their desire for seclusion, prevented a quick apprehension of what was passing in the kingdom, and again rebellion sprang up in the very shadow of the throne. Again the fruit of David's parental indulgence was manifest. The one who now aspired to the throne was Adonijah, “a very goodly man” in person and bearing, but unprincipled and reckless. In his youth he had been subjected to but little restraint; for “his father had not displeased him at any time in saying, Why hast thou done so?” He now rebelled against the authority of God, who had appointed Solomon to the throne. Both by natural endowments and religious character Solomon was better qualified than his elder brother to become ruler of Israel; yet although the choice of God had been clearly indicated, Adonijah did not fail to find sympathizers. Joab, though guilty of many crimes, had heretofore been loyal to the throne; but he now joined the conspiracy against Solomon, as did also Abiathar the priest.

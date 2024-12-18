@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Cain and Abel Tested PP 71-79
+title: Cain and Abel Tested PP 71-79
+subtitle: EGW Reading
 ---
 
 ### Chapter 5—Cain and Abel Tested

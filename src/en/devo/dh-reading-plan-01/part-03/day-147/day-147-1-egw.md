@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Law Repeated PP 462-463
+title: The Law Repeated PP 462-463
+subtitle: EGW Reading
 ---
 
-Chapter 42—The Law Repeated
+### Chapter 42—The Law Repeated
 
 This chapter is based on Deuteronomy 4 to 6; 28.
 

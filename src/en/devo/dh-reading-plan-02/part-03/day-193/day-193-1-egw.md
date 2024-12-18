@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: In the Court of Babylon PK 483c-485b
+title: In the Court of Babylon PK 483c-485b
+subtitle: EGW Reading
 ---
 
 In reaching this decision, the Hebrew youth did not act presumptuously but in firm reliance upon God. They did not choose to be singular, but they would be so rather than dishonor God. Should they compromise with wrong in this instance by yielding to the pressure of circumstances, their departure from principle would weaken their sense of right and their abhorrence of wrong. The first wrong step would lead to others, until, their connection with Heaven severed, they would be swept away by temptation.

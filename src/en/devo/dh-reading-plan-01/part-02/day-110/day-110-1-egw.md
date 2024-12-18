@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Sin of Nadab and Abihu PP 359-362
+title: The Sin of Nadab and Abihu PP 359-362
+subtitle: EGW Reading
 ---
 
-Chapter 31—The Sin of Nadab and Abihu
+### Chapter 31—The Sin of Nadab and Abihu
 
 This chapter is based on Leviticus 10:1-11.
 

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Flood PP 90-92b
+title: The Flood PP 90-92b
+subtitle: EGW Reading
 ---
 
 ### Chapter 7—The Flood

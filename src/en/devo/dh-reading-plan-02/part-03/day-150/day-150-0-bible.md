@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 8-10
+title: Jer 8-10
+subtitle: Bible Reading
 ---
 
 [[Jer 8-10]]

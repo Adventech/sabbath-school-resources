@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Results of Transgression PK 68b-71b
+title: Results of Transgression PK 68b-71b
+subtitle: EGW Reading
 ---
 
 Had Solomon continued in humility of mind to turn the attention of men from himself to the One who had given him wisdom and riches and honor, what a history might have been his! But while the pen of inspiration records his virtues, it also bears faithful witness to his downfall. Raised to a pinnacle of greatness and surrounded with the gifts of fortune, Solomon became dizzy, lost his balance, and fell. Constantly extolled by men of the world, he was at length unable to withstand the flattery offered him. The wisdom entrusted to him that he might glorify the Giver, filled him with pride. He finally permitted men to speak of him as the one most worthy of praise for the matchless splendor of the building planned and erected for the honor of “the name of the Lord God of Israel.”

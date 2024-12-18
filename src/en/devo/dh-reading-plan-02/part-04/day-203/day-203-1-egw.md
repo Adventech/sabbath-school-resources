@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Unseen Watcher PK 522-527b
+title: The Unseen Watcher PK 522-527b
+subtitle: EGW Reading
 ---
 
 ### Chapter 43—The Unseen Watcher

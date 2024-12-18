@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “The House of Israel” PK 716-721
+title: “The House of Israel” PK 716-721
+subtitle: EGW Reading
 ---
 
 Today, in the spirit and power of Elias and of John the Baptist, messengers of God's appointment are calling the attention of a judgment-bound world to the solemn events soon to take place in connection with the closing hours of probation and the appearance of Christ Jesus as King of kings and Lord of lords. Soon every man is to be judged for the deeds done in the body. The hour of God's judgment has come, and upon the members of His church on earth rests the solemn responsibility of giving warning to those who are standing as it were on the very brink of eternal ruin. To every human being in the wide world who will give heed must be made plain the principles at stake in the great controversy being waged, principles upon which hang the destinies of all mankind.

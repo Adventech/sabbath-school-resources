@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hezekiah PK 335c-339
+title: Hezekiah PK 335c-339
+subtitle: EGW Reading
 ---
 
 These promises met abundant fulfillment during the reformation under Hezekiah.

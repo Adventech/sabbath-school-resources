@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “The Prophets of God Helping Them” PK 567-571a
+title: “The Prophets of God Helping Them” PK 567-571a
+subtitle: EGW Reading
 ---
 
 ### Chapter 46—“The Prophets of God Helping Them”

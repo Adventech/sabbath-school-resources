@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jacob’s Flight and Exile PP 188c-190a
+title: Jacob’s Flight and Exile PP 188c-190a
+subtitle: EGW Reading
 ---
 
 With a new and abiding faith in the divine promises, and assured of the presence and guardianship of heavenly angels, Jacob pursued his journey to “the land of the children of the East.” Genesis 29:1, margin. But how different his arrival from that of Abraham's messenger nearly a hundred years before! The servant had come with a train of attendants riding upon camels, and with rich gifts of gold and silver; the son was a lonely, footsore traveler, with no possession save his staff. Like Abraham's servant, Jacob tarried beside a well, and it was here that he met Rachel, Laban's younger daughter. It was Jacob now who rendered service, rolling the stone from the well and watering the flocks. On making known his kinship, he was welcomed to the home of Laban. Though he came portionless and unattended, a few weeks showed the worth of his diligence and skill, and he was urged to tarry. It was arranged that he should render Laban seven years’ service for the hand of Rachel.

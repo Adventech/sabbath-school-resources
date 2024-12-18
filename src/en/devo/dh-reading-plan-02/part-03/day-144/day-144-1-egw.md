@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 407-409c
+title: Jeremiah PK 407-409c
+subtitle: EGW Reading
 ---
 
 ### Chapter 34—Jeremiah

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 411b-412b
+title: Jeremiah PK 411b-412b
+subtitle: EGW Reading
 ---
 
 Jeremiah called their attention repeatedly to the counsels given in Deuteronomy. More than any other of the prophets, he emphasized the teachings of the Mosaic law and showed how these might bring the highest spiritual blessing to the nation and to every individual heart. “Ask for the old paths, where is the good way, and walk therein,” he pleaded, “and ye shall find rest for your souls.” Jeremiah 6:16.

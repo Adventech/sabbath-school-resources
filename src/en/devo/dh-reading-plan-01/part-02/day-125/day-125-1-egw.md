@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: From Sinai to Kadesh PP 381d-386
+title: From Sinai to Kadesh PP 381d-386
+subtitle: EGW Reading
 ---
 
 Moses repeated to the congregation the words of the Lord, and announced the appointment of the seventy elders. The great leader's charge to these chosen men might well serve as a model of judicial integrity for the judges and legislators of modern times: “Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him. Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God's.” Deuteronomy 1:16, 17.

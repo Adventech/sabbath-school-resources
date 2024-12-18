@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lev 4
+title: Lev 4
+subtitle: Bible Reading
 ---
 
 [[Lev 4]]

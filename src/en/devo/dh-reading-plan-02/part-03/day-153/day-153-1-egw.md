@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Approaching Doom PK 422-426a
+title: Approaching Doom PK 422-426a
+subtitle: EGW Reading
 ---
 
 ### Chapter 35—Approaching Doom

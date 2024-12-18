@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Results of Transgression PK 71c-74
+title: Results of Transgression PK 71c-74
+subtitle: EGW Reading
 ---
 
 The missionary spirit that God had implanted in the heart of Solomon and in the hearts of all true Israelites was supplanted by a spirit of commercialism. The opportunities afforded by contact with many nations were used for personal aggrandizement. Solomon sought to strengthen his position politically by building fortified cities at the gateways of commerce. He rebuilt Gezer, near Joppa, lying along the road between Egypt and Syria; Beth-horon, to the westward of Jerusalem, commanding the passes of the highway leading from the heart of Judea to Gezer and the seacoast; Megiddo, situated on the caravan road from Damascus to Egypt, and from Jerusalem to the northward; and “Tadmor in the wilderness” (2 Chronicles 8:4), along the route of caravans from the east. All these cities were strongly fortified. The commercial advantages of an outlet at the head of the Red Sea were developed by the construction of “a navy of ships in Ezion-geber, ... on the shore of the Red Sea, in the land of Edom.” Trained sailors from Tyre, “with the servants of Solomon,” manned these vessels on voyages “to Ophir, and fetched from thence gold,” and “great plenty of almug trees, and precious stones.” Verse 18; 1 Kings 9:26, 28; 10:11.

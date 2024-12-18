@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 1
+title: Gen 1
+subtitle: Bible Reading
 ---
 
 [[Gen 1]]

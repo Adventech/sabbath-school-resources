@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Earlier Judges PP 545d-548c
+title: The Earlier Judges PP 545d-548c
+subtitle: EGW Reading
 ---
 
 The Amalekites on the south of Canaan, as well as the Midianites on its eastern border, and in the deserts beyond, were still the unrelenting enemies of Israel. The latter nation had been nearly destroyed by the Israelites in the days of Moses, but they had since increased greatly, and had become numerous and powerful. They had thirsted for revenge; and now that the protecting hand of God was withdrawn from Israel, the opportunity had come. Not alone the tribes east of Jordan, but the whole land suffered from their ravages. The wild, fierce inhabitants of the desert, “as locusts for multitude” (Judges 6:5, R.V.), came swarming into the land, with their flocks and herds. Like a devouring plague they spread over the country, from the river Jordan to the Philistine plain. They came as soon as the harvests began to ripen, and remained until the last fruits of the earth had been gathered. They stripped the fields of their increase and robbed and maltreated the inhabitants and then returned to the deserts. Thus the Israelites dwelling in the open country were forced to abandon their homes, and to congregate in walled towns, to seek refuge in fortresses, or even to find shelter in caves and rocky fastnesses among the mountains. For seven years this oppression continued, and then, as the people in their distress gave heed to the Lord's reproof, and confessed their sins, God again raised up a helper for them.

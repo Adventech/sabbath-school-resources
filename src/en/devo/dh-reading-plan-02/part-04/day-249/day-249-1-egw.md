@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Reformation PK 669-673a
+title: Reformation PK 669-673a
+subtitle: EGW Reading
 ---
 
 ### Chapter 57—Reformation

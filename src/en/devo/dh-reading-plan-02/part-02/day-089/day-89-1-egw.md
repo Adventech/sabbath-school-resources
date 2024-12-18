@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Nineveh, That Great City” PK 273b-278
+title: “Nineveh, That Great City” PK 273b-278
+subtitle: EGW Reading
 ---
 
 Christ during His earthly ministry referred to the good wrought by the preaching of Jonah in Nineveh, and compared the inhabitants of that heathen center with the professed people of God in His day. “The men of Nineveh,” He declared, “shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.” Matthew 12:40, 41. Into the busy world, filled with the din of commerce and the altercation of trade, where men were trying to get all they could for self, Christ had come; and above the confusion His voice, like the trump of God, was heard: “What shall it profit a man, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?” Mark 8:36, 37.

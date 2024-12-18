@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Death of Moses PP 469-470c
+title: The Death of Moses PP 469-470c
+subtitle: EGW Reading
 ---
 
-Chapter 43—The Death of Moses
+### Chapter 43—The Death of Moses
 
 This chapter is based on Deuteronomy 31 to 34.
 

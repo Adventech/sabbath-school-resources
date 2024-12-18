@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Night of Wrestling PP 195-198b
+title: The Night of Wrestling PP 195-198b
+subtitle: EGW Reading
 ---
 
 ### Chapter 18—The Night of Wrestling

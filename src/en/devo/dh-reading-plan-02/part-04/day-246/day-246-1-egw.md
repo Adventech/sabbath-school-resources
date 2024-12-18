@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Instructed in the Law of God PK 665c-666b
+title: Instructed in the Law of God PK 665c-666b
+subtitle: EGW Reading
 ---
 
 From the fifteenth to the twenty-second of the same month the people and their rulers kept once more the Feast of Tabernacles. It was proclaimed “in all their cities, and in Jerusalem, saying, Go forth unto the mount, and fetch olive branches, and pine branches, and myrtle branches, and palm branches, and branches of thick trees, to make booths, as it is written. So the people went forth, and brought them, and made themselves booths, everyone upon the roof of his house, and in their courts, and in the courts of the house of God.... And there was very great gladness. Also day by day, from the first day unto the last day, he \[Ezra\] read in the book of the law of God.”

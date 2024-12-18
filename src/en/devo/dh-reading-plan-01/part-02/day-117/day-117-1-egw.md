@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Law and the Covenants PP 363-366b
+title: The Law and the Covenants PP 363-366b
+subtitle: EGW Reading
 ---
 
-Chapter 32—The Law and the Covenants
+### Chapter 32—The Law and the Covenants
 
 Adam and Eve, at their creation, had a knowledge of the law of God; they were acquainted with its claims upon them; its precepts were written upon their hearts. When man fell by transgression the law was not changed, but a remedial system was established to bring him back to obedience. The promise of a Saviour was given, and sacrificial offerings pointing forward to the death of Christ as the great sin offering were established. But had the law of God never been transgressed, there would have been no death, and no need of a Saviour; consequently there would have been no need of sacrifices.
 

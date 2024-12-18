@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: David Called to the Throne PP 697-699c
+title: David Called to the Throne PP 697-699c
+subtitle: EGW Reading
 ---
 
-Chapter 69—David Called to the Throne
+### Chapter 69—David Called to the Throne
 
 This chapter is based on 2 Samuel 2 to 5:5.
 

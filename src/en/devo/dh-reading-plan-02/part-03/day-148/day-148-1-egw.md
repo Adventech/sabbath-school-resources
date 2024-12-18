@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 414d-415b
+title: Jeremiah PK 414d-415b
+subtitle: EGW Reading
 ---
 
 “Why,” the Lord inquired, “is this people of Jerusalem slidden back by a perpetual backsliding?” Jeremiah 8:5. In the language of the prophet it was because they had obeyed not the voice of the Lord their God and had refused to be corrected. See Jeremiah 5:3. “Truth is perished,” he mourned, “and is cut off from their mouth.” “The stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but My people know not the judgment of the Lord.” “Shall I not visit them for these things? saith the Lord: shall not My soul be avenged on such a nation as this?” Jeremiah 7:28; 8:7; 9:9.

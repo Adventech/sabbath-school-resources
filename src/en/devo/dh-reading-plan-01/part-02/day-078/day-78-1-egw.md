@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Plagues of Egypt PP 265c-269b
+title: The Plagues of Egypt PP 265c-269b
+subtitle: EGW Reading
 ---
 
 Again the rod was stretched out over the waters, and frogs came up from the river and spread over the land. They overran the houses, took possession of the bed chambers, and even the ovens and kneading troughs. The frog was regarded as sacred by the Egyptians, and they would not destroy it; but the slimy pests had now become intolerable. They swarmed even in the palace of the Pharaohs, and the king was impatient to have them removed. The magicians had appeared to produce frogs, but they could not remove them. Upon seeing this, Pharaoh was somewhat humbled. He sent for Moses and Aaron, and said, “Entreat the Lord, that He may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the Lord.” After reminding the king of his former boasting, they requested him to appoint a time when they should pray for the removal of the plague. He set the next day, secretly hoping that in the interval the frogs might disappear of themselves, and thus save him from the bitter humiliation of submitting to the God of Israel. The plague, however, continued till the time specified, when throughout all Egypt the frogs died, but their putrid bodies, which remained, polluted the atmosphere.

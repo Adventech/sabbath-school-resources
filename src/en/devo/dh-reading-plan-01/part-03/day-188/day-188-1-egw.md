@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Samson PP 564d-568
+title: Samson PP 564d-568
+subtitle: EGW Reading
 ---
 
 After his victory the Israelites made Samson judge, and he ruled Israel for twenty years. But one wrong step prepares the way for another. Samson had transgressed the command of God by taking a wife from the Philistines, and again he ventured among them—now his deadly enemies—in the indulgence of unlawful passion. Trusting to his great strength, which had inspired the Philistines with such terror, he went boldly to Gaza, to visit a harlot of that place. The inhabitants of the city learned of his presence, and they were eager for revenge. Their enemy was shut safely within the walls of the most strongly fortified of all their cities; they felt sure of their prey, and only waited till the morning to complete their triumph. At midnight Samson was aroused. The accusing voice of conscience filled him with remorse, as he remembered that he had broken his vow as a Nazarite. But notwithstanding his sin, God's mercy had not forsaken him. His prodigious strength again served to deliver him. Going to the city gate, he wrenched it from its place and carried it, with its posts and bars, to the top of a hill on the way to Hebron.

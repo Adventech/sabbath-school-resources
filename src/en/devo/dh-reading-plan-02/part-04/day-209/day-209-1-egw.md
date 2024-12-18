@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Lions’ Den PK 544b-548
+title: The Lions’ Den PK 544b-548
+subtitle: EGW Reading
 ---
 
 Early the next morning King Darius hastened to the den and “cried with a lamentable voice,” “O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?”

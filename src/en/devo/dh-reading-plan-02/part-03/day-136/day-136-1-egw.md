@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Mannasseh and Josiah PK 381-383
+title: Mannasseh and Josiah PK 381-383
+subtitle: EGW Reading
 ---
 
 ### Chapter 32—Manasseh and Josiah

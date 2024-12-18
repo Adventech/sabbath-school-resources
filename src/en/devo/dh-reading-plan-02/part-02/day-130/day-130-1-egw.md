@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Deliverance From Assyria PK 363d-366
+title: Deliverance From Assyria PK 363d-366
+subtitle: EGW Reading
 ---
 
 The prophet Nahum, in his arraignment of the evildoers in Nineveh, exclaimed:

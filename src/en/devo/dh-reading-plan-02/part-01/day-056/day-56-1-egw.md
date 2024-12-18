@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Voice of Stern Rebuke PK 137c-142
+title: The Voice of Stern Rebuke PK 137c-142
+subtitle: EGW Reading
 ---
 
 At last, “after many days,” the word of the Lord came to Elijah, “Go, show thyself unto Ahab; and I will send rain upon the earth.”

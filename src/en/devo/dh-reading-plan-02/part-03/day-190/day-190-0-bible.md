@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Eze 44-46
+title: Eze 44-46
+subtitle: Bible Reading
 ---
 
 [[Eze 44-46]]

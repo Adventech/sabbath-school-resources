@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 3
+title: Jer 3
+subtitle: Bible Reading
 ---
 
 [[Jer 3]]

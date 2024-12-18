@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Josh 9
+title: Josh 9
+subtitle: Bible Reading
 ---
 
 [[Josh 9]]

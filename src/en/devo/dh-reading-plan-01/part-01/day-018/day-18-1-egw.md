@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: After the Flood PP 105-106a
+title: After the Flood PP 105-106a
+subtitle: EGW Reading
 ---
 
 ### Chapter 8—After the Flood

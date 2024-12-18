@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Nebuchadnezzar’s Dream PK 499d-502
+title: Nebuchadnezzar’s Dream PK 499d-502
+subtitle: EGW Reading
 ---
 
 Nebuchadnezzar revoked the decree for the destruction of the wise men. Their lives were spared because of Daniel's connection with the Revealer of secrets. And “the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon. Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king.”

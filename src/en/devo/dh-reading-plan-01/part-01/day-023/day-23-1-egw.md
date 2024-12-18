@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Abraham PP 125-127b
+title: The Call of Abraham PP 125-127b
+subtitle: EGW Reading
 ---
 
 ### Chapter 11—The Call of Abraham

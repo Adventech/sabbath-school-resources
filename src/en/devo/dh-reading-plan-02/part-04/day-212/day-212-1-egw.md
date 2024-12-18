@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return of the Exiles PK 554c-557b
+title: The Return of the Exiles PK 554c-557b
+subtitle: EGW Reading
 ---
 
 Still burdened in behalf of Israel, Daniel studied anew the prophecies of Jeremiah. They were very plain—so plain that he understood by these testimonies recorded in books “the number of the years, whereof the word of the Lord came to Jeremiah the prophet, that He would accomplish seventy years in the desolations of Jerusalem.” Daniel 9:2.

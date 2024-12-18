@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Tower of Babel PP 117-119a
+title: The Tower of Babel PP 117-119a
+subtitle: EGW Reading
 ---
 
 ### Chapter 10—The Tower of Babel

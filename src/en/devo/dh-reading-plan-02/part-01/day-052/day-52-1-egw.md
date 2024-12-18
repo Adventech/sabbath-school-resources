@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Elijah the Tishbite PK 119-123a
+title: Elijah the Tishbite PK 119-123a
+subtitle: EGW Reading
 ---
 
 ### Chapter 9—Elijah the Tishbite

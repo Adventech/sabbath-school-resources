@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David and Goliath PP 645d-648
+title: David and Goliath PP 645d-648
+subtitle: EGW Reading
 ---
 
 Eliab, David's eldest brother, when he heard these words, knew well the feelings that were stirring the young man's soul. Even as a shepherd, David had manifested daring, courage, and strength but rarely witnessed; and the mysterious visit of Samuel to their father's house, and his silent departure, had awakened in the minds of the brothers suspicions of the real object of his visit. Their jealousy had been aroused as they saw David honored above them, and they did not regard him with the respect and love due to his integrity and brotherly tenderness. They looked upon him as merely a stripling shepherd, and now the question which he asked was regarded by Eliab as a censure upon his own cowardice in making no attempt to silence the giant of the Philistines. The elder brother exclaimed angrily, “Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.” David's answer was respectful but decided: “What have I now done? Is there not a cause?”

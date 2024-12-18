@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Absalom PP 736-739b
+title: The Rebellion of Absalom PP 736-739b
+subtitle: EGW Reading
 ---
 
 With this gleam of light in the darkness, the king and his followers pursued their way down the eastern slope of Olivet, through a rocky and desolate waste, through wild ravines, and along stony and precipitous paths, toward the Jordan. “And when King David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came. And he cast stones at David, and at all the servants of King David: and all the people and all the mighty men were on his right hand and on his left. And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial. The Lord hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the Lord hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou art taken in thy mischief, because thou art a bloody man.”

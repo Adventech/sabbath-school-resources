@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Coming of a Deliverer PK 688b-692b
+title: The Coming of a Deliverer PK 688b-692b
+subtitle: EGW Reading
 ---
 
 With prophetic vision David, the anointed of God, had foreseen that the coming of Christ should be “as the light of the morning, when the sun riseth, even a morning without clouds.” 2 Samuel 23:4. And Hosea testified, “His going forth is prepared as the morning.” Hosea 6:3. Quietly and gently the daylight breaks upon the earth, dispelling the shadow of darkness and waking the earth to life. So was the Sun of Righteousness to arise, “with healing in His wings.” Malachi 4:2. The multitudes dwelling “in the land of the shadow of death” were to see “a great light.” Isaiah 9:2.

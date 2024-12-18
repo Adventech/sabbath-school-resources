@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: 2 Ki 19:35-37; 20:20-21; 2 Chr 32:21-23, 32-33; Ps 75-76; Isa 37:36-38; Eze 31:1-9
+title: '2 Ki 19:35-37; 20:20-21; 2 Chr 32:21-23, 32-33; Ps 75-76; Isa 37:36-38; Eze 31:1-9'
+subtitle: Bible Reading
 ---
 
 [[2 Ki 19:35-37; 20:20-21; 2 Chr 32:21-23, 32-33; Ps 75-76; Isa 37:36-38; Eze 31:1-9]]

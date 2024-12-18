@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Pride of Prosperity PK 51-56b
+title: Pride of Prosperity PK 51-56b
+subtitle: EGW Reading
 ---
 
 ### Chapter 3—Pride of Prosperity

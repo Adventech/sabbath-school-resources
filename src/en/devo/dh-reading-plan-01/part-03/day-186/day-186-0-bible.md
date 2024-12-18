@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Judg 13:2-23
+title: Judg 13:2-23
+subtitle: Bible Reading
 ---
 
 [[Judg 13:2-23]]

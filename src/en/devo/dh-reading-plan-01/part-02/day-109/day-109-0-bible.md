@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lev 7-9; 12
+title: Lev 7-9; 12
+subtitle: Bible Reading
 ---
 
 [[Lev 7-9; 12]]

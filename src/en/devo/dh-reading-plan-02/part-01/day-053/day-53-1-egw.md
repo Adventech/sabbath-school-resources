@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Elijah the Tishbite PK 123b-128
+title: Elijah the Tishbite PK 123b-128
+subtitle: EGW Reading
 ---
 
 The king made diligent inquiry, but the prophet was not to be found. Queen Jezebel, angered over the message that had locked up the treasures of heaven, lost no time in conferring with the priests of Baal, who united with her in cursing the prophet and in defying the wrath of Jehovah. But notwithstanding their desire to find him who had uttered the word of woe, they were destined to meet with disappointment. Nor could they conceal from others a knowledge of the judgment pronounced in consequence of the prevailing apostasy. Tidings of Elijah's denunciation of the sins of Israel, and of his prophecy of swift-coming punishment, quickly spread throughout the land. The fears of some were aroused, but in general the heavenly message was received with scorn and ridicule.

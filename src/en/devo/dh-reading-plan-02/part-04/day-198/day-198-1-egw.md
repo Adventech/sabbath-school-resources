@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fiery Furnace PK 503-506a
+title: The Fiery Furnace PK 503-506a
+subtitle: EGW Reading
 ---
 
 ### Chapter 41—The Fiery Furnace

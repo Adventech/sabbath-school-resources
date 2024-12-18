@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Judg 13:24-15:20
+title: Judg 13:24-15:20
+subtitle: Bible Reading
 ---
 
 [[Judg 13:24-15:20]]

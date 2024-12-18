@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: 1 Ki 19:19-21
+title: '1 Ki 19:19-21'
+subtitle: Bible Reading
 ---
 
 [[1 Ki 19:19-21]]

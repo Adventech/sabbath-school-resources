@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Assyrian Captivity PK 279-280b
+title: The Assyrian Captivity PK 279-280b
+subtitle: EGW Reading
 ---
 
 ### Chapter 23—The Assyrian Captivity

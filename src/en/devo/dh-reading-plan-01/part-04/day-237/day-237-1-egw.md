@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Reign of David PP 713d-715c
+title: The Reign of David PP 713d-715c
+subtitle: EGW Reading
 ---
 
 Then there was formed against the kingdom of David a vast coalition of the surrounding nations, out of which grew the greatest wars and victories of his reign and the most extensive accessions to his power. This hostile alliance, which really sprang from jealousy of David's increasing power, had been wholly unprovoked by him. The circumstances that led to its rise were these:

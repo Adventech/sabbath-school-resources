@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Results of Transgression PK 65c-68a
+title: Results of Transgression PK 65c-68a
+subtitle: EGW Reading
 ---
 
 Another of the deviations from right principles that finally led to the downfall of Israel's king was his yielding to the temptation to take to himself the glory that belongs to God alone.

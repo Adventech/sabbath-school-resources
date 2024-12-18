@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Destruction of Sodom PP 167c-170
+title: Destruction of Sodom PP 167c-170
+subtitle: EGW Reading
 ---
 
 Like the dwellers in the vale of Siddim, the people are dreaming of prosperity and peace. “Escape for thy life,” is the warning from the angels of God; but other voices are heard saying, “Be not excited; there is no cause for alarm.” The multitudes cry, “Peace and safety,” while Heaven declares that swift destruction is about to come upon the transgressor. On the night prior to their destruction, the cities of the plain rioted in pleasure and derided the fears and warnings of the messenger of God; but those scoffers perished in the flames; that very night the door of mercy was forever closed to the wicked, careless inhabitants of Sodom. God will not always be mocked; He will not long be trifled with. “Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate: and He shall destroy the sinners thereof out of it.” Isaiah 13:9. The great mass of the world will reject God's mercy, and will be overwhelmed in swift and irretrievable ruin. But those who heed the warning shall dwell “in the secret place of the Most High,” and “abide under the shadow of the Almighty.” His truth shall be their shield and buckler. For them is the promise, “With long life will I satisfy him, and show him My salvation.” Psalm 91:1, 4, 16.

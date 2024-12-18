@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Magnanimity of David PP 664c-666a
+title: The Magnanimity of David PP 664c-666a
+subtitle: EGW Reading
 ---
 
 David could not be present at the burial of Samuel, but he mourned for him as deeply and tenderly as a faithful son could mourn for a devoted father. He knew that Samuel's death had broken another bond of restraint from the actions of Saul, and he felt less secure than when the prophet lived. While the attention of Saul was engaged in mourning for the death of Samuel, David took the opportunity to seek a place of greater security; so he fled to the wilderness of Paran. It was here that he composed the one hundred and twentieth and twenty-first psalms. In these desolate wilds, realizing that the prophet was dead, and the king was his enemy, he sang:

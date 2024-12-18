@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: National Apostasy PK 109-112a
+title: National Apostasy PK 109-112a
+subtitle: EGW Reading
 ---
 
 ### Chapter 8—National Apostasy

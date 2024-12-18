@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Voice of Stern Rebuke PK 133-137b
+title: The Voice of Stern Rebuke PK 133-137b
+subtitle: EGW Reading
 ---
 
 Through the long years of drought and famine, Elijah prayed earnestly that the hearts of Israel might be turned from idolatry to allegiance to God. Patiently the prophet waited, while the hand of the Lord rested heavily on the stricken land. As he saw evidences of suffering and want multiplying on every side, his heart was wrung with sorrow, and he longed for power to bring about a reformation quickly. But God Himself was working out His plan, and all that His servant could do was to pray on in faith and await the time for decided action.

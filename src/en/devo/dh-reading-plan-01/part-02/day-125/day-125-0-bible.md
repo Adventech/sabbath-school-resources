@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Num 11:24-12:16
+title: Num 11:24-12:16
+subtitle: Bible Reading
 ---
 
 [[Num 11:24-12:16]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David a Fugitive PP 654c-655c
+title: David a Fugitive PP 654c-655c
+subtitle: EGW Reading
 ---
 
 Again the persecutor was defeated in his purpose. He assured David that he was at peace with him, but David had little confidence in the king's repentance. He took this opportunity to escape, lest the mood of the king should change, as formerly. His heart was wounded within him, and he longed to see his friend Jonathan once more. Conscious of his innocence, he sought the king's son and made a most touching appeal. “What have I done?” he asked, “what is mine iniquity? and what is my sin before thy father, that he seeketh my life?” Jonathan believed that his father had changed his purpose and no longer intended to take the life of David. And Jonathan said unto him, “God forbid; thou shalt not die: behold, my father will do nothing either great or small, but that he will show it me: and why should my father hide this thing from me? It is not so.” After the remarkable exhibition of the power of God, Jonathan could not believe that his father would still harm David, since this would be manifest rebellion against God. But David was not convinced. With intense earnestness he declared to Jonathan, “As the Lord liveth, and as thy soul liveth, there is but a step between me and death.”

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Smitten Rock PP 417b-421
+title: The Smitten Rock PP 417b-421
+subtitle: EGW Reading
 ---
 
 The leaders went to the door of the tabernacle and fell upon their faces. Again “the glory of the Lord appeared,” and Moses was directed, “Take the rod, and gather thou the assembly together, thou and Aaron thy brother, and speak ye unto the rock before their eyes; and it shall give forth his water, and thou shalt bring forth to them water out of the rock.”

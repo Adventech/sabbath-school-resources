@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David at Ziklag PP 693d-696
+title: David at Ziklag PP 693d-696
+subtitle: EGW Reading
 ---
 
 Advancing, they came upon an Egyptian slave apparently about to perish from weariness and hunger. Upon receiving food and drink, however, he revived, and they learned that he had been left to die by his cruel master, an Amalekite belonging to the invading force. He told the story of the raid and pillage; and then, having exacted a promise that he should not be slain or delivered to his master, he consented to lead David's company to the camp of their enemies.

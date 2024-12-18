@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jehoshaphat PK 192c-196a
+title: Jehoshaphat PK 192c-196a
+subtitle: EGW Reading
 ---
 
 For many years Jehoshaphat lived in peace, unmolested by surrounding nations. “The fear of the Lord fell upon all the kingdoms of the lands that were round about Judah.” Verse 10. From Philistia he received tribute money and presents; from Arabia, large flocks of sheep and goats. “Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of stores.... Men of war, mighty men of valor, ... waited on the king, beside those whom the king put in the fenced cities throughout all Judah.” Verses 12-19. Blessed abundantly with “riches and honor,” he was enabled to wield a mighty influence for truth and righteousness. 2 Chronicles 18:1.

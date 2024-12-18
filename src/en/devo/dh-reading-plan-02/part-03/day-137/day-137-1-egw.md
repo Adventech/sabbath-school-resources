@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Mannasseh and Josiah PK 384-387b
+title: Mannasseh and Josiah PK 384-387b
+subtitle: EGW Reading
 ---
 
 With the accession of Josiah to the throne, where he was to rule for thirty-one years, those who had maintained the purity of their faith began to hope that the downward course of the kingdom was checked; for the new king, though only eight years old, feared God, and from the very beginning “he did that which was right in the sight of the Lord, and walked in all the way of David his father, and turned not aside to the right hand or to the left.” 2 Kings 22:2. Born of a wicked king, beset with temptations to follow in his father's steps, and with few counselors to encourage him in the right way, Josiah nevertheless was true to the God of Israel. Warned by the errors of past generations, he chose to do right, instead of descending to the low level of sin and degradation to which his father and his grandfather had fallen. He “turned not aside to the right hand or to the left.” As one who was to occupy a position of trust, he resolved to obey the instruction that had been given for the guidance of Israel's rulers, and his obedience made it possible for God to use him as a vessel unto honor.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph in Egypt PP 220c-223
+title: Joseph in Egypt PP 220c-223
+subtitle: EGW Reading
 ---
 
 “And Pharaoh said unto Joseph, I have dreamed a dream, and there is none that can interpret it: and I have heard say of thee, that thou canst understand a dream to interpret it. And Joseph answered Pharaoh, saying, It is not in me: God shall give Pharaoh an answer of peace.” Joseph's reply to the king reveals his humility and his faith in God. He modestly disclaims the honor of possessing in himself superior wisdom. “It is not in me.” God alone can explain these mysteries.

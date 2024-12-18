@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 38-39
+title: Ex 38-39
+subtitle: Bible Reading
 ---
 
 [[Ex 38-39]]

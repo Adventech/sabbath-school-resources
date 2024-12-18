@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Deut 22-26
+title: Deut 22-26
+subtitle: Bible Reading
 ---
 
 [[Deut 22-26]]

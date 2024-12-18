@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of Jericho PP 494b-498
+title: The Fall of Jericho PP 494b-498
+subtitle: EGW Reading
 ---
 
 “Alas, O Lord God,” he cried, “wherefore hast Thou at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? ... O Lord, what shall I say, when Israel turneth their backs before their enemies! For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt Thou do unto Thy great name?”

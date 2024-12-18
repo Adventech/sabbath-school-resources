@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 49
+title: Gen 49
+subtitle: Bible Reading
 ---
 
 [[Gen 49]]

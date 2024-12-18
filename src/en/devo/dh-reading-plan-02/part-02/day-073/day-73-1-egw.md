@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of the House of Ahab PK 212c-214a
+title: The Fall of the House of Ahab PK 212c-214a
+subtitle: EGW Reading
 ---
 
 As Ahaziah had no son, he was succeeded by Jehoram, his brother, who reigned over the ten tribes for twelve years. Throughout these years his mother, Jezebel, was still living, and she continued to exercise her evil influence over the affairs of the nation. Idolatrous customs were still practiced by many of the people. Jehoram himself “wrought evil in the sight of the Lord; but not like his father, and like his mother: for he put away the image of Baal that his father had made. Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.” 2 Kings 3:2, 3.

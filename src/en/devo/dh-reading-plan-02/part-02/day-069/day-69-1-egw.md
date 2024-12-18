@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jehoshaphat PK 201d-203
+title: Jehoshaphat PK 201d-203
+subtitle: EGW Reading
 ---
 
 “Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the Lord, worshiping the Lord. And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the Lord God of Israel with a loud voice on high.”

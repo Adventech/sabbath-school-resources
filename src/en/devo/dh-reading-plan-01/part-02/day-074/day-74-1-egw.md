@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Moses PP 251b-253f
+title: Moses PP 251b-253f
+subtitle: EGW Reading
 ---
 
 As the years rolled on, and he wandered with his flocks in solitary places, pondering upon the oppressed condition of his people, he recounted the dealings of God with his fathers and the promises that were the heritage of the chosen nation, and his prayers for Israel ascended by day and by night. Heavenly angels shed their light around him. Here, under the inspiration of the Holy Spirit, he wrote the book of Genesis. The long years spent amid the desert solitudes were rich in blessing, not alone to Moses and his people, but to the world in all succeeding ages.

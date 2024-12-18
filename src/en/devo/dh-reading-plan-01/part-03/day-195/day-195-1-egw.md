@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Eli and His Sons PP 577c-580
+title: Eli and His Sons PP 577c-580
+subtitle: EGW Reading
 ---
 
 “There came a man of God unto Eli, and said unto him, Thus saith the Lord, Did I plainly appear unto the house of thy father, when they were in Egypt in Pharaoh's house? And did I choose him out of all the tribes of Israel to be My priest, to offer upon Mine altar, to burn incense, to wear an ephod before Me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel? Wherefore kick ye at My sacrifice and at Mine offering, which I have commanded in My habitation; and honorest thy sons above Me, to make yourselves fat with the chiefest of all the offerings of Israel My people? Wherefore the Lord God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before Me forever: but now the Lord saith, Be it far from Me; for them that honor Me I will honor, and they that despise Me shall be lightly esteemed.... And I will raise Me up a faithful priest, that shall do according to that which is in Mine heart and in My mind: and I will build him a sure house; and he shall walk before Mine anointed forever.”

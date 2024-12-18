@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return of the Exiles PK 563c-566
+title: The Return of the Exiles PK 563c-566
+subtitle: EGW Reading
 ---
 
 The house that was about to be rebuilt had been the subject of many prophecies concerning the favor that God desired to show Zion, and all who were present at the laying of the cornerstone should have entered heartily into the spirit of the occasion. Yet mingled with the music and the shouts of praise that were heard on that glad day, was a discordant note. “Many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice.” Verse 12.

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 39
+title: Gen 39
+subtitle: Bible Reading
 ---
 
 [[Gen 39]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Abraham PP 127c-131
+title: The Call of Abraham PP 127c-131
+subtitle: EGW Reading
 ---
 
 The place where they first tarried was Shechem. Under the shade of the oaks of Moreh, in a wide, grassy valley, with its olive groves and gushing springs, between Mount Ebal on the one side and Mount Gerizim on the other, Abraham made his encampment. It was a fair and goodly country that the patriarch had entered—“a land of brooks of water, of fountains and depths that spring out of valleys and hills; a land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey.” Deuteronomy 8:7, 8. But to the worshiper of Jehovah, a heavy shadow rested upon wooded hill and fruitful plain. “The Canaanite was then in the land.” Abraham had reached the goal of his hopes to find a country occupied by an alien race and overspread with idolatry. In the groves were set up the altars of false gods, and human sacrifices were offered upon the neighboring heights. While he clung to the divine promise, it was not without distressful forebodings that he pitched his tent. Then “the Lord appeared unto Abram, and said, Unto thy seed will I give this land.” His faith was strengthened by this assurance that the divine presence was with him, that he was not left to the mercy of the wicked. “And there builded he an altar unto the Lord, who appeared unto him.” Still a wayfarer, he soon removed to a spot near Bethel, and again erected an altar, and called upon the name of the Lord.

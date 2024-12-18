@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Night of Wrestling PP 198c-203
+title: The Night of Wrestling PP 198c-203
+subtitle: EGW Reading
 ---
 
 While Jacob was wrestling with the Angel, another heavenly messenger was sent to Esau. In a dream, Esau beheld his brother for twenty years an exile from his father's house; he witnessed his grief at finding his mother dead; he saw him encompassed by the hosts of God. This dream was related by Esau to his soldiers, with the charge not to harm Jacob, for the God of his father was with him.

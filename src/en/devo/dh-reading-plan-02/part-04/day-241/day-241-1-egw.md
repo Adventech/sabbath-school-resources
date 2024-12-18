@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: A Rebuke Against Extortion PK 646-650b
+title: A Rebuke Against Extortion PK 646-650b
+subtitle: EGW Reading
 ---
 
 ### Chapter 54—A Rebuke Against Extortion

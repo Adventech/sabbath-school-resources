@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: In the Court of Babylon PK 479-483b
+title: In the Court of Babylon PK 479-483b
+subtitle: EGW Reading
 ---
 
 ### Chapter 39—In the Court of Babylon

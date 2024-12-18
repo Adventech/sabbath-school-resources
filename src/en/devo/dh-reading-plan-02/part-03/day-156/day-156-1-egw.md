@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Approaching Doom PK 430c-432b
+title: Approaching Doom PK 430c-432b
+subtitle: EGW Reading
 ---
 
 Within a few years this terrible judgment was to be visited upon Jehoiakim; but first the Lord in mercy informed the impenitent nation of His set purpose. In the fourth year of Jehoiakim's reign “Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem,” pointing out that for over a score of years, “from the thirteenth year of Josiah, ... even unto this day,” he had borne witness of God's desire to save, but that His messages had been despised. Jeremiah 25:2, 3. And now the word of the Lord to them was:

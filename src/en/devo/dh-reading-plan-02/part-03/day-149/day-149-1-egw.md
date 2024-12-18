@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 415c-419a
+title: Jeremiah PK 415c-419a
+subtitle: EGW Reading
 ---
 
 A refusal to heed the invitation of mercy that God was now offering would bring upon the impenitent nation the judgments that had befallen the northern kingdom of Israel over a century before. The message to them now was: “If ye will not hearken to Me, to walk in My law, which I have set before you, to hearken to the words of My servants the prophets, whom I sent unto you, both rising up early, and sending them, but ye have not hearkened; then will I make this house like Shiloh, and will make this city a curse to all the nations of the earth.” Jeremiah 26:4-6.

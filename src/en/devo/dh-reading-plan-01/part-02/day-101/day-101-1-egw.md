@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Tabernacle and Its Services PP 343-347a
+title: The Tabernacle and Its Services PP 343-347a
+subtitle: EGW Reading
 ---
 
-Chapter 30—The Tabernacle and Its Services
+### Chapter 30—The Tabernacle and Its Services
 
 This chapter is based on Exodus 25 to 40; Leviticus 4 and 16.
 

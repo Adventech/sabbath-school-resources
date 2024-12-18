@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Satan’s Enmity Against the Law PP 331-336
+title: Satan’s Enmity Against the Law PP 331-336
+subtitle: EGW Reading
 ---
 
-Chapter 29—Satan's Enmity Against the Law
+### Chapter 29—Satan's Enmity Against the Law
 
 The very first effort of Satan to overthrow God's law—undertaken among the sinless inhabitants of heaven—seemed for a time to be crowned with success. A vast number of the angels were seduced; but Satan's apparent triumph resulted in defeat and loss, separation from God, and banishment from heaven.
 

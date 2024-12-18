@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Marriage of Isaac PP 171-173d
+title: The Marriage of Isaac PP 171-173d
+subtitle: EGW Reading
 ---
 
 ### Chapter 15—The Marriage of Isaac

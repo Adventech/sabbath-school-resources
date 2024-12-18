@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Visions of Future Glory PK 727d-733
+title: Visions of Future Glory PK 727d-733
+subtitle: EGW Reading
 ---
 
 The day of wrath to the enemies of God is the day of final deliverance to His church. The prophet declares: “Strengthen ye the weak hands,\

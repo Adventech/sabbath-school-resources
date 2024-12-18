@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Annual Feasts PP 540b-542
+title: The Annual Feasts PP 540b-542
+subtitle: EGW Reading
 ---
 
 Fifty days from the offering of first fruits, came the Pentecost, called also the feast of harvest and the feast of weeks. As an expression of gratitude for the grain prepared as food, two loaves baked with leaven were presented before God. The Pentecost occupied but one day, which was devoted to religious service.

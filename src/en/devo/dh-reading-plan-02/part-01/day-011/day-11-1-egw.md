@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Solomon PK 25-27a
+title: Solomon PK 25-27a
+subtitle: EGW Reading
 ---
 
 ### Chapter 1—Solomon

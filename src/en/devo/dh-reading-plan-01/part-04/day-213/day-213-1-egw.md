@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David a Fugitive PP 652c-654b
+title: David a Fugitive PP 652c-654b
+subtitle: EGW Reading
 ---
 
 Jonathan revealed the king's intention to David and bade him conceal himself while he would plead with his father to spare the life of the deliverer of Israel. He presented before the king what David had done to preserve the honor and even the life of the nation, and what terrible guilt would rest upon the murderer of the one whom God had used to scatter their enemies. The conscience of the king was touched, and his heart was softened. “And Saul sware, As the Lord liveth, he shall not be slain.” David was brought to Saul, and he ministered in his presence, as he had done in the past.

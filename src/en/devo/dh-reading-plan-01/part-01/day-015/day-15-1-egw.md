@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Flood PP 92c-97c
+title: The Flood PP 92c-97c
+subtitle: EGW Reading
 ---
 
 Amid the prevailing corruption, Methuselah, Noah, and many others labored to keep alive the knowledge of the true God and to stay the tide of moral evil. A hundred and twenty years before the Flood, the Lord by a holy angel declared to Noah His purpose, and directed him to build an ark. While building the ark he was to preach that God would bring a flood of water upon the earth to destroy the wicked. Those who would believe the message, and would prepare for that event by repentance and reformation, should find pardon and be saved. Enoch had repeated to his children what God had shown him in regard to the Flood, and Methuselah and his sons, who lived to hear the preaching of Noah, assisted in building the ark.

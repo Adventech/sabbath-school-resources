@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Marriage of Isaac PP 173e-176
+title: The Marriage of Isaac PP 173e-176
+subtitle: EGW Reading
 ---
 
 The servant, anticipating his master's joy at the success of his mission, was impatient to be gone; and with the morning they set out on the homeward journey. Abraham dwelt at Beersheba, and Isaac, who had been attending to the flocks in the adjoining country, had returned to his father's tent to await the arrival of the messenger from Haran. “And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels were coming. And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel. For she had said unto the servant, What man is that that walketh in the field to meet us? And the servant had said, It is my master: therefore she took a veil, and covered herself. And the servant told Isaac all things that he had done. And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother's death.”

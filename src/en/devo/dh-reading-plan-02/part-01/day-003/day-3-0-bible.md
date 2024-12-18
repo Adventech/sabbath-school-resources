@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ps 119
+title: Ps 119
+subtitle: Bible Reading
 ---
 
 [[Ps 119]]

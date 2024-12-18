@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hezekiah PK 333b-335b
+title: Hezekiah PK 333b-335b
+subtitle: EGW Reading
 ---
 
 In the first service held, the rulers of the city united with King Hezekiah and with the priests and Levites in seeking forgiveness for the sins of the nation. Upon the altar were placed sin offerings “to make an atonement for all Israel.” “And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshiped.” Once more the temple courts resounded with words of praise and adoration. The songs of David and of Asaph were sung with joy, as the worshipers realized that they were being delivered from the bondage of sin and apostasy. “Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was done suddenly.” Verses 24, 29, 36.

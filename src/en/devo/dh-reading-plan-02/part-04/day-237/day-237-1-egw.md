@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: A Man of Opportunity PK 628-634
+title: A Man of Opportunity PK 628-634
+subtitle: EGW Reading
 ---
 
 ### Chapter 52—A Man of Opportunity

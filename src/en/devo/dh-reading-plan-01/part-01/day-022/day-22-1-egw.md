@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Tower of Babel PP 119b-124
+title: The Tower of Babel PP 119b-124
+subtitle: EGW Reading
 ---
 
 The dwellers on the plain of Shinar disbelieved God's covenant that He would not again bring a flood upon the earth. Many of them denied the existence of God and attributed the Flood to the operation of natural causes. Others believed in a Supreme Being, and that it was He who had destroyed the antediluvian world; and their hearts, like that of Cain, rose up in rebellion against Him. One object before them in the erection of the tower was to secure their own safety in case of another deluge. By carrying the structure to a much greater height than was reached by the waters of the Flood, they thought to place themselves beyond all possibility of danger. And as they would be able to ascend to the region of the clouds, they hoped to ascertain the cause of the Flood. The whole undertaking was designed to exalt still further the pride of its projectors and to turn the minds of future generations away from God and lead them into idolatry.

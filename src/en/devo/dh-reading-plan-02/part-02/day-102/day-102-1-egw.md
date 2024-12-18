@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Call of Isaiah PK 305b-306c
+title: The Call of Isaiah PK 305b-306c
+subtitle: EGW Reading
 ---
 
 The judgment that befell Uzziah seemed to have a restraining influence on his son. Jotham bore heavy responsibilities during the later years of his father's reign and succeeded to the throne after Uzziah's death. Of Jotham it is written: “He did that which was right in the sight of the Lord: he did according to all that his father Uzziah had done. Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places.” 2 Kings 15:34, 35.

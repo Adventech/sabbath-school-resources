@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lam 1-2
+title: Lam 1-2
+subtitle: Bible Reading
 ---
 
 [[Lam 1-2]]

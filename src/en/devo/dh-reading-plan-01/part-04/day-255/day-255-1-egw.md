@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last Years of David PP 750b-752a
+title: The Last Years of David PP 750b-752a
+subtitle: EGW Reading
 ---
 
 From the very opening of David's reign one of his most cherished plans had been that of erecting a temple to the Lord. Though he had not been permitted to execute this design, he had manifested no less zeal and earnestness in its behalf. He had provided an abundance of the most costly material—gold, silver, onyx stones, and stones of divers colors; marble, and the most precious woods. And now these valuable treasures that he had collected must be committed to others; for other hands must build the house for the ark, the symbol of God's presence.

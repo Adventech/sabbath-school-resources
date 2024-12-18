@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return of the Exiles PK 557c-559c
+title: The Return of the Exiles PK 557c-559c
+subtitle: EGW Reading
 ---
 
 As the king saw the words foretelling, more than a hundred years before his birth, the manner in which Babylon should be taken; as he read the message addressed to him by the Ruler of the universe, “I girded thee, though thou hast not known Me: that they may know from the rising of the sun, and from the west, that there is none beside Me;” as he saw before his eyes the declaration of the eternal God, “For Jacob My servant's sake, and Israel Mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known Me;” as he traced the inspired record, “I have raised him up in righteousness, and I will direct all his ways: he shall build My city, and he shall let go My captives, not for price nor reward,” his heart was profoundly moved, and he determined to fulfill his divinely appointed mission. Isaiah 45:5, 6, 4, 13. He would let the Judean captives go free; he would help them restore the temple of Jehovah.

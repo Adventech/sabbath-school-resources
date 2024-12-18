@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: A Rebuke Against Extortion PK 650c-652
+title: A Rebuke Against Extortion PK 650c-652
+subtitle: EGW Reading
 ---
 
 These words were spoken in the presence of the whole congregation. Had the rulers chosen to justify themselves, they had opportunity to do so. But they offered no excuse. “We will restore them,” they declared, “and will require nothing of them; so will we do as thou sayest.” At this, Nehemiah in the presence of the priests “took an oath of them, that they should do according to this promise.” “And all the congregation said, Amen, and praised the Lord. And the people did according to this promise.”

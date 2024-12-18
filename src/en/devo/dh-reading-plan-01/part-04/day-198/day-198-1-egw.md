@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Ark Taken by the Philistines PP 589b-591
+title: The Ark Taken by the Philistines PP 589b-591
+subtitle: EGW Reading
 ---
 
 The men of Beth-shemesh quickly spread the tidings that the ark was in their possession, and the people from the surrounding country flocked to welcome its return. The ark had been placed upon the stone that first served for an altar, and before it additional sacrifices were offered unto the Lord. Had the worshipers repented of their sins, God's blessing would have attended them. But they were not faithfully obeying His law; and while they rejoiced at the return of the ark as a harbinger of good, they had no true sense of its sacredness. Instead of preparing a suitable place for its reception, they permitted it to remain in the harvest field. As they continued to gaze upon the sacred chest and to talk of the wonderful manner in which it had been restored, they began to conjecture wherein lay its peculiar power. At last, overcome by curiosity, they removed the coverings and ventured to open it.

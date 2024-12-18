@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph and His Brothers PP 227b-229a
+title: Joseph and His Brothers PP 227b-229a
+subtitle: EGW Reading
 ---
 
 But the drought continued, and in process of time the supply of grain that had been brought from Egypt was nearly exhausted. The sons of Jacob well knew that it would be in vain to return to Egypt without Benjamin. They had little hope of changing their father's resolution, and they awaited the issue in silence. Deeper and deeper grew the shadow of approaching famine; in the anxious faces of all in the encampment the old man read their need; at last he said, “Go again, buy us a little food.”

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Magnanimity of David PP 666b-667d
+title: The Magnanimity of David PP 666b-667d
+subtitle: EGW Reading
 ---
 
 Without consulting her husband or telling him of her intention, Abigail made up an ample supply of provisions, which, laded upon asses, she sent forward in the charge of servants, and herself started out to meet the band of David. She met them in a covert of a hill. “And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground, and fell at his feet, and said, Upon me, my lord, upon me let this iniquity be: and let thine handmaid, I pray thee, speak in thine audience.” Abigail addressed David with as much reverence as though speaking to a crowned monarch. Nabal had scornfully exclaimed, “Who is David?” but Abigail called him, “my lord.” With kind words she sought to soothe his irritated feelings, and she pleaded with him in behalf of her husband. With nothing of ostentation or pride, but full of the wisdom and love of God, Abigail revealed the strength of her devotion to her household; and she made it plain to David that the unkind course of her husband was in no wise premeditated against him as a personal affront, but was simply the outburst of an unhappy and selfish nature.

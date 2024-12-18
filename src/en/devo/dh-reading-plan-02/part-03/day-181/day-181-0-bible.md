@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Eze 17-19
+title: Eze 17-19
+subtitle: Bible Reading
 ---
 
 [[Eze 17-19]]

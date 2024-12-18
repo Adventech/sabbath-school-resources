@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ezra 7
+title: Ezra 7
+subtitle: Bible Reading
 ---
 
 [[Ezra 7]]

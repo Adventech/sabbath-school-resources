@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 40
+title: Ex 40
+subtitle: Bible Reading
 ---
 
 [[Ex 40]]

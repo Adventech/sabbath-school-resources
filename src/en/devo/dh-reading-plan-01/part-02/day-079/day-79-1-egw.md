@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Plagues of Egypt PP 269c-272
+title: The Plagues of Egypt PP 269c-272
+subtitle: EGW Reading
 ---
 
 A plague of hail was next threatened upon Pharaoh, with the warning, “Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.” Rain or hail was unusual in Egypt, and such a storm as was foretold had never been witnessed. The report spread rapidly, and all who believed the word of the Lord gathered in their cattle, while those who despised the warning left them in the field. Thus in the midst of judgment the mercy of God was displayed, the people were tested, and it was shown how many had been led to fear God by the manifestation of His power.

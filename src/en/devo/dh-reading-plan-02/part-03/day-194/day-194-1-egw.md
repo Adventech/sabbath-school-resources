@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: In the Court of Babylon PK 485c-490
+title: In the Court of Babylon PK 485c-490
+subtitle: EGW Reading
 ---
 
 At the court of Babylon were gathered representatives from all lands, men of the highest talent, men the most richly endowed with natural gifts, and possessed of the broadest culture that the world could bestow; yet among them all, the Hebrew youth were without a peer. In physical strength and beauty, in mental vigor and literary attainment, they stood unrivaled. The erect form, the firm, elastic step, the fair countenance, the undimmed senses, the untainted breath—all were so many certificates of good habits, insignia of the nobility with which nature honors those who are obedient to her laws.

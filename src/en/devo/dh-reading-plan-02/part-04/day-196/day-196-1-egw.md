@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Nebuchadnezzar’s Dream PK 494c-499c
+title: Nebuchadnezzar’s Dream PK 494c-499c
+subtitle: EGW Reading
 ---
 
 Going immediately to Arioch, whom the king had commanded to destroy the wise men, Daniel said, “Destroy not the wise men of Babylon: bring me in before the king, and I will show unto the king the interpretation.” Quickly the officer ushered Daniel in before the king, with the words, “I have found a man of the captives of Judah, that will make known unto the king the interpretation.”

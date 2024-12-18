@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Earlier Judges PP 557b-558c
+title: The Earlier Judges PP 557b-558c
+subtitle: EGW Reading
 ---
 
 After the death of Abimelech the rule of judges who feared the Lord served for a time to put a check upon idolatry, but erelong the people returned to the practices of the heathen communities around them. Among the northern tribes the gods of Syria and Sidon had many worshipers. On the southwest the idols of the Philistines, and on the east those of Moab and Ammon, had turned the hearts of Israel from the God of their fathers. But apostasy speedily brought its punishment. The Ammonites subdued the eastern tribes and, crossing the Jordan, invaded the territory of Judah and Ephraim. On the west the Philistines came up from their plain beside the sea, burning and pillaging far and near. Again Israel seemed to be abandoned to the power of relentless foes.

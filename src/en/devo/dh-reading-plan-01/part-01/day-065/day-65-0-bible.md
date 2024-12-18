@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Job 22-24
+title: Job 22-24
+subtitle: Bible Reading
 ---
 
 [[Job 22-24]]

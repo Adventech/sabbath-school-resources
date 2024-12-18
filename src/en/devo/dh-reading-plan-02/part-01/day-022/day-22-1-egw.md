@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Pride of Prosperity PK 56c-60
+title: Pride of Prosperity PK 56c-60
+subtitle: EGW Reading
 ---
 
 As a safeguard against dependence on the arm of flesh, the Lord had warned those who should rule over Israel not to multiply horses to themselves. But in utter disregard of this command, “Solomon had horses brought out of Egypt.” “And they brought unto Solomon horses out of Egypt, and out of all lands.” “Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem.” 2 Chronicles 1:16; 9:28; 1 Kings 10:26.

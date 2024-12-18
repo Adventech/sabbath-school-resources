@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Last Words of Joshua PP 521-524
+title: The Last Words of Joshua PP 521-524
+subtitle: EGW Reading
 ---
 
-Chapter 49—The Last Words of Joshua
+### Chapter 49—The Last Words of Joshua
 
 This chapter is based on Joshua 23 and 24.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Prov 29-31
+title: Prov 29-31
+subtitle: Bible Reading
 ---
 
 [[Prov 29-31]]

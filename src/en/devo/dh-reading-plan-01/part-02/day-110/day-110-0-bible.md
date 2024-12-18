@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lev 10
+title: Lev 10
+subtitle: Bible Reading
 ---
 
 [[Lev 10]]

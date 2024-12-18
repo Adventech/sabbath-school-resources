@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 419b-420a
+title: Jeremiah PK 419b-420a
+subtitle: EGW Reading
 ---
 
 From the day of his call to the close of his ministry, Jeremiah stood before Judah as “a tower and a fortress” against which the wrath of man could not prevail. “They shall fight against thee,” the Lord had forewarned His servant, “but they shall not prevail against thee: for I am with thee to save thee and to deliver thee, saith the Lord. And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the terrible.” Jeremiah 6:27; 15:20, 21.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Ahaz PK 322-325b
+title: Ahaz PK 322-325b
+subtitle: EGW Reading
 ---
 
 ### Chapter 27—Ahaz

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temple and Its Dedication PK 37-38a
+title: The Temple and Its Dedication PK 37-38a
+subtitle: EGW Reading
 ---
 
 At last the temple planned by King David, and built by Solomon his son, was completed. “All that came into Solomon's heart to make in the house of the Lord,” he had “prosperously effected.” 2 Chronicles 7:11. And now, in order that the palace crowning the heights of Mount Moriah might indeed be, as David had so much desired, a dwelling place “not for man, but for the Lord God” (1 Chronicles 29:1), there remained the solemn ceremony of formally dedicating it to Jehovah and His worship.

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 19
+title: Ex 19
+subtitle: Bible Reading
 ---
 
 [[Ex 19]]

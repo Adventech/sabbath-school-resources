@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Hope for the Heathen PK 371b-373b
+title: Hope for the Heathen PK 371b-373b
+subtitle: EGW Reading
 ---
 
 Had Israel been true to her trust, all the nations of earth would have shared in her blessings. But the hearts of those to whom had been entrusted a knowledge of saving truth, were untouched by the needs of those around them. As God's purpose was lost sight of, the heathen came to be looked upon as beyond the pale of His mercy. The light of truth was withheld, and darkness prevailed. The nations were overspread with a veil of ignorance; the love of God was little known; error and superstition flourished.

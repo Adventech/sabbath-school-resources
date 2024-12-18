@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Eccl 8-10
+title: Eccl 8-10
+subtitle: Bible Reading
 ---
 
 [[Eccl 8-10]]

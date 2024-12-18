@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Carried Captive Into Babylon PK 452-454a
+title: Carried Captive Into Babylon PK 452-454a
+subtitle: EGW Reading
 ---
 
 ### Chapter 37—Carried Captive Into Babylon

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Ark Taken by the Philistines PP 585e-589a
+title: The Ark Taken by the Philistines PP 585e-589a
+subtitle: EGW Reading
 ---
 
 The wife of Phinehas, notwithstanding the impiety of her husband, was a woman who feared the Lord. The death of her father-in-law and her husband, and above all, the terrible tidings that the ark of God was taken, caused her death. She felt that the last hope of Israel was gone; and she named the child born in this hour of adversity, Ichabod, or “inglorious;” with her dying breath mournfully repeating the words, “The glory is departed from Israel: for the ark of God is taken.”

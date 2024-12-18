@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: From the Red Sea to Sinai PP 291-294c
+title: From the Red Sea to Sinai PP 291-294c
+subtitle: EGW Reading
 ---
 
-Chapter 26—From the Red Sea to Sinai
+### Chapter 26—From the Red Sea to Sinai
 
 This chapter is based on Exodus 15:22-27; 16 to 18.
 

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Earlier Judges PP 558d-559
+title: The Earlier Judges PP 558d-559
+subtitle: EGW Reading
 ---
 
 A deliverer was raised up in the person of Jephthah, a Gileadite, who made war upon the Ammonites and effectually destroyed their power. For eighteen years at this time Israel had suffered under the oppression of her foes, yet again the lesson taught by suffering was forgotten.

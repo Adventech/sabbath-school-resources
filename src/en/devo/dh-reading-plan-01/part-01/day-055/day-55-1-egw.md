@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph and His Brothers PP 229b-231b
+title: Joseph and His Brothers PP 229b-231b
+subtitle: EGW Reading
 ---
 
 Joyfully they set out on their return. Simeon and Benjamin were with them, their animals were laden with grain, and all felt that they had safely escaped the perils that had seemed to surround them. But they had only reached the outskirts of the city when they were overtaken by the governor's steward, who uttered the scathing inquiry, “Wherefore have ye rewarded evil for good? Is not this it in which my lord drinketh, and whereby indeed he divineth? ye have done evil in so doing.” This cup was supposed to possess the power of detecting any poisonous substance placed therein. At that day cups of this kind were highly valued as a safeguard against murder by poisoning.

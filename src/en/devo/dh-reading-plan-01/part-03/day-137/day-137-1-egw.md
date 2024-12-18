@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Conquest of Bashan PP 433-435a
+title: The Conquest of Bashan PP 433-435a
+subtitle: EGW Reading
 ---
 
-Chapter 39—The Conquest of Bashan
+### Chapter 39—The Conquest of Bashan
 
 This chapter is based on Deuteronomy 2; 3:1-11.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Num 20:6-13
+title: Num 20:6-13
+subtitle: Bible Reading
 ---
 
 [[Num 20:6-13]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Deliverance From Assyria PK 349-352c
+title: Deliverance From Assyria PK 349-352c
+subtitle: EGW Reading
 ---
 
 ### Chapter 30—Deliverance From Assyria

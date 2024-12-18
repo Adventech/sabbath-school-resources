@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeremiah PK 412c-414c
+title: Jeremiah PK 412c-414c
+subtitle: EGW Reading
 ---
 
 But by the great mass of the people the call to repentance and reformation was unheeded. Since the death of good King Josiah, those who ruled the nation had been proving untrue to their trust and had been leading many astray. Jehoahaz, deposed by the interference of the king of Egypt, had been followed by Jehoiakim, an older son of Josiah. From the beginning of Jehoiakim's reign, Jeremiah had little hope of saving his beloved land from destruction and the people from captivity. Yet he was not permitted to remain silent while utter ruin threatened the kingdom. Those who had remained loyal to God must be encouraged to persevere in rightdoing, and sinners must, if possible, be induced to turn from iniquity.

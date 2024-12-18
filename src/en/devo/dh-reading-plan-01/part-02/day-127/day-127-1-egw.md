@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Twelve Spies PP 390d-394
+title: The Twelve Spies PP 390d-394
+subtitle: EGW Reading
 ---
 
 Moses now arose and entered the tabernacle. The Lord declared to him, “I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation.” But again Moses pleaded for his people. He could not consent to have them destroyed, and he himself made a mightier nation. Appealing to the mercy of God, he said: “I beseech Thee, let the power of my Lord be great according as Thou hast spoken, saying, The Lord is long-suffering, and of great mercy.... Pardon, I beseech Thee, the iniquity of this people according to the greatness of Thy mercy, and as Thou hast forgiven this people, from Egypt even until now.”

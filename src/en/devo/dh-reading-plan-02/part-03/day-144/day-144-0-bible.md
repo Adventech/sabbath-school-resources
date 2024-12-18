@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 1-2
+title: Jer 1-2
+subtitle: Bible Reading
 ---
 
 [[Jer 1-2]]

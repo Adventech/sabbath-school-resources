@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: True Greatness PK 514-517a
+title: True Greatness PK 514-517a
+subtitle: EGW Reading
 ---
 
 ### Chapter 42—True Greatness

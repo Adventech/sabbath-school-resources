@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 29:31-30:24
+title: Gen 29:31-30:24
+subtitle: Bible Reading
 ---
 
 [[Gen 29:31-30:24]]

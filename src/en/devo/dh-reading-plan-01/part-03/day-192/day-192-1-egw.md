@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Child Samuel PP 569-571a
+title: The Child Samuel PP 569-571a
+subtitle: EGW Reading
 ---
 
-Chapter 55—The Child Samuel
+### Chapter 55—The Child Samuel
 
 This chapter is based on 1 Samuel 1; 2:1-11.
 

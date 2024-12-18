@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Schools of the Prophets PP 592-596b
+title: The Schools of the Prophets PP 592-596b
+subtitle: EGW Reading
 ---
 
-Chapter 58—The Schools of the Prophets
+### Chapter 58—The Schools of the Prophets
 
 The Lord Himself directed the education of Israel. His care was not restricted to their religious interests; whatever affected their mental or physical well-being was also the subject of divine providence, and came within the sphere of divine law.
 

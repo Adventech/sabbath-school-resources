@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Law Given to Israel PP 311e-313b
+title: The Law Given to Israel PP 311e-313b
+subtitle: EGW Reading
 ---
 
 The message was now given them from Jehovah: “Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared. Beware of Him, and obey His voice, provoke Him not; for He will not pardon your transgressions: for My name is in Him. But if thou shalt indeed obey His voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.” During all the wanderings of Israel, Christ, in the pillar of cloud and of fire, was their Leader. While there were types pointing to a Saviour to come, there was also a present Saviour, who gave commands to Moses for the people, and who was set forth before them as the only channel of blessing.

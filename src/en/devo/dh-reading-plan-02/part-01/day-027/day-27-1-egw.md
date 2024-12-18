@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Solomon’s Repentance PK 75-76
+title: Solomon’s Repentance PK 75-76
+subtitle: EGW Reading
 ---
 
 ### Chapter 5—Solomon's Repentance

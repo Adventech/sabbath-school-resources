@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Instructed in the Law of God PK 666c-668
+title: Instructed in the Law of God PK 666c-668
+subtitle: EGW Reading
 ---
 
 “Blessed be Thy glorious name,\

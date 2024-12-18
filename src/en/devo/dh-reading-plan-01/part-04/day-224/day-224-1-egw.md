@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Ancient and Modern Sorcery PP 683-689
+title: Ancient and Modern Sorcery PP 683-689
+subtitle: EGW Reading
 ---
 
-Chapter 67—Ancient and Modern Sorcery
+### Chapter 67—Ancient and Modern Sorcery
 
 The Scripture account of Saul's visit to the woman of Endor has been a source of perplexity to many students of the Bible. There are some who take the position that Samuel was actually present at the interview with Saul, but the Bible itself furnishes sufficient ground for a contrary conclusion. If, as claimed by some, Samuel was in heaven, he must have been summoned thence, either by the power of God or by that of Satan. None can believe for a moment that Satan had power to call the holy prophet of God from heaven to honor the incantations of an abandoned woman. Nor can we conclude that God summoned him to the witch's cave; for the Lord had already refused to communicate with Saul, by dreams, by Urim, or by prophets. 1 Samuel 28:6. These were God's own appointed mediums of communication, and He did not pass them by to deliver the message through the agent of Satan.
 

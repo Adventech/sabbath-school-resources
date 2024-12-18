@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Abraham in Canaan PP 138c-140c
+title: Abraham in Canaan PP 138c-140c
+subtitle: EGW Reading
 ---
 
 God conferred great honor upon Abraham. Angels of heaven walked and talked with him as friend with friend. When judgments were about to be visited upon Sodom, the fact was not hidden from him, and he became an intercessor with God for sinners. His interview with the angels presents also a beautiful example of hospitality.

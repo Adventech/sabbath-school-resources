@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Moses PP 253g-256
+title: Moses PP 253g-256
+subtitle: EGW Reading
 ---
 
 Moses saw before him difficulties that seemed insurmountable. What proof could he give his people that God had indeed sent him? “Behold,” he said, “they will not believe me, nor hearken unto my voice: for they will say, The Lord hath not appeared unto thee.” Evidence that appealed to his own senses was now given. He was told to cast his rod upon the ground. As he did so, “it became a serpent; and Moses fled from before it.” He was commanded to seize it, and in his hand it became a rod. He was bidden to put his hand into his bosom. He obeyed, and “when he took it out, behold, his hand was leprous as snow.” Being told to put it again into his bosom, he found on withdrawing it that it had become like the other. By these signs the Lord assured Moses that His own people, as well as Pharaoh, should be convinced that One mightier than the king of Egypt was manifest among them.

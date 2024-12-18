@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Hosea 11; 13; 14
+title: Hosea 11; 13; 14
+subtitle: Bible Reading
 ---
 
 [[Hosea 11; 13; 14]]

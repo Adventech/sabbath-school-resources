@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph and His Brothers PP 231c-232
+title: Joseph and His Brothers PP 231c-232
+subtitle: EGW Reading
 ---
 
 The news of what had taken place was quickly carried to the king, who, eager to manifest his gratitude to Joseph, confirmed the governor's invitation to his family, saying, “The good of all the land of Egypt is yours.” The brothers were sent away abundantly supplied with provision and carriages and everything necessary for the removal of all their families and attendants to Egypt. On Benjamin, Joseph bestowed more valuable gifts than upon the others. Then, fearing that disputes would arise among them on the homeward journey, he gave them, as they were about to leave him, the charge, “See that ye fall not out by the way.”

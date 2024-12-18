@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: PP Introduction xvii, c-xxii
+title: PP Introduction xvii, c-xxii
+subtitle: EGW Reading
 ---
 
 The declaration that God _hath set_ some in the church, etc., implies something more than that the way was left open for the gifts to appear if circumstances should chance to favor. It rather signifies that they were to be permanent parts of the true spiritual constitution of the church, and that if these were not in active operation the church would be in the condition of a human body, some of whose members had, through accident or disease, become crippled and helpless. Having once been set in the church, there these gifts must remain until they are formally removed. But there is no record that they ever have been removed.

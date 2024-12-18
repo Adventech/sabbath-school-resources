@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Division of Canaan PP 510-511b
+title: The Division of Canaan PP 510-511b
+subtitle: EGW Reading
 ---
 
-Chapter 48—The Division of Canaan
+### Chapter 48—The Division of Canaan
 
 This chapter is based on Joshua 10:40-43; 11; 14-22.
 

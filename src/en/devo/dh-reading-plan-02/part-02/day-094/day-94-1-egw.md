@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Assyrian Captivity PK 286c-e
+title: The Assyrian Captivity PK 286c-e
+subtitle: EGW Reading
 ---
 
 For a season these predicted judgments were stayed, and during the long reign of Jeroboam II the armies of Israel gained signal victories; but this time of apparent prosperity wrought no change in the hearts of the impenitent, and it was finally decreed, “Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.” Amos 7:11.

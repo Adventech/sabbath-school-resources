@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeroboam PK 105c-107b
+title: Jeroboam PK 105c-107b
+subtitle: EGW Reading
 ---
 
 Having delivered his message, the prophet was about to return, when Jeroboam said to him, “Come home with me, and refresh thyself, and I will give thee a reward.” “If thou wilt give me half thine house,” the prophet replied, “I will not go in with thee, neither will I eat bread nor drink water in this place: for so was it charged me by the word of the Lord, saying, Eat no bread, nor drink water, nor turn again by the same way that thou camest.” 1 Kings 13:7-9.

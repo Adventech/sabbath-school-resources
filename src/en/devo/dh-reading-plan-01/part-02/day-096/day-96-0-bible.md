@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 32:15-29
+title: Ex 32:15-29
+subtitle: Bible Reading
 ---
 
 [[Ex 32:15-29]]

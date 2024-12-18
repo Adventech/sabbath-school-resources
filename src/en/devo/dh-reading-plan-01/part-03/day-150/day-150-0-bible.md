@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Deut 7:12-10:22
+title: Deut 7:12-10:22
+subtitle: Bible Reading
 ---
 
 [[Deut 7:12-10:22]]

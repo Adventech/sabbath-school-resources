@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Law Repeated PP 466b-468
+title: The Law Repeated PP 466b-468
+subtitle: EGW Reading
 ---
 
 After the public rehearsal of the law, Moses completed the work of writing all the laws, the statutes, and the judgments which God had given him, and all the regulations concerning the sacrificial system. The book containing these was placed in charge of the proper officers, and was for safe keeping deposited in the side of the ark. Still the great leader was filled with fear that the people would depart from God. In a most sublime and thrilling address he set before them the blessings that would be theirs on condition of obedience, and the curses that would follow upon transgression:

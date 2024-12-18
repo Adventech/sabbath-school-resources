@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Josh 8
+title: Josh 8
+subtitle: Bible Reading
 ---
 
 [[Josh 8]]

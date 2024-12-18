@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Smitten Rock PP 411-417a
+title: The Smitten Rock PP 411-417a
+subtitle: EGW Reading
 ---
 
-Chapter 37—The Smitten Rock
+### Chapter 37—The Smitten Rock
 
 This chapter is based on Numbers 20:1-13.
 

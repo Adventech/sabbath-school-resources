@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The First King of Israel PP 611b-613b
+title: The First King of Israel PP 611b-613b
+subtitle: EGW Reading
 ---
 
 The anointing of Saul as king had not been made known to the nation. The choice of God was to be publicly manifested by lot. For this purpose Samuel convoked the people at Mizpeh. Prayer was offered for divine guidance; then followed the solemn ceremony of casting the lot. In silence the assembled multitude awaited the issue. The tribe, the family, and the household were successively designated, and then Saul, the son of Kish, was pointed out as the individual chosen. But Saul was not in the assembly. Burdened with a sense of the great responsibility about to fall upon him, he had secretly withdrawn. He was brought back to the congregation, who observed with pride and satisfaction that he was of kingly bearing and noble form, being “higher than any of the people from his shoulders and upward.” Even Samuel, when presenting him to the assembly, exclaimed, “See ye him whom the Lord hath chosen, that there is none like him among all the people?” And in response arose from the vast throng one long, loud shout of joy, “God save the king!”

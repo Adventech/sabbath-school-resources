@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: From Sinai to Kadesh PP 376d-381c
+title: From Sinai to Kadesh PP 376d-381c
+subtitle: EGW Reading
 ---
 
 A distance of only eleven days’ journey lay between Sinai and Kadesh, on the borders of Canaan; and it was with the prospect of speedily entering the goodly land that the hosts of Israel resumed their march when the cloud at last gave the signal for an onward movement. Jehovah had wrought wonders in bringing them from Egypt, and what blessings might they not expect now that they had formally covenanted to accept Him as their Sovereign, and had been acknowledged as the chosen people of the Most High?

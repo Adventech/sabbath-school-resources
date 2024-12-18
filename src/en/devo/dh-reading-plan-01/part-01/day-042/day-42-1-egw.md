@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jacob’s Flight and Exile PP 190b-192c
+title: Jacob’s Flight and Exile PP 190b-192c
+subtitle: EGW Reading
 ---
 
 For twenty years Jacob remained in Mesopotamia, laboring in the service of Laban, who, disregarding the ties of kinship, was bent upon securing to himself all the benefits of their connection. Fourteen years of toil he demanded for his two daughters; and during the remaining period, Jacob's wages were ten times changed. Yet Jacob's service was diligent and faithful. His words to Laban in their last interview vividly describe the untiring vigilance which he had given to the interests of his exacting master: “This twenty years have I been with thee; thy ewes and thy she-goats have not cast their young, and the rams of thy flock have I not eaten. That which was torn of beasts I brought not unto thee; I bare the loss of it; of my hand didst thou require it, whether stolen by day, or stolen by night. Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.”

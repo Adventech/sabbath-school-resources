@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Seth and Enoch PP 84c-89
+title: Seth and Enoch PP 84c-89
+subtitle: EGW Reading
 ---
 
 Notwithstanding the prevailing iniquity, there was a line of holy men who, elevated and ennobled by communion with God, lived as in the companionship of heaven. They were men of massive intellect, of wonderful attainments. They had a great and holy mission—to develop a character of righteousness, to teach a lesson of godliness, not only to the men of their time, but for future generations. Only a few of the most prominent are mentioned in the Scriptures; but all through the ages God had faithful witnesses, truehearted worshipers.

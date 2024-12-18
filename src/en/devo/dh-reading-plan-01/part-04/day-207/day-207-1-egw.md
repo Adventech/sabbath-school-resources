@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Saul Rejected PP 627-631c
+title: Saul Rejected PP 627-631c
+subtitle: EGW Reading
 ---
 
-Chapter 61—Saul Rejected
+### Chapter 61—Saul Rejected
 
 This chapter is based on 1 Samuel 15.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 3:1-6
+title: Gen 3:1-6
+subtitle: Bible Reading
 ---
 
 [[Gen 3:1-6]]

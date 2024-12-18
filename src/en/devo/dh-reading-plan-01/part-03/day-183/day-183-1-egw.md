@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Earlier Judges PP 554c-557a
+title: The Earlier Judges PP 554c-557a
+subtitle: EGW Reading
 ---
 
 Gideon returned from pursuing the enemies of the nation, to meet censure and accusation from his own countrymen. When at his call the men of Israel had rallied against the Midianites, the tribe of Ephraim had remained behind. They looked upon the effort as a perilous undertaking; and as Gideon sent them no special summons, they availed themselves of this excuse not to join their brethren. But when the news of Israel's triumph reached them, the Ephraimites were envious because they had not shared it. After the rout of the Midianites, the men of Ephraim had, by Gideon's direction, seized the fords of the Jordan, thus preventing the escape of the fugitives. By this means a large number of the enemy were slain, among whom were two princes, Oreb and Zeeb. Thus the men of Ephraim followed up the battle, and helped complete the victory. Nevertheless, they were jealous and angry, as though Gideon had been led by his own will and judgment. They did not discern God's hand in the triumph of Israel, they did not appreciate His power and mercy in their deliverance; and this very fact showed them unworthy to be chosen as His special instruments.

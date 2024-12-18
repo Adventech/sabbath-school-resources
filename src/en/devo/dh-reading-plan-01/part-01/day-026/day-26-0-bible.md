@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 15; 17:1-15
+title: Gen 15; 17:1-15
+subtitle: Bible Reading
 ---
 
 [[Gen 15; 17:1-15]]

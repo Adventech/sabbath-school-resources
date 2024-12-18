@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Solomon’s Repentance PK 79b-86
+title: Solomon’s Repentance PK 79b-86
+subtitle: EGW Reading
 ---
 
 By the spirit of inspiration the king recorded for after generations the history of his wasted years with their lessons of warning. And thus, although the seed of his sowing was reaped by his people in harvests of evil, his life-work was not wholly lost. With meekness and lowliness Solomon in his later years “taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.” He “sought to find out acceptable words: and that which was written was upright, even words of truth.” “The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd. And further, by these, my son, be admonished.” Ecclesiastes 12:9-12.

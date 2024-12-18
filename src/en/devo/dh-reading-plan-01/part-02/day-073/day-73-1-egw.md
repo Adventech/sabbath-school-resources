@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Moses PP 244b-251a
+title: Moses PP 244b-251a
+subtitle: EGW Reading
 ---
 
 She kept the boy as long as she could, but was obliged to give him up when he was about twelve years old. From his humble cabin home he was taken to the royal palace, to the daughter of Pharaoh, “and he became her son.” Yet even here he did not lose the impressions received in childhood. The lessons learned at his mother's side could not be forgotten. They were a shield from the pride, the infidelity, and the vice that flourished amid the splendor of the court.

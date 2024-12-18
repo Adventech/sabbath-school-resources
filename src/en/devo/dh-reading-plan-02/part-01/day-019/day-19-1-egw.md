@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temple and Its Dedication PK 41-45a
+title: The Temple and Its Dedication PK 41-45a
+subtitle: EGW Reading
 ---
 
 “When the heaven is shut up, and there is no rain, because they have sinned against Thee; yet if they pray toward this place, and confess Thy name, and turn from their sin, when Thou dost afflict them; then hear Thou from heaven, and forgive the sin of Thy servants, and of Thy people Israel, when Thou hast taught them the good way, wherein they should walk; and send rain upon Thy land, which Thou hast given unto Thy people for an inheritance.

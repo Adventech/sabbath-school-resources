@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Naaman PK 244-249c
+title: Naaman PK 244-249c
+subtitle: EGW Reading
 ---
 
 ### Chapter 20—Naaman

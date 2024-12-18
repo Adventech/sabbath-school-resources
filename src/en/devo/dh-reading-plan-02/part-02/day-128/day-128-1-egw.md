@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Deliverance From Assyria PK 355c-361b
+title: Deliverance From Assyria PK 355c-361b
+subtitle: EGW Reading
 ---
 
 When the king of Judah received the taunting letter, he took it into the temple and “spread it before the Lord” and prayed with strong faith for help from heaven, that the nations of earth might know that the God of the Hebrews still lived and reigned. Verse 14. The honor of Jehovah was at stake; He alone could bring deliverance.

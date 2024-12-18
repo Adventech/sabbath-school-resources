@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Num 22:1-20
+title: Num 22:1-20
+subtitle: Bible Reading
 ---
 
 [[Num 22:1-20]]

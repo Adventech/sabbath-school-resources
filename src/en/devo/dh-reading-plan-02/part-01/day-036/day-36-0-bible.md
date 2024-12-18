@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Prov 13-16
+title: Prov 13-16
+subtitle: Bible Reading
 ---
 
 [[Prov 13-16]]

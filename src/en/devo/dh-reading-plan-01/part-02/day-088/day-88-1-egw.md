@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: The Law Given to Israel PP 303-305a
+title: The Law Given to Israel PP 303-305a
+subtitle: EGW Reading
 ---
 
-Chapter 27—The Law Given to Israel
+### Chapter 27—The Law Given to Israel
 
 This chapter is based on Exodus 19 to 24.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Josh 22
+title: Josh 22
+subtitle: Bible Reading
 ---
 
 [[Josh 22]]

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 40
+title: Isa 40
+subtitle: Bible Reading
 ---
 
 [[Isa 40]]

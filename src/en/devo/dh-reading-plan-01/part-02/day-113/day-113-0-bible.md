@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Lev 11; 15
+title: Lev 11; 15
+subtitle: Bible Reading
 ---
 
 [[Lev 11; 15]]

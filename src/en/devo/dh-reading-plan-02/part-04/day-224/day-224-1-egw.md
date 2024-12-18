@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joshua and the Angel PK 587c-592
+title: Joshua and the Angel PK 587c-592
+subtitle: EGW Reading
 ---
 
 Zechariah's vision of Joshua and the Angel applies with peculiar force to the experience of God's people in the closing scenes of the great day of atonement. The remnant church will then be brought into great trial and distress. Those who keep the commandments of God and the faith of Jesus will feel the ire of the dragon and his hosts. Satan numbers the world as his subjects; he has gained control even of many professing Christians. But here is a little company who are resisting his supremacy. If he could blot them from the earth, his triumph would be complete. As he influenced the heathen nations to destroy Israel, so in the near future he will stir up the wicked powers of earth to destroy the people of God. Men will be required to render obedience to human edicts in violation of the divine law.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: League With the Gibeonites PP 507d-509
+title: League With the Gibeonites PP 507d-509
+subtitle: EGW Reading
 ---
 
 Such was the footing on which the Gibeonites might have been received, but for the deception to which they had resorted. It was no light humiliation to those citizens of a “royal city,” “all the men whereof were mighty,” to be made hewers of wood and drawers of water throughout their generations. But they had adopted the garb of poverty for the purpose of deception, and it was fastened upon them as a badge of perpetual servitude. Thus through all their generations their servile condition would testify to God's hatred of falsehood.

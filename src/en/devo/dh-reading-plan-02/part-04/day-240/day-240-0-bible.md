@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Neh 4:4-23
+title: 'Neh 4:4-23'
+subtitle: Bible Reading
 ---
 
 [[Neh 4:4-23]]

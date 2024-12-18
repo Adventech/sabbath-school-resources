@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Plan of Redemption PP 67b-70
+title: The Plan of Redemption PP 67b-70
+subtitle: EGW Reading
 ---
 
 Not only man but the earth had by sin come under the power of the wicked one, and was to be restored by the plan of redemption. At his creation Adam was placed in dominion over the earth. But by yielding to temptation, he was brought under the power of Satan. “Of whom a man is overcome, of the same is he brought in bondage.” 2 Peter 2:19. When man became Satan's captive, the dominion which he held, passed to his conqueror. Thus Satan became “the god of this world.” 2 Corinthians 4:4. He had usurped that dominion over the earth which had been originally given to Adam. But Christ, by His sacrifice paying the penalty of sin, would not only redeem man, but recover the dominion which he had forfeited. All that was lost by the first Adam will be restored by the second. Says the prophet, “O tower of the flock, the stronghold of the daughter of Zion, unto thee shall it come, even the first dominion.” Micah 4:8. And the apostle Paul points forward to the “redemption of the purchased possession.” Ephesians 1:14. God created the earth to be the abode of holy, happy beings. The Lord “formed the earth and made it; He hath established it, He created it not in vain, He formed it to be inhabited.” Isaiah 45:18. That purpose will be fulfilled, when, renewed by the power of God, and freed from sin and sorrow, it shall become the eternal abode of the redeemed. “The righteous shall inherit the land, and dwell therein forever.” “And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and His servants shall serve Him.” Psalm 37:29; Revelation 22:3.

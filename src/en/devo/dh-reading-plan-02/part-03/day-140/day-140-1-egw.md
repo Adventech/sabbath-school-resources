@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Book of the Law PK 392-398c
+title: The Book of the Law PK 392-398c
+subtitle: EGW Reading
 ---
 
 ### Chapter 33—The Book of the Law

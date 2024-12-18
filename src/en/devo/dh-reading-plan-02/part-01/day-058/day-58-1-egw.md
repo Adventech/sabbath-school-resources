@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Carmel PK 150e-154
+title: Carmel PK 150e-154
+subtitle: EGW Reading
 ---
 
 All day long the people have witnessed the demonstrations of the baffled priests. They have beheld their wild leaping round the altar, as if they would grasp the burning rays of the sun to serve their purpose. They have looked with horror on the frightful, self-inflicted mutilations of the priests, and have had opportunity to reflect on the follies of idol worship. Many in the throng are weary of the exhibitions of demonism, and they now await with deepest interest the movements of Elijah.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last King of Judah PK 442d-446
+title: The Last King of Judah PK 442d-446
+subtitle: EGW Reading
 ---
 
 From the first, Jeremiah had followed a consistent course in counseling submission to the Babylonians. This counsel was given not only to Judah, but to many of the surrounding nations. In the earlier portion of Zedekiah's reign, ambassadors from the rulers of Edom, Moab, Tyre, and other nations visited the king of Judah to learn whether in his judgment the time was opportune for a united revolt and whether he would join them in battling against the king of Babylon. While these ambassadors were awaiting a response, the word of the Lord came to Jeremiah, saying, “Make thee bonds and yokes, and put them upon thy neck, and send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah.” Jeremiah 27:2, 3.

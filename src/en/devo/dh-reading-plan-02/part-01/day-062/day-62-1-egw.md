@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “What Doest Thou Here?” PK 170c-176
+title: “What Doest Thou Here?” PK 170c-176
+subtitle: EGW Reading
 ---
 
 From Elijah's experience during those days of discouragement and apparent defeat there are many lessons to be drawn, lessons invaluable to the servants of God in this age, marked as it is by general departure from right. The apostasy prevailing today is similar to that which in the prophet's day overspread Israel. In the exaltation of the human above the divine, in the praise of popular leaders, in the worship of mammon, and in the placing of the teachings of science above the truths of revelation, multitudes today are following after Baal. Doubt and unbelief are exercising their baleful influence over mind and heart, and many are substituting for the oracles of God the theories of men. It is publicly taught that we have reached a time when human reason should be exalted above the teachings of the Word. The law of God, the divine standard of righteousness, is declared to be of no effect. The enemy of all truth is working with deceptive power to cause men and women to place human institutions where God should be, and to forget that which was ordained for the happiness and salvation of mankind.

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Coming of a Deliverer PK 681-688a
+title: The Coming of a Deliverer PK 681-688a
+subtitle: EGW Reading
 ---
 
 ### Chapter 58—The Coming of a Deliverer

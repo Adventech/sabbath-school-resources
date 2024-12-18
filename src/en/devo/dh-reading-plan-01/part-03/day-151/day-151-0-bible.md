@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Deut 11-13
+title: Deut 11-13
+subtitle: Bible Reading
 ---
 
 [[Deut 11-13]]

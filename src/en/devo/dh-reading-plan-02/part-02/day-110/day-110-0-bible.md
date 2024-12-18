@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 31-35
+title: Isa 31-35
+subtitle: Bible Reading
 ---
 
 [[Isa 31-35]]

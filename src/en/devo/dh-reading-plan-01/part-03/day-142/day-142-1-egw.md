@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Apostasy at the Jordan PP 453-456b
+title: Apostasy at the Jordan PP 453-456b
+subtitle: EGW Reading
 ---
 
-Chapter 41—Apostasy at the Jordan
+### Chapter 41—Apostasy at the Jordan
 
 This chapter is based on Numbers 25.
 

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Eze 23-24
+title: Eze 23-24
+subtitle: Bible Reading
 ---
 
 [[Eze 23-24]]

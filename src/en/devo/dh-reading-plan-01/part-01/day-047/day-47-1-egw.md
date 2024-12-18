@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return to Canaan PP 206d-209a
+title: The Return to Canaan PP 206d-209a
+subtitle: EGW Reading
 ---
 
 From Bethel it was only a two days’ journey to Hebron, but it brought to Jacob a heavy grief in the death of Rachel. Twice seven years’ service he had rendered for her sake, and his love had made the toil but light. How deep and abiding that love had been, was shown when long afterward, as Jacob in Egypt lay near his death, Joseph came to visit his father, and the aged patriarch, glancing back upon his own life, said, “As for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath.” Genesis 48:7. In the family history of his long and troubled life the loss of Rachel was alone recalled.

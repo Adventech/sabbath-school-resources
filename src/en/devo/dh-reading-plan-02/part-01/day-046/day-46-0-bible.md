@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: 1 Ki 12:25-13:6
+title: '1 Ki 12:25-13:6'
+subtitle: Bible Reading
 ---
 
 [[1 Ki 12:25-13:6]]

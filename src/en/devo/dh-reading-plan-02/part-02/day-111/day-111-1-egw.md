@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Behold Your God!” PK 311-316c
+title: “Behold Your God!” PK 311-316c
+subtitle: EGW Reading
 ---
 
 ### Chapter 26—“Behold Your God!”

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Deut 28
+title: Deut 28
+subtitle: Bible Reading
 ---
 
 [[Deut 28]]

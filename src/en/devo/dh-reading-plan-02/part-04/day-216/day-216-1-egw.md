@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Return of the Exiles PK 559d-563b
+title: The Return of the Exiles PK 559d-563b
+subtitle: EGW Reading
 ---
 
 Upon Zerubbabel (known also as Sheshbazzar), a descendant of King David, Cyrus placed the responsibility of acting as governor of the company returning to Judea; and with him was associated Joshua the high priest. The long journey across the desert wastes was accomplished in safety, and the happy company, grateful to God for His many mercies, at once undertook the work of re-establishing that which had been broken down and destroyed. “The chief of the fathers” led out in offering of their substance to help defray the expense of rebuilding the temple; and the people, following their example, gave freely of their meager store. See Ezra 2:64-70.

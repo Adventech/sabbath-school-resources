@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Journey Around Edom PP 427e-432
+title: The Journey Around Edom PP 427e-432
+subtitle: EGW Reading
 ---
 
 Soon after leaving Mount Hor the Israelites suffered defeat in an engagement with Arad, one of the Canaanite kings. But as they earnestly sought help from God, divine aid was granted them, and their enemies were routed. This victory, instead of inspiring gratitude and leading the people to feel their dependence upon God, made them boastful and self-confident. Soon they fell into the old habit of murmuring. They were now dissatisfied because the armies of Israel had not been permitted to advance upon Canaan immediately after their rebellion at the report of the spies nearly forty years before. They pronounced their long sojourn in the wilderness an unnecessary delay, reasoning that they might have conquered their enemies as easily heretofore as now.

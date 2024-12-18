@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 30:11-31:18
+title: Ex 30:11-31:18
+subtitle: Bible Reading
 ---
 
 [[Ex 30:11-31:18]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Light Through Darkness PK 464-472c
+title: Light Through Darkness PK 464-472c
+subtitle: EGW Reading
 ---
 
 ### Chapter 38—Light Through Darkness

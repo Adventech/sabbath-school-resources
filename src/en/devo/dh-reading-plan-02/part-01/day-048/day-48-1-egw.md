@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeroboam PK 107c-108
+title: Jeroboam PK 107c-108
+subtitle: EGW Reading
 ---
 
 Toward the close of a troubled reign of twenty-two years, Jeroboam met with a disastrous defeat in a war with Abijah, the successor of Rehoboam. “Neither did Jeroboam recover strength again in the days of Abijah: and the Lord struck him, and he died.” 2 Chronicles 13:20.

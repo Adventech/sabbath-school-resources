@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Ahaz PK 325c-327c
+title: Ahaz PK 325c-327c
+subtitle: EGW Reading
 ---
 
 Through Micah came the wonderful appeal, “Hear ye now what the Lord saith; Arise, contend thou before the mountains, and let the hills hear thy voice. Hear ye, O mountains, the Lord's controversy, and ye strong foundations of the earth: for the Lord hath a controversy with His people, and He will plead with Israel.

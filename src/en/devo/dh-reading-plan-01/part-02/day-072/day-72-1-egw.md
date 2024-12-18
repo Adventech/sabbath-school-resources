@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Moses PP 241-244a
+title: Moses PP 241-244a
+subtitle: EGW Reading
 ---
 
-Chapter 22—Moses
+### Chapter 22—Moses
 
 This chapter is based on Exodus 1 to Exodus 4.
 

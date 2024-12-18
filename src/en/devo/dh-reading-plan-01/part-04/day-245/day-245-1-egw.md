@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Absalom PP 739c-742d
+title: The Rebellion of Absalom PP 739c-742d
+subtitle: EGW Reading
 ---
 
 Having succeeded in the plot for securing his own safety, Ahithophel urged upon Absalom the necessity of immediate action against David. “Let me now choose out twelve thousand men,” he said, “and I will arise and pursue after David this night: and I will come upon him while he is weary and weak-handed, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only: and I will bring back all the people unto thee.” This plan was approved by the king's counselors. Had it been followed, David would surely have been slain, unless the Lord had directly interposed to save him. But a wisdom higher than that of the renowned Ahithophel was directing events. “The Lord had appointed to defeat the good counsel of Ahithophel, to the intent that the Lord might bring evil upon Absalom.”

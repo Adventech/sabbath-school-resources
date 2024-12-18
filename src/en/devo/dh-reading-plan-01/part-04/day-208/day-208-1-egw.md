@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Saul Rejected PP 631d-636
+title: Saul Rejected PP 631d-636
+subtitle: EGW Reading
 ---
 
 As the king heard this fearful sentence he cried out, “I have sinned: for I have transgressed the commandment of the Lord, and thy words: because I feared the people, and obeyed their voice.” Terrified by the denunciation of the prophet, Saul acknowledged his guilt, which he had before stubbornly denied; but he still persisted in casting blame upon the people, declaring that he had sinned through fear of them.

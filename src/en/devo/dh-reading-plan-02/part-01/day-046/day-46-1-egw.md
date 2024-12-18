@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jeroboam PK 99-105b
+title: Jeroboam PK 99-105b
+subtitle: EGW Reading
 ---
 
 ### Chapter 7—Jeroboam

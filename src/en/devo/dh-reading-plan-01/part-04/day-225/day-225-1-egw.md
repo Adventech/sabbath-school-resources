@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: David at Ziklag PP 690-693c
+title: David at Ziklag PP 690-693c
+subtitle: EGW Reading
 ---
 
-Chapter 68—David at Ziklag
+### Chapter 68—David at Ziklag
 
 This chapter is based on 1 Samuel 29; 30; 2 Samuel 1.
 

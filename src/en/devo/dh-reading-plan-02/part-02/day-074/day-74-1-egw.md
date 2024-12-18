@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Fall of the House of Ahab PK 214b-215b
+title: The Fall of the House of Ahab PK 214b-215b
+subtitle: EGW Reading
 ---
 
 Jehoram the son of Ahab was still reigning in the kingdom of Israel when his nephew, Ahaziah, came to the throne of Judah. Ahaziah ruled only one year, and during this time, influenced by his mother, Athaliah, “his counselor to do wickedly,” “he walked in the way of the house of Ahab, and did evil in the sight of the Lord.” 2 Chronicles 22:3, 4; 2 Kings 8:27. Jezebel, his grandmother, was still living, and he allied himself boldly with Jehoram of Israel, his uncle.

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Josh 10:1-39
+title: Josh 10:1-39
+subtitle: Bible Reading
 ---
 
 [[Josh 10:1-39]]

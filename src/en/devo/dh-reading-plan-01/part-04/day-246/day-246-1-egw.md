@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rebellion of Absalom PP 742e-745
+title: The Rebellion of Absalom PP 742e-745
+subtitle: EGW Reading
 ---
 
 Hushai's counsel had achieved its object, gaining for David opportunity for escape; but the rash and impetuous prince could not be long restrained, and he soon set out in pursuit of his father. “And Absalom passed over Jordan, he and all the men of Israel with him.” Absalom made Amasa, the son of David's sister Abigail, commander-in-chief of his forces. His army was large, but it was undisciplined and poorly prepared to cope with the tried soldiers of his father.

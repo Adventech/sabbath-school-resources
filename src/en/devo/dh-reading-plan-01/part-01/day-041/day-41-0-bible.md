@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 29:1-30
+title: Gen 29:1-30
+subtitle: Bible Reading
 ---
 
 [[Gen 29:1-30]]

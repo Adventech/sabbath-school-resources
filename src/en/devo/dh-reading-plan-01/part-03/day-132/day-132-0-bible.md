@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Num 18-19
+title: Num 18-19
+subtitle: Bible Reading
 ---
 
 [[Num 18-19]]

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Carmel PK 143-150d
+title: Carmel PK 143-150d
+subtitle: EGW Reading
 ---
 
 ### Chapter 11—Carmel

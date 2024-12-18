@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Heathen Plots PK 657-660
+title: Heathen Plots PK 657-660
+subtitle: EGW Reading
 ---
 
 Notwithstanding the plots of enemies, open and secret, the work of building went steadily forward, and in less than two months from the time of Nehemiah's arrival in Jerusalem the city was girded with its defenses and the builders could walk upon the walls and look down upon their defeated and astonished foes. “When all our enemies heard thereof, and all the heathen that were about us saw these things,” Nehemiah writes, “they were much cast down in their own eyes: for they perceived that this work was wrought of our God.”

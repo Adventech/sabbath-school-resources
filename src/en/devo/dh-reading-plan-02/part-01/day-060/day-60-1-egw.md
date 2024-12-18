@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: From Jezreel to Horeb PK 159d-166
+title: From Jezreel to Horeb PK 159d-166
+subtitle: EGW Reading
 ---
 
 It would seem that after showing courage so undaunted, after triumphing so completely over king and priests and people, Elijah could never afterward have given way to despondency nor been awed into timidity. But he who had been blessed with so many evidences of God's loving care was not above the frailties of mankind, and in this dark hour his faith and courage forsook him. Bewildered, he started from his slumber. The rain was pouring from the heavens, and darkness was on every side. Forgetting that three years before, God had directed his course to a place of refuge from the hatred of Jezebel and the search of Ahab, the prophet now fled for his life. Reaching Beersheba, he “left his servant there. But he himself went a day's journey into the wilderness.”

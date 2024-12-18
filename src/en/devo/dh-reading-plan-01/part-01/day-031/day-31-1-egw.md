@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Test of Faith PP 153b-155
+title: The Test of Faith PP 153b-155
+subtitle: EGW Reading
 ---
 
 Then Abraham saw “a ram caught in a thicket,” and quickly bringing the new victim, he offered it “in the stead of his son.” In his joy and gratitude Abraham gave a new name to the sacred spot—“Jehovah-jireh,” “the Lord will provide.”

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Division of Canaan PP 513d-514c
+title: The Division of Canaan PP 513d-514c
+subtitle: EGW Reading
 ---
 
 Another claim concerning the division of the land revealed a spirit widely different from that of Caleb. It was presented by the children of Joseph, the tribe of Ephraim with the half tribe of Manasseh. In consideration of their superior numbers, these tribes demanded a double portion of territory. The lot designated for them was the richest in the land, including the fertile plain of Sharon; but many of the principal towns in the valley were still in possession of the Canaanites, and the tribes shrank from the toil and danger of conquering their possessions, and desired an additional portion in territory already subdued. The tribe of Ephraim was one of the largest in Israel, as well as the one to which Joshua himself belonged, and its members naturally regarded themselves as entitled to special consideration. “Why hast thou given me but one lot and one portion to inherit,” they said, “seeing I am a great people?” But no departure from strict justice could be won from the inflexible leader.

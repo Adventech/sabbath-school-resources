@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Num 16:4-35
+title: Num 16:4-35
+subtitle: Bible Reading
 ---
 
 [[Num 16:4-35]]

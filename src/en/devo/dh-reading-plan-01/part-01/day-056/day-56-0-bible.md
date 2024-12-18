@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 45:16-46:27
+title: Gen 45:16-46:27
+subtitle: Bible Reading
 ---
 
 [[Gen 45:16-46:27]]

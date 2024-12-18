@@ -1,9 +1,9 @@
 ---
-title: EGW Reading
-subtitle: Samson PP 560-562b
+title: Samson PP 560-562b
+subtitle: EGW Reading
 ---
 
-Chapter 54—Samson
+### Chapter 54—Samson
 
 This chapter is based on Judges 13 to 16.
 

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Healing of the Waters PK 229-234
+title: The Healing of the Waters PK 229-234
+subtitle: EGW Reading
 ---
 
 ### Chapter 18—The Healing of the Waters

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ps 42; 52; 54; 57; 59; 107; 142; 1 Sam 22:20-23:15
+title: Ps 42; 52; 54; 57; 59; 107; 142; 1 Sam 22:20-23:15
+subtitle: Bible Reading
 ---
 
 [[Ps 42; 52; 54; 57; 59; 107; 142; 1 Sam 22:20-23:15]]

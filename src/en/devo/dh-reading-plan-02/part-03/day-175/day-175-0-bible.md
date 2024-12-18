@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 31
+title: Jer 31
+subtitle: Bible Reading
 ---
 
 [[Jer 31]]

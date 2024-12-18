@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Assyrian Captivity PK 282d-284
+title: The Assyrian Captivity PK 282d-284
+subtitle: EGW Reading
 ---
 
 The prophets continued to protest against these evils and to plead for rightdoing. “Sow to yourselves in righteousness, reap in mercy,” Hosea urged; “break up your fallow ground: for it is time to seek the Lord, till He come and rain righteousness upon you.” “Turn thou to thy God: keep mercy and judgment, and wait on thy God continually.” “O Israel, return unto the Lord thy God; for thou hast fallen by thine iniquity: ... say unto Him, Take away all iniquity, and receive us graciously.” Hosea 10:12; 12:6; 14:1, 2.

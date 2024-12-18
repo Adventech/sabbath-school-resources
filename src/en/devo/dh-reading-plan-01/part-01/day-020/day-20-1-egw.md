@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Literal Week PP 111-116
+title: The Literal Week PP 111-116
+subtitle: EGW Reading
 ---
 
 ### Chapter 9—The Literal Week

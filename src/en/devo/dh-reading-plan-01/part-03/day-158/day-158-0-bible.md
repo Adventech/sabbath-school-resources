@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Deut 34
+title: Deut 34
+subtitle: Bible Reading
 ---
 
 [[Deut 34]]

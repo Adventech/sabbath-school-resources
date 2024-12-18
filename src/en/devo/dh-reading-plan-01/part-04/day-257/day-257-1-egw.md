@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last Years of David PP 754-755
+title: The Last Years of David PP 754-755
+subtitle: EGW Reading
 ---
 
 David's “last words,” as recorded, are a song—a song of trust, of loftiest principle, and undying faith:

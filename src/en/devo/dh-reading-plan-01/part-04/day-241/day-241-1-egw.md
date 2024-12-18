@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: David’s Sin and Repentance PP 723e-726
+title: David’s Sin and Repentance PP 723e-726
+subtitle: EGW Reading
 ---
 
 For a whole year after his fall David lived in apparent security; there was no outward evidence of God's displeasure. But the divine sentence was hanging over him. Swiftly and surely a day of judgment and retribution was approaching, which no repentance could avert, agony and shame that would darken his whole earthly life. Those who, by pointing to the example of David, try to lessen the guilt of their own sins, should learn from the Bible record that the way of transgression is hard. Though like David they should turn from their evil course, the results of sin, even in this life, will be found bitter and hard to bear.

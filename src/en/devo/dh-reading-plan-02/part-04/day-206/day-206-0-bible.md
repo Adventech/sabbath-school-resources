@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Isa 47; Jer 50
+title: Isa 47; Jer 50
+subtitle: Bible Reading
 ---
 
 [[Isa 47; Jer 50]]

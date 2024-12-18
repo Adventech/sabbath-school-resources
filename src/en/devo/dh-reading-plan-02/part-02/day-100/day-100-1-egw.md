@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “Destroyed for Lack of Knowledge” PK 298-300
+title: “Destroyed for Lack of Knowledge” PK 298-300
+subtitle: EGW Reading
 ---
 
 The prophecies of judgment delivered by Amos and Hosea were accompanied by predictions of future glory. To the ten tribes, long rebellious and impenitent, was given no promise of complete restoration to their former power in Palestine. Until the end of time, they were to be “wanderers among the nations.” But through Hosea was given a prophecy that set before them the privilege of having a part in the final restoration that is to be made to the people of God at the close of earth's history, when Christ shall appear as King of kings and Lord of lords. “Many days,” the prophet declared, the ten tribes were to abide “without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim.” “Afterward,” the prophet continued, “shall the children of Israel return, and seek the Lord their God, and David their king; and shall fear the Lord and His goodness in the latter days.” Hosea 3:4, 5.

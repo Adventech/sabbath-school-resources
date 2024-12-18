@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: “The Prophets of God Helping Them” PK 571b-575c
+title: “The Prophets of God Helping Them” PK 571b-575c
+subtitle: EGW Reading
 ---
 
 Untiring in their opposition, the Samaritans “weakened the hands of the people of Judah, and troubled them in building, and hired counselors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius.” Ezra 4:4, 5. By false reports they aroused suspicion in minds easily led to suspect. But for many years the powers of evil were held in check, and the people in Judea had liberty to continue their work.

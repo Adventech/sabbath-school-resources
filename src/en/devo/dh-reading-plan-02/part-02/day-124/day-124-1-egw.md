@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Ambassadors From Babylon PK 344b-348
+title: The Ambassadors From Babylon PK 344b-348
+subtitle: EGW Reading
 ---
 
 “The living, the living, he shall praise Thee,\

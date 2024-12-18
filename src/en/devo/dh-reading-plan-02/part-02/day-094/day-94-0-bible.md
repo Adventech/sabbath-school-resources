@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Amos 6-9
+title: Amos 6-9
+subtitle: Bible Reading
 ---
 
 [[Amos 6-9]]

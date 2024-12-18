@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 22
+title: Jer 22
+subtitle: Bible Reading
 ---
 
 [[Jer 22]]

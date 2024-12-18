@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Dan 2:1-23
+title: 'Dan 2:1-23'
+subtitle: Bible Reading
 ---
 
 [[Dan 2:1-23]]

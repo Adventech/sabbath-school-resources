@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Rending of the Kingdom PK 87-90b
+title: The Rending of the Kingdom PK 87-90b
+subtitle: EGW Reading
 ---
 
 ### Chapter 6—The Rending of the Kingdom

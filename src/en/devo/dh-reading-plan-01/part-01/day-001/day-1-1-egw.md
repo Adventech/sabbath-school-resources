@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: PP Introduction xiii-xvii, b
+title: PP Introduction xiii-xvii, b
+subtitle: EGW Reading
 ---
 
 ### Introduction

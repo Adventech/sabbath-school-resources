@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Elisha’s Closing Ministry PK 254-258a
+title: Elisha’s Closing Ministry PK 254-258a
+subtitle: EGW Reading
 ---
 
 ### Chapter 21—Elisha's Closing Ministry

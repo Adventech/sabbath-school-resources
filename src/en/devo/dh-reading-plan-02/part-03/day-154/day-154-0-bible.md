@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Jer 23
+title: Jer 23
+subtitle: Bible Reading
 ---
 
 [[Jer 23]]

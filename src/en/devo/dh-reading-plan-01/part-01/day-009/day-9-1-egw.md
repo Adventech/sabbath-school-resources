@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Plan of Redemption PP 63-67a
+title: The Plan of Redemption PP 63-67a
+subtitle: EGW Reading
 ---
 
 ### Chapter 4—The Plan of Redemption

@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Builders on the Wall PK 635-638c
+title: The Builders on the Wall PK 635-638c
+subtitle: EGW Reading
 ---
 
 ### Chapter 53—The Builders on the Wall

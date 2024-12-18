@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Intro: The Vineyard of the Lord PK 15-22
+title: 'Intro: The Vineyard of the Lord PK 15-22'
+subtitle: EGW Reading
 ---
 
 Introduction—The Vineyard of the Lord

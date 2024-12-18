@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Jehoshaphat PK 190-192b
+title: Jehoshaphat PK 190-192b
+subtitle: EGW Reading
 ---
 
 ### Chapter 15—Jehoshaphat

@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Ex 25-26
+title: Ex 25-26
+subtitle: Bible Reading
 ---
 
 [[Ex 25-26]]

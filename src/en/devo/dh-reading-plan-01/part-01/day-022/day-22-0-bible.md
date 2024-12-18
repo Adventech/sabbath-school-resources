@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Gen 11:5-9
+title: Gen 11:5-9
+subtitle: Bible Reading
 ---
 
 [[Gen 11:5-9]]

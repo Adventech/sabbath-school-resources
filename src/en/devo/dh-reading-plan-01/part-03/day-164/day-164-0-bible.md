@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Josh 7:7-26
+title: Josh 7:7-26
+subtitle: Bible Reading
 ---
 
 [[Josh 7:7-26]]

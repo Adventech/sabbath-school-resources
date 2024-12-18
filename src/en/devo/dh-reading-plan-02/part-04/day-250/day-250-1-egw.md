@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Reformation PK 673b-678
+title: Reformation PK 673b-678
+subtitle: EGW Reading
 ---
 
 And now Nehemiah turned his attention to the danger that again threatened Israel from intermarriage and association with idolaters. “In those days,” he writes, “saw I Jews that had married wives of Ashdod, of Ammon, and of Moab: and their children spake half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people.”

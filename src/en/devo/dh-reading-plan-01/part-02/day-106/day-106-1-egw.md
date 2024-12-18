@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Tabernacle and Its Services PP 352c-355a
+title: The Tabernacle and Its Services PP 352c-355a
+subtitle: EGW Reading
 ---
 
 The daily service consisted of the morning and evening burnt offering, the offering of sweet incense on the golden altar, and the special offerings for individual sins. And there were also offerings for Sabbaths, new moons, and special feasts.

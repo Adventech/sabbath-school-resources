@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Last King of Judah PK 450-451
+title: The Last King of Judah PK 450-451
+subtitle: EGW Reading
 ---
 
 The day of doom for the kingdom of Judah was fast approaching. No longer could the Lord set before them the hope of averting the severest of His judgments. “Should ye be utterly unpunished?” He inquired. “Ye shall not be unpunished.” Jeremiah 25:29.

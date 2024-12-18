@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Joseph in Egypt PP 213-218
+title: Joseph in Egypt PP 213-218
+subtitle: EGW Reading
 ---
 
 ### Chapter 20—Joseph in Egypt

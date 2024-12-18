@@ -1,6 +1,6 @@
 ---
-title: Bible Reading
-subtitle: Prov 17-20
+title: Prov 17-20
+subtitle: Bible Reading
 ---
 
 [[Prov 17-20]]

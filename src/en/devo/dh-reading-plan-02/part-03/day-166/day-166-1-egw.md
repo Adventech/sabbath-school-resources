@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Carried Captive Into Babylon PK 455d-458c
+title: Carried Captive Into Babylon PK 455d-458c
+subtitle: EGW Reading
 ---
 
 From the court of the prison Jeremiah continued to advise submission to the Babylonian rule. To offer resistance would be to invite sure death. The message of the Lord to Judah was: “He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.” Plain and positive were the words spoken. In the name of the Lord the prophet boldly declared, “This city shall surely be given into the hand of the king of Babylon's army, which shall take it.” Jeremiah 38:2, 3.

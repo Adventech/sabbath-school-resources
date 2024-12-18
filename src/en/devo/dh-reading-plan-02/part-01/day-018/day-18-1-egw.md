@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Temple and Its Dedication PK 39b-40
+title: The Temple and Its Dedication PK 39b-40
+subtitle: EGW Reading
 ---
 
 Realizing the significance of this cloud, Solomon declared: “The Lord hath said that He would dwell in the thick darkness. But I have built an house of habitation for Thee, and a place for Thy dwelling forever.” 2 Chronicles 6:1, 2.

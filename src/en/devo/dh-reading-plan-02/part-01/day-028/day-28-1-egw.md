@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: Solomon’s Repentance PK 77-78a
+title: Solomon’s Repentance PK 77-78a
+subtitle: EGW Reading
 ---
 
 Yet the Lord forsook him not. By messages of reproof and by severe judgments, He sought to arouse the king to a realization of the sinfulness of his course. He removed His protecting care and permitted adversaries to harass and weaken the kingdom. “The Lord stirred up an adversary unto Solomon, Hadad the Edomite.... And God stirred him up another adversary, Rezon, ... captain over a band,” who “abhorred Israel, and reigned over Syria. And Jeroboam, ... Solomon's servant,” “a mighty man of valor,” “even he lifted up his hand against the king.” 1 Kings 11:14-28.

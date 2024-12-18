@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Unseen Watcher PK 532c-534
+title: The Unseen Watcher PK 532c-534
+subtitle: EGW Reading
 ---
 
 “I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against the Lord. The Lord hath opened His armory, and hath brought forth the weapons of His indignation: for this is the work of the Lord God of hosts in the land of the Chaldeans.”

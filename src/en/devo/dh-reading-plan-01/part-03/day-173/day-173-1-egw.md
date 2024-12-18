@@ -1,6 +1,6 @@
 ---
-title: EGW Reading
-subtitle: The Division of Canaan PP 517e-520
+title: The Division of Canaan PP 517e-520
+subtitle: EGW Reading
 ---
 
 Two of the tribes of Israel, Gad and Reuben, with half the tribe of Manasseh, had received their inheritance before crossing the Jordan. To a pastoral people, the wide upland plains and rich forests of Gilead and Bashan, offering extensive grazing land for their flocks and herds, had attractions which were not to be found in Canaan itself, and the two and a half tribes, desiring to settle here, had pledged themselves to furnish their proportion of armed men to accompany their brethren across the Jordan and to share their battles till they also should enter upon their inheritance. The obligation had been faithfully discharged. When the ten tribes entered Canaan forty thousand of “the children of Reuben, and the children of Gad, and half the tribe of Manasseh ... prepared for war passed over before the Lord unto battle, to the plains of Jericho.” Joshua 4:12, 13. For years they had fought bravely by the side of their brethren. Now the time had come for them to get unto the land of their possession. As they had united with their brethren in the conflicts, so they had shared the spoils; and they returned “with much riches ... and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment,” all of which they were to share with those who had remained with the families and flocks.
