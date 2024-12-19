@@ -18,3 +18,7 @@
     view: folio
     resources:
       - en-pm-keys-*
+  - group: Other Resources
+    reverse: true
+    view: folio
+    scope: resource
