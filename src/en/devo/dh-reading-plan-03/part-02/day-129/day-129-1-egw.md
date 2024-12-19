@@ -1,0 +1,14 @@
+---
+title: Tradition DA 397e-398
+subtitle: EGW Reading
+---
+
+To the multitude, and afterward more fully to His disciples, Jesus explained that defilement comes not from without, but from within. Purity and impurity pertain to the soul. It is the evil deed, the evil word, the evil thought, the transgression of the law of God, not the neglect of external, man-made ceremonies, that defiles a man.
+
+The disciples noted the rage of the spies as their false teaching was exposed. They saw the angry looks, and heard the half-muttered words of dissatisfaction and revenge. Forgetting how often Christ had given evidence that He read the heart as an open book, they told Him of the effect of His words. Hoping that He might conciliate the enraged officials, they said to Jesus, “Knowest Thou that the Pharisees were offended, after they heard this saying?”
+
+He answered, “Every plant, which My heavenly Father hath not planted, shall be rooted up.” The customs and traditions so highly valued by the rabbis were of this world, not from heaven. However great their authority with the people, they could not endure the testing of God. Every human invention that has been substituted for the commandments of God will be found worthless in that day when “God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.” Ecclesiastes 12:14.
+
+The substitution of the precepts of men for the commandments of God has not ceased. Even among Christians are found institutions and usages that have no better foundation than the traditions of the fathers. Such institutions, resting upon mere human authority, have supplanted those of divine appointment. Men cling to their traditions, and revere their customs, and cherish hatred against those who seek to show them their error. In this day, when we are bidden to call attention to the commandments of God and the faith of Jesus, we see the same enmity as was manifested in the days of Christ. Of the remnant people of God it is written, “The dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.” Revelation 12:17.
+
+But “every plant, which My heavenly Father hath not planted, shall be rooted up.” In place of the authority of the so-called fathers of the church, God bids us accept the word of the eternal Father, the Lord of heaven and earth. Here alone is truth unmixed with error. David said, “I have more understanding than all my teachers: for Thy testimonies are my meditation. I understand more than the ancients, because I keep Thy precepts.” Psalm 119:99, 100. Let all who accept human authority, the customs of the church, or the traditions of the fathers, take heed to the warning conveyed in the words of Christ, “In vain they do worship Me, teaching for doctrines the commandments of men.”

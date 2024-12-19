@@ -1,0 +1,18 @@
+---
+title: A Faithful Witness AA 554b-556
+subtitle: EGW Reading
+---
+
+John was filled with sadness as he saw these poisonous errors creeping into the church. He saw the dangers to which the church was exposed, and he met the emergency with promptness and decision. The epistles of John breathe the spirit of love. It seems as if he wrote with a pen dipped in love. But when he came in contact with those who were breaking the law of God, yet claiming that they were living without sin, he did not hesitate to warn them of their fearful deception.
+
+Writing to a helper in the gospel work, a woman of good repute and wide influence, he said: “Many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist. Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward. Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son. If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him Godspeed: for he that biddeth him Godspeed is partaker of his evil deeds.”
+
+We are authorized to hold in the same estimation as did the beloved disciple those who claim to abide in Christ while living in transgression of God's law. There exist in these last days evils similar to those that threatened the prosperity of the early church; and the teachings of the apostle John on these points should be carefully heeded. “You must have charity,” is the cry heard everywhere, especially from those who profess sanctification. But true charity is too pure to cover an unconfessed sin. While we are to love the souls for whom Christ died, we are to make no compromise with evil. We are not to unite with the rebellious and call this charity. God requires His people in this age of the world to stand for the right as unflinchingly as did John in opposition to soul-destroying errors.
+
+The apostle teaches that while we should manifest Christian courtesy we are authorized to deal in plain terms with sin and sinners; that this is not inconsistent with true charity. “Whosoever committeth sin,” he writes, “transgresseth also the law: for sin is the transgression of the law. And ye know that He was manifested to take away our sins; and in Him is no sin. Whosoever abideth in Him sinneth not: whosoever sinneth hath not seen Him, neither known Him.”
+
+As a witness for Christ, John entered into no controversy, no wearisome contention. He declared what he knew, what he had seen and heard. He had been intimately associated with Christ, had listened to His teachings, had witnessed His mighty miracles. Few could see the beauties of Christ's character as John saw them. For him the darkness had passed away; on him the true light was shining. His testimony in regard to the Saviour's life and death was clear and forcible. Out of the abundance of a heart overflowing with love for the Saviour he spoke; and no power could stay his words.
+
+“That which was from the beginning,” he declared, “which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; ... that which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with His Son Jesus Christ.”
+
+So may every true believer be able, through his own experience, to “set to his seal that God is true.” John 3:33. He can bear witness to that which he has seen and heard and felt of the power of Christ.

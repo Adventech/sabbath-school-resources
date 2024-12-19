@@ -1,0 +1,34 @@
+---
+title: A Faithful Undershepherd AA 514-518b
+subtitle: EGW Reading
+---
+
+### Chapter 51—A Faithful Under-Shepherd
+
+This chapter is based on the First Epistle of Peter.
+
+Little mention is made in the book of Acts of the later work of the apostle Peter. During the busy years of ministry that followed the outpouring of the Spirit on the Day of Pentecost, he was among those who put forth untiring efforts to reach the Jews who came to Jerusalem to worship at the time of the annual festivals.
+
+As the number of believers multiplied in Jerusalem and in other places visited by the messengers of the cross, the talents possessed by Peter proved of untold value to the early Christian church. The influence of his testimony concerning Jesus of Nazareth extended far and wide. Upon him had been laid a double responsibility. He bore positive witness concerning the Messiah before unbelievers, laboring earnestly for their conversion; and at the same time he did a special work for believers, strengthening them in the faith of Christ.
+
+It was after Peter had been led to self-renunciation and entire reliance upon divine power, that he received his call to act as an undershepherd. Christ had said to Peter, before his denial of Him, “When thou art converted, strengthen thy brethren.” Luke 22:32. These words were significant of the wide and effectual work which this apostle was to do in the future for those who should come to the faith. For this work, Peter's own experience of sin and suffering and repentance had prepared him. Not until he had learned his weakness, could he know the believer's need of dependence on Christ. Amid the storm of temptation he had come to understand that man can walk safely only as in utter self-distrust he relies upon the Saviour.
+
+At the last meeting of Christ with His disciples by the sea, Peter, tested by the thrice-repeated question, “Lovest thou Me?” (John 21:15-17), had been restored to his place among the Twelve. His work had been appointed him; he was to feed the Lord's flock. Now, converted and accepted, he was not only to seek to save those without the fold, but was to be a shepherd of the sheep.
+
+Christ mentioned to Peter only one condition of service—“Lovest thou Me?” This is the essential qualification. Though Peter might possess every other, yet without the love of Christ he could not be a faithful shepherd over the flock of God. Knowledge, benevolence, eloquence, zeal—all are essential in the good work; but without the love of Christ in the heart, the work of the Christian minister is a failure.
+
+The love of Christ is not a fitful feeling, but a living principle, which is to be made manifest as an abiding power in the heart. If the character and deportment of the shepherd is an exemplification of the truth he advocates, the Lord will set the seal of His approval to the work. The shepherd and the flock will become one, united by their common hope in Christ.
+
+The Saviour's manner of dealing with Peter had a lesson for him and his brethren. Although Peter had denied his Lord, the love which Jesus bore him had never faltered. And as the apostle should take up the work of ministering the word to others, he was to meet the transgressor with patience, sympathy, and forgiving love. Remembering his own weakness and failure, he was to deal with the sheep and lambs committed to his care as tenderly as Christ had dealt with him.
+
+Human beings, themselves given to evil, are prone to deal untenderly with the tempted and the erring. They cannot read the heart; they know not its struggle and its pain. Of the rebuke that is love, of the blow that wounds to heal, of the warning that speaks hope, they have need to learn.
+
+Throughout his ministry, Peter faithfully watched over the flock entrusted to his care, and thus proved himself worthy of the charge and responsibility given him by the Saviour. Ever he exalted Jesus of Nazareth as the Hope of Israel, the Saviour of mankind. He brought his own life under the discipline of the Master Worker. By every means within his power he sought to educate the believers for active service. His godly example and untiring activity inspired many young men of promise to give themselves wholly to the work of the ministry. As time went on, the apostle's influence as an educator and leader increased; and while he never lost his burden to labor especially for the Jews, yet he bore his testimony in many lands and strengthened the faith of multitudes in the gospel.
+
+In the later years of his ministry, Peter was inspired to write to the believers “scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia.” His letters were the means of reviving the courage and strengthening the faith of those who were enduring trial and affliction, and of renewing to good works those who through manifold temptations were in danger of losing their hold upon God. These letters bear the impress of having been written by one in whom the sufferings of Christ and also His consolation had been made to abound; one whose entire being had been transformed by grace, and whose hope of eternal life was sure and steadfast.
+
+At the very beginning of his first letter the aged servant of God ascribed to his Lord a tribute of praise and thanksgiving. “Blessed be the God and Father of our Lord Jesus Christ,” he exclaimed, “which according to His abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead, to an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you, who are kept by the power of God through faith unto salvation ready to be revealed in the last time.”
+
+In this hope of a sure inheritance in the earth made new, the early Christians rejoiced, even in times of severe trial and affliction. “Ye greatly rejoice,” Peter wrote, “though now for a season, if need be, ye are in heaviness through manifold temptations: that the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honor and glory at the appearing of Jesus Christ: whom having not seen, ye love; in whom, though now ye see Him not, ... ye rejoice with joy unspeakable and full of glory: receiving the end of your faith, even the salvation of your souls.”
+
+The apostle's words were written for the instruction of believers in every age, and they have a special significance for those who live at the time when “the end of all things is at hand.” His exhortations and warnings, and his words of faith and courage, are needed by every soul who would maintain his faith “steadfast unto the end.” Hebrews 3:14.

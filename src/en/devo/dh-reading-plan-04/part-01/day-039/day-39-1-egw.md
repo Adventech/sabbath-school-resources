@@ -1,0 +1,44 @@
+---
+title: Berea and Athens AA 231-236
+subtitle: EGW Reading
+---
+
+### Chapter 23—Berea and Athens
+
+This chapter is based on Acts 17:11-34.
+
+At Berea Paul found Jews who were willing to investigate the truths he taught. Luke's record declares of them: “These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the Scriptures daily, whether those things were so. Therefore many of them believed; also of honorable women which were Greeks, and of men, not a few.”
+
+The minds of the Bereans were not narrowed by prejudice. They were willing to investigate the truthfulness of the doctrines preached by the apostles. They studied the Bible, not from curiosity, but in order that they might learn what had been written concerning the promised Messiah. Daily they searched the inspired records, and as they compared scripture with scripture, heavenly angels were beside them, enlightening their minds and impressing their hearts.
+
+Wherever the truths of the gospel are proclaimed, those who honestly desire to do right are led to a diligent searching of the Scriptures. If, in the closing scenes of this earth's history, those to whom testing truths are proclaimed would follow the example of the Bereans, searching the Scriptures daily, and comparing with God's word the messages brought them, there would today be a large number loyal to the precepts of God's law, where now there are comparatively few. But when unpopular Bible truths are presented, many refuse to make this investigation. Though unable to controvert the plain teachings of Scripture, they yet manifest the utmost reluctance to study the evidences offered. Some assume that even if these doctrines are indeed true, it matters little whether or not they accept the new light, and they cling to pleasing fables which the enemy uses to lead souls astray. Thus their minds are blinded by error, and they become separated from heaven.
+
+All will be judged according to the light that has been given. The Lord sends forth His ambassadors with a message of salvation, and those who hear He will hold responsible for the way in which they treat the words of His servants. Those who are sincerely seeking for truth will make a careful investigation, in the light of God's word, of the doctrines presented to them.
+
+The unbelieving Jews of Thessalonica, filled with jealousy and hatred of the apostles, and not content with having driven them from their own city, followed them to Berea and aroused against them the excitable passions of the lower class. Fearing that violence would be done to Paul if he remained there, the brethren sent him to Athens, accompanied by some of the Bereans who had newly accepted the faith.
+
+Thus persecution followed the teachers of truth from city to city. The enemies of Christ could not prevent the advancement of the gospel, but they succeeded in making the work of the apostles exceedingly hard. Yet in the face of opposition and conflict, Paul pressed steadily forward, determined to carry out the purpose of God as revealed to him in the vision at Jerusalem: “I will send thee far hence unto the Gentiles.” Acts 22:21.
+
+Paul's hasty departure from Berea deprived him of the opportunity he had anticipated of visiting the brethren at Thessalonica.
+
+On arriving at Athens, the apostle sent the Berean brethren back with a message to Silas and Timothy to join him immediately. Timothy had come to Berea prior to Paul's departure, and with Silas had remained to carry on the work so well begun there, and to instruct the new converts in the principles of the faith.
+
+The city of Athens was the metropolis of heathendom. Here Paul did not meet with an ignorant, credulous populace, as at Lystra, but with a people famous for their intelligence and culture. Everywhere statues of their gods and of the deified heroes of history and poetry met the eye, while magnificent architecture and paintings represented the national glory and the popular worship of heathen deities. The senses of the people were entranced by the beauty and splendor of art. On every hand sanctuaries and temples, involving untold expense, reared their massive forms. Victories of arms and deeds of celebrated men were commemorated by sculpture, shrines, and tablets. All these made Athens a vast gallery of art.
+
+As Paul looked upon the beauty and grandeur surrounding him, and saw the city wholly given to idolatry, his spirit was stirred with jealousy for God, whom he saw dishonored on every side, and his heart was drawn out in pity for the people of Athens, who, notwithstanding their intellectual culture, were ignorant of the true God.
+
+The apostle was not deceived by that which he saw in this center of learning. His spiritual nature was so alive to the attraction of heavenly things that the joy and glory of the riches which will never perish made valueless in his eyes the pomp and splendor with which he was surrounded. As he saw the magnificence of Athens he realized its seductive power over lovers of art and science, and his mind was deeply impressed with the importance of the work before him.
+
+In this great city, where God was not worshiped, Paul was oppressed by a feeling of solitude, and he longed for the sympathy and aid of his fellow laborers. So far as human friendship was concerned, he felt himself to be utterly alone. In his epistle to the Thessalonians he expresses his feelings in the words, “Left at Athens alone.” 1 Thessalonians 3:1. Obstacles that were apparently insurmountable presented themselves before him, making it seem almost hopeless for him to attempt to reach the hearts of the people.
+
+While waiting for Silas and Timothy, Paul was not idle. He “disputed ... in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him.” But his principal work in Athens was to bear the tidings of salvation to those who had no intelligent conception of God and of His purpose in behalf of the fallen race. The apostle was soon to meet paganism in its most subtle, alluring form.
+
+The great men of Athens were not long in learning of the presence in their city of a singular teacher who was setting before the people doctrines new and strange. Some of these men sought Paul out and entered into conversation with him. Soon a crowd of listeners gathered about them. Some were prepared to ridicule the apostle as one who was far beneath them both socially and intellectually, and these said jeeringly among themselves, “What will this babbler say?” Others, “because he preached unto them Jesus, and the resurrection,” said, “He seemeth to be a setter forth of strange gods.”
+
+Among those who encountered Paul in the market place were “certain philosophers of the Epicureans, and of the Stoics;” but they, and all others who came in contact with him, soon saw that he had a store of knowledge even greater than their own. His intellectual power commanded the respect of the learned; while his earnest, logical reasoning and the power of his oratory held the attention of all in the audience. His hearers recognized the fact that he was no novice, but was able to meet all classes with convincing arguments in support of the doctrines he taught. Thus the apostle stood undaunted, meeting his opposers on their own ground, matching logic with logic, philosophy with philosophy, eloquence with eloquence.
+
+His heathen opponents called his attention to the fate of Socrates, who, because he was a setter forth of strange gods, had been condemned to death, and they counseled Paul not to endanger his life in the same way. But the apostle's discourses riveted the attention of the people, and his unaffected wisdom commanded their respect and admiration. He was not silenced by the science or the irony of the philosophers, and satisfying themselves that he was determined to accomplish his errand among them, and, at all hazards, to tell his story, they decided to give him a fair hearing.
+
+They accordingly conducted him to Mars’ Hill. This was one of the most sacred spots in all Athens, and its recollections and associations were such as to cause it to be regarded with a superstitious reverence that in the minds of some amounted to dread. It was in this place that matters connected with religion were often carefully considered by men who acted as final judges on all the more important moral as well as civil questions.
+
+Here, away from the noise and bustle of crowded thoroughfares, and the tumult of promiscuous discussion, the apostle could be heard without interruption. Around him gathered poets, artists, and philosophers—the scholars and sages of Athens, who thus addressed him: “May we know what this new doctrine, whereof thou speakest, is? for thou bringest certain strange things to our ears: we would know thereof what these things mean.”

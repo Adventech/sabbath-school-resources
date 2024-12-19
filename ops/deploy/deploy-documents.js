@@ -267,8 +267,8 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
             let documentPathInfo = parseResourcePath(document)
             let append = ""
 
-            if (fs.pathExistsSync(`${SOURCE_DIR}/${document.replace('/info.yml', '')}/_teacher-comments.md`)) {
-                append = `\n\n---\n\n{#[${documentInfo.index}/_teacher-comments.md]}`
+            if (fs.pathExistsSync(`${SOURCE_DIR}/${document.replace('/info.yml', '')}/teacher-comments.md`)) {
+                append = `\n\n---\n\n{#[${documentInfo.index}/teacher-comments.md]}`
             }
 
             documentInfo.segments = []
@@ -282,11 +282,11 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
                 .sync();
 
             for (let segment of segments) {
-                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, append)
+                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^_teacher-comments\.md/.test(segment) ? "" : append)
                 let segmentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`)
 
                 // skipping hidden segments
-                if (!/^_/.test(segment)) {
+                if (!/^_/.test(segment) && !/teacher-comments.md$/.test(segment)) {
                     documentInfo.segments.push(segmentInfo)
                 }
                 fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))

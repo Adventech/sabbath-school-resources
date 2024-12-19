@@ -1,0 +1,26 @@
+---
+title: A Doomed People DA 580-582c
+subtitle: EGW Reading
+---
+
+### Chapter 64—A Doomed People
+
+This chapter is based on Mark 11:11-14, 20, 21; Matthew 21:17-19.
+
+The triumphal ride of Christ into Jerusalem was the dim foreshadowing of His coming in the clouds of heaven with power and glory, amid the triumph of angels and the rejoicing of the saints. Then will be fulfilled the words of Christ to the priests and Pharisees: “Ye shall not see Me henceforth, till ye shall say, Blessed is He that cometh in the name of the Lord.” Matthew 23:39. In prophetic vision Zechariah was shown that day of final triumph; and he beheld also the doom of those who at the first advent had rejected Christ: “They shall look upon Me whom they have pierced, and they shall mourn for Him, as one mourneth for his only son, and shall be in bitterness for Him, as one that is in bitterness for his first-born.” Zechariah 12:10. This scene Christ foresaw when He beheld the city and wept over it. In the temporal ruin of Jerusalem He saw the final destruction of that people who were guilty of the blood of the Son of God.
+
+The disciples saw the hatred of the Jews to Christ, but they did not yet see to what it would lead. They did not yet understand the true condition of Israel, nor comprehend the retribution that was to fall upon Jerusalem. This Christ opened to them by a significant object lesson.
+
+The last appeal to Jerusalem had been in vain. The priests and rulers had heard the prophetic voice of the past echoed by the multitude, in answer to the question, “Who is this?” but they did not accept it as the voice of Inspiration. In anger and amazement they tried to silence the people. There were Roman officers in the throng, and to them His enemies denounced Jesus as the leader of a rebellion. They represented that He was about to take possession of the temple, and reign as king in Jerusalem.
+
+But the calm voice of Jesus hushed for a moment the clamorous throng as He again declared that He had not come to establish a temporal rule; He should soon ascend to His Father, and His accusers would see Him no more until He should come again in glory. Then, too late for their salvation, they would acknowledge Him. These words Jesus spoke with sadness and with singular power. The Roman officers were silenced and subdued. Their hearts, though strangers to divine influence, were moved as they had never been moved before. In the calm, solemn face of Jesus they read love, benevolence, and quiet dignity. They were stirred by a sympathy they could not understand. Instead of arresting Jesus, they were more inclined to pay Him homage. Turning upon the priests and rulers, they charged them with creating the disturbance. These leaders, chagrined and defeated, turned to the people with their complaints, and disputed angrily among themselves.
+
+Meanwhile Jesus passed unnoticed to the temple. All was quiet there, for the scene upon Olivet had called away the people. For a short time Jesus remained at the temple, looking upon it with sorrowful eyes. Then He withdrew with His disciples, and returned to Bethany. When the people sought for Him to place Him on the throne, He was not to be found.
+
+The entire night Jesus spent in prayer, and in the morning He came again to the temple. On the way He passed a fig orchard. He was hungry, “and seeing a fig tree afar off having leaves, He came, if haply He might find anything thereon: and when He came to it, He found nothing but leaves; for the time of figs was not yet.”
+
+It was not the season for ripe figs, except in certain localities; and on the highlands about Jerusalem it might truly be said, “The time of figs was not yet.” But in the orchard to which Jesus came, one tree appeared to be in advance of all the others. It was already covered with leaves. It is the nature of the fig tree that before the leaves open, the growing fruit appears. Therefore this tree in full leaf gave promise of well-developed fruit. But its appearance was deceptive. Upon searching its branches, from the lowest bough to the topmost twig, Jesus found “nothing but leaves.” It was a mass of pretentious foliage, nothing more.
+
+Christ uttered against it a withering curse. “No man eat fruit of thee hereafter forever,” He said. The next morning, as the Saviour and His disciples were again on their way to the city, the blasted branches and drooping leaves attracted their attention. “Master,” said Peter, “behold, the fig tree which Thou cursedst is withered away.”
+
+Christ's act in cursing the fig tree had astonished the disciples. It seemed to them unlike His ways and works. Often they had heard Him declare that He came not to condemn the world, but that the world through Him might be saved. They remembered His words, “The Son of man is not come to destroy men's lives, but to save them.” Luke 9:56. His wonderful works had been done to restore, never to destroy. The disciples had known Him only as the Restorer, the Healer. This act stood alone. What was its purpose? they questioned.

@@ -1,0 +1,54 @@
+---
+title: In Pilate’s Judgment Hall DA 723-727e
+subtitle: EGW Reading
+---
+
+### Chapter 77—In Pilate's Judgment Hall
+
+This chapter is based on Matthew 27:2, 11-31; Mark 15:1-20; Luke 23:1-25; John 18:28-40; John 19:1-16
+
+In the judgment hall of Pilate, the Roman governor, Christ stands bound as a prisoner. About Him are the guard of soldiers, and the hall is fast filling with spectators. Just outside the entrance are the judges of the Sanhedrin, priests, rulers, elders, and the mob.
+
+After condemning Jesus, the council of the Sanhedrin had come to Pilate to have the sentence confirmed and executed. But these Jewish officials would not enter the Roman judgment hall. According to their ceremonial law they would be defiled thereby, and thus prevented from taking part in the feast of the Passover. In their blindness they did not see that murderous hatred had defiled their hearts. They did not see that Christ was the real Passover lamb, and that, since they had rejected Him, the great feast had for them lost its significance.
+
+When the Saviour was brought into the judgment hall, Pilate looked upon Him with no friendly eyes. The Roman governor had been called from his bedchamber in haste, and he determined to do his work as quickly as possible. He was prepared to deal with the prisoner with magisterial severity. Assuming his severest expression, he turned to see what kind of man he had to examine, that he had been called from his repose at so early an hour. He knew that it must be someone whom the Jewish authorities were anxious to have tried and punished with haste.
+
+Pilate looked at the men who had Jesus in charge, and then his gaze rested searchingly on Jesus. He had had to deal with all kinds of criminals; but never before had a man bearing marks of such goodness and nobility been brought before him. On His face he saw no sign of guilt, no expression of fear, no boldness or defiance. He saw a man of calm and dignified bearing, whose countenance bore not the marks of a criminal, but the signature of heaven.
+
+Christ's appearance made a favorable impression upon Pilate. His better nature was roused. He had heard of Jesus and His works. His wife had told him something of the wonderful deeds performed by the Galilean prophet, who cured the sick and raised the dead. Now this revived as a dream in Pilate's mind. He recalled rumors that he had heard from several sources. He resolved to demand of the Jews their charges against the prisoner.
+
+Who is this Man, and wherefore have ye brought Him? he said. What accusation bring ye against Him? The Jews were disconcerted. Knowing that they could not substantiate their charges against Christ, they did not desire a public examination. They answered that He was a deceiver called Jesus of Nazareth.
+
+Again Pilate asked, “What accusation bring ye against this Man?” The priests did not answer his question, but in words that showed their irritation, they said, “If He were not a malefactor, we would not have delivered Him up unto thee.” When those composing the Sanhedrin, the first men of the nation, bring to you a man they deem worthy of death, is there need to ask for an accusation against him? They hoped to impress Pilate with a sense of their importance, and thus lead him to accede to their request without going through many preliminaries. They were eager to have their sentence ratified; for they knew that the people who had witnessed Christ's marvelous works could tell a story very different from the fabrication they themselves were now rehearsing.
+
+The priests thought that with the weak and vacillating Pilate they could carry through their plans without trouble. Before this he had signed the death warrant hastily, condemning to death men they knew were not worthy of death. In his estimation the life of a prisoner was of little account; whether he were innocent or guilty was of no special consequence. The priests hoped that Pilate would now inflict the death penalty on Jesus without giving Him a hearing. This they besought as a favor on the occasion of their great national festival.
+
+But there was something in the prisoner that held Pilate back from this. He dared not do it. He read the purposes of the priests. He remembered how, not long before, Jesus had raised Lazarus, a man that had been dead four days; and he determined to know, before signing the sentence of condemnation, what were the charges against Him, and whether they could be proved.
+
+If your judgment is sufficient, he said, why bring the prisoner to me? “Take ye Him, and judge Him according to your law.” Thus pressed, the priests said that they had already passed sentence upon Him, but that they must have Pilate's sentence to render their condemnation valid. What is your sentence? Pilate asked. The death sentence, they answered; but it is not lawful for us to put any man to death. They asked Pilate to take their word as to Christ's guilt, and enforce their sentence. They would take the responsibility of the result.
+
+Pilate was not a just or a conscientious judge; but weak though he was in moral power, he refused to grant this request. He would not condemn Jesus until a charge had been brought against Him.
+
+The priests were in a dilemma. They saw that they must cloak their hypocrisy under the thickest concealment. They must not allow it to appear that Christ had been arrested on religious grounds. Were this put forward as a reason, their proceedings would have no weight with Pilate. They must make it appear that Jesus was working against the common law; then He could be punished as a political offender. Tumults and insurrection against the Roman government were constantly arising among the Jews. With these revolts the Romans had dealt very rigorously, and they were constantly on the watch to repress everything that could lead to an outbreak.
+
+Only a few days before this the Pharisees had tried to entrap Christ with the question, “Is it lawful for us to give tribute unto Caesar?” But Christ had unveiled their hypocrisy. The Romans who were present had seen the utter failure of the plotters, and their discomfiture at His answer, “Render therefore unto Caesar the things which be Caesar's.” Luke 20:22-25.
+
+Now the priests thought to make it appear that on this occasion Christ had taught what they hoped He would teach. In their extremity they called false witnesses to their aid, “and they began to accuse Him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that He Himself is Christ a King.” Three charges, each without foundation. The priests knew this, but they were willing to commit perjury could they but secure their end.
+
+Pilate saw through their purpose. He did not believe that the prisoner had plotted against the government. His meek and humble appearance was altogether out of harmony with the charge. Pilate was convinced that a deep plot had been laid to destroy an innocent man who stood in the way of the Jewish dignitaries. Turning to Jesus he asked, “Art Thou the King of the Jews?” The Saviour answered, “Thou sayest it.” And as He spoke, His countenance lighted up as if a sunbeam were shining upon it.
+
+When they heard His answer, Caiaphas and those that were with him called Pilate to witness that Jesus had admitted the crime with which He was charged. With noisy cries, priests, scribes, and rulers demanded that He be sentenced to death. The cries were taken up by the mob, and the uproar was deafening. Pilate was confused. Seeing that Jesus made no answer to His accusers, Pilate said to Him, “Answerest Thou nothing? behold how many things they witness against Thee. But Jesus yet answered nothing.”
+
+Standing behind Pilate, in view of all in the court, Christ heard the abuse; but to all the false charges against Him He answered not a word. His whole bearing gave evidence of conscious innocence. He stood unmoved by the fury of the waves that beat about Him. It was as if the heavy surges of wrath, rising higher and higher, like the waves of the boisterous ocean, broke about Him, but did not touch Him. He stood silent, but His silence was eloquence. It was as a light shining from the inner to the outer man.
+
+Pilate was astonished at His bearing. Does this Man disregard the proceedings because He does not care to save His life? he asked himself. As he looked at Jesus, bearing insult and mockery without retaliation, he felt that He could not be as unrighteous and unjust as were the clamoring priests. Hoping to gain the truth from Him and to escape the tumult of the crowd, Pilate took Jesus aside with him, and again questioned, “Art Thou the King of the Jews?”
+
+Jesus did not directly answer this question. He knew that the Holy Spirit was striving with Pilate, and He gave him opportunity to acknowledge his conviction. “Sayest thou this thing of thyself,” He asked, “or did others tell it thee of Me?” That is, was it the accusations of the priests, or a desire to receive light from Christ, that prompted Pilate's question? Pilate understood Christ's meaning; but pride arose in his heart. He would not acknowledge the conviction that pressed upon him. “Am I a Jew?” he said. “Thine own nation and the chief priests have delivered Thee unto me: what hast Thou done?”
+
+Pilate's golden opportunity had passed. Yet Jesus did not leave him without further light. While He did not directly answer Pilate's question, He plainly stated His own mission. He gave Pilate to understand that He was not seeking an earthly throne.
+
+“My kingdom is not of this world,” He said; “if My kingdom were of this world, then would My servants fight, that I should not be delivered to the Jews: but now is My kingdom not from hence. Pilate therefore said unto Him, Art Thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Everyone that is of the truth heareth My voice.”
+
+Christ affirmed that His word was in itself a key which would unlock the mystery to those who were prepared to receive it. It had a self-commending power, and this was the secret of the spread of His kingdom of truth. He desired Pilate to understand that only by receiving and appropriating truth could his ruined nature be reconstructed.
+
+Pilate had a desire to know the truth. His mind was confused. He eagerly grasped the words of the Saviour, and his heart was stirred with a great longing to know what it really was, and how he could obtain it. “What is truth?” he inquired. But he did not wait for an answer. The tumult outside recalled him to the interests of the hour; for the priests were clamorous for immediate action. Going out to the Jews, he declared emphatically, “I find in Him no fault at all.”

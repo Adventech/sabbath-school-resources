@@ -1,0 +1,60 @@
+---
+title: “To Meet the Bridegroom” COL 414d-421
+subtitle: EGW Reading
+---
+
+The coming of the bridegroom was at midnight—the darkest hour. So the coming of Christ will take place in the darkest period of this earth's history. The days of Noah and Lot pictured the condition of the world just before the coming of the Son of man. The Scriptures pointing forward to this time declare that Satan will work with all power and “with all deceivableness of unrighteousness.” 2 Thessalonians 2:9, 10. His working is plainly revealed by the rapidly increasing darkness, the multitudinous errors, heresies, and delusions of these last days. Not only is Satan leading the world captive, but his deceptions are leavening the professed churches of our Lord Jesus Christ. The great apostasy will develop into darkness deep as midnight, impenetrable as sackcloth of hair. To God's people it will be a night of trial, a night of weeping, a night of persecution for the truth's sake. But out of that night of darkness God's light will shine.
+
+He causes “the light to shine out of darkness.” 2 Corinthians 4:6. When “the earth was without form, and void, and darkness was upon the face of the deep,” “the Spirit of God moved upon the face of the waters. And God said, Let there be light; and there was light.” Genesis 1:2, 3. So in the night of spiritual darkness, God's word goes forth, “Let there be light.” To His people He says, “Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.” Isaiah 60:1.
+
+“Behold,” says the Scripture, “the darkness shall cover the earth, and gross darkness the people; but the Lord shall arise upon thee, and His glory shall be seen upon thee.” Isaiah 60:2.
+
+It is the darkness of misapprehension of God that is enshrouding the world. Men are losing their knowledge of His character. It has been misunderstood and misinterpreted. At this time a message from God is to be proclaimed, a message illuminating in its influence and saving in its power. His character is to be made known. Into the darkness of the world is to be shed the light of His glory, the light of His goodness, mercy, and truth.
+
+This is the work outlined by the prophet Isaiah in the words, “O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God! Behold, the Lord God will come with strong hand, and His arm shall rule for Him; behold, His reward is with Him, and His work before Him.” Isaiah 40:9, 10.
+
+Those who wait for the Bridegroom's coming are to say to the people, “Behold your God.” The last rays of merciful light, the last message of mercy to be given to the world, is a revelation of His character of love. The children of God are to manifest His glory. In their own life and character they are to reveal what the grace of God has done for them.
+
+The light of the Sun of Righteousness is to shine forth in good works—in words of truth and deeds of holiness.
+
+Christ, the outshining of the Father's glory, came to the world as its light. He came to represent God to men, and of Him it is written that He was anointed “with the Holy Ghost and with power,” and “went about doing good.” Acts 10:38. In the synagogue at Nazareth He said, “The Spirit of the Lord is upon Me, because He hath anointed Me to preach the gospel to the poor; He hath sent Me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised, to preach the acceptable year of the Lord.” Luke 4:18, 19. This was the work He commissioned His disciples to do. “Ye are the light of the world,” He said. “Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.” Matthew 5:14, 16.
+
+This is the work which the prophet Isaiah describes when he says, “Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh? Then shall thy light break forth as the morning, and thine health shall spring forth speedily; and thy righteousness shall go before thee; the glory of the Lord shall be thy rereward.” Isaiah 58:7, 8.
+
+Thus in the night of spiritual darkness God's glory is to shine forth through His church in lifting up the bowed down and comforting those that mourn.
+
+All around us are heard the wails of a world's sorrow. On every hand are the needy and distressed. It is ours to aid in relieving and softening life's hardships and misery.
+
+Practical work will have far more effect than mere sermonizing. We are to give food to the hungry, clothing to the naked, and shelter to the homeless. And we are called to do more than this. The wants of the soul, only the love of Christ can satisfy. If Christ is abiding in us, our hearts will be full of divine sympathy. The sealed fountains of earnest, Christlike love will be unsealed.
+
+God calls not only for our gifts for the needy, but for our cheerful countenance, our hopeful words, our kindly handclasp. When Christ healed the sick, He laid His hands upon them. So should we come in close touch with those whom we seek to benefit.
+
+There are many from whom hope has departed. Bring back the sunshine to them. Many have lost their courage. Speak to them words of cheer. Pray for them. There are those who need the bread of life. Read to them from the word of God. Upon many is a soul sickness which no earthly balm can reach nor physician heal. Pray for these souls, bring them to Jesus. Tell them that there is a balm in Gilead and a Physician there.
+
+Light is a blessing, a universal blessing, pouring forth its treasures on a world unthankful, unholy, demoralized. So it is with the light of the Sun of Righteousness. The whole earth, wrapped as it is in the darkness of sin, and sorrow, and pain, is to be lighted with the knowledge of God's love. From no sect, rank, or class of people is the light shining from heaven's throne to be excluded.
+
+The message of hope and mercy is to be carried to the ends of the earth. Whosoever will, may reach forth and take hold of God's strength and make peace with Him, and he shall make peace. No longer are the heathen to be wrapped in midnight darkness. The gloom is to disappear before the bright beams of the Sun of Righteousness. The power of hell has been overcome.
+
+But no man can impart that which he himself has not received. In the work of God, humanity can originate nothing. No man can by his own effort make himself a light bearer for God. It was the golden oil emptied by the heavenly messengers into the golden tubes, to be conducted from the golden bowl into the lamps of the sanctuary, that produced a continuous bright and shining light. It is the love of God continually transferred to man that enables him to impart light. Into the hearts of all who are united to God by faith the golden oil of love flows freely, to shine out again in good works, in real, heartfelt service for God.
+
+In the great and measureless gift of the Holy Spirit are contained all of heaven's resources. It is not because of any restriction on the part of God that the riches of His grace do not flow earthward to men. If all were willing to receive, all would become filled with His Spirit.
+
+It is the privilege of every soul to be a living channel through which God can communicate to the world the treasures of His grace, the unsearchable riches of Christ. There is nothing that Christ desires so much as agents who will represent to the world His Spirit and character. There is nothing that the world needs so much as the manifestation through humanity of the Saviour's love. All heaven is waiting for channels through which can be poured the holy oil to be a joy and blessing to human hearts.
+
+Christ has made every provision that His church shall be a transformed body, illumined with the Light of the world, possessing the glory of Emmanuel. It is His purpose that every Christian shall be surrounded with a spiritual atmosphere of light and peace. He desires that we shall reveal His own joy in our lives.
+
+The indwelling of the Spirit will be shown by the outflowing of heavenly love. The divine fullness will flow through the consecrated human agent, to be given forth to others.
+
+The Sun of Righteousness has “healing in His wings.” Malachi 4:2. So from every true disciple is to be diffused an influence for life, courage, helpfulness, and true healing.
+
+The religion of Christ means more than the forgiveness of sin; it means taking away our sins, and filling the vacuum with the graces of the Holy Spirit. It means divine illumination, rejoicing in God. It means a heart emptied of self, and blessed with the abiding presence of Christ. When Christ reigns in the soul, there is purity, freedom from sin. The glory, the fullness, the completeness of the gospel plan is fulfilled in the life. The acceptance of the Saviour brings a glow of perfect peace, perfect love, perfect assurance. The beauty and fragrance of the character of Christ revealed in the life testifies that God has indeed sent His Son into the world to be its Saviour.
+
+Christ does not bid His followers strive to shine. He says, _Let_ your light shine. If you have received the grace of God, the light is in you. Remove the obstructions, and the Lord's glory will be revealed. The light will shine forth to penetrate and dispel the darkness. You cannot help shining within the range of your influence.
+
+The revelation of His own glory in the form of humanity will bring heaven so near to men that the beauty adorning the inner temple will be seen in every soul in whom the Saviour dwells. Men will be captivated by the glory of an abiding Christ. And in currents of praise and thanksgiving from the many souls thus won to God, glory will flow back to the great Giver.
+
+“Arise, shine; for thy light is come, and the glory of the Lord is risen upon thee.” Isaiah 60:1. To those who go out to meet the Bridegroom is this message given. Christ is coming with power and great glory. He is coming with His own glory and with the glory of the Father. He is coming with all the holy angels with Him. While all the world is plunged in darkness, there will be light in every dwelling of the saints. They will catch the first light of His second appearing. The unsullied light will shine from His splendor, and Christ the Redeemer will be admired by all who have served Him. While the wicked flee from His presence, Christ's followers will rejoice. The patriarch Job, looking down to the time of Christ's second advent, said, “Whom I shall see for myself, and mine eyes shall behold, and not a stranger.” Job 19:27, margin. To His faithful followers Christ has been a daily companion and familiar friend. They have lived in close contact, in constant communion with God. Upon them the glory of the Lord has risen. In them the light of the knowledge of the glory of God in the face of Jesus Christ has been reflected. Now they rejoice in the undimmed rays of the brightness and glory of the King in His majesty. They are prepared for the communion of heaven; for they have heaven in their hearts.
+
+With uplifted heads, with the bright beams of the Sun of Righteousness shining upon them, with rejoicing that their redemption draweth nigh, they go forth to meet the Bridegroom, saying, “Lo, this is our God; we have waited for Him, and He will save us.” Isaiah 25:9.
+
+“And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia; for the Lord God omnipotent reigneth. Let us be glad and rejoice, and give honour to Him; for the marriage of the Lamb is come, and His wife hath made herself ready.... And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb.” “He is Lord of lords, and King of kings; and they that are with Him are called, and chosen, and faithful.” Revelation 19:6-9; 17:14.

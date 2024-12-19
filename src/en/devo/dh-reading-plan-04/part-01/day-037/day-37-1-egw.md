@@ -1,0 +1,30 @@
+---
+title: Thessalonica AA 221-225a
+subtitle: EGW Reading
+---
+
+### Chapter 22—Thessalonica
+
+This chapter is based on Acts 17:1-10.
+
+After leaving Philippi, Paul and Silas made their way to Thessalonica. Here they were given the privilege of addressing large congregations in the Jewish synagogue. Their appearance bore evidence of the shameful treatment they had recently received, and necessitated an explanation of what had taken place. This they made without exalting themselves, but magnified the One who had wrought their deliverance.
+
+In preaching to the Thessalonians, Paul appealed to the Old Testament prophecies concerning the Messiah. Christ in His ministry had opened the minds of His disciples to these prophecies; “beginning at Moses and all the prophets, He expounded unto them in all the Scriptures the things concerning Himself.” Luke 24:27. Peter in preaching Christ had produced his evidence from the Old Testament. Stephen had pursued the same course. And Paul also in his ministry appealed to the scriptures foretelling the birth, sufferings, death, resurrection, and ascension of Christ. By the inspired testimony of Moses and the prophets he clearly proved the identity of Jesus of Nazareth with the Messiah and showed that from the days of Adam it was the voice of Christ which had been speaking through patriarchs and prophets.
+
+Plain and specific prophecies had been given regarding the appearance of the Promised One. To Adam was given an assurance of the coming of the Redeemer. The sentence pronounced on Satan, “I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel” (Genesis 3:15), was to our first parents a promise of the redemption to be wrought out through Christ.
+
+To Abraham was given the promise that of his line the Saviour of the world should come: “In thy seed shall all the nations of the earth be blessed.” “He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.” Genesis 22:18; Galatians 3:16.
+
+Moses, near the close of his work as a leader and teacher of Israel, plainly prophesied of the Messiah to come. “The Lord thy God,” he declared to the assembled hosts of Israel, “will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto Him ye shall hearken.” And Moses assured the Israelites that God Himself had revealed this to him while in Mount Horeb, saying, “I will raise them up a Prophet from among their brethren, like unto thee, and will put My words in His mouth; and He shall speak unto them all that I shall command Him.” Deuteronomy 18:15, 18.
+
+The Messiah was to be of the royal line, for in the prophecy uttered by Jacob the Lord said, “The scepter shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto Him shall the gathering of the people be.” Genesis 49:10.
+
+Isaiah prophesied: “There shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots.” “Incline your ear, and come unto Me: hear, and your soul shall live; and I will make an everlasting covenant with you, even the sure mercies of David. Behold, I have given Him for a witness to the people, a leader and commander to the people. Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the Lord thy God, and for the Holy One of Israel; for He hath glorified thee.” Isaiah 11:1; 55:3-5.
+
+Jeremiah also bore witness of the coming Redeemer as a Prince of the house of David: “Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth. In His days Judah shall be saved, and Israel shall dwell safely: and this is His name whereby He shall be called, The Lord Our Righteousness.” And again: “Thus saith the Lord: David shall never want a man to sit upon the throne of the house of Israel; neither shall the priests the Levites want a man before Me to offer burnt offerings, and to kindle meat offerings, and to do sacrifice continually.” Jeremiah 23:5, 6; 33:17, 18.
+
+Even the birthplace of the Messiah was foretold: “Thou, Bethlehem Ephratah, though thou be little among the thousands of Judah, yet out of thee shall He come forth unto Me that is to be Ruler in Israel; whose goings forth have been from of old, from everlasting.” Micah 5:2.
+
+The work that the Saviour was to do on the earth had been fully outlined: “The Spirit of the Lord shall rest upon Him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the Lord; and shall make Him of quick understanding in the fear of the Lord.” The One thus anointed was “to preach good tidings unto the meek; ... to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound; to proclaim the acceptable year of the Lord, and the day of vengeance of our God; to comfort all that mourn; to appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the Lord, that He might be glorified.” Isaiah 11:2, 3; 61:1-3.
+
+“Behold My servant, whom I uphold; Mine elect, in whom My soul delighteth; I have put My Spirit upon Him: He shall bring forth judgment to the Gentiles. He shall not cry, nor lift up, nor cause His voice to be heard in the street. A bruised reed shall He not break, and the smoking flax shall He not quench: He shall bring forth judgment unto truth. He shall not fail nor be discouraged, till He have set judgment in the earth: and the isles shall wait for His law.” Isaiah 42:1-4.

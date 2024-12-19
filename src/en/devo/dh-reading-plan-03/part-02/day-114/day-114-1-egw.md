@@ -1,0 +1,42 @@
+---
+title: “Peace, Be Still” DA 333-337a
+subtitle: EGW Reading
+---
+
+### Chapter 35—“Peace, Be Still”
+
+This chapter is based on Matthew 8:23-34; Mark 4:35-41; Mark 5:1-20; Luke 8:22-39.
+
+It had been an eventful day in the life of Jesus. Beside the Sea of Galilee He had spoken His first parables, by familiar illustrations again explaining to the people the nature of His kingdom and the manner in which it was to be established. He had likened His own work to that of the sower; the development of His kingdom to the growth of the mustard seed and the effect of leaven in the measure of meal. The great final separation of the righteous and the wicked He had pictured in the parables of the wheat and tares and the fishing net. The exceeding preciousness of the truths He taught had been illustrated by the hidden treasure and the pearl of great price, while in the parable of the householder He taught His disciples how they were to labor as His representatives.
+
+All day He had been teaching and healing; and as evening came on the crowds still pressed upon Him. Day after day He had ministered to them, scarcely pausing for food or rest. The malicious criticism and misrepresentation with which the Pharisees constantly pursued Him made His labors much more severe and harassing; and now the close of the day found Him so utterly wearied that He determined to seek retirement in some solitary place across the lake.
+
+The eastern shore of Gennesaret was not uninhabited, for there were towns here and there beside the lake; yet it was a desolate region when compared with the western side. It contained a population more heathen than Jewish, and had little communication with Galilee. Thus it offered Jesus the seclusion He sought, and He now bade His disciples accompany Him thither.
+
+After He had dismissed the multitude, they took Him, even “as He was,” into the boat, and hastily set off. But they were not to depart alone. There were other fishing boats lying near the shore, and these were quickly crowded with people who followed Jesus, eager still to see and hear Him.
+
+The Saviour was at last relieved from the pressure of the multitude, and, overcome with weariness and hunger, He lay down in the stern of the boat, and soon fell asleep. The evening had been calm and pleasant, and quiet rested upon the lake; but suddenly darkness overspread the sky, the wind swept wildly down the mountain gorges along the eastern shore, and a fierce tempest burst upon the lake.
+
+The sun had set, and the blackness of night settled down upon the stormy sea. The waves, lashed into fury by the howling winds, dashed fiercely over the disciples’ boat, and threatened to engulf it. Those hardy fishermen had spent their lives upon the lake, and had guided their craft safely through many a storm; but now their strength and skill availed nothing. They were helpless in the grasp of the tempest, and hope failed them as they saw that their boat was filling.
+
+Absorbed in their efforts to save themselves, they had forgotten that Jesus was on board. Now, seeing their labor vain and only death before them, they remembered at whose command they had set out to cross the sea. In Jesus was their only hope. In their helplessness and despair they cried, “Master, Master!” But the dense darkness hid Him from their sight. Their voices were drowned by the roaring of the tempest, and there was no reply. Doubt and fear assailed them. Had Jesus forsaken them? Was He who had conquered disease and demons, and even death, powerless to help His disciples now? Was He unmindful of them in their distress?
+
+Again they call, but there is no answer except the shrieking of the angry blast. Already their boat is sinking. A moment, and apparently they will be swallowed up by the hungry waters.
+
+Suddenly a flash of lightning pierces the darkness, and they see Jesus lying asleep, undisturbed by the tumult. In amazement and despair they exclaim, “Master, carest Thou not that we perish?” How can He rest so peacefully, while they are in danger and battling with death?
+
+Their cry arouses Jesus. As the lightning's glare reveals Him, they see the peace of heaven in His face; they read in His glance self-forgetful, tender love, and, their hearts turning to Him, cry, “Lord, save us: we perish.”
+
+Never did a soul utter that cry unheeded. As the disciples grasp their oars to make a last effort, Jesus rises. He stands in the midst of His disciples, while the tempest rages, the waves break over them, and the lightning illuminates His countenance. He lifts His hand, so often employed in deeds of mercy, and says to the angry sea, “Peace, be still.”
+
+The storm ceases. The billows sink to rest. The clouds roll away, and the stars shine forth. The boat rests upon a quiet sea. Then turning to His disciples, Jesus asks sorrowfully, “Why are ye fearful? have ye not yet faith?” Mark 4:40, R.V.
+
+A hush fell upon the disciples. Even Peter did not attempt to express the awe that filled his heart. The boats that had set out to accompany Jesus had been in the same peril with that of the disciples. Terror and despair had seized their occupants; but the command of Jesus brought quiet to the scene of tumult. The fury of the storm had driven the boats into close proximity, and all on board beheld the miracle. In the calm that followed, fear was forgotten. The people whispered among themselves, “What manner of man is this, that even the winds and the sea obey Him?”
+
+When Jesus was awakened to meet the storm, He was in perfect peace. There was no trace of fear in word or look, for no fear was in His heart. But He rested not in the possession of almighty power. It was not as the “Master of earth and sea and sky” that He reposed in quiet. That power He had laid down, and He says, “I can of Mine own self do nothing.” John 5:30. He trusted in the Father's might. It was in faith—faith in God's love and care—that Jesus rested, and the power of that word which stilled the storm was the power of God.
+
+As Jesus rested by faith in the Father's care, so we are to rest in the care of our Saviour. If the disciples had trusted in Him, they would have been kept in peace. Their fear in the time of danger revealed their unbelief. In their efforts to save themselves, they forgot Jesus; and it was only when, in despair of self-dependence, they turned to Him that He could give them help.
+
+How often the disciples’ experience is ours! When the tempests of temptation gather, and the fierce lightnings flash, and the waves sweep over us, we battle with the storm alone, forgetting that there is One who can help us. We trust to our own strength till our hope is lost, and we are ready to perish. Then we remember Jesus, and if we call upon Him to save us, we shall not cry in vain. Though He sorrowfully reproves our unbelief and self-confidence, He never fails to give us the help we need. Whether on the land or on the sea, if we have the Saviour in our hearts, there is no need of fear. Living faith in the Redeemer will smooth the sea of life, and will deliver us from danger in the way that He knows to be best.
+
+There is another spiritual lesson in this miracle of the stilling of the tempest. Every man's experience testifies to the truth of the words of Scripture, “The wicked are like the troubled sea, when it cannot rest.... There is no peace, saith my God, to the wicked.” Isaiah 57:20, 21. Sin has destroyed our peace. While self is unsubdued, we can find no rest. The masterful passions of the heart no human power can control. We are as helpless here as were the disciples to quiet the raging storm. But He who spoke peace to the billows of Galilee has spoken the word of peace for every soul. However fierce the tempest, those who turn to Jesus with the cry, “Lord, save us,” will find deliverance. His grace, that reconciles the soul to God, quiets the strife of human passion, and in His love the heart is at rest. “He maketh the storm a calm, so that the waves thereof are still. Then are they glad because they be quiet; so He bringeth them unto their desired haven.” Psalm 107:29, 30. “Being justified by faith, we have peace with God through our Lord Jesus Christ.” “The work of righteousness shall be peace; and the effect of righteousness quietness and assurance forever.” Romans 5:1; Isaiah 32:17.

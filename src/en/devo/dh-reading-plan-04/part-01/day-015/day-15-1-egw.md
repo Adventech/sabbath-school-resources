@@ -1,0 +1,20 @@
+---
+title: The First Christian Martyr AA 100b-102
+subtitle: EGW Reading
+---
+
+When Stephen reached this point, there was a tumult among the people. When he connected Christ with the prophecies and spoke as he did of the temple, the priest, pretending to be horror-stricken, rent his robe. To Stephen this act was a signal that his voice would soon be silenced forever. He saw the resistance that met his words and knew that he was giving his last testimony. Although in the midst of his sermon, he abruptly concluded it.
+
+Suddenly breaking away from the train of history that he was following, and turning upon his infuriated judges, he cried: “Ye stiff-necked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye. Which of the prophets have not your fathers persecuted? and they have slain them which showed before of the coming of the Just One; of whom ye have been now the betrayers and murderers: who have received the law by the disposition of angels, and have not kept it.”
+
+At this, priests and rulers were beside themselves with anger. Acting more like beasts of prey than human beings, they rushed upon Stephen, gnashing their teeth. In the cruel faces about him the prisoner read his fate; but he did not waver. For him the fear of death was gone. For him the enraged priests and the excited mob had no terror. The scene before him faded from his vision. To him the gates of heaven were ajar, and, looking in, he saw the glory of the courts of God, and Christ, as if just risen from His throne, standing ready to sustain His servant. In words of triumph Stephen exclaimed, “Behold, I see the heavens opened, and the Son of man standing on the right hand of God.”
+
+As he described the glorious scene upon which his eyes were gazing, it was more than his persecutors could endure. Stopping their ears, that they might not hear his words, and uttering loud cries, they ran furiously upon him with one accord “and cast him out of the city.” “And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit. And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.”
+
+No legal sentence had been passed upon Stephen, but the Roman authorities were bribed by large sums of money to make no investigation into the case.
+
+The martyrdom of Stephen made a deep impression upon all who witnessed it. The memory of the signet of God upon his face; his words, which touched the very souls of those who heard them, remained in the minds of the beholders, and testified to the truth of that which he had proclaimed. His death was a sore trial to the church, but it resulted in the conviction of Saul, who could not efface from his memory the faith and constancy of the martyr, and the glory that had rested on his countenance.
+
+At the scene of Stephen's trial and death, Saul had seemed to be imbued with a frenzied zeal. Afterward he was angered by his own secret conviction that Stephen had been honored by God at the very time when he was dishonored by men. Saul continued to persecute the church of God, hunting them down, seizing them in their houses, and delivering them up to the priests and rulers for imprisonment and death. His zeal in carrying forward this persecution brought terror to the Christians at Jerusalem. The Roman authorities made no special effort to stay the cruel work and secretly aided the Jews in order to conciliate them and to secure their favor.
+
+After the death of Stephen, Saul was elected a member of the Sanhedrin council in consideration of the part he had acted on that occasion. For a time he was a mighty instrument in the hands of Satan to carry out his rebellion against the Son of God. But soon this relentless persecutor was to be employed in building up the church that he was now tearing down. A Mightier than Satan had chosen Saul to take the place of the martyred Stephen, to preach and suffer for His name, and to spread far and wide the tidings of salvation through His blood.

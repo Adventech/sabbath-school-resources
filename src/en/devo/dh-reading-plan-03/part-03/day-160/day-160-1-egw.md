@@ -1,0 +1,52 @@
+---
+title: “Spare It This Year Also” COL 212-218
+subtitle: EGW Reading
+---
+
+### Chapter 17—“Spare it this Year Also”
+
+This chapter is based on Luke 13:1-9.
+
+Christ in His teaching linked with the warning of judgment the invitation of mercy. “The Son of man is not come,” He said, “to destroy men's lives, but to save them.” Luke 9:56. “God sent not His Son into the world to condemn the world; but that the world through Him might be saved.” John 3:17. His mission of mercy in its relation to God's justice and judgment is illustrated in the parable of the barren fig tree.
+
+Christ had been warning the people of the coming of the kingdom of God, and He had sharply rebuked their ignorance and indifference. The signs in the sky, which foretold the weather, they were quick to read; but the signs of the times, which so clearly pointed to His mission, were not discerned.
+
+But men were as ready then as men are now to conclude that they themselves are the favorites of heaven, and that the message of reproof is meant for another. The hearers told Jesus of an event which had just caused great excitement. Some of the measures of Pontius Pilate, the governor of Judea, had given offense to the people. There had been a popular tumult in Jerusalem, and Pilate had attempted to quell this by violence. On one occasion his soldiers had even invaded the precincts of the temple, and had cut down some Galilean pilgrims in the very act of slaying their sacrifices. The Jews regarded calamity as a judgment on account of the sufferer's sin, and those who told of this act of violence did so with secret satisfaction. In their view their own good fortune proved them to be much better, and therefore more favored by God, than were these Galileans. They expected to hear from Jesus words of condemnation for these men, who, they doubted not, richly deserved their punishment.
+
+The disciples of Christ did not venture to express their ideas until they had heard the opinion of their Master. He had given them pointed lessons in reference to judging other men's characters, and measuring retribution according to their finite judgment. Yet they looked for Christ to denounce these men as sinners above others. Great was their surprise at His answer.
+
+Turning to the multitude, the Saviour said, “Suppose ye that these Galileans were sinners above all the Galileans, because they suffered such things? I tell you, Nay; but, except ye repent, ye shall all likewise perish.” These startling calamities were designed to lead them to humble their hearts, and to repent of their sins. The storm of vengeance was gathering, which was soon to burst upon all who had not found a refuge in Christ.
+
+As Jesus talked with the disciples and the multitude, He looked forward with prophetic glance and saw Jerusalem besieged with armies. He heard the tramp of the aliens marching against the chosen city and saw the thousands upon thousands perishing in the siege. Many of the Jews were, like those Galileans, slain in the temple courts, in the very act of offering sacrifice. The calamities that had fallen upon individuals were warnings from God to a nation equally guilty. “Except ye repent,” said Jesus, “ye shall all likewise perish.” For a little time the day of probation lingered for them. There was still time for them to know the things that belonged to their peace.
+
+“A certain man,” He continued, “had a fig-tree planted in his vineyard; and he came and sought fruit thereon, and found none. Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig-tree, and find none: cut it down; why cumbereth it the ground?”
+
+Christ's hearers could not misunderstand the application of His words. David had sung of Israel as the vine brought out of Egypt. Isaiah had written, “The vineyard of the Lord of hosts is the house of Israel, and the men of Judah His pleasant plant.” Isaiah 5:7. The generation to whom the Saviour had come were represented by the fig tree in the Lord's vineyard—within the circle of His special care and blessing.
+
+God's purpose toward His people, and the glorious possibilities before them, had been set forth in the beautiful words, “That they might be called trees of righteousness, the planting of the Lord, that He might be glorified,” Isaiah 61:3. The dying Jacob, under the Spirit of inspiration, had said of his best-loved son, “Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall.” And he said, “The God of thy Father” “shall help thee,” the Almighty “shall bless thee with blessings of heaven above, blessings of the deep that lieth under.” Genesis 49:22, 25. So God had planted Israel as a goodly vine by the wells of life. He had made His vineyard “in a very fruitful hill.” He had “fenced it, and gathered out the stones thereof, and planted it with the choicest vine.” Isaiah 5:1, 2.
+
+“And He looked that it should bring forth grapes, and it brought forth wild grapes.” Isaiah 5:2. The people of Christ's day made a greater show of piety than did the Jews of earlier ages, but they were even more destitute of the sweet graces of the Spirit of God. The precious fruits of character that made the life of Joseph so fragrant and beautiful, were not manifest in the Jewish nation.
+
+God in His Son had been seeking fruit, and had found none. Israel was a cumberer of the ground. Its very existence was a curse; for it filled the place in the vineyard that a fruitful tree might fill. It robbed the world of the blessings that God designed to give. The Israelites had misrepresented God among the nations. They were not merely useless, but a decided hindrance. To a great degree their religion was misleading, and wrought ruin instead of salvation.
+
+In the parable the dresser of the vineyard does not question the sentence that the tree, if it remained fruitless, should be cut down; but he knows and shares the owner's interest in that barren tree. Nothing could give him greater joy than to see its growth and fruitfulness. He responds to the desire of the owner, saying, “Let it alone this year also, till I shall dig about it and dung it; and if it bear fruit, well.”
+
+The gardener does not refuse to minister to so unpromising a plant. He stands ready to give it still greater care. He will make its surroundings most favorable, and will lavish upon it every attention.
+
+The owner and the dresser of the vineyard are one in their interest in the fig tree. So the Father and the Son were one in their love for the chosen people. Christ was saying to His hearers that increased opportunities would be given them. Every means that the love of God could devise would be put in operation that they might become trees of righteousness, bringing forth fruit for the blessing of the world.
+
+Jesus did not in the parable tell the result of the gardener's work. At that point His story was cut short. Its conclusion rested with the generation that heard His words. To them the solemn warning was given. “If not, then after that thou shalt cut it down.” Upon them it depended whether the irrevocable words should be spoken. The day of wrath was near. In the calamities that had already befallen Israel, the owner of the vineyard was mercifully forewarning them of the destruction of the unfruitful tree.
+
+The warning sounds down along the line to us in this generation. Are you, O careless heart, a fruitless tree in the Lord's vineyard? Shall the words of doom erelong be spoken of you? How long have you received His gifts? How long has He watched and waited for a return of love? Planted in His vineyard, under the watchful care of the gardener, what privileges are yours! How often has the tender gospel message thrilled your heart! You have taken the name of Christ, you are outwardly a member of the church which is His body, and yet you are conscious of no living connection with the great heart of love. The tide of His life does not flow through you. The sweet graces of His character, “the fruits of the Spirit,” are not seen in your life.
+
+The barren tree receives the rain and the sunshine and the gardener's care. It draws nourishment from the soil. But its unproductive boughs only darken the ground, so that fruit-bearing plants cannot flourish in its shadow. So God's gifts, lavished on you, convey no blessing to the world. You are robbing others of privileges that, but for you, might be theirs.
+
+You realize, though it may be but dimly, that you are a cumberer of the ground. Yet in His great mercy God has not cut you down. He does not look coldly upon you. He does not turn away with indifference, or leave you to destruction. Looking upon you He cries, as He cried so many centuries ago concerning Israel, “How shall I give thee up, Ephraim? How shall I deliver thee, Israel? ... I will not execute the fierceness of Mine anger. I will not return to destroy Ephraim; for I am God, and not man.” Hosea 11:8, 9. The pitying Saviour is saying concerning you, Spare it this year also, till I shall dig about it and dress it.
+
+With what unwearied love did Christ minister to Israel during the period of added probation. Upon the cross He prayed, “Father, forgive them; for they know not what they do.” Luke 23:34. After His ascension the gospel was preached first at Jerusalem. There the Holy Spirit was poured out. There the first gospel church revealed the power of the risen Saviour. There Stephen—“his face as it had been the face of an angel” (Acts 6:15)—bore his testimony and laid down his life. All that heaven itself could give was bestowed. “What could have been done more to My vineyard,” Christ said, “that I have not done in it?” Isaiah 5:4. So His care and labor for you are not lessened, but increased. Still He says, “I the Lord do keep it; I will water it every moment; lest any hurt it, I will keep it night and day.” Isaiah 27:3.
+
+“If it bear fruit, well; and if not, then after that”—
+
+The heart that does not respond to divine agencies becomes hardened until it is no longer susceptible to the influence of the Holy Spirit. Then it is that the word is spoken, “Cut it down; why cumbereth it the ground?”
+
+Today He invites you: “O Israel, return unto the Lord thy God.... I will heal their backsliding, I will love them freely.... I will be as the dew unto Israel; he shall grow as the lily, and cast forth his roots as Lebanon.... They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine.... From Me is thy fruit found.” Hosea 14:1-8.
