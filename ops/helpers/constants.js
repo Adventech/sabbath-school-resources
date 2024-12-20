@@ -35,6 +35,11 @@ export const RESOURCE_KIND = {
     BLOG: "blog",
     MAGAZINE: "magazine",
 }
+export const RESOURCE_PROGRESS_TRACKING = {
+    NONE: "none",
+    AUTOMATIC: "automatic",
+    MANUAL: "manual",
+}
 export const RESOURCE_ORDER = {
     ASC: "asc",
     DESC: "desc",

@@ -32,7 +32,7 @@ import {
     RESOURCE_AUDIO_FILENAME,
     RESOURCE_VIDEO_FILENAME,
     RESOURCE_PDF_FILENAME,
-    RESOURCE_COVER_PLACEHOLDER
+    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING
 } from "../helpers/constants.js"
 
 let getResourceInfo = async function (resource, depth = 0) {
@@ -60,6 +60,14 @@ let getResourceInfo = async function (resource, depth = 0) {
     if (resourceInfo.end_date) {
         resourceInfo.endDate = resourceInfo.end_date
         delete resourceInfo.end_date
+    }
+
+    if (!resourceInfo.progressTracking && (resourceInfo.kind === RESOURCE_KIND.DEVOTIONAL || resourceInfo.kind === RESOURCE_KIND.PLAN)) {
+        resourceInfo.progressTracking =
+            resourceInfo.startDate && resourceInfo.endDate
+                ? RESOURCE_PROGRESS_TRACKING.AUTOMATIC
+                : RESOURCE_PROGRESS_TRACKING.MANUAL
+        resourceInfo.displayProgress = true
     }
 
     if (resourceInfo.splash) {
