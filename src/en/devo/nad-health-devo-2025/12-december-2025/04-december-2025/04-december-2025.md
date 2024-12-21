@@ -1,6 +1,6 @@
 ---
 title: Teach Them to Love My Sabbath
-date: 12/04/2025
+date: 04/12/2025
 ---
 
 _Jacalyn Nosek_

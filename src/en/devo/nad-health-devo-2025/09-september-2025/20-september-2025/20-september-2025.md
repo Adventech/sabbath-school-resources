@@ -1,6 +1,6 @@
 ---
 title: God's Orange Juice and Bread
-date: 09/20/2025
+date: 20/09/2025
 ---
 
 _Caris H. Lauda_

@@ -1,6 +1,6 @@
 ---
 title: His Eye Is on the Sparrow
-date: 10/25/2025
+date: 25/10/2025
 ---
 
 _Elmar P. Sakala_

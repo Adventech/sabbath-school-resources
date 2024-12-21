@@ -1,6 +1,6 @@
 ---
 title: The Author and Finisher
-date: 12/01/2025
+date: 01/12/2025
 ---
 
 _Claudio Consuegra, DMin_

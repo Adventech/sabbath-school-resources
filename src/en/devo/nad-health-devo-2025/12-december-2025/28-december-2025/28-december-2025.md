@@ -1,6 +1,6 @@
 ---
 title: Born for Such a Time as This
-date: 12/28/2025
+date: 28/12/2025
 ---
 
 _Pat Nordman_

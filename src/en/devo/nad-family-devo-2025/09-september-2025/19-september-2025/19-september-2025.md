@@ -1,6 +1,6 @@
 ---
 title: Change Is Good!
-date: 09/19/2025
+date: 19/09/2025
 ---
 
 _Claudio Consuegra, DMin_

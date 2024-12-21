@@ -1,6 +1,6 @@
 ---
 title: Was I Going to Die?
-date: 12/14/2025
+date: 14/12/2025
 ---
 
 _Jill Kennedy_

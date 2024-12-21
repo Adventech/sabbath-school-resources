@@ -1,6 +1,6 @@
 ---
 title: A Little Laughter
-date: 09/25/2025
+date: 25/09/2025
 ---
 
 _Caroline Watkins_

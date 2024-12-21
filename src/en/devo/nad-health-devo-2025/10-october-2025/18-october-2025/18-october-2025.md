@@ -1,6 +1,6 @@
 ---
 title: The Lamp of the Body
-date: 10/18/2025
+date: 18/10/2025
 ---
 
 _Izak Wessels_

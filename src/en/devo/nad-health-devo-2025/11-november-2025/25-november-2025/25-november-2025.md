@@ -1,6 +1,6 @@
 ---
 title: Prayer's Power Over Addiction
-date: 11/25/2025
+date: 25/11/2025
 ---
 
 _Dawna Sawatzky_

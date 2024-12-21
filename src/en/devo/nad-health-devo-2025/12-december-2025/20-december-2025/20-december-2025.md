@@ -1,6 +1,6 @@
 ---
 title: Sugar in the Morning . . .
-date: 12/20/2025
+date: 20/12/2025
 ---
 
 _Jan W. Kuzma_

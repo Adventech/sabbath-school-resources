@@ -1,6 +1,6 @@
 ---
 title: Unmasking the Dangers of Tobacco
-date: 10/17/2025
+date: 17/10/2025
 ---
 
 _Lincoln Steed_

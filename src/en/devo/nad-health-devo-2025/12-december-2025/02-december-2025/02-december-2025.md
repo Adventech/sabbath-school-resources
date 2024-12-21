@@ -1,6 +1,6 @@
 ---
 title: Cleaning Up My Kitchen
-date: 12/02/2025
+date: 02/12/2025
 ---
 
 _Jane Sines_

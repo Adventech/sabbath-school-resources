@@ -1,6 +1,6 @@
 ---
 title: Gathered before God
-date: 02/01/2025
+date: 01/02/2025
 ---
 
 _Claudio Consuegra, DMin_

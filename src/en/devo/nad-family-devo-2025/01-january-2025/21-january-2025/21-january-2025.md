@@ -1,6 +1,6 @@
 ---
 title: Talk About Miracles!
-date: 01/21/2025
+date: 21/01/2025
 ---
 
 _Claudio Consuegra, DMin_

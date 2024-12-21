@@ -1,6 +1,6 @@
 ---
 title: Honor, and Obey?
-date: 02/26/2025
+date: 26/02/2025
 ---
 
 _Claudio Consuegra, DMin_

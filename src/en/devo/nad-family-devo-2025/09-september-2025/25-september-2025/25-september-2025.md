@@ -1,6 +1,6 @@
 ---
 title: Just Say No
-date: 09/25/2025
+date: 25/09/2025
 ---
 
 _Pamela Consuegra, PhD_

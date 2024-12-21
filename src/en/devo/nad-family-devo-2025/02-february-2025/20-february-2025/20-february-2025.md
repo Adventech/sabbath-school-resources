@@ -1,6 +1,6 @@
 ---
 title: The Courage of a Woman
-date: 02/20/2025
+date: 20/02/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: Serious About Marriage
-date: 01/28/2025
+date: 28/01/2025
 ---
 
 _Claudio Consuegra, DMin_

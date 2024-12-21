@@ -1,6 +1,6 @@
 ---
 title: The Joy of the Lord
-date: 09/27/2025
+date: 27/09/2025
 ---
 
 _Claudio Consuegra, DMin_

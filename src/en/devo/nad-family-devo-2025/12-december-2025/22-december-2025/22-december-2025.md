@@ -1,6 +1,6 @@
 ---
 title: Reading Scripture From Childhood
-date: 12/22/2025
+date: 22/12/2025
 ---
 
 Pamela Consuegra, PhD

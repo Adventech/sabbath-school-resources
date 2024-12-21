@@ -1,6 +1,6 @@
 ---
 title: The Father's Heart
-date: 01/19/2025
+date: 19/01/2025
 ---
 
 _Claudio Consuegra, DMin_

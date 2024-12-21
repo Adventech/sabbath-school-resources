@@ -1,6 +1,6 @@
 ---
 title: Capabilities
-date: 12/26/2025
+date: 26/12/2025
 ---
 
 _Linda Bell_

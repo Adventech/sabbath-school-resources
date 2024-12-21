@@ -1,6 +1,6 @@
 ---
 title: What's the Scoop on Salt?
-date: 10/20/2025
+date: 20/10/2025
 ---
 
 _Jan W. Kuzma_

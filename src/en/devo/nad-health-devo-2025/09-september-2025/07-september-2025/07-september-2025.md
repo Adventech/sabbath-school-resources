@@ -1,6 +1,6 @@
 ---
 title: "Class Reunion: Looking Good and Feeling Great"
-date: 09/07/2025
+date: 07/09/2025
 ---
 
 _Vivian Raitz_

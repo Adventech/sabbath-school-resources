@@ -1,6 +1,6 @@
 ---
 title: Your Children's Faith
-date: 10/16/2025
+date: 16/10/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: The Royal Water Cure
-date: 11/10/2025
+date: 10/11/2025
 ---
 
 _Raymond and Dorothy Moore_

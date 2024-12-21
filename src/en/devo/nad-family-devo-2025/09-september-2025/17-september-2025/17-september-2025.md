@@ -1,6 +1,6 @@
 ---
 title: Change Your Mind!
-date: 09/17/2025
+date: 17/09/2025
 ---
 
 _Claudio Consuegra, DMin_

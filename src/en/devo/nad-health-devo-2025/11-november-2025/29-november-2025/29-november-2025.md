@@ -1,6 +1,6 @@
 ---
 title: The Gift of a Disability
-date: 11/29/2025
+date: 29/11/2025
 ---
 
 _Kay Kuzma_

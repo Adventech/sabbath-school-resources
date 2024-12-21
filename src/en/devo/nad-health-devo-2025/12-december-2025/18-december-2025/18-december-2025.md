@@ -1,6 +1,6 @@
 ---
 title: Spiritual Glaucoma
-date: 12/18/2025
+date: 18/12/2025
 ---
 
 _Izak Wessels_

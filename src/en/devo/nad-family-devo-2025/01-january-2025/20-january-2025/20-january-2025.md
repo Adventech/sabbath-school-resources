@@ -1,6 +1,6 @@
 ---
 title: Teach Problem Solving
-date: 01/20/2025
+date: 20/01/2025
 ---
 
 _Claudio Consuegra, DMin_

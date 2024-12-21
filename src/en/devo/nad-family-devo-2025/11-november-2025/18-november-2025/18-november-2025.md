@@ -1,6 +1,6 @@
 ---
 title: House Dedication
-date: 11/18/2025
+date: 18/11/2025
 ---
 
 _Claudio Consuegra, DMin_

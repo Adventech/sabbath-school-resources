@@ -1,6 +1,6 @@
 ---
 title: When Nothing Is Everything
-date: 12/19/2025
+date: 19/12/2025
 ---
 
 _David Beardsley_

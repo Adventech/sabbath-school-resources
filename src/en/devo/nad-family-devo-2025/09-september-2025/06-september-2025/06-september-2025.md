@@ -1,6 +1,6 @@
 ---
 title: Changing You from the Inside Out
-date: 09/06/2025
+date: 06/09/2025
 ---
 
 _Claudio Consuegra, DMin_

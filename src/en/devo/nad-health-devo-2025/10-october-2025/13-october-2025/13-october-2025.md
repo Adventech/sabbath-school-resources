@@ -1,6 +1,6 @@
 ---
 title: Get Rid of Headache Pain
-date: 10/13/2025
+date: 13/10/2025
 ---
 
 _Betty Pierson and Kay Kuzma_

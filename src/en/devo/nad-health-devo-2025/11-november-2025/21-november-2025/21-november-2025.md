@@ -1,6 +1,6 @@
 ---
 title: "Close the Door, But Not So Hard"
-date: 11/21/2025
+date: 21/11/2025
 ---
 
 _Winona Eichner_

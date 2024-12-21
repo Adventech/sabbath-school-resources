@@ -1,6 +1,6 @@
 ---
 title: I Love You, My Child
-date: 10/03/2025
+date: 03/10/2025
 ---
 
 _Claudio Consuegra, DMin_

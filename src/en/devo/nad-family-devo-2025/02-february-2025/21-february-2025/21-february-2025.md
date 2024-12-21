@@ -1,6 +1,6 @@
 ---
 title: The Sword of the Lord
-date: 02/21/2025
+date: 21/02/2025
 ---
 
 _Claudio Consuegra, DMin_

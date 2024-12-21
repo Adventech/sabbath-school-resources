@@ -1,6 +1,6 @@
 ---
 title: A Good Account
-date: 02/11/2025
+date: 11/02/2025
 ---
 
 _Claudio Consuegra, DMin_

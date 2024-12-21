@@ -1,6 +1,6 @@
 ---
 title: Each Child Is Unique
-date: 09/26/2025
+date: 26/09/2025
 ---
 
 _Pamela Consuegra, PhD_

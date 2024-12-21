@@ -1,6 +1,6 @@
 ---
 title: Glory in Tribulation?
-date: 09/28/2025
+date: 28/09/2025
 ---
 
 Pamela Consuegra, PhD

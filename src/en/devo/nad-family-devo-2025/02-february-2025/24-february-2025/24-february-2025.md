@@ -1,6 +1,6 @@
 ---
 title: Listen to your Parents
-date: 02/24/2025
+date: 24/02/2025
 ---
 
 _Claudio Consuegra, DMin_

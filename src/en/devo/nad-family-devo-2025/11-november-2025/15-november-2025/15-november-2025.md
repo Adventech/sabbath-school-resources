@@ -1,6 +1,6 @@
 ---
 title: What My Dad Gave Me
-date: 11/15/2025
+date: 15/11/2025
 ---
 
 _Kay Kuzma_

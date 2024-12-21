@@ -1,6 +1,6 @@
 ---
 title: Put Mercy Before Judgment
-date: 09/12/2025
+date: 12/09/2025
 ---
 
 _Kay Kuzma_

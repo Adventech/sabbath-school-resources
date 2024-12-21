@@ -1,6 +1,6 @@
 ---
 title: By the Blood of the Lamb
-date: 01/12/2025
+date: 12/01/2025
 ---
 
 _Jean Marie Hametz_

@@ -1,6 +1,6 @@
 ---
 title: Are You a Ten-talent Cook?
-date: 11/21/2025
+date: 21/11/2025
 ---
 
 _Ellen G. White_

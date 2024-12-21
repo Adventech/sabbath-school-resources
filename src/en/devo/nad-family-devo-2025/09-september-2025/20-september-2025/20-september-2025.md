@@ -1,6 +1,6 @@
 ---
 title: Be Willing to the End
-date: 09/20/2025
+date: 20/09/2025
 ---
 
 _Claudio Consuegra, DMin_

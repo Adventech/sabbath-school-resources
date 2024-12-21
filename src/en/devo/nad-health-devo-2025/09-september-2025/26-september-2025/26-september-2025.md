@@ -1,6 +1,6 @@
 ---
 title: Are You Dying of Thirst?
-date: 09/26/2025
+date: 26/09/2025
 ---
 
 _Jan W. Kuzma_

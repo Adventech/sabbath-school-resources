@@ -1,6 +1,6 @@
 ---
 title: Don't Do Like Everybody Else Does
-date: 09/30/2025
+date: 30/09/2025
 ---
 
 _Claudio Consuegra, DMin_

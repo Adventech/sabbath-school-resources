@@ -1,6 +1,6 @@
 ---
 title: I Was Hungry and Thirsty
-date: 10/14/2025
+date: 14/10/2025
 ---
 
 _Therese L. Allen_

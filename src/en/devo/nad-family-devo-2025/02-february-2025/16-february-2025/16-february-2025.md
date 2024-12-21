@@ -1,6 +1,6 @@
 ---
 title: The First Mission Field
-date: 02/16/2025
+date: 16/02/2025
 ---
 
 _Claudio Consuegra, DMin_

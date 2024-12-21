@@ -1,6 +1,6 @@
 ---
 title: Boundaries
-date: 12/07/2025
+date: 07/12/2025
 ---
 
 _Paul and Carol Cannon_

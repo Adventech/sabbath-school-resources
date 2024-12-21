@@ -1,6 +1,6 @@
 ---
 title: Unclogging the Brain
-date: 11/15/2025
+date: 15/11/2025
 ---
 
 _Kari St. Clair_

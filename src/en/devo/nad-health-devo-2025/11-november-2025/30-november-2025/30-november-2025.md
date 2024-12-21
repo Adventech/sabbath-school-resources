@@ -1,6 +1,6 @@
 ---
 title: A Remedy for Guilt
-date: 11/30/2025
+date: 30/11/2025
 ---
 
 _Lois (Rittenhouse) Pecce_

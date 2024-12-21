@@ -1,6 +1,6 @@
 ---
 title: Nurturing Relationships
-date: 09/02/2025
+date: 02/09/2025
 ---
 
 _Ted Hamilton_

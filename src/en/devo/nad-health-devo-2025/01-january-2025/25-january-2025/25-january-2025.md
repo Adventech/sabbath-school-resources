@@ -1,6 +1,6 @@
 ---
 title: God's Gift of Time
-date: 01/25/2025
+date: 25/01/2025
 ---
 
 _Jan W. Kuzma and Cicil Murphey_

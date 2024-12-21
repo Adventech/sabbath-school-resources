@@ -1,6 +1,6 @@
 ---
 title: Leprosy of the Character
-date: 10/28/2025
+date: 28/10/2025
 ---
 
 _David Grellmann_

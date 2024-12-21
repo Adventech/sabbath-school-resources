@@ -1,6 +1,6 @@
 ---
 title: Jesus Can Heal Attitude Problems
-date: 02/20/2025
+date: 20/02/2025
 ---
 
 _Blondel E. Senior_

@@ -1,6 +1,6 @@
 ---
 title: Letting Go
-date: 01/10/2025
+date: 10/01/2025
 ---
 
 _Pam Vredevelt_

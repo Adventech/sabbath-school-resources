@@ -1,6 +1,6 @@
 ---
 title: Precious in His Sight
-date: 10/05/2025
+date: 05/10/2025
 ---
 
 _Blondel E. Senior_

@@ -1,6 +1,6 @@
 ---
 title: Give Your "Maw" to Jesus
-date: 10/01/2025
+date: 01/10/2025
 ---
 
 _Dane J. Griffin_

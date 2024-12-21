@@ -1,6 +1,6 @@
 ---
 title: Praise God for the Hope of Renewed Youth
-date: 02/18/2025
+date: 18/02/2025
 ---
 
 _Larry Richardson_

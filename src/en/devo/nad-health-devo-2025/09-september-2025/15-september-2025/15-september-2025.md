@@ -1,6 +1,6 @@
 ---
 title: Opening the Floodgates of Heaven
-date: 09/15/2025
+date: 15/09/2025
 ---
 
 _Jeffrey K. Wilson_

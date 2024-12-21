@@ -1,6 +1,6 @@
 ---
 title: He Understands!
-date: 12/05/2025
+date: 05/12/2025
 ---
 
 _Claudio Consuegra, DMin_

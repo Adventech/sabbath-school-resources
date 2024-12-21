@@ -1,6 +1,6 @@
 ---
 title: A Vow to God
-date: 01/16/2025
+date: 16/01/2025
 ---
 
 _Claudio Consuegra, DMin_

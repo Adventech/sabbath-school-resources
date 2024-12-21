@@ -1,6 +1,6 @@
 ---
 title: Priest, but not God
-date: 12/23/2025
+date: 23/12/2025
 ---
 
 _Claudio Consuegra, DMin_

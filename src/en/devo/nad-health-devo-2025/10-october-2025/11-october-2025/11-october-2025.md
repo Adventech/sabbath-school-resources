@@ -1,6 +1,6 @@
 ---
 title: Do You Need a Heart Transplant?
-date: 10/11/2025
+date: 11/10/2025
 ---
 
 _Elmar P. Sakala and Leonard L. Bailey_

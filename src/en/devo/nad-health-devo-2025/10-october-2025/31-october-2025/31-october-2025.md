@@ -1,6 +1,6 @@
 ---
 title: The Illusion of "Wholistic" Health
-date: 10/31/2025
+date: 31/10/2025
 ---
 
 _Dawna Sawatzky_

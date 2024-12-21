@@ -1,6 +1,6 @@
 ---
 title: Too Much to Do - Too Little Time
-date: 10/12/2025
+date: 12/10/2025
 ---
 
 _Pamela Consuegra, PhD_

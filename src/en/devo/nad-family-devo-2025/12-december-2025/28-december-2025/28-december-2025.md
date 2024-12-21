@@ -1,6 +1,6 @@
 ---
 title: Ministry for All
-date: 12/28/2025
+date: 28/12/2025
 ---
 
 _Claudio Consuegra, DMin_

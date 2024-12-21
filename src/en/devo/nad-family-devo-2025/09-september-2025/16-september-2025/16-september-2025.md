@@ -1,6 +1,6 @@
 ---
 title: Clean Before a New Beginning
-date: 09/16/2025
+date: 16/09/2025
 ---
 
 _Claudio Consuegra, DMin_

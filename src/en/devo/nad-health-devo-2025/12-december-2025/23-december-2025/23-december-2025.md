@@ -1,6 +1,6 @@
 ---
 title: "When Words Cannot Express It, Music Can"
-date: 12/23/2025
+date: 23/12/2025
 ---
 
 _Carlos Pardeiro_

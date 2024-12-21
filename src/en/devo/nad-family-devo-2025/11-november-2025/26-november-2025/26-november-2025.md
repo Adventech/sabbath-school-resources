@@ -1,6 +1,6 @@
 ---
 title: The Magic Moment of Christmas
-date: 11/26/2025
+date: 26/11/2025
 ---
 
 _Kay Kuzma_

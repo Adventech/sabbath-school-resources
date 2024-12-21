@@ -1,6 +1,6 @@
 ---
 title: "Sex, Twentieth-Century Style"
-date: 02/24/2025
+date: 24/02/2025
 ---
 
 _Walter Thompson_

@@ -1,6 +1,6 @@
 ---
 title: Prayer Is the Breath of the Soul
-date: 01/04/2025
+date: 04/01/2025
 ---
 
 _Elmar P. Sakala_

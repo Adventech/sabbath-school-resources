@@ -1,6 +1,6 @@
 ---
 title: Like Minded
-date: 10/02/2025
+date: 02/10/2025
 ---
 
 _Pamela Consuegra, PhD_

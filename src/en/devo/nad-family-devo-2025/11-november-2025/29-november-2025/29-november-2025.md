@@ -1,6 +1,6 @@
 ---
 title: True Love
-date: 11/29/2025
+date: 29/11/2025
 ---
 
 _Claudio Consuegra, DMin_

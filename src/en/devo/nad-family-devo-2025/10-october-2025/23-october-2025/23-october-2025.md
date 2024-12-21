@@ -1,6 +1,6 @@
 ---
 title: Love Covers All
-date: 10/23/2025
+date: 23/10/2025
 ---
 
 _Claudio Consuegra, DMin_

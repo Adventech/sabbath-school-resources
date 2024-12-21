@@ -1,6 +1,6 @@
 ---
 title: Camping with the Family
-date: 10/28/2025
+date: 28/10/2025
 ---
 
 _Claudio Consuegra, DMin_

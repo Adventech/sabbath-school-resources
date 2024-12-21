@@ -1,6 +1,6 @@
 ---
 title: Spiritual Hygiene
-date: 01/29/2025
+date: 29/01/2025
 ---
 
 _Larry Richardson_

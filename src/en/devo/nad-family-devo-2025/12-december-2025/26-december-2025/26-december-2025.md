@@ -1,6 +1,6 @@
 ---
 title: He Can Hold It Together
-date: 12/26/2025
+date: 26/12/2025
 ---
 
 _Claudio Consuegra, DMin_

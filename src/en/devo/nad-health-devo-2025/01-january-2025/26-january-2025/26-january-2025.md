@@ -1,6 +1,6 @@
 ---
 title: Believing the Laws of Nature
-date: 01/26/2025
+date: 26/01/2025
 ---
 
 _Dawna Sawatzky_

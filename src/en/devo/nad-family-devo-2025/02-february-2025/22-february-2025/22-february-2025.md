@@ -1,6 +1,6 @@
 ---
 title: The Price of Power
-date: 02/22/2025
+date: 22/02/2025
 ---
 
 _Claudio Consuegra, DMin_

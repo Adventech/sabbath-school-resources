@@ -1,6 +1,6 @@
 ---
 title: Getting Into Biblical Shape
-date: 02/05/2025
+date: 05/02/2025
 ---
 
 _Nancy Newball_

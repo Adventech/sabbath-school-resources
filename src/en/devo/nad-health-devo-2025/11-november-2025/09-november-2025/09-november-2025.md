@@ -1,6 +1,6 @@
 ---
 title: Avoiding the Yo-yo Effect of Diet
-date: 11/09/2025
+date: 09/11/2025
 ---
 
 _Jan W. and Kay Kuzma_

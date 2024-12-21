@@ -1,6 +1,6 @@
 ---
 title: The Twenty-third Channel
-date: 10/16/2025
+date: 16/10/2025
 ---
 
 _Kay Kuzma_

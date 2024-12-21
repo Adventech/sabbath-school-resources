@@ -1,6 +1,6 @@
 ---
 title: All Things New
-date: 10/20/2025
+date: 20/10/2025
 ---
 
 _Pamela Consuegra, PhD_

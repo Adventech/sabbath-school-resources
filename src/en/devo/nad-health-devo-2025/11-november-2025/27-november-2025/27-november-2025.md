@@ -1,6 +1,6 @@
 ---
 title: Giving Glory to God
-date: 11/27/2025
+date: 27/11/2025
 ---
 
 _Betty H. Hoehn_

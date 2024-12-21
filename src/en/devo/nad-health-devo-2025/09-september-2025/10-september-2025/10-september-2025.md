@@ -1,6 +1,6 @@
 ---
 title: Stop and Smell the Roses
-date: 09/10/2025
+date: 10/09/2025
 ---
 
 _Nancy Hadaway_

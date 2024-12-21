@@ -1,6 +1,6 @@
 ---
 title: "The Holy Spirit's Heimlich Maneuver"
-date: 02/21/2025
+date: 21/02/2025
 ---
 
 _Kay Kuzma_

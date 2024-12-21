@@ -1,6 +1,6 @@
 ---
 title: Battling Busyness
-date: 10/30/2025
+date: 30/10/2025
 ---
 
 _DeWitt S. Williams_

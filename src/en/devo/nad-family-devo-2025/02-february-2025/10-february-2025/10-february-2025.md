@@ -1,6 +1,6 @@
 ---
 title: Troubled, But Not Alone
-date: 02/10/2025
+date: 10/02/2025
 ---
 
 _Claudio Consuegra, DMin_

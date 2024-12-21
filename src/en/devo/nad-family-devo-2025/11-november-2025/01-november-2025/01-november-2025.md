@@ -1,6 +1,6 @@
 ---
 title: Jesus Loved Them
-date: 11/01/2025
+date: 01/11/2025
 ---
 
 _Claudio Consuegra, DMin_

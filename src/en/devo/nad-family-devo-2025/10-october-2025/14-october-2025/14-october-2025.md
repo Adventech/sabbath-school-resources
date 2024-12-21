@@ -1,6 +1,6 @@
 ---
 title: Treat Kindly
-date: 10/14/2025
+date: 14/10/2025
 ---
 
 _Claudio Consuegra, DMin_

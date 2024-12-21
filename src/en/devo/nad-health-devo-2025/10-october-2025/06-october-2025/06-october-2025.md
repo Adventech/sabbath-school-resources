@@ -1,6 +1,6 @@
 ---
 title: Healing the Brokenhearted
-date: 10/06/2025
+date: 06/10/2025
 ---
 
 _Pat Nordman_

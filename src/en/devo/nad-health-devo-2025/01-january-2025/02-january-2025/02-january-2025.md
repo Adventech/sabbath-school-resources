@@ -1,6 +1,6 @@
 ---
 title: Aspire
-date: 01/02/2025
+date: 02/01/2025
 ---
 
 _Jan W. and Kay Kuzma_

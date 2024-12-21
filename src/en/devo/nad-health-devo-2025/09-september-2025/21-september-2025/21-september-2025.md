@@ -1,6 +1,6 @@
 ---
 title: Is it Time for New Shoes?
-date: 09/21/2025
+date: 21/09/2025
 ---
 
 _Kay Kuzma_

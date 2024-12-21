@@ -1,6 +1,6 @@
 ---
 title: Reach Out and Touch Someone Through Prayer
-date: 11/01/2025
+date: 01/11/2025
 ---
 
 _Dianne Affolter_

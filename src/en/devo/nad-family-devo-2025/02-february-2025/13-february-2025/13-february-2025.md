@@ -1,6 +1,6 @@
 ---
 title: Giving and Having
-date: 02/13/2025
+date: 13/02/2025
 ---
 
 _Claudio Consuegra, DMin_

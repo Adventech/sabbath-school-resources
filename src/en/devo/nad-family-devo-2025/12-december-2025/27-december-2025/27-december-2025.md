@@ -1,6 +1,6 @@
 ---
 title: Self-Confidence may Be Dangerous
-date: 12/27/2025
+date: 27/12/2025
 ---
 
 _Claudio Consuegra, DMin_

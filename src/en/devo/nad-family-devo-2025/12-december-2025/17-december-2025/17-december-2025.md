@@ -1,6 +1,6 @@
 ---
 title: A Gradual Change
-date: 12/17/2025
+date: 17/12/2025
 ---
 
 _Claudio Consuegra, DMin_

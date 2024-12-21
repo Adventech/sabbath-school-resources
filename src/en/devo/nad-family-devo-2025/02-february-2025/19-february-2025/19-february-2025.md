@@ -1,6 +1,6 @@
 ---
 title: Children Struggle
-date: 02/19/2025
+date: 19/02/2025
 ---
 
 _Claudio Consuegra, DMin_

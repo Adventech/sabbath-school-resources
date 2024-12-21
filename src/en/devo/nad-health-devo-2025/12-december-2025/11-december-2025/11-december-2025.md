@@ -1,6 +1,6 @@
 ---
 title: Avoid HALT
-date: 12/11/2025
+date: 11/12/2025
 ---
 
 _Pat B. Mutch_

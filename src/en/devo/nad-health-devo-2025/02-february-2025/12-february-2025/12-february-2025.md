@@ -1,6 +1,6 @@
 ---
 title: Don't Let the Demons Return
-date: 02/12/2025
+date: 12/02/2025
 ---
 
 _Nancy Rockey_

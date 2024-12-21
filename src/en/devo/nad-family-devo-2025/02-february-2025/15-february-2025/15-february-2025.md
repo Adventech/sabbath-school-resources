@@ -1,6 +1,6 @@
 ---
 title: Help for those who need it
-date: 02/15/2025
+date: 15/02/2025
 ---
 
 _Claudio Consuegra, DMin_

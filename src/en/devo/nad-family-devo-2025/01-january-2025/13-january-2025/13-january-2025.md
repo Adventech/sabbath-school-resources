@@ -1,6 +1,6 @@
 ---
 title: Move On
-date: 01/13/2025
+date: 13/01/2025
 ---
 
 _Claudio Consuegra, DMin_

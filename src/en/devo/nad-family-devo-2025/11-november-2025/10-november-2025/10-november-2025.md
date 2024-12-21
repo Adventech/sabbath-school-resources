@@ -1,6 +1,6 @@
 ---
 title: God's Bonding Delight for Marriage
-date: 11/10/2025
+date: 10/11/2025
 ---
 
 _Alberta Mazat_

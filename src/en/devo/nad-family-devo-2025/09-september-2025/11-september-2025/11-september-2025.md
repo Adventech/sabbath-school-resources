@@ -1,6 +1,6 @@
 ---
 title: Wisdom is Better than Money
-date: 09/11/2025
+date: 11/09/2025
 ---
 
 _Claudio Consuegra, DMin_

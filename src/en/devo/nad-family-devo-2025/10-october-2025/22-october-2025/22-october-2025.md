@@ -1,6 +1,6 @@
 ---
 title: Finish what you Started
-date: 10/22/2025
+date: 22/10/2025
 ---
 
 _Claudio Consuegra, DMin_

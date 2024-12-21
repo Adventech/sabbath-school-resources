@@ -1,6 +1,6 @@
 ---
 title: There's No Better Time than Now!
-date: 09/18/2025
+date: 18/09/2025
 ---
 
 _Claudio Consuegra, DMin_

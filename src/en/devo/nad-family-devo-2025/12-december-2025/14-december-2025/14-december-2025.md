@@ -1,6 +1,6 @@
 ---
 title: Have Hope, Be Patient, and Pray
-date: 12/14/2025
+date: 14/12/2025
 ---
 
 _Claudio Consuegra, DMin_

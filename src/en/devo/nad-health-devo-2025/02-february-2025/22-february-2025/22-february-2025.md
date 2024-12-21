@@ -1,6 +1,6 @@
 ---
 title: My Search for Health
-date: 02/22/2025
+date: 22/02/2025
 ---
 
 _Dennis Blum_

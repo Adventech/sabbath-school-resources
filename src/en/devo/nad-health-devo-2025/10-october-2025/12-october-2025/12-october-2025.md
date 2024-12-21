@@ -1,6 +1,6 @@
 ---
 title: "A Little Louder, Please"
-date: 10/12/2025
+date: 12/10/2025
 ---
 
 _Henry C. Martin_

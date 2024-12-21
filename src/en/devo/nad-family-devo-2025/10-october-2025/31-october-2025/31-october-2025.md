@@ -1,6 +1,6 @@
 ---
 title: God Hates Divorce
-date: 10/31/2025
+date: 31/10/2025
 ---
 
 > <p>Scripture</p>

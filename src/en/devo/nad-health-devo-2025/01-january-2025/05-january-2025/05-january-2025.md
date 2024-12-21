@@ -1,6 +1,6 @@
 ---
 title: The Miracle Bean
-date: 01/05/2025
+date: 05/01/2025
 ---
 
 _Mark and Virginia Messina_

@@ -1,6 +1,6 @@
 ---
 title: Natural Pain Reduction
-date: 10/29/2025
+date: 29/10/2025
 ---
 
 _Vivian Raitz_

@@ -1,6 +1,6 @@
 ---
 title: Painful and Bitter
-date: 02/27/2025
+date: 27/02/2025
 ---
 
 _Claudio Consuegra, DMin_

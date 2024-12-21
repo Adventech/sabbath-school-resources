@@ -1,6 +1,6 @@
 ---
 title: Walking Helps the Heart
-date: 02/15/2025
+date: 15/02/2025
 ---
 
 _Bernell E. Baldwin_

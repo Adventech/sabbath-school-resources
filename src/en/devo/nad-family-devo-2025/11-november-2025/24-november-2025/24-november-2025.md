@@ -1,6 +1,6 @@
 ---
 title: "Traits of a Strong, Healthy Family"
-date: 11/24/2025
+date: 24/11/2025
 ---
 
 _Kay Kuzma_

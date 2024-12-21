@@ -1,6 +1,6 @@
 ---
 title: Tempering Your Temper
-date: 09/18/2025
+date: 18/09/2025
 ---
 
 _Cliff and Freddie Harris_

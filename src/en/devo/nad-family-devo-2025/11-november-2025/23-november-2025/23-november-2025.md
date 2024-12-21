@@ -1,6 +1,6 @@
 ---
 title: For Good?
-date: 11/23/2025
+date: 23/11/2025
 ---
 
 _Connie W. Nowlan_

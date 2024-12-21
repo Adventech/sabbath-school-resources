@@ -1,6 +1,6 @@
 ---
 title: A Lesson in Hope and Healing
-date: 11/06/2025
+date: 06/11/2025
 ---
 
 _Linda Willman Johnson_

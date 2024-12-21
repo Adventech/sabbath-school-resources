@@ -1,6 +1,6 @@
 ---
 title: Go Up and Die
-date: 02/03/2025
+date: 03/02/2025
 ---
 
 _Claudio Consuegra, DMin_

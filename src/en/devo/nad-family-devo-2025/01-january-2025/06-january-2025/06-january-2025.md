@@ -1,6 +1,6 @@
 ---
 title: The Most Painful Death
-date: 01/06/2025
+date: 06/01/2025
 ---
 
 _Claudio Consuegra, DMin_

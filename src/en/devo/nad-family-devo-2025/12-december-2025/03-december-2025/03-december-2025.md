@@ -1,6 +1,6 @@
 ---
 title: In Quietness and Confidence
-date: 12/03/2025
+date: 03/12/2025
 ---
 
 _Pamela Consuegra, PhD_

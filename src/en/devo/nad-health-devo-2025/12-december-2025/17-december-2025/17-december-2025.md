@@ -1,6 +1,6 @@
 ---
 title: Walking and "Togethering"
-date: 12/17/2025
+date: 17/12/2025
 ---
 
 _Dick Duerksen_

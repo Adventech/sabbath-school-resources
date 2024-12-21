@@ -1,6 +1,6 @@
 ---
 title: What Research Says About the Adventist Lifestyle
-date: 01/20/2025
+date: 20/01/2025
 ---
 
 _Jan W. Kuzma_

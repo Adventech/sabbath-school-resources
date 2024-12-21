@@ -1,6 +1,6 @@
 ---
 title: It Isn't Fair!
-date: 01/21/2025
+date: 21/01/2025
 ---
 
 _Norma J. McKellip_

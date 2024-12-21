@@ -1,6 +1,6 @@
 ---
 title: Conquest of Cholesterol
-date: 02/28/2025
+date: 28/02/2025
 ---
 
 _Raymond O. West_

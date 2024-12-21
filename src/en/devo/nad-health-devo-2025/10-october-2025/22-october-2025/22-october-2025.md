@@ -1,6 +1,6 @@
 ---
 title: Blood of the Overcomer
-date: 10/22/2025
+date: 22/10/2025
 ---
 
 _Tim Crosby_

@@ -1,6 +1,6 @@
 ---
 title: Keeping Your Love Cup Full
-date: 02/14/2025
+date: 14/02/2025
 ---
 
 _Kay Kuzma_

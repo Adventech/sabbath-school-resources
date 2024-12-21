@@ -1,6 +1,6 @@
 ---
 title: The Word to Everyone
-date: 02/06/2025
+date: 06/02/2025
 ---
 
 _Claudio Consuegra, DMin_

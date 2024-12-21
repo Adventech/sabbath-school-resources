@@ -1,6 +1,6 @@
 ---
 title: The Loving Parent
-date: 01/04/2025
+date: 04/01/2025
 ---
 
 _Claudio Consuegra, DMin_

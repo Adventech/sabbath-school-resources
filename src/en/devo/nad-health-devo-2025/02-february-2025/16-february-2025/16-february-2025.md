@@ -1,6 +1,6 @@
 ---
 title: Does Wine Protect the Heart?
-date: 02/16/2025
+date: 16/02/2025
 ---
 
 _Jan W. Kuzma_

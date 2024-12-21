@@ -1,4 +1,5 @@
 import { parseSegment } from "../blocks.js"
+import { paragraph } from "./index.js"
 
 export const question = {
     extension: {
@@ -22,12 +23,10 @@ export const question = {
         }
     },
     process: async function (block, resourcePath) {
-        let questionText = await parseSegment(block.text, resourcePath, block.id)
-        if (!questionText.length) {
-            questionText = [{markdown: block.text}]
-        }
-        let ret = { id: block.id, type: block.type, markdown: questionText[0].markdown ? `**${questionText[0].markdown}**` : '' }
-        if (questionText[0].data) { ret.data = questionText[0].data }
+        let questionText = await paragraph.process({ id: block.id, text: block.text}, resourcePath, 1)
+
+        let ret = { id: block.id, type: block.type, markdown: questionText.markdown ? `**${questionText.markdown}**` : '' }
+        if (questionText.data) { ret.data = questionText.data }
         return ret
     },
 }

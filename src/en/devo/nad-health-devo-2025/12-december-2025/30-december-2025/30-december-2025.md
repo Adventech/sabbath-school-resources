@@ -1,6 +1,6 @@
 ---
 title: Of Lightbulbs and Health
-date: 12/30/2025
+date: 30/12/2025
 ---
 
 _Hans Diehl_

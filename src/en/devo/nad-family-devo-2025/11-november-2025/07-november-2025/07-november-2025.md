@@ -1,6 +1,6 @@
 ---
 title: Don't Keep the Children Away from Jesus
-date: 11/07/2025
+date: 07/11/2025
 ---
 
 _Claudio Consuegra, DMin_

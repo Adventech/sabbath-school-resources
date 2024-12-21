@@ -1,6 +1,6 @@
 ---
 title: Like Our Intercessor
-date: 09/23/2025
+date: 23/09/2025
 ---
 
 _Claudio Consuegra, DMin_

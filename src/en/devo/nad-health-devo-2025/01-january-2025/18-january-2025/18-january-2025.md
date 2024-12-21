@@ -1,6 +1,6 @@
 ---
 title: Cure Worry With a Song
-date: 01/18/2025
+date: 18/01/2025
 ---
 
 _Jan W. and Kay Kuzma_

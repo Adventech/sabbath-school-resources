@@ -1,6 +1,6 @@
 ---
 title: Kristi
-date: 09/11/2025
+date: 11/09/2025
 ---
 
 _David and Carrie Grellmann_

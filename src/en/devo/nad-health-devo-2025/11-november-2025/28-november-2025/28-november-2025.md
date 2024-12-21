@@ -1,6 +1,6 @@
 ---
 title: Giving Up the Bulge
-date: 11/28/2025
+date: 28/11/2025
 ---
 
 _Raymond O. West_

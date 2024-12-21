@@ -1,6 +1,6 @@
 ---
 title: The Strong Family Building
-date: 01/12/2025
+date: 12/01/2025
 ---
 
 _Claudio Consuegra, DMin_

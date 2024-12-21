@@ -1,6 +1,6 @@
 ---
 title: The Dangers of Criticism
-date: 12/09/2025
+date: 09/12/2025
 ---
 
 _Claudio Consuegra, DMin_

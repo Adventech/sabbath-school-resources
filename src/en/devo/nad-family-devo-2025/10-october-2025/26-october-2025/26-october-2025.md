@@ -1,6 +1,6 @@
 ---
 title: When Marriage Gets Rocky
-date: 10/26/2025
+date: 26/10/2025
 ---
 
 _Nancy Rockey_

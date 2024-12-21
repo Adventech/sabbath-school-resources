@@ -1,6 +1,6 @@
 ---
 title: "Kids, Coke, and Caffeine"
-date: 10/08/2025
+date: 08/10/2025
 ---
 
 _Dick Duerksen_

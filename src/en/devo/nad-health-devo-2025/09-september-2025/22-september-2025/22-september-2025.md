@@ -1,6 +1,6 @@
 ---
 title: Alcohol Dulls the Mind
-date: 09/22/2025
+date: 22/09/2025
 ---
 
 _Crystal Whitten_

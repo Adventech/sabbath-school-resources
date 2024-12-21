@@ -1,6 +1,6 @@
 ---
 title: Midges and Camels
-date: 10/21/2025
+date: 21/10/2025
 ---
 
 _Pat B. Mutch_

@@ -1,6 +1,6 @@
 ---
 title: A Compatible Spouse
-date: 02/12/2025
+date: 12/02/2025
 ---
 
 _Claudio Consuegra, DMin_

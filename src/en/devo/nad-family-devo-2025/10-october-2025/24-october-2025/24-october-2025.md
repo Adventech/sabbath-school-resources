@@ -1,6 +1,6 @@
 ---
 title: Single Parenting Priorities
-date: 10/24/2025
+date: 24/10/2025
 ---
 
 _Claudio Consuegra, DMin_

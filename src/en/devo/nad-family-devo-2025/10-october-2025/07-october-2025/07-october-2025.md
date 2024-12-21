@@ -1,6 +1,6 @@
 ---
 title: Celebrate Together
-date: 10/07/2025
+date: 07/10/2025
 ---
 
 _Claudio Consuegra, DMin_

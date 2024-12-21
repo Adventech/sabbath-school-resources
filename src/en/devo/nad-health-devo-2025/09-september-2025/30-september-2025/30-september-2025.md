@@ -1,6 +1,6 @@
 ---
 title: Holy Spirit Transmissions
-date: 09/30/2025
+date: 30/09/2025
 ---
 
 _Kay Kuzma_

@@ -1,6 +1,6 @@
 ---
 title: A Day in God's Dwelling Place
-date: 11/08/2025
+date: 08/11/2025
 ---
 
 _Niels-Erik and Demetra Andreasen_

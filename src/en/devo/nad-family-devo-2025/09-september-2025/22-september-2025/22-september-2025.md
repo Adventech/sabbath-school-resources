@@ -1,6 +1,6 @@
 ---
 title: Taming the Tongue
-date: 09/22/2025
+date: 22/09/2025
 ---
 
 _Pamela Consuegra, PhD_

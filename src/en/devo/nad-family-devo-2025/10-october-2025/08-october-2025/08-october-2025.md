@@ -1,6 +1,6 @@
 ---
 title: The Beam and the Speck of Marriage
-date: 10/08/2025
+date: 08/10/2025
 ---
 
 _Claudio Consuegra, DMin_

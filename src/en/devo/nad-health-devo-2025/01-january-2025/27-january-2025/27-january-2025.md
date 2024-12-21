@@ -1,6 +1,6 @@
 ---
 title: Screams in the Pillow
-date: 01/27/2025
+date: 27/01/2025
 ---
 
 _Homer Trecartin_

@@ -1,6 +1,6 @@
 ---
 title: The Gift and the Giver
-date: 11/26/2025
+date: 26/11/2025
 ---
 
 _Dan Matthews_

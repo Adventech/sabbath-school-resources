@@ -1,6 +1,6 @@
 ---
 title: The Health Benefits of Generosity
-date: 12/01/2025
+date: 01/12/2025
 ---
 
 _Jeffrey K. Wilson_

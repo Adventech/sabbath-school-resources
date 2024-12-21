@@ -1,6 +1,6 @@
 ---
 title: He is so Close!
-date: 12/18/2025
+date: 18/12/2025
 ---
 
 _Claudio Consuegra, DMin_

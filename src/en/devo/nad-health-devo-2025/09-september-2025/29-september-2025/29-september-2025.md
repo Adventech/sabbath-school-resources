@@ -1,6 +1,6 @@
 ---
 title: The Healing Power of Forgiveness
-date: 09/29/2025
+date: 29/09/2025
 ---
 
 _Dan Matthews_

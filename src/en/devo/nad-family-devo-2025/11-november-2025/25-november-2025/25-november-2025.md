@@ -1,6 +1,6 @@
 ---
 title: Journey with God
-date: 11/25/2025
+date: 25/11/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: First Things First
-date: 09/21/2025
+date: 21/09/2025
 ---
 
 _Pamela Consuegra, PhD_

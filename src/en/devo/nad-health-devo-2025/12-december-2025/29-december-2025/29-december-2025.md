@@ -1,6 +1,6 @@
 ---
 title: Tools for Life
-date: 12/29/2025
+date: 29/12/2025
 ---
 
 _Arlene Taylor_

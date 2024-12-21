@@ -1,6 +1,6 @@
 ---
 title: Promises-Promises
-date: 12/31/2025
+date: 31/12/2025
 ---
 
 _Larry Richardson_

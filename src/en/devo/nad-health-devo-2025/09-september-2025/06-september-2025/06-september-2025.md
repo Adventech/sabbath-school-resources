@@ -1,6 +1,6 @@
 ---
 title: Growing Closer to Heaven
-date: 09/06/2025
+date: 06/09/2025
 ---
 
 _Kay Kuzma_

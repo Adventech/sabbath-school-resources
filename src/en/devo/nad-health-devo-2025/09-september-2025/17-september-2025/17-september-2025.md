@@ -1,6 +1,6 @@
 ---
 title: Operation Planet Earth
-date: 09/17/2025
+date: 17/09/2025
 ---
 
 _Walter Thompson_

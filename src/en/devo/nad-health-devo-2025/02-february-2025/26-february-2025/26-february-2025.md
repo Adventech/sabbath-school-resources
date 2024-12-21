@@ -1,6 +1,6 @@
 ---
 title: Not All Calories Are Equal
-date: 02/26/2025
+date: 26/02/2025
 ---
 
 _Jan W. Kuzma and Cecil W. Murphey_

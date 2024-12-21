@@ -1,6 +1,6 @@
 ---
 title: Cheer Up!
-date: 09/03/2025
+date: 03/09/2025
 ---
 
 _Claudio Consuegra, DMin_

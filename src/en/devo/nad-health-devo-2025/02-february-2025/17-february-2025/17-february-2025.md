@@ -1,6 +1,6 @@
 ---
 title: Daniel's Fast
-date: 02/17/2025
+date: 17/02/2025
 ---
 
 _Olive Blumenshein_

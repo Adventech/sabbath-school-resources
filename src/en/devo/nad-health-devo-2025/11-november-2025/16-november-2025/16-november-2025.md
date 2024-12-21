@@ -1,6 +1,6 @@
 ---
 title: The Light of the World
-date: 11/16/2025
+date: 16/11/2025
 ---
 
 _Walter Thompson_

@@ -1,6 +1,6 @@
 ---
 title: Too Fit to Quit
-date: 01/15/2025
+date: 15/01/2025
 ---
 
 _Jan W. and Kay Kuzma_

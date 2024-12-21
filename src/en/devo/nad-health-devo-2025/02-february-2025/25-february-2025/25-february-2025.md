@@ -1,6 +1,6 @@
 ---
 title: Take an Internal Shower
-date: 02/25/2025
+date: 25/02/2025
 ---
 
 _Aileen Ludington_

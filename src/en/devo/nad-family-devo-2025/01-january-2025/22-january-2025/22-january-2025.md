@@ -1,6 +1,6 @@
 ---
 title: Selfless Love
-date: 01/22/2025
+date: 22/01/2025
 ---
 
 _Claudio Consuegra, DMin_

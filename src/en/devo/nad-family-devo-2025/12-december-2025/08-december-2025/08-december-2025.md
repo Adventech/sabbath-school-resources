@@ -1,6 +1,6 @@
 ---
 title: The Rest We Need
-date: 12/08/2025
+date: 08/12/2025
 ---
 
 _Claudio Consuegra, DMin_

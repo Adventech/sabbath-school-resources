@@ -1,6 +1,6 @@
 ---
 title: Spiritual Freedom
-date: 01/03/2025
+date: 03/01/2025
 ---
 
 _Dan Matthews_

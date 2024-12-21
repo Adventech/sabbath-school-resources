@@ -1,6 +1,6 @@
 ---
 title: Facing the Economic Giant
-date: 11/22/2025
+date: 22/11/2025
 ---
 
 _Claudio Consuegra, DMin_

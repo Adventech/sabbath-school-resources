@@ -1,6 +1,6 @@
 ---
 title: Diamonds at Christmas
-date: 12/22/2025
+date: 22/12/2025
 ---
 
 _Therese L. Allen_

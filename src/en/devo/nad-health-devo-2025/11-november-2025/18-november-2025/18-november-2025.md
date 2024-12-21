@@ -1,6 +1,6 @@
 ---
 title: Intolerance
-date: 11/18/2025
+date: 18/11/2025
 ---
 
 _David J. DeRose_

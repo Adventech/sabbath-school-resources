@@ -1,6 +1,6 @@
 ---
 title: Tap Into God's Water Supply
-date: 09/03/2025
+date: 03/09/2025
 ---
 
 _Nancy Newball_

@@ -1,6 +1,6 @@
 ---
 title: Mercy in the Family
-date: 01/10/2025
+date: 10/01/2025
 ---
 
 _Claudio Consuegra, DMin_

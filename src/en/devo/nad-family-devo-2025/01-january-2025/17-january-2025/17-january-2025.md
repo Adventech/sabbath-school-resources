@@ -1,6 +1,6 @@
 ---
 title: A Long Journey
-date: 01/17/2025
+date: 17/01/2025
 ---
 
 _Claudio Consuegra, DMin_

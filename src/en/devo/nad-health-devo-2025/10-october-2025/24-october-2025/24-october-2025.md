@@ -1,6 +1,6 @@
 ---
 title: You're Not a Grazing Machine
-date: 10/24/2025
+date: 24/10/2025
 ---
 
 _Jan W. Kuzma_

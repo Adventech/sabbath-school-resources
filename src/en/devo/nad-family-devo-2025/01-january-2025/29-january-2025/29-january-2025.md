@@ -1,6 +1,6 @@
 ---
 title: Nothing is Impossible
-date: 01/29/2025
+date: 29/01/2025
 ---
 
 _Claudio Consuegra, DMin_

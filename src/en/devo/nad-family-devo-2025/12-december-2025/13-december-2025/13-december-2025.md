@@ -1,6 +1,6 @@
 ---
 title: Energy to Serve
-date: 12/13/2025
+date: 13/12/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: God's Ideal for Males and Females
-date: 09/01/2025
+date: 01/09/2025
 ---
 
 _Alberta Mazat_

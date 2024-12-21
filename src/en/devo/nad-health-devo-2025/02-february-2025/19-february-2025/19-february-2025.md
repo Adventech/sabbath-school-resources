@@ -1,6 +1,6 @@
 ---
 title: Working Ourselves to Death
-date: 02/19/2025
+date: 19/02/2025
 ---
 
 _Paul and Carol Cannon_

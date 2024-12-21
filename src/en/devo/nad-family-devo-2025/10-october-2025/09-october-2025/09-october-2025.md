@@ -1,6 +1,6 @@
 ---
 title: God's Love for the Widowed
-date: 10/09/2025
+date: 09/10/2025
 ---
 
 _Claudio Consuegra, DMin_

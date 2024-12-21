@@ -1,6 +1,6 @@
 ---
 title: Dues for God's Health Insurance
-date: 02/07/2025
+date: 07/02/2025
 ---
 
 _Jan W. and Kay Kuzma_

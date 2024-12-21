@@ -41,7 +41,7 @@ God made the light, for you and me.\
 Who made the light you can see?\
 God made the light, for you and me.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3] God Made the Light, Wind, Water (verse 1: light) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3] God Made the Light, Wind, Water (verse 1: light) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[WIND]({"style":{"text":{"color": "#a65726"}}})**\
 Blow gently on your baby’s head. **Can you feel the wind? God made the wind and the air we can feel**.
@@ -53,7 +53,7 @@ God made the wind, for you and me.\
 Who made the wind you can hear?\
 God made the wind, for you and me.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3] God Made the Light, Wind, Water (verse 2: wind) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3] God Made the Light, Wind, Water (verse 2: wind) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[SKY]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **And God made the sky and the clouds up very high. Let’s reach up . . . for the sky!** Gently stretch your baby’s arms up.
@@ -71,7 +71,7 @@ God made the water, for you and me.\
 Who made the water you feel?\
 God made the water, for you and me.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3] God Made the Light, Wind, Water (verse 3: water) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3] God Made the Light, Wind, Water (verse 3: water) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[FLOWERS]({"style":{"text":{"color": "#a65726"}}})**\
 Show your baby a flower and say: **God made the flowers, the trees, and the soft grass. God saw that the world looked beautiful with pretty flowers. God was very happy!** Your baby can touch a real or artificial flower or hold it as you sing.
@@ -83,7 +83,7 @@ I am happy as can be\
 For pretty flow’rs that Jesus made for me.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3] “I Am Happy as Can Be” (flowers) {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #214. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3] “I Am Happy as Can Be” (flowers) {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #214. Used by permission."}
 
 **^[STARS]({"style":{"text":{"color": "#a65726"}}})**\
 Show your baby a felt star on a stick or picture of a star and say: **God made the little stars that “twinkle” in the sky when it’s nighttime. And God made the sun that we can see in the day**. You might want to turn off the lights and pretend to sleep, then turn on the lights and make a big circle with your arms or show a felt sun. **And God made the round moon and the stars for the night**. Pretend to sleep again. Give your baby the star to hold as you sing.
@@ -95,7 +95,7 @@ I am happy as can be,\
 For twinkling stars that Jesus made for me.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3] “I Am Happy as Can Be” (star) {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #214. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3] “I Am Happy as Can Be” (star) {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #214. Used by permission."}
 
 **^[BIRDS]({"style":{"text":{"color": "#a65726"}}})**\
 Make the sound of a bird (whistle). Say: Listen! **What is that sound? A bird! God filled the sky with flying birds singing happy songs**. Show a toy bird and make it fly.
@@ -111,7 +111,7 @@ God made fishy swim in the water,\
 Fishy, fishy, swishy swish!\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3] Fishy, Fishy {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #161. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3] Fishy, Fishy {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #161. Used by permission."}
 
 **^[ANIMALS]({"style":{"text":{"color": "#a65726"}}})**\
 Make the sound of an animal (for example, cat) and ask where the animal sound is coming from. Look under a box or in a bag to reveal a toy animal. Say: **God made the animals. He made big animals . . . and little animals.**
@@ -127,7 +127,7 @@ Here is an animal that I know . . .\
 \
 At the end of the song, make a different animal sound and show another toy animal. Say: **What other animals did God make? God made the dog (or another animal). Can you hear the dog bark? Woof, woof. God made the dog. God made the animals because He loves us**.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3] Animals {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #67. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3] Animals {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #67. Used by permission."}
 
 **^[SING AGAIN]({"style":{"text":{"color": "#a65726"}}})** ^[“Animals, Animals.”]({"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold"}}}) Add other animals and sing the song again as time and attention allows.
 
@@ -144,7 +144,7 @@ Someone special to Jesus;\
 I am ______, I am ______ .\
 I am special to Jesus.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3] Who Am I? {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #117. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3] Who Am I? {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #117. Used by permission."}
 
 **^[SABBATH]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **God created our world. On Day 7 God gave us a special day: the Sabbath. The Sabbath is a day to learn that Mommy loves you, that Daddy loves you, and that God loves you. The Sabbath is my favorite day!** Sing with a small instrument (bell or shaker) or clap your hands.
@@ -162,6 +162,6 @@ The Sabbath is my favorite day,\
 Thank You God for the Sabbath!\
 Thank You God for the Sabbath!
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3] The Sabbath {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3] The Sabbath {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 Say: **God made the Sabbath and everything in our world because He loves you, just as I love you.** Hug your baby and say a short prayer for God to lead and bless them as they grow.

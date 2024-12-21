@@ -2,14 +2,18 @@
   title: Alive in Jesus
   groups:
   - group: Babies
-    reverse: true
     resources:
-      - en-aij-*-bb*
+      - en-aij-2025-00-bb-pb
+      - en-aij-2025-00-bb-tg
+      - en-aij-2025-01-bb-pth
+      - en-aij-2025-02-bb-pth
+      - en-aij-2025-03-bb-pth
+      - en-aij-2025-04-bb-pth
   - group: Beginner
-    reverse: true
     view: folio
     resources:
-      - en-aij-*-bg*
+      - en-aij-*-bg
+      - en-aij-*-bg-tg
   - group: Training Videos
     view: tile
     reverse: true

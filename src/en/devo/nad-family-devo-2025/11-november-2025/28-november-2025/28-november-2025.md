@@ -1,6 +1,6 @@
 ---
 title: The Greatest Joy
-date: 11/28/2025
+date: 28/11/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: Use it or Lose It!
-date: 01/16/2025
+date: 16/01/2025
 ---
 
 _Bernell E. Baldwin_

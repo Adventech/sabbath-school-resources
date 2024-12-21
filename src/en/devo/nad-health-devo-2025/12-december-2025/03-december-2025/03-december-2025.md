@@ -1,6 +1,6 @@
 ---
 title: The Double Healing Effect
-date: 12/03/2025
+date: 03/12/2025
 ---
 
 _Antonio M. Rosario_

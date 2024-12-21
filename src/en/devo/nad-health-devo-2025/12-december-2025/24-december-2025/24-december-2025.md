@@ -1,6 +1,6 @@
 ---
 title: Homecoming
-date: 12/24/2025
+date: 24/12/2025
 ---
 
 _Kay Kuzma_

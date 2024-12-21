@@ -1,6 +1,6 @@
 ---
 title: The Art of Mourning
-date: 01/25/2025
+date: 25/01/2025
 ---
 
 _Claudio Consuegra, DMin_

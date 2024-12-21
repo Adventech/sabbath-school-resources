@@ -1,6 +1,6 @@
 ---
 title: The Blind Shall See
-date: 01/28/2025
+date: 28/01/2025
 ---
 
 _Stoy Proctor_

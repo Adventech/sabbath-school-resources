@@ -1,6 +1,6 @@
 ---
 title: Practice What You Preach
-date: 10/11/2025
+date: 11/10/2025
 ---
 
 _Pamela Consuegra, PhD_

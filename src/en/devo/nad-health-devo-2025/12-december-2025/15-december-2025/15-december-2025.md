@@ -1,6 +1,6 @@
 ---
 title: In My Most Embarrassing Moments
-date: 12/15/2025
+date: 15/12/2025
 ---
 
 _Carla Gober_

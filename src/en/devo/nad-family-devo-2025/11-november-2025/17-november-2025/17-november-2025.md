@@ -1,6 +1,6 @@
 ---
 title: Time--God's Great Gift
-date: 11/17/2025
+date: 17/11/2025
 ---
 
 _Connie W. Nowlan_

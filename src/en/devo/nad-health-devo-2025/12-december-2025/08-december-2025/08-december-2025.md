@@ -1,6 +1,6 @@
 ---
 title: The Fountain of Youth
-date: 12/08/2025
+date: 08/12/2025
 ---
 
 _Edwin H. Krick_

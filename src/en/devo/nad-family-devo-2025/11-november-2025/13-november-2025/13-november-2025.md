@@ -1,6 +1,6 @@
 ---
 title: Watch and Pray
-date: 11/13/2025
+date: 13/11/2025
 ---
 
 _Claudio Consuegra, DMin_

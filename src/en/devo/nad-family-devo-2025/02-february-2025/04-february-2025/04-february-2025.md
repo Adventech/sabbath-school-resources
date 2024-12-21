@@ -1,6 +1,6 @@
 ---
 title: The Spiritual Landmarks
-date: 02/04/2025
+date: 04/02/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: When to Retire
-date: 02/09/2025
+date: 09/02/2025
 ---
 
 _Claudio Consuegra, DMin_

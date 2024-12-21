@@ -1,6 +1,6 @@
 ---
 title: Invite Him to the Wedding. . . and to the Marriage
-date: 10/05/2025
+date: 05/10/2025
 ---
 
 _Claudio Consuegra, DMin_

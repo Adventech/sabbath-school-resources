@@ -44,7 +44,7 @@ Friend of God, friend of God.\
 Noah was a friend of God. He loved God.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3] Noah Was a Friend of God {"credits":[{"key":"Writer","value":"Adapted from 'London Bridge is Falling Down.'"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Music: public domain. Words: copyright © 2002 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-02-noah-was-a-friend-of-god.mp3] Noah Was a Friend of God {"credits":[{"key":"Writer","value":"Adapted from 'London Bridge is Falling Down.'"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Music: public domain. Words: copyright © 2002 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[WOOD-BOAT BUILDING]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Noah looked for trees and wood. Saw, saw, saw . . . he sawed the wood**. Make noise with a toy saw on blocks, bump two wooden blocks together softly. **Bam, bam, bam . . . he hammered the wood. Use a toy hammer on some wood**. (Be careful not to scare your baby with loud noises, so do these actions gently and softly to make your point.)
@@ -58,7 +58,7 @@ And knew that it would float.\
 Oh, Noah took a hammer,\
 And Noah took a saw.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3] Noah Took a Hammer {"credits":[{"key":"Writer","value":"Judy Vandeman"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 1985 Judy Vandeman. From Little Voices Praise Him, #269. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-03-noah-took-a-hammer.mp3] Noah Took a Hammer {"credits":[{"key":"Writer","value":"Judy Vandeman"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1985 Judy Vandeman. From Little Voices Praise Him, #269. Used by permission."}
 
 **^[BOAT]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Finally the boat (ark) was ready. It was a BIG boat! God cared for Noah. God would keep Noah and his family and the animals safe from lots of water.** Show a toy boat to your baby. Float it on some water in a plastic container or bucket to show how it moves when it travels.
@@ -74,7 +74,7 @@ Birds came flapping into Noah's ark,\
 God would keep them safe\
 in the big, big flood.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3] Into Noah’s Ark (verse 1: birds) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-04-into-noahs-ark-birds.mp3] Into Noah’s Ark (verse 1: birds) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[DOGS]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Listen!** Woof, woof. **Oh! A dog. Wait . . . two dogs! They are coming to the boat (ark)**. Show your baby two toy dogs as you sing.
@@ -87,7 +87,7 @@ Dogs came walking into Noah's ark,\
 God would keep them safe\
 In the big, big flood.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3] Into Noah’s Ark (verse 2: dogs) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-05-into-noahs-ark-dogs.mp3] Into Noah’s Ark (verse 2: dogs) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[CATS]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Listen!** Meow, meow. **It’s a mommy cat and a daddy cat.** Show your baby two toy cats as you sing.
@@ -100,7 +100,7 @@ Cats came purring into Noah's ark,\
 God would keep them safe\
 In the big, big flood.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3] Into Noah’s Ark (verse 3: cats) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-06-into-noahs-ark-cats.mp3] Into Noah’s Ark (verse 3: cats) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[SHEEP]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **Listen!** Baa, baa. **Many sheep are coming to the boat!** Show your baby several toy sheep as you sing.
@@ -113,7 +113,7 @@ Sheep came bleating into Noah's ark,\
 God would keep them safe\
 In the big, big flood.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3] Into Noah’s Ark (verse 4: sheep) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-07-into-noahs-ark-sheep.mp3] Into Noah’s Ark (verse 4: sheep) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[CHICKENS]({"style":{"text":{"color": "#a65726"}}})**\
 **Listen!** Cock-a-doodle-do! Cluck, cluck, cluck. **Look at the rooster and chicken going to the boat!** Show your baby two toy chickens (or a rooster and chicken) as you sing.
@@ -126,7 +126,7 @@ Chickens came clucking, into Noah's ark,\
 God would keep them safe\
 In the big, big flood.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3] Into Noah’s Ark (verse 5: chickens) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-08-into-noahs-ark-chickens.mp3] Into Noah’s Ark (verse 5: chickens) {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 **^[BIBLE]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **God’s angels led the animals into the boat (ark). God told Noah and his family to go into the boat (ark) too. The Bible says God loved Noah and his family and all the animals. God loves us too.** Then show your baby a Bible as you sing.
@@ -137,7 +137,7 @@ I open my Bible carefully, and learn of Jesus' love.\
 I open my Bible carefully, and learn of Jesus' love.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3] I Open My Bible Carefully {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #28. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-09-i-open-my-bible-carefully.mp3] I Open My Bible Carefully {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #28. Used by permission."}
 
 **^[RAIN]({"style":{"text":{"color": "#a65726"}}})**\
 Say: **God takes care of us when it rains** (or other familiar situations, such as riding in a car or stroller). **God took care of Noah and the animals when it rained.** Gently spray water in the air as “rain.”
@@ -149,7 +149,7 @@ Jesus cares for you,\
 He cares for you.\
 (repeat)
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3] Jesus Cares for You. {"credits":[{"key":"Writer","value":"Beginner Writers Group"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"copyright":"Copyright © 2000 General Conference Corporation® of Seventh-day Adventists. From Little Voices Praise Him, #92."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-03-10-jesus-cares-for-you.mp3] Jesus Cares for You. {"credits":[{"key":"Writer","value":"Beginner Writers Group"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2000 General Conference Corporation® of Seventh-day Adventists. From Little Voices Praise Him, #92."}
 
 **^[MEMORY VERSE]({"style":{"text":{"color": "#a65726"}}})**\
 Open your Bible, point, and say: **The Bible says, God gives us mommies and daddies and others to care for babies. It says “He cares for you”** (1 Peter 5:7). Hug your baby gently when saying “you.” Then say a short prayer for God to lead and bless them as they grow.

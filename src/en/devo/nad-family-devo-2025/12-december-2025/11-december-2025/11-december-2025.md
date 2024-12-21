@@ -1,6 +1,6 @@
 ---
 title: Look to Give, not to Get
-date: 12/11/2025
+date: 11/12/2025
 ---
 
 _Claudio Consuegra, DMin_

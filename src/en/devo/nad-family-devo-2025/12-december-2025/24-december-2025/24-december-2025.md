@@ -1,6 +1,6 @@
 ---
 title: What Type of Person Are You?
-date: 12/24/2025
+date: 24/12/2025
 ---
 
 _Pamela Consuegra, PhD_

@@ -1,6 +1,6 @@
 ---
 title: Cherish Your Vitality
-date: 01/22/2025
+date: 22/01/2025
 ---
 
 _Harold Shryock_

@@ -1,6 +1,6 @@
 ---
 title: Sugarcoated Sin
-date: 01/17/2025
+date: 17/01/2025
 ---
 
 _Jerry Muncy_

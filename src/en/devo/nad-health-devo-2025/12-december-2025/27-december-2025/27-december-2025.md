@@ -1,6 +1,6 @@
 ---
 title: Skate for the Joy of Skating
-date: 12/27/2025
+date: 27/12/2025
 ---
 
 _Kay Kuzma_

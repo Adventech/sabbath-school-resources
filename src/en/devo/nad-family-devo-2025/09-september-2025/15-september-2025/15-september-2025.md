@@ -1,6 +1,6 @@
 ---
 title: Time to Grow Up!
-date: 09/15/2025
+date: 15/09/2025
 ---
 
 _Claudio Consuegra, DMin_

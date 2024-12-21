@@ -1,6 +1,6 @@
 ---
 title: Ellen White's Struggle With Meat-eating
-date: 01/09/2025
+date: 09/01/2025
 ---
 
 _Jan W. and Kay Kuzma_

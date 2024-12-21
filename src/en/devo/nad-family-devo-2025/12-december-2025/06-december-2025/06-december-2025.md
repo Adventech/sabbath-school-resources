@@ -1,6 +1,6 @@
 ---
 title: God Covers
-date: 12/06/2025
+date: 06/12/2025
 ---
 
 _Claudio Consuegra, DMin_

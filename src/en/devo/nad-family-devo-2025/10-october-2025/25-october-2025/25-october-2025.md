@@ -1,6 +1,6 @@
 ---
 title: A Healthful Shabbat
-date: 10/25/2025
+date: 25/10/2025
 ---
 
 _Richard M. Davidson_

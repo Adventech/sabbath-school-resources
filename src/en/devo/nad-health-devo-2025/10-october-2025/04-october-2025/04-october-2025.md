@@ -1,6 +1,6 @@
 ---
 title: '"Eating" the Bread of Life'
-date: 10/04/2025
+date: 04/10/2025
 ---
 
 _Kenneth L. Burke_

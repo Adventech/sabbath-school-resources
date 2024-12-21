@@ -1,6 +1,6 @@
 ---
 title: Pain - Friend or Foe?
-date: 11/02/2025
+date: 02/11/2025
 ---
 
 _Andrea Creed_

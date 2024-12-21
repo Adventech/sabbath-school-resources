@@ -1,6 +1,6 @@
 ---
 title: Dumber than a Donkey
-date: 12/30/2025
+date: 30/12/2025
 ---
 
 _Claudio Consuegra, DMin_

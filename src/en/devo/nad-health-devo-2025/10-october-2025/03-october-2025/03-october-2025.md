@@ -1,6 +1,6 @@
 ---
 title: Prayer Makes a Difference
-date: 10/03/2025
+date: 03/10/2025
 ---
 
 _Delbert W. Baker_

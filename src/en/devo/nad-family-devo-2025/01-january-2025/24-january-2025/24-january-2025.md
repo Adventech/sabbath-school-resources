@@ -1,6 +1,6 @@
 ---
 title: Widows, Orphans, and Foreigners
-date: 01/24/2025
+date: 24/01/2025
 ---
 
 _Claudio Consuegra, DMin_

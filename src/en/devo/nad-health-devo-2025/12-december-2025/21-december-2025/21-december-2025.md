@@ -1,6 +1,6 @@
 ---
 title: Preventing Deception
-date: 12/21/2025
+date: 21/12/2025
 ---
 
 _Fred Hardinge_

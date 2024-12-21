@@ -1,6 +1,6 @@
 ---
 title: Family Hatred Rather than Love
-date: 10/17/2025
+date: 17/10/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: "Think Happy, Feel Better"
-date: 11/06/2025
+date: 06/11/2025
 ---
 
 _Jan W. and Kay Kuzma_

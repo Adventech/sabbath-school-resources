@@ -1,6 +1,6 @@
 ---
 title: Fill Your Mouth With Laughter
-date: 01/24/2025
+date: 24/01/2025
 ---
 
 _Pat Nordman_

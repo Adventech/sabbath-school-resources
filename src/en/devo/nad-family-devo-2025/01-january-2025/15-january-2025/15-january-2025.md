@@ -1,6 +1,6 @@
 ---
 title: Honor, Not Ridicule, Your Parents
-date: 01/15/2025
+date: 15/01/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: God Is a Friend of Dreamers
-date: 10/27/2025
+date: 27/10/2025
 ---
 
 _Robert Kuczek_

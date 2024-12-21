@@ -1,6 +1,6 @@
 ---
 title: Keep Me From Stumbling
-date: 10/19/2025
+date: 19/10/2025
 ---
 
 _Pamela Consuegra, PhD_

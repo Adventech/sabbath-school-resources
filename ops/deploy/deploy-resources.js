@@ -309,6 +309,16 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                 if (groupByName) {
                     groupByName.resources.push(resourceInfo)
+
+                    groupByName.resources.sort((a, b) => {
+                        const indexA = groupByName.resourceIds.findIndex((pattern) =>
+                            picomatch(pattern)(a.id)
+                        )
+                        const indexB = groupByName.resourceIds.findIndex((pattern) =>
+                            picomatch(pattern)(b.id)
+                        );
+                        return indexA - indexB
+                    });
                 } else if (groupByAuthor) {
                     groupByAuthor.resources.push(resourceInfo)
                 } else if (groupByKind) {

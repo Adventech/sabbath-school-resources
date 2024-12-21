@@ -1,6 +1,6 @@
 ---
 title: "The Dreaded Word: Alzheimer's"
-date: 10/02/2025
+date: 02/10/2025
 ---
 
 _Connie Coble Starkey_

@@ -1,6 +1,6 @@
 ---
 title: Arise and Eat
-date: 12/05/2025
+date: 05/12/2025
 ---
 
 _Betty M. Hoehn_

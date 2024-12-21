@@ -1,6 +1,6 @@
 ---
 title: "Sabbath, a Milepost in Time"
-date: 09/27/2025
+date: 27/09/2025
 ---
 
 _Steven L. Haley_

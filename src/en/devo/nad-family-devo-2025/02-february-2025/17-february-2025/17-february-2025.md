@@ -1,6 +1,6 @@
 ---
 title: The Best Choice
-date: 02/17/2025
+date: 17/02/2025
 ---
 
 _Claudio Consuegra, DMin_

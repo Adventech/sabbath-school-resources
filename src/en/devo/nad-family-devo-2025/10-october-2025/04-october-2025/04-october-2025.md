@@ -1,6 +1,6 @@
 ---
 title: Obedient to His Parents
-date: 10/04/2025
+date: 04/10/2025
 ---
 
 _Claudio Consuegra, DMin_

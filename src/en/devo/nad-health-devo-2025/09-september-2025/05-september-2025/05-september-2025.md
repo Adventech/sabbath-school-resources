@@ -1,6 +1,6 @@
 ---
 title: An Unbeatable Combination
-date: 09/05/2025
+date: 05/09/2025
 ---
 
 _Richard A. Schaefer_

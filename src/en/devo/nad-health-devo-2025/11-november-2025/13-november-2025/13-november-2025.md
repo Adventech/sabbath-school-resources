@@ -1,6 +1,6 @@
 ---
 title: For What Do You Strive?
-date: 11/13/2025
+date: 13/11/2025
 ---
 
 _Lois (Rittenhouse) Pecce_

@@ -1,6 +1,6 @@
 ---
 title: The Incredible Power of Music
-date: 11/07/2025
+date: 07/11/2025
 ---
 
 _Dianne Kosarin_

@@ -1,6 +1,6 @@
 ---
 title: Don't Live Under a Burden
-date: 01/03/2025
+date: 03/01/2025
 ---
 
 _Claudio Consuegra, DMin_

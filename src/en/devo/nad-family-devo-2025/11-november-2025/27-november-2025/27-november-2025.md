@@ -1,6 +1,6 @@
 ---
 title: The Appropriate Time
-date: 11/27/2025
+date: 27/11/2025
 ---
 
 _Claudio Consuegra, DMin_

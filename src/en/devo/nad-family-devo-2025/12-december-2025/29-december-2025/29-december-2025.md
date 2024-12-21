@@ -1,6 +1,6 @@
 ---
 title: Turn Humbly Toward God
-date: 12/29/2025
+date: 29/12/2025
 ---
 
 _Claudio Consuegra, DMin_

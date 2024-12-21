@@ -1,6 +1,6 @@
 ---
 title: The Solution for Desire?
-date: 12/15/2025
+date: 15/12/2025
 ---
 
 _Claudio Consuegra, DMin_

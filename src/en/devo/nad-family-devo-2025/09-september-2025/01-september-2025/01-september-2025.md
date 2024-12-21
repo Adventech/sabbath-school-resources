@@ -1,6 +1,6 @@
 ---
 title: Family Traditions
-date: 09/01/2025
+date: 01/09/2025
 ---
 
 _Claudio Consuegra, DMin_

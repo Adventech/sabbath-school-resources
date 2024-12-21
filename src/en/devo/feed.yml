@@ -23,8 +23,14 @@
     resources:
       - en-devo-nad-family-devo-2025
       - en-devo-nad-health-devo-2025
+  - group: Prayer
+    view: folio
+    resources:
+      - en-devo-ten-days-of-prayer-2025
+      - en-devo-youth-week-of-prayer-2025
   - group: Other resources
     view: folio
     resources:
+      - en-devo-stewardship-offertory-readings-2025
       - en-devo-the-way-back-to-altar
       - en-devo-test

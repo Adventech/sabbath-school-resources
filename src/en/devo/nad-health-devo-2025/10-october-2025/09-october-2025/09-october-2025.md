@@ -1,6 +1,6 @@
 ---
 title: Walk Your Way to Better Health
-date: 10/09/2025
+date: 09/10/2025
 ---
 
 _Jan W. and Kay Kuzma_

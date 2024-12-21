@@ -1,6 +1,6 @@
 ---
 title: First of All
-date: 11/04/2025
+date: 04/11/2025
 ---
 
 _Claudio Consuegra, DMin_

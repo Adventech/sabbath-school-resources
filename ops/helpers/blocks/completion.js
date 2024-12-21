@@ -29,7 +29,7 @@ export const completion = {
 
                     const id = crypto.createHash('sha256').update(`${blockId}-${matchIterator}-${correctCompletion ?? ''}`).digest('hex')
 
-                    ret.text = ret.text.replace(completionMatch[0], `[](sspmCompletion://${id})`)
+                    ret.text = ret.text.replace(completionMatch[0], `[${'⠀'.repeat(length > 0 ? length : 10)}](sspmCompletion://${id})`)
 
                     if (!ret.data) { ret.data = {} }
 

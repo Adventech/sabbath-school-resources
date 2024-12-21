@@ -1,6 +1,6 @@
 ---
 title: Straight Ahead
-date: 09/14/2025
+date: 14/09/2025
 ---
 
 _William C. Conn Arnold_

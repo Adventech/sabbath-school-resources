@@ -1,6 +1,6 @@
 ---
 title: Ministry Starts at Home
-date: 10/18/2025
+date: 18/10/2025
 ---
 
 _Pamela Consuegra, PhD_

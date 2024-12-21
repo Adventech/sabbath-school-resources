@@ -1,6 +1,6 @@
 ---
 title: Earthly Treasure
-date: 09/29/2025
+date: 29/09/2025
 ---
 
 _Pamela Consuegra, PhD_

@@ -1,6 +1,6 @@
 ---
 title: Better Than Birds
-date: 10/07/2025
+date: 07/10/2025
 ---
 
 _Walter Thompson_

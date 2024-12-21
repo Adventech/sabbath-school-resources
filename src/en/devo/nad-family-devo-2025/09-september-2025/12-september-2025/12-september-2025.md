@@ -1,6 +1,6 @@
 ---
 title: Trust God with your Whole Life
-date: 09/12/2025
+date: 12/09/2025
 ---
 
 _Claudio Consuegra, DMin_

@@ -1,6 +1,6 @@
 ---
 title: A Family that Prays Together
-date: 10/01/2025
+date: 01/10/2025
 ---
 
 _Pamela Consuegra, PhD_

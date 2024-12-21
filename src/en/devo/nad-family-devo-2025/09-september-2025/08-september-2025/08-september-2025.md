@@ -1,6 +1,6 @@
 ---
 title: Let Go and Keep All
-date: 09/08/2025
+date: 08/09/2025
 ---
 
 _Claudio Consuegra, DMin_

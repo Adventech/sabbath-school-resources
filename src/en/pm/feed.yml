@@ -2,23 +2,21 @@
   title: Personal Ministries
   groups:
   - group: Global TMI
-    reverse: true
     view: tile
     resources:
+      - en-pm-making-disciples-101
+      - en-pm-global-tmi-church*
       - en-pm-global-tmi*
   - group: GROW Series
-    reverse: true
     view: folio
     resources:
       - en-pm-discipleship-handbook
       - en-pm-spread-the-word
       - en-pm-fundamentals-of-faith
   - group: Keys Series
-    reverse: true
     view: folio
     resources:
       - en-pm-keys-*
   - group: Other Resources
-    reverse: true
     view: folio
     scope: resource

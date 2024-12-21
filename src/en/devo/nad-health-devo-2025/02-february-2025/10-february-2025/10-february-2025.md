@@ -1,6 +1,6 @@
 ---
 title: Growing Habits
-date: 02/10/2025
+date: 10/02/2025
 ---
 
 _Kay Kuzma_

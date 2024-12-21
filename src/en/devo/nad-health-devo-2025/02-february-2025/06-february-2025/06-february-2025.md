@@ -1,6 +1,6 @@
 ---
 title: Want and Wasting Diseases
-date: 02/06/2025
+date: 06/02/2025
 ---
 
 _Dane J. Griffin and Kay Kuzma_

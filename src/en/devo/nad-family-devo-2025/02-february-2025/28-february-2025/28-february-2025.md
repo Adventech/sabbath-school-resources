@@ -1,6 +1,6 @@
 ---
 title: The Other Woman in Your Marriage
-date: 02/28/2025
+date: 28/02/2025
 ---
 
 _Claudio Consuegra, DMin_

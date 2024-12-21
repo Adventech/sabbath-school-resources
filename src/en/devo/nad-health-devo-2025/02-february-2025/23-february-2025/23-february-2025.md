@@ -1,6 +1,6 @@
 ---
 title: Population Density and Disease
-date: 02/23/2025
+date: 23/02/2025
 ---
 
 _David J. DeRose_

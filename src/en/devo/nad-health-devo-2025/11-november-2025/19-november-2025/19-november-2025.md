@@ -1,6 +1,6 @@
 ---
 title: Health Is Wholeness
-date: 11/19/2025
+date: 19/11/2025
 ---
 
 _Dan Day_

@@ -1,6 +1,6 @@
 ---
 title: "Too Little, Too Much"
-date: 11/20/2025
+date: 20/11/2025
 ---
 
 _Patricia K. Johnston_

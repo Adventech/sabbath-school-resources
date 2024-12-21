@@ -1,6 +1,6 @@
 ---
 title: Imitate What is Good
-date: 10/15/2025
+date: 15/10/2025
 ---
 
 _Claudio Consuegra, DMin_

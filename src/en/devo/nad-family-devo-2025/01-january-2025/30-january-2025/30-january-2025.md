@@ -1,6 +1,6 @@
 ---
 title: The Head and not the Tail
-date: 01/30/2025
+date: 30/01/2025
 ---
 
 _Claudio Consuegra, DMin_

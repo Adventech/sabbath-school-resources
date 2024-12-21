@@ -1,6 +1,6 @@
 ---
 title: The Physiology of Victory
-date: 11/03/2025
+date: 03/11/2025
 ---
 
 _Kay Collins_

@@ -1,6 +1,6 @@
 ---
 title: How to Avoid Brainruptcy
-date: 09/19/2025
+date: 19/09/2025
 ---
 
 _Rise Rafferty_

@@ -1,6 +1,6 @@
 ---
 title: More Time!
-date: 02/07/2025
+date: 07/02/2025
 ---
 
 _Claudio Consuegra, DMin_

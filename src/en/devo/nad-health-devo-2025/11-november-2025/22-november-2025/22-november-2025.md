@@ -1,6 +1,6 @@
 ---
 title: Thy Will Be Done
-date: 11/22/2025
+date: 22/11/2025
 ---
 
 _Kay Kuzma_

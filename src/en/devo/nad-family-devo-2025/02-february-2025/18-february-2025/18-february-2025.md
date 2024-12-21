@@ -1,6 +1,6 @@
 ---
 title: In One Generation
-date: 02/18/2025
+date: 18/02/2025
 ---
 
 _Claudio Consuegra, DMin_

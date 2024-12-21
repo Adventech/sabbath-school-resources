@@ -1,6 +1,6 @@
 ---
 title: I Can Choose
-date: 10/27/2025
+date: 27/10/2025
 ---
 
 _Ted Hamilton_

@@ -1,6 +1,6 @@
 ---
 title: A Daily Drink
-date: 12/19/2025
+date: 19/12/2025
 ---
 
 _Claudio Consuegra, DMin_

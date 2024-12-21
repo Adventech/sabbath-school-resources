@@ -1,6 +1,6 @@
 ---
 title: Avoiding Extremes
-date: 10/15/2025
+date: 15/10/2025
 ---
 
 _Larry Richardson_

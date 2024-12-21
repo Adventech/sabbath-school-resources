@@ -1,6 +1,6 @@
 ---
 title: A Different Perspective
-date: 10/23/2025
+date: 23/10/2025
 ---
 
 _Judith T. Getchell_

@@ -1,6 +1,6 @@
 ---
 title: Prepare to Meet Thy God
-date: 11/05/2025
+date: 05/11/2025
 ---
 
 _Steven L. Haley_

@@ -1,6 +1,6 @@
 ---
 title: Keep Your Eyes on the Goal
-date: 12/20/2025
+date: 20/12/2025
 ---
 
 _Claudio Consuegra, DMin_

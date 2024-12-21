@@ -1,6 +1,6 @@
 ---
 title: No Condemnation
-date: 11/30/2025
+date: 30/11/2025
 ---
 
 _Claudio Consuegra, DMin_

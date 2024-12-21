@@ -1,6 +1,6 @@
 ---
 title: 1 Corinthians 13 for Health Professionals
-date: 01/11/2025
+date: 11/01/2025
 ---
 
 _Hans Diehl_

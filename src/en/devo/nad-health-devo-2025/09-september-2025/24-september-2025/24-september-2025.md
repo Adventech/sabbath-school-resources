@@ -1,6 +1,6 @@
 ---
 title: The Solution to the Sin Problem
-date: 09/24/2025
+date: 24/09/2025
 ---
 
 _Elmar P. Sakala_

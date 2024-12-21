@@ -1,0 +1,58 @@
+---
+title: World Church Prayer Requests
+---
+- Lord, please let a mighty revival of primitive godliness sweep Your church in the final days. May we stand for truth though the heavens fall. Let this revival start with me.
+- Lord, show us how to be consistent in daily worship, individually and as a family.
+- Lord, open our eyes to the distractions in our lives. The things that keep us from being able to focus entirely on You. Give us undivided hearts of worship.
+- Lord, help us to allow You to wake us up each morning, no matter how early, so that we can have sweet, unrushed time in Your Word and prayer.
+- We pray that You would help us to come to You as we are, with all our feelings, our imperfections, our sins, and our needs, and allow You to love us, change us,and remake us into the person You long for us to be.
+- Lord, teach us how to plead for a daily baptism of the Holy Spirit.
+- We pray for the latter rain of the Holy Spirit to empower our witness and enable us to engage in the work You have given us to do before Your return.
+- Show us how to love our families sacrificially and how to make disciples for the Kingdom, starting with our own children and loved ones.
+- We pray for wisdom to search, understand, and follow God's Word. Teach us to rightly divide the words of truth and faithfully share them with others.
+- Lord, please renew our appreciation for the instructions found in the inspired writings of Ellen White.
+- We pray for religious liberty and freedom of conscience throughout the world. Lord, please open doors for the proclamation of Your Word in closed territories.
+- Lord, may Your world church accept the call to widely proclaim the Three Angels' messages to every nation and tongue. Show us how to center all these teachings on the love and righteousness of Christ.
+- Lord, help us model to our youth and young people what living the Three Angels' messages looks like.
+- Lord, may Adventists worldwide declare "I Will Go" and take up the call to serve You and proclaim the good news of salvation.
+- We pray for medical professionals, scientists, government leaders, and public health officials to have wisdom for the many decisions they make.
+- We pray that Adventists around the world will offer practical aid and encouragement to those who are suffering
+- Give us courage, creativity, and an unselfish spirit when our neighbors need us most.
+- We pray for those financially affected by job losses due to the changing economy.
+- Lord, please show church members how to help those struggling with mental health issues or isolation.
+- We pray for pastors and churches to find ways of keeping church members actively praying together. Lord, please draw Your church together in worship and service.
+- We pray for a spiritual revival among Seventh-day Adventist young people attending colleges and universities worldwide. May they become vibrant ambassadors for Christ.
+- We pray for the 69 percent of the earth's population who have not received an unclouded presentation of jesus.
+- We pray for the 62 million people in the 28 least-reached cities of the former Soviet Union (Euro-Asia Division).
+- We pray for God to raise up brave missionaries willing to work among the 745 people groups in the 20 countries of the Middle East.
+- Lord, please raise up modern-day Waldensian-type students willing to serve You in difficult places.
+- We pray for Adventist members facing persecution or imprisonment because of their beliefs.
+- We pray for the 202 million people in the 41 least-reached cities of the Southern Asia-Pacific Division to know Jesus.
+- We pray for the Sabbath School/Personal Ministries Department of each local church as they seek God's plan and reach out to their communities with loving service, Bible study, and personal witnessing.
+- We pray for Adventist Development and Relief Agency (ADRA) as they meet practical needs worldwide.
+- We pray for the 16 million people in the 6 least-reached cities of the South Pacific Division.
+- We pray for the Holy Spirit to help us know how to reach the 406 million people in the 105 least-reached cities of the Northern Asia-Pacific Division.
+- Lord, please bless as Adventist Chaplaincy Ministries mobilizes chaplains and interested members to minister to those in prison.
+- Lord, we pray for our Sabbath School teachers. Please let them know how important their work is for our children.
+- Lord, we seek your guidance for the many Centers of Influence, health and family programs, and Pathfinder clubs worldwide.
+- Lord, please show us how to send more truth-filled literature (printed and electronic) into our communities. We pray that people will read it and that the Holy Spirit will convict them of Bible truth.
+- Lord, we ask for Your protection over missionaries working in dangerous places.
+- Please raise up literature evangelists, student volunteers, authors, media specialists, and financial supporters to spread words of hope and life.
+- We pray for Adventist schools, students, and teachers worldwide. May these schools faithfully teach Bible truth and lead young people into mission, service, and a saving relationship with Christ.
+- Lord, give us wisdom to reach secular cultures without interest in religion. Let Your Holy Spirit break down the walls that surround secular hearts.
+- Bless us as we reach out to people enslaved by spirit worship, idolatry, and animistic beliefs. Help us to understand their worldview and introduce them to a personal Saviour.
+- Lord, please inspire Seventh-day Adventists worldwide to pray as never before. Teach us to claim Your promises and expect You to move mountains when we pray.
+- We pray for the 541 people groups in the 18 countries of the Southern Africa-Indian Ocean Division. Please lead them to biblical truth.
+- Show us how to meet the practical and spiritual needs of refugees. May our church be known for our love of all people, no matter who they are or where they come from.
+- We ask You to raise up urban missionaries to plant churches for the 806 people groups in the 20 countries of the Inter-European Division.
+- Please raise up an army of workers to plant churches for the 948 people groups in the 38 countries of the Inter-American Division.
+- Please teach us to proclaim our fundamental church beliefs with clarity, creativity, and biblical authenticity. May the love of Jesus be at the core of everything we believe.
+- Lord, please prepare young people to plant churches for the 789 people groups in the 9 countries of the North American Division.
+- We ask You to prepare volunteers to serve the 70 people groups in the Israel Field.
+- We ask You to raise up medical missionaries to plant churches among the 830 people groups in the 11 countries of the East-Central Africa Division.
+- We ask You to raise up prayer warriors to intercede for the 2,568 people groups in the 4 countries of the Southern Asia Division.
+- Please let our families reveal Your love in our homes and communities. We ask You to bring harmony into homes, heal broken relationships, protect the vulnerable from abuse, and reveal Your sanctifying power in seemingly hopeless situations.
+- We ask You to raise up nurses and doctors to plant new churches among the 1,978 people groups in the 22 countries in West-Central Africa Division.
+- We pray for the 49 million people in the 19 least-reached cities of the Trans-European Division.
+- We pray for our children. Please empower them to stand boldly for You when facing obstacles and pressure. Help them to make wise choices and stand for truth.
+- Teach us to follow Christ's selfless example by meeting the daily needs of people close to us. Equip us to serve as medical missionaries, community volunteers, and friends to the needy.

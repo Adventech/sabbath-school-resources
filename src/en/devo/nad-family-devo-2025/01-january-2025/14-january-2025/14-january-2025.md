@@ -1,6 +1,6 @@
 ---
 title: What's Your Inheritance?
-date: 01/14/2025
+date: 14/01/2025
 ---
 
 _Claudio Consuegra, DMin_

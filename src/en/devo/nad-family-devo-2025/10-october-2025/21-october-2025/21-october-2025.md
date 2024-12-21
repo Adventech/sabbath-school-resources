@@ -1,6 +1,6 @@
 ---
 title: Walking with God
-date: 10/21/2025
+date: 21/10/2025
 ---
 
 _Claudio Consuegra, DMin_

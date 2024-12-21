@@ -1,6 +1,6 @@
 ---
 title: Rest in Meaningfulness
-date: 09/13/2025
+date: 13/09/2025
 ---
 
 _Niels-Erik and Demetra Andreasen_
