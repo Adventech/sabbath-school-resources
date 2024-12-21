@@ -1,0 +1,30 @@
+---
+title: In One Generation
+date: 02/18/2025
+---
+
+_Claudio Consuegra, DMin_
+
+> <p>Scripture</p>
+> (Judg 2:10 NKJV) When all that generation had been gathered to their fathers, another generation arose after them who did not know the LORD nor the work which He had done for Israel.
+
+### Observation
+
+After the death of Joshua and the people of his generation had passed away, things changed very quickly in Israel, but not for the best. The rapid decline in their spirituality reflects the rapid abandonment of God’s will for them. First of all, the Israelites stopped their conquest of the Promised Land from going as far as God intended it should. Secondly, they left entire cities, and their inhabitants, alive and established relationships with them. And finally, they began to worship the Baals of the people of the land. This rapid decline is what God had tried to prevent by commanding them to destroy the people of the land, but in just one generation they went from following God to worshipping Baal.
+
+### Application
+
+I can attest to how fast things change, in one generation, when you abandon God. My mother’s parents were the first Seventh-day Adventist converts in the city of Bucaramanga, where we were born, in the country of Colombia, South America. When my mother was a young girl, her mother died leaving her husband to raise five young children by himself; my grandfather never remarried. Weighed down with the heavy responsibility and with a large hospital bill after his wife’s death, my grandfather, a very responsible man, made whatever payments he could on that hospital bill but in the process he didn’t return God’s tithe faithfully; shortly after that, he stopped going to church altogether. Eventually all but one of the children, including my mother, ended up out of the church (one died at a young age, still believing and living his faith). As a young lady, about to graduate from high school, my mother met my father, who together with his family was Roman Catholic. In order for my mother to be able to marry my father she “converted” to Catholicism; in her own words, while she did everything in her power to accept, believe, and practice her new religion, she confessed to me many years later that she never really could come to believe it because the seeds of Bible truth remained deeply ingrained in her heart. Nevertheless, she raised her children as Catholics, attending church every Sunday, and performing the rituals, or “sacraments,” required by the church such like infant baptism, “the First Communion,” “Confirmation,” etc.
+
+As a young boy, after my first communion, I became quite active in the church and was chosen to be one of the altar boys in the church near to where we lived and where we worshiped regularly for many years. I remember as a young boy wearing my bath robe and standing before the kitchen sink, with a slice of bread, dipping a piece of it in a glass of orange juice mixed with some water, role-playing what I saw the priest do on the altar during mass – by the way, my own “mass” was not the best as the juice was too watered down, and the bread soaked in this mixture tasted horrible. If the priest had seen me doing this he probably would have said that even at an early age I demonstrated a vocation for the priesthood; I might say that even in the darkness was already beginning to show me a glimpse of the ministerial career I would one day follow.
+
+In my family, all of us grew up catholic, and faithfully did the things required of good Catholics like repeating the prescribed prayers to Mary and to bow down before the many images found in churches, cathedrals, and even road side shrines. While my mother’s brother and his family were Adventists, we never completely understood what they were or why they lived like they did; we only knew they did strange things like not watch TV on Friday nights and Saturdays, or not eating what we considered to be delicacies and which now I myself find distasteful, even disgusting. It was only after the death of my father, and our move to the United States, that my mother returned to the Adventist faith and she and I were baptized the same day in a church in Silver Spring, Maryland.
+
+As we reflect on our portion of the Scriptures for today, some may wonder how quickly the Israelites abandoned the faith of their fathers after all the powerful miracles He worked on their behalf. I witnessed how easy it is to do so as with my mother’s departure from the faith as in just a few short years she went from being a Sabbath-keeping, second-coming-expecting Christian, to a Sunday-keeping, idol worshipping Catholic, and as a result, with the birth of each of her children, we were one by one introduced to the worship of these idols and it became a simple part of our lives.
+
+If we as parents can see how easily and quickly children learn, we would be so much more careful with our actions and words. I am amazed at parents who don’t bring their young children to church or those who have told me that they don’t want to force them to believe as they do but want to give their children the freedom to choose what to believe only to see how quickly their children abandon the faith their parents wish they would hold as their own. I’d like to encourage every parent to hold dear their faith and live it and teach it to their children from the time they are born that they may grow up in it from their earliest days; if we as parents don’t live our faith, we will quickly loose our children and many generations to come.
+
+> <callout>A Prayer You May Say</callout>
+> Father, help us to live daily our faith and may we transmit it faithfully to our children and for generations to come.
+
+_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

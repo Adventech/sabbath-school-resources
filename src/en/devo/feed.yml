@@ -1,5 +1,5 @@
 ---
-  title: Devotionals
+  title: Devotional
   groups:
   - group: Correlated Bible Reading Plan
     reverse: true
@@ -18,6 +18,11 @@
       - en-devo-abide-in-jesus
       - en-devo-spirit-filled-coworkers-of-jesus
       - en-devo-from-lack-to-abundance
+  - group: Daily Devotional
+    view: folio
+    resources:
+      - en-devo-nad-family-devo-2025
+      - en-devo-nad-health-devo-2025
   - group: Other resources
     view: folio
     resources:
