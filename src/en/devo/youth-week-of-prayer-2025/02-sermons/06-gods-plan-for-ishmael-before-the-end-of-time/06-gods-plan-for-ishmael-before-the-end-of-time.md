@@ -149,7 +149,7 @@ Will you play an essential part in this ministry to the people of Ishmael?
 
 Amen!
 
-> <callout>Prayer</callout
+> <callout>Prayer</callout>
 > Our dear loving God, We are thankful that you are a loving God. We are thankful that you love people from the East and the West. We are thankful that you love the whole world. In this prophecy in Isaiah 60:7 we can clearly see that Children of Ishmael will come. Since they did not yet come in big numbers, we believe this verse will be fulfilled in the future but before the Second Coming of Jesus. As we can see that the world is coming to a final climax, we are not far from this being fulfilled. Help us to be willing to usher them in your house, and may you bless your house and may your work be accomplished. In Your Name we pray, Amen.
 
 ### Discussion Questions

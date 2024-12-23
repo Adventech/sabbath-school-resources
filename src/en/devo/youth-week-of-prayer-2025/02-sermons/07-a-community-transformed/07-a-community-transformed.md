@@ -112,7 +112,7 @@ Ministry leaders are then about shaping counter-cultural communities that connec
 
 What are you chasing? Conformed or Transformed?
 
-> <callout>Prayer</callout
+> <callout>Prayer</callout>
 > Dear Heavenly Father,
 
 We come before You, seeking to set our hearts and minds on Your will. Help us to place our hope and desires not in the fleeting promises of consumerism, but in the eternal purpose You have for our lives. Strengthen us as we share Your message in a world shaped by secular values and materialism. When we find ourselves caught in the ways of this world, may we lean on You for guidance and on the community of believers for support. Draw us closer to You and lead us into a life of transformation that reflects Your love and grace.

@@ -20,5 +20,5 @@ As you teach about Creation this quarter, and as you reflect on everything He ha
 
 God is with you as you share His abundant love with the children this quarter.
 
-“. . . God desires His children to find delight in the works of His hands. . . . The beauty of nature leads [us] to think of the heavenly home” (Ellen G. White, _The Ministry of Healing_, pp. 262-266).
+“. . . God desires His children to find delight in the works of His hands. . . . The beauty of nature leads [us] to think of the heavenly home” (Ellen G. White, ^[The Ministry of Healing]({"style": {"text": {"typeface": "CenturyGothic-Italic"}}}), pp. 262-266).
  

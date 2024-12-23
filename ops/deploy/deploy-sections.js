@@ -84,7 +84,7 @@ let processSections = async function (language, resourceType, resourceGlob) {
                 name: SECTION_DEFAULT_NAME,
                 title: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
                 isRoot: true,
-                displaySequence: resourcePathInfo.type === RESOURCE_TYPE.SS,
+                displaySequence: resourceInfo.displaySequence ?? (resourcePathInfo.type === RESOURCE_TYPE.SS),
                 documents: await processSection(resourceInfo, `${resourceContentPath}`)
             }
         }
@@ -116,7 +116,7 @@ let processSections = async function (language, resourceType, resourceGlob) {
                 name: SECTION_DEFAULT_NAME,
                 title: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
                 isRoot: true,
-                displaySequence: resourcePathInfo.type === RESOURCE_TYPE.SS,
+                displaySequence: resourceInfo.displaySequence ?? (resourcePathInfo.type === RESOURCE_TYPE.SS),
                 documents,
             }]
         }

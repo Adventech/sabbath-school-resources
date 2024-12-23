@@ -228,6 +228,19 @@ let getResourceFeed = async function (resource) {
     return yaml.load(fs.readFileSync(resource, "utf8"))
 }
 
+let sortResourcesByPattern = function (resources, resourceIds) {
+    return resources.sort((a, b) => {
+        const indexA = resourceIds.findIndex((pattern) =>
+            picomatch(pattern)(a.id)
+        );
+        const indexB = resourceIds.findIndex((pattern) =>
+            picomatch(pattern)(b.id)
+        );
+        return indexA - indexB;
+    });
+}
+
+
 let processResources = async function (languageGlob, resourceType, resourceGlob) {
     const languages = new fdir()
         .withBasePath()
@@ -309,22 +322,16 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                 if (groupByName) {
                     groupByName.resources.push(resourceInfo)
-
-                    groupByName.resources.sort((a, b) => {
-                        const indexA = groupByName.resourceIds.findIndex((pattern) =>
-                            picomatch(pattern)(a.id)
-                        )
-                        const indexB = groupByName.resourceIds.findIndex((pattern) =>
-                            picomatch(pattern)(b.id)
-                        );
-                        return indexA - indexB
-                    });
+                    groupByName.resources = sortResourcesByPattern(groupByName.resources, groupByName.resourceIds)
                 } else if (groupByAuthor) {
                     groupByAuthor.resources.push(resourceInfo)
+                    groupByAuthor.resources = sortResourcesByPattern(groupByAuthor.resources, groupByAuthor.resourceIds)
                 } else if (groupByKind) {
                     groupByKind.resources.push(resourceInfo)
+                    groupByKind.resources = sortResourcesByPattern(groupByKind.resources, groupByKind.resourceIds)
                 } else if (groupByType) {
                     groupByType.resources.push(resourceInfo)
+                    groupByType.resources = sortResourcesByPattern(groupByType.resources, groupByType.resourceIds)
                 }
 
                 await database.collection(FIREBASE_DATABASE_RESOURCES).doc(resourceInfo.id).set(resourceInfo);

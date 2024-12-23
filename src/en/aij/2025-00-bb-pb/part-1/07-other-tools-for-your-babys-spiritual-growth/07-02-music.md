@@ -43,7 +43,7 @@ Through the rhythms of different pieces of music, your baby’s body expressions
 {"style": {"text": {"color": "#a65726", "size": "xl", "typeface": "BaskervilleBT-Bold"}}}
 Spiritual and character development
 
-Music has the power to awaken in your baby sympathy, to banish the gloom, and to promote effort and courage (Ellen G. White, _Education_, p. 167).
+Music has the power to awaken in your baby sympathy, to banish the gloom, and to promote effort and courage (Ellen G. White, ^[Education]({"style": {"text": {"typeface": "PTSans-Italic"}}}), p. 167).
 
 Generally, the first musical manifestation that your child perceives is the melodies you sing when you want to put them to sleep or comfort them. Sing to your child regularly!
 

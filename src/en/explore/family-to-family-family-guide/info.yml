@@ -1,0 +1,25 @@
+title: Family to Family
+kind: book
+subtitle: Family Guide
+description: A Winsome Plan to Help Families Witness in Their Communities
+primaryColor: '#575387'
+primaryColorDark: '#37336E'
+author: afm
+credits:
+  - name: Copyright
+    value: >-
+      Copyright © 2013 by the General Conference Corporation of Seventh-day
+      Adventists® All rights reserved
+  - name: Editors
+    value: Willie and Elaine Oliver
+  - name: ISBN
+    value: 978-1-57756-165-1
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-family-guide/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-family-guide/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-family-guide/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/family-to-family-family-guide/assets/splash.png

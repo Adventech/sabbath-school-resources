@@ -31,14 +31,14 @@ Following Jesus in true discipleship requires more than just removing that which
 
 Below is a list of eight spiritual habits that are essential for the disciple of Christ:
 
-- [ ] Daily personal prayer
-- [ ] Daily personal study of the Bible
-- [ ] Daily morning and evening family worship
-- [ ] Weekly Sabbath school attendance
-- [ ] Weekly church attendance
-- [ ] Weekly prayer meeting or midweek small-group Bible study attendance
-- [ ] Regular personal witnessing
-- [ ] Regular involvement in local church ministry
+- Daily personal prayer
+- Daily personal study of the Bible
+- Daily morning and evening family worship
+- Weekly Sabbath school attendance
+- Weekly church attendance
+- Weekly prayer meeting or midweek small-group Bible study attendance
+- Regular personal witnessing
+- Regular involvement in local church ministry
 
 “Where your treasure is, there your heart will be also” (Luke 12:34). If you invest time with Jesus, His people, and His work, your heart will be intertwined with His heart. Then, and only then, can you begin to experience the goal of discipleship—to be like Jesus. As you continue in this Discipleship Handbook, you will learn many important things about the Christian life. But above all else, you will establish essential spiritual habits that will transform your life and guard your soul.
 

@@ -101,7 +101,7 @@ d. A group of people who bring the transformative presence of God wherever they 
 
 Remember the story of my mother? As she was approaching I was expecting the worst. However, what I felt was an embrace. The embrace of that 4-foot-11 woman who saw me born and who could have easily knocked me down. A strong and long embrace, accompanied by tears and suffering. But above all, with an infinite dose of love. Dear friend, I can tell you I felt my mother’s hug. But in my state, far from this God who loves me so much, I felt it was God’s embrace. In that hug, I also felt God telling me: everything would be fine. You are forgiven.
 
-> <callout>Prayer</callout
+> <callout>Prayer</callout>
 > Heavenly Father, Thank You for Your love and the reminder that You desire to dwell with us. Help us to be living temples of Your Spirit, reflecting Your grace and extending Your love to those around us. May we serve, love, and share Your Good News, bringing Your presence wherever we go. Thank You for forgiving us and calling us to be part of Your mission. In Jesus’ name, we pray. Amen.
 
 ### Discussion Questions

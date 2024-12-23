@@ -24,6 +24,7 @@ export const RESOURCE_TYPE = {
     PM: "pm",
     AIJ: "aij",
     SS: "ss",
+    EXPLORE: "explore",
 }
 export const RESOURCE_COLOR_PRIMARY = "#d8d8d8"
 export const RESOURCE_COLOR_PRIMARY_DARK = "#949494"

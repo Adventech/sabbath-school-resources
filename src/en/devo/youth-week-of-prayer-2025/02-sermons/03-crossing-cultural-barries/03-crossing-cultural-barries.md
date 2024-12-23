@@ -114,7 +114,7 @@ Hindus believe that dreams are a significant means to understaning one’s fate,
 
 I am so glad that Jesus loves the 1.2 billion Hindus in the world. God is calling our young people to share His love with the Hindus people. The mandate given to the Adventist Church is to share the "good news" to all the world including the Hindus. Ellen White in her writings has challenged us to cross cultural barriers, and language to reach those who are hungry for "truth". We can begin by prayer. We invite you to sign up on the Global Mission Center for South Asian Religions website (gmcsar.org) to get a copy of the annual prayer guide. Next, building trust through friendship. Showing sympathy, Helping them with their needs are good next steps. Through the social and spiritual connection, the door can be open to Adventist young people to share their faith with the 1.2 Billon Hindus in the world.
 
-> <callout>Prayer</callout
+> <callout>Prayer</callout>
 > Heavenly Father, We thank You for the rich culture and traditions of our Hindu brothers and sisters, and for the opportunity to share Your love with them. Guide us to approach them with humility, respect, and genuine compassion. May our words and actions reflect Your grace, and may Your Holy Spirit prepare their hearts to receive the hope we have in Jesus Christ. Help us to build bridges of understanding and trust, so that Your love may reach every corner of the world. In Jesus' name, Amen.
 
 ### Discussion Questions

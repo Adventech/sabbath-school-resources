@@ -122,7 +122,7 @@ When we read the commandments and regulations that follow Moses’ speech in Deu
 
 When the LORD your God brings you into the land he swore to your fathers, to Abraham, Isaac and Jacob, to give you—a land with large, flourishing cities you did not build, houses filled with all kinds of good things you did not provide, wells you did not dig, and vineyards and olive groves you did not plant—then when you eat and are satisfied, be careful that you do not forget the LORD, who brought you out of Egypt, out of the land of slavery (Deut. 6:10-12).
 
-> <callout>Prayer</callout
+> <callout>Prayer</callout>
 > Heavenly Father, You are the God of cities and nations, Lord over all creation. As we reflect on Your Word, open our hearts to see the potential for transformation in the places we live. Help us to be instruments of Your justice, stewards of Your resources, and lights in the darkness. May we embody Your love, bringing glimpses of the New Jerusalem into our communities. Guide us to build cities where Your name is honored, and Your peace reigns. We ask this in Jesus' name, Amen.
 
 ### Discussion Questions

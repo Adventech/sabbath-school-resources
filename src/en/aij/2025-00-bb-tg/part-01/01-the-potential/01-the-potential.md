@@ -17,7 +17,7 @@ Think about these amazing facts!
 + **They can already discriminate between happy and sad expressions**. They are very sensitive to other people’s emotions, as well as their own, and they will react to what they feel. This means they will learn about emotions and love well before they ever learn about words and facts.
 + **For the first few months, a baby can distinguish between their language** and a foreign one—before being wired to their mom and dad’s language by the end of their first year. During the second year, they will recognize their own reflection in a mirror.
 + **Research indicates** that “during the first three years of [a child’s] life they learn more than all the rest of their lives” (Habenicht and Burton, 2004).
-+ **“John the Baptist was filled with the Holy Spirit from his birth**. If we live in communion with God, we too may expect the divine Spirit to mould our little ones, even from their earliest moments” (Ellen G. White, _The Adventist Home_, pp. 274, 275).
++ **“John the Baptist was filled with the Holy Spirit from his birth**. If we live in communion with God, we too may expect the divine Spirit to mould our little ones, even from their earliest moments” (Ellen G. White, ^[The Adventist Home]({"style": {"text": {"typeface": "PTSans-Italic"}}}), pp. 274, 275).
 
 If you ever thought that babies were too young to learn about Jesus, these staggering facts show us quite the opposite. Because they are so sensitive to surrounding stimuli, NOW is the time to nurture their love for God as well as their physical development.
 

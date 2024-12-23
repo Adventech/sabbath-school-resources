@@ -1,0 +1,11 @@
+---
+title: Statement on Homosexuality
+---
+
+The Seventh-day Adventist Church recognizes that every human being is valuable in the sight of God, and we seek to minister to all men and women in the spirit of Jesus. We also believe that by God’s grace and through the encouragement of the community of faith, an individual may live in harmony with the principles of God’s Word.
+
+Seventh-day Adventists believe that sexual intimacy belongs only within the marital relationship of a man and a woman. This was the design established by God at creation. The Scriptures declare: “For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh” (Gen 2:24, NIV). Throughout Scripture this heterosexual pattern is affirmed. The Bible makes no accommodation for homosexual activity or relationships. Sexual acts outside the circle of a heterosexual marriage are forbidden (Lev 18:5-23, 26; Lev 20:7-21; Rom 1:24-27; 1 Cor 6:9-11). Jesus Christ reaffirmed the divine creation intent: “‘Haven’t you read,’ he replied, ‘that at the beginning the Creator “made them male and female,” and said, “For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh?” So they are no longer two, but one'” (Matt 19:5, NIV). For these reasons Seventh-day Adventists are opposed to homosexual practices and relationships.
+
+Jesus affirmed the dignity of all human beings and reached out compassionately to persons and families suffering the consequences of sin. He offered caring ministry and words of solace to struggling people, while differentiating His love for sinners from His clear teaching about sinful practices. As His disciples, Seventh-day Adventists endeavor to follow the Lord’s instruction and example, living a life of Christ-like compassion and faithfulness.
+
+This statement was voted during the Annual Council of the General Conference Executive Committee on Sunday, October 3, 1999 in Silver Spring, Maryland. Revised by the General Conference Executive Committee, October 17, 2012.
