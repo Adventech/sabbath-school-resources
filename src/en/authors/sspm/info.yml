@@ -1,11 +1,30 @@
 id: sspm
 title: Sabbath School and Personal Ministries
+links:
+  - title: Official website
+    url: https://sabbathschoolpersonalministires.org
+  - title: Global TMI
+    url: https://globaltmi.org
+  - title: GROW
+    url: https://grow.adventist.org
+details:
+  - title: About
+    content: >-
+      Personal Ministries is a facet of the church whose origin can be traced to
+      the beginning of Seventh-day Adventist® history in the 1860s. It endeavors
+      to inspire, motivate, equip, train, and mobilize all members for dynamic
+      Christian service with the conviction that “The church of Christ is
+      organized for service” (_Ministry of Healing_, p. 148) and “Every son and
+      daughter of God is called to be a missionary; we are called to the service
+      of God and our fellow men” (_The Ministry of Healing_, p. 395).
+primaryColor: '#2F557F'
+primaryColorDark: '#183656'
 covers:
   landscape: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/authors/sspm/assets/cover-landscape.png
+    https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/cover-landscape.png
   square: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/authors/sspm/assets/cover-square.png
+    https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/cover-square.png
   portrait: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/authors/sspm/assets/cover.png
-  splash: >-
-    https://sabbath-school-stage.adventech.io/api/v2/en/authors/sspm/assets/splash.png
+    https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/cover.png
+logo: >-
+  https://sabbath-school-resources-assets.adventech.io/en/authors/sspm/assets/logo.png?update

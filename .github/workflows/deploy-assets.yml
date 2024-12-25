@@ -58,7 +58,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - run: find assets -mindepth 1 ! -name ".gitkeep" -exec rm -rf {} +
         name: Delete global assets content
-      - run: aws s3 cp ./src s3://sabbath-school-resources-assets.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png" --include "**/assets/fonts/*.ttf"
+      - run: aws s3 cp ./src s3://sabbath-school-resources-assets.adventech.io/ --acl "public-read" --region us-east-1 --no-progress --recursive --exclude "*" --include "**/assets/cover.png" --include "**/assets/cover-landscape.png" --include "**/assets/cover-square.png" --include "**/assets/splash.png" --include "**/assets/logo.png" --include "**/assets/fonts/*.ttf"
         name: Upload resource assets
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}

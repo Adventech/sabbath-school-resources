@@ -10,7 +10,7 @@ import { fdir } from "fdir"
 import { database } from "../helpers/firebase.js"
 import { getDocumentInfoYml } from "./deploy-documents.js"
 import { getLanguageInfo } from "./deploy-languages.js"
-import { arg, isMainModule, parseResourcePath } from "../helpers/helpers.js"
+import { arg, isMainModule, parseResourcePath, sortResourcesByPattern } from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
     API_DIST,
@@ -32,8 +32,10 @@ import {
     RESOURCE_AUDIO_FILENAME,
     RESOURCE_VIDEO_FILENAME,
     RESOURCE_PDF_FILENAME,
-    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING
+    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING, AUTHORS_DIRNAME
 } from "../helpers/constants.js"
+import { getAuthorInfo } from "./deploy-authors.js"
+import { getCategoryInfo } from "./deploy-categories.js"
 
 let getResourceInfo = async function (resource, depth = 0) {
     const resourceInfo = yaml.load(fs.readFileSync(resource, "utf8"));
@@ -109,8 +111,7 @@ let getResourceInfo = async function (resource, depth = 0) {
             scope: FEED_SCOPES.RESOURCE,
             view: resourceInfo.featuredResourcesView ?? FEED_VIEWS.FOLIO,
             title: languageInfo.featuredResources.title,
-            resources: featuredResources.filter(r => r),
-            seeAll: languageInfo.feedSeeAll ?? "See All",
+            resources: featuredResources.filter(r => r)
         }]
     }
 
@@ -221,25 +222,35 @@ let getResourceInfo = async function (resource, depth = 0) {
         })
     }
 
+    if (resourceInfo.author) {
+        try {
+            if (Array.isArray(resourceInfo.author)) {
+                resourceInfo.authors = []
+
+                for (let author of resourceInfo.author) {
+                    let authorInfo = await getAuthorInfo(`${SOURCE_DIR}/${resourcePathInfo.language}/${AUTHORS_DIRNAME}/${author}/info.yml`)
+                    resourceInfo.authors.push(authorInfo)
+                }
+
+                if (!resourceInfo.authors.length) {
+                    delete resourceInfo.authors
+                }
+            } else {
+                let authorInfo = await getAuthorInfo(`${SOURCE_DIR}/${resourcePathInfo.language}/${AUTHORS_DIRNAME}/${resourceInfo.author}/info.yml`)
+                resourceInfo.authors = [authorInfo]
+            }
+        } catch (e) {
+            console.log(`Error processing ${resourceInfo.title} ${resourceInfo.author} ${e}`)
+        }
+        delete resourceInfo.author
+    }
+
     return resourceInfo
 }
 
 let getResourceFeed = async function (resource) {
     return yaml.load(fs.readFileSync(resource, "utf8"))
 }
-
-let sortResourcesByPattern = function (resources, resourceIds) {
-    return resources.sort((a, b) => {
-        const indexA = resourceIds.findIndex((pattern) =>
-            picomatch(pattern)(a.id)
-        );
-        const indexB = resourceIds.findIndex((pattern) =>
-            picomatch(pattern)(b.id)
-        );
-        return indexA - indexB;
-    });
-}
-
 
 let processResources = async function (languageGlob, resourceType, resourceGlob) {
     const languages = new fdir()
@@ -300,7 +311,11 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                             author: g.author || null,
                             scope: g.scope || null,
                             resources: [],
+                            authors: [],
+                            categories: [],
                             resourceIds: g.resources || [],
+                            authorIds: g.authors || [],
+                            categoryIds: g.categories || [],
                             view: g.view || FEED_VIEWS.FOLIO,
                             recent: g.recent || null,
                             type: resourcePathInfo.type,
@@ -338,7 +353,67 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                 fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/index.json`, JSON.stringify(resourceInfo))
             } catch (e) {
-                console.error(`Error processing resources: ${e}`);
+                console.log(`Error processing resources: ${e}`);
+            }
+        }
+
+        if (
+            resourceFeedConfigs[language] &&
+            resourceFeedConfigs[language][resourceType].groups.find((g) => g.scope === FEED_SCOPES.AUTHOR)
+        ) {
+            let authors = new fdir()
+                .withBasePath()
+                .withRelativePaths()
+                .withMaxDepth(3)
+                .glob(`${language}/authors/*/${RESOURCE_INFO_FILENAME}`)
+                .crawl(SOURCE_DIR)
+                .sync().reverse()
+
+            for (let author of authors) {
+                console.log(`Processing author ${author}`)
+                try {
+                    const authorInfo = await getAuthorInfo(`${SOURCE_DIR}/${author}`, false)
+
+                    let resourceFeed = resourceFeedConfigs[language][resourceType]
+                    let groupByName = resourceFeed.groups.find(g => g.authorIds.some(i => picomatch(i)(authorInfo.id) ))
+
+                    if (groupByName) {
+                        groupByName.authors.push(authorInfo)
+                        groupByName.authors = sortResourcesByPattern(groupByName.authors, groupByName.authorIds)
+                    }
+                } catch (e) {
+                    console.log(`Error processing categories: ${e}`);
+                }
+            }
+        }
+
+        if (
+            resourceFeedConfigs[language] &&
+            resourceFeedConfigs[language][resourceType].groups.find((g) => g.scope === FEED_SCOPES.CATEGORY)
+        ) {
+            let categories = new fdir()
+                .withBasePath()
+                .withRelativePaths()
+                .withMaxDepth(3)
+                .glob(`${language}/categories/*/${RESOURCE_INFO_FILENAME}`)
+                .crawl(SOURCE_DIR)
+                .sync().reverse()
+
+            for (let category of categories) {
+                console.log(`Processing category ${category}`)
+                try {
+                    const categoryInfo = await getCategoryInfo(`${SOURCE_DIR}/${category}`)
+
+                    let resourceFeed = resourceFeedConfigs[language][resourceType]
+                    let groupByName = resourceFeed.groups.find(g => g.categoryIds.some(i => picomatch(i)(categoryInfo.id) ))
+
+                    if (groupByName) {
+                        groupByName.categories.push(categoryInfo)
+                        groupByName.categories = sortResourcesByPattern(groupByName.categories, groupByName.categoryIds)
+                    }
+                } catch (e) {
+                    console.log(`Error processing categories: ${e}`);
+                }
             }
         }
 
@@ -365,10 +440,14 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
             for (let resourceFeedForType of Object.keys(resourceFeedConfigs[resourceFeedLanguage])) {
                 let resourceFeed = resourceFeedConfigs[resourceFeedLanguage][resourceFeedForType]
 
-                resourceFeed.groups = resourceFeed.groups.filter(g => g.resources.length).map(g => {
+                let originalResourceFeed = JSON.parse(JSON.stringify(resourceFeedConfigs[resourceFeedLanguage][resourceFeedForType]))
+
+                resourceFeed.groups = resourceFeed.groups.filter(g => g.resources.length || g.authors.length || g.categories.length).map(g => {
                     delete g.kind
                     delete g.resourceIds
+                    delete g.authorIds
                     delete g.documentIds
+                    delete g.categoryIds
                     delete g.author
                     delete g.group
                     if (!g.scope && g.resources.length) {
@@ -382,15 +461,48 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                     if (g.reverse) {
                         g.resources = g.resources.reverse()
+                        g.authors = g.authors.reverse()
+                        g.categories = g.categories.reverse()
                         delete g.reverse
                     }
+
+                    if (g.scope === FEED_SCOPES.RESOURCE) {
+                        delete g.authors
+                        delete g.categories
+                    }
+
+                    if (g.scope === FEED_SCOPES.AUTHOR) {
+                        delete g.resources
+                        delete g.categories
+                    }
+
+                    if (g.scope === FEED_SCOPES.CATEGORY) {
+                        delete g.resources
+                        delete g.authors
+                    }
+
                     return g
                 })
 
                 for (let feedGroup of resourceFeed.groups) {
                     let feedGroupAll = { ...feedGroup }
                     feedGroupAll.direction = FEED_DIRECTION.VERTICAL
+
                     delete feedGroupAll.backgroundColor
+
+                    let key = "resources"
+                    let sortingKey = "resourceIds"
+
+                    if (feedGroup.scope === FEED_SCOPES.RESOURCE) {
+                        key = "resources"
+                        sortingKey = "resourceIds"
+                    } else if (feedGroup.scope === FEED_SCOPES.AUTHOR) {
+                        key = "authors"
+                        sortingKey = "authorIds"
+                    } else if (feedGroup.scope === FEED_SCOPES.CATEGORY) {
+                        key = "categories"
+                        sortingKey = "categoryIds"
+                    }
 
                     // Get existing feed for non-global deployments
                     if (resourceGlob !== "*") {
@@ -400,13 +512,19 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                             existingFeedResponse = await fetch(`${API_URL()}${API_PREFIX}${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`)
                             existingFeed = await existingFeedResponse.json()
                         } catch (e) {
-                            existingFeed = { resources: [] }
+                            if (feedGroup.scope === FEED_SCOPES.RESOURCE) {
+                                existingFeed = { resources: [] }
+                            } else if (feedGroup.scope === FEED_SCOPES.AUTHOR) {
+                                existingFeed = { authors: [] }
+                            } else if (feedGroup.scope === FEED_SCOPES.CATEGORY) {
+                                existingFeed = { categories: []}
+                            }
                         }
 
-                        for (let feedGroupResource of feedGroup.resources) {
+                        for (let feedGroupResource of feedGroup[key]) {
                             let found = false
 
-                            existingFeed.resources = existingFeed.resources.map((existingResource) => {
+                            existingFeed[key] = existingFeed[key].map((existingResource) => {
                                 if (existingResource.id === feedGroupResource.id) {
                                     found = true
                                     existingResource = feedGroupResource
@@ -415,18 +533,26 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                             })
 
                             if (!found) {
-                                existingFeed.resources.unshift(feedGroupResource)
+                                existingFeed[key].unshift(feedGroupResource)
+                                let originalResourceFeedGroup = originalResourceFeed.groups.find((g) => g.id === feedGroup.id)
+
+                                if (originalResourceFeedGroup) {
+                                    existingFeed[key] = sortResourcesByPattern(existingFeed[key], originalResourceFeedGroup[sortingKey])
+                                }
                             }
                         }
 
-                        feedGroupAll.resources = existingFeed.resources
-                        feedGroup.resources = existingFeed.resources
+                        feedGroupAll[key] = existingFeed[key]
+                        feedGroup[key] = existingFeed[key]
                     }
 
-                    fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`, JSON.stringify(feedGroupAll))
+                    let feedGroupAllFinal = JSON.parse(JSON.stringify(feedGroupAll))
+                    delete feedGroupAllFinal.seeAll
 
-                    if (resourceFeed.groups.length > 1 && feedGroup.resources.length > 10) {
-                        feedGroup.resources = feedGroup.resources.slice(0, 10)
+                    fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`, JSON.stringify(feedGroupAllFinal))
+
+                    if (resourceFeed.groups.length > 1 && feedGroup[key].length > 10) {
+                        feedGroup[key] = feedGroup[key].slice(0, 10)
                     }
                 }
 
@@ -446,6 +572,12 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                             }
                             return existingMainFeedGroup
                         })
+
+                        for (let resourceFeedGroup of resourceFeed.groups) {
+                            if (!existingMainFeed.groups.find((g) => g.id === resourceFeedGroup.id)) {
+                                existingMainFeed.groups.push(resourceFeedGroup)
+                            }
+                        }
 
                         resourceFeed.groups = existingMainFeed.groups
                     } catch (e) {

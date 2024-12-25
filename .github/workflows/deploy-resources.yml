@@ -62,6 +62,10 @@ jobs:
         name: Deploy resources
       - run: node ops/deploy/deploy-languages.js
         name: Deploy languages
+      - run: node ops/deploy/deploy-authors.js
+        name: Deploy authors
+      - run: node ops/deploy/deploy-categories.js
+        name: Deploy categories
       - run: aws s3 cp dist/ s3://sabbath-school`[[ "${{ inputs.branch }}" = "stage" ]] && echo '-stage'`.adventech.io --acl "public-read" --region us-east-1 --no-progress --recursive
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}

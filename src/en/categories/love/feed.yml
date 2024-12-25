@@ -1,8 +1,0 @@
----
-  - group: Devotionals
-    scope: resource
-    kind: devotional
-  - group: Other resources
-    scope: resource
-  - group: Found within titles
-    scope: document

@@ -17,6 +17,7 @@ import {
     DOCUMENT_INFO_FILENAME,
     SECTION_INFO_FILENAME, LANGUAGE_INFO_FILENAME, RESOURCE_FEED_FILENAME
 } from "./constants.js"
+import picomatch from "picomatch"
 
 const options = {
     alias: {
@@ -108,6 +109,10 @@ let getResourceTypesGlob = function () {
 
 let getPositiveCoverImagesGlob = function () {
     return `+(${Object.values(RESOURCE_COVERS).join("|")})`
+}
+
+let getPositiveCoverAndLogoImagesGlob = function () {
+    return `+(logo.png|${Object.values(RESOURCE_COVERS).join("|")})`
 }
 
 let getFontsGlob = function () {
@@ -362,6 +367,18 @@ if (!args.defaulted.lang
     }
 }
 
+let sortResourcesByPattern = function (resources, resourceIds) {
+    return resources.sort((a, b) => {
+        const indexA = resourceIds.findIndex((pattern) =>
+            picomatch(pattern)(a.id)
+        );
+        const indexB = resourceIds.findIndex((pattern) =>
+            picomatch(pattern)(b.id)
+        );
+        return indexA - indexB;
+    });
+}
+
 export {
     parseResourcePath,
     isMainModule,
@@ -370,6 +387,7 @@ export {
     getResourceTypesGlob,
     getPositiveCoverImagesGlob,
     getNegativeCoverImagesGlob,
+    getPositiveCoverAndLogoImagesGlob,
     getFontsGlob,
     escapeAssetPathForSed,
     getImageRatio,
@@ -381,4 +399,5 @@ export {
     getCurrentQuarter,
     getNextQuarter,
     deepMerge,
+    sortResourcesByPattern,
 }

@@ -6,7 +6,7 @@ import yaml from "js-yaml"
 import ttfMeta from "ttfmeta"
 import { fdir } from "fdir"
 import { getCategoryInfo } from "../deploy/deploy-categories.js"
-import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
+import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getPositiveCoverAndLogoImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
 import {
     ASSETS_URL,
     SOURCE_DIR,
@@ -45,8 +45,8 @@ let transferCategoriesAssets = async function () {
     const categoriesImageAssets = new fdir()
         .withBasePath()
         .withRelativePaths()
-        .withMaxDepth(4)
-        .glob(`**/${CATEGORIES_DIRNAME}/**/assets/${getPositiveCoverImagesGlob()}`)
+        .withMaxDepth(6)
+        .glob(`**/${CATEGORIES_DIRNAME}/**/assets/${getPositiveCoverAndLogoImagesGlob()}`)
         .crawl(SOURCE_DIR)
         .sync();
 
@@ -57,7 +57,6 @@ let transferCategoriesAssets = async function () {
         category[categoryKey].push(assetPath)
         return category
     }, {})
-
 
     for (let category of Object.keys(categories)) {
         const categoryPath = parseResourcePath(category)
@@ -71,14 +70,20 @@ let transferCategoriesAssets = async function () {
         for (let categoryImageAsset of categories[category]) {
             const imageAssetPath = parseResourcePath(categoryImageAsset)
 
+            if (imageAssetPath.document === "logo.png") {
+                categoryInfo.logo = `${ASSETS_URL}/${categoryInfo.language}/${AUTHORS_DIRNAME}/${categoryInfo.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.document}`
+                if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${categoryInfo}`)
+            }
+
             Object.keys(RESOURCE_COVERS).map(k => {
-                if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    categoryInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${ASSETS_URL}/${categoryPath.language}/${CATEGORIES_DIRNAME}/${categoryPath.title}/${CATEGORY_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                if (imageAssetPath.document === RESOURCE_COVERS[k]) {
+                    categoryInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${ASSETS_URL}/${categoryPath.language}/${CATEGORIES_DIRNAME}/${categoryPath.title}/${CATEGORY_ASSETS_DIRNAME}/${imageAssetPath.document}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${categoryImageAsset}`)
                 }
             })
         }
-        if (mode === "remote") fs.outputFileSync(categoryInfoFile, yaml.dump(categoryInfo))
+        // if (mode === "remote")
+            fs.outputFileSync(categoryInfoFile, yaml.dump(categoryInfo))
     }
 }
 
@@ -86,8 +91,8 @@ let transferAuthorsAssets = async function () {
     const authorsImageAssets = new fdir()
         .withBasePath()
         .withRelativePaths()
-        .withMaxDepth(4)
-        .glob(`**/${AUTHORS_DIRNAME}/**/assets/${getPositiveCoverImagesGlob()}`)
+        .withMaxDepth(6)
+        .glob(`**/${AUTHORS_DIRNAME}/**/assets/${getPositiveCoverAndLogoImagesGlob()}`)
         .crawl(SOURCE_DIR)
         .sync();
 
@@ -98,7 +103,6 @@ let transferAuthorsAssets = async function () {
         author[authorKey].push(assetPath)
         return author
     }, {})
-
 
     for (let author of Object.keys(authors)) {
         const authorPath = parseResourcePath(author)
@@ -112,9 +116,14 @@ let transferAuthorsAssets = async function () {
         for (let authorImageAsset of authors[author]) {
             const imageAssetPath = parseResourcePath(authorImageAsset)
 
+            if (imageAssetPath.document === "logo.png") {
+                authorInfo.logo = `${ASSETS_URL}/${authorPath.language}/${AUTHORS_DIRNAME}/${authorPath.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.document}`
+                if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${authorImageAsset}`)
+            }
+
             Object.keys(RESOURCE_COVERS).map(k => {
-                if (imageAssetPath.section === RESOURCE_COVERS[k]) {
-                    authorInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${ASSETS_URL}/${authorPath.language}/${AUTHORS_DIRNAME}/${authorPath.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.section}`
+                if (imageAssetPath.document === RESOURCE_COVERS[k]) {
+                    authorInfo.covers[getCoverKey(RESOURCE_COVERS[k])] = `${ASSETS_URL}/${authorPath.language}/${AUTHORS_DIRNAME}/${authorPath.title}/${AUTHORS_ASSETS_DIRNAME}/${imageAssetPath.document}`
                     if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${authorImageAsset}`)
                 }
             })

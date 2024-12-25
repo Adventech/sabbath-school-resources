@@ -1,0 +1,13 @@
+id: prayer
+title: Prayer
+primaryColor: '#C29FFF'
+primaryColorDark: '#814FD8'
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/categories/prayer/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/categories/prayer/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/categories/prayer/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/categories/prayer/assets/splash.png
