@@ -1,5 +1,5 @@
 ---
-title: "A Further Overlooked Factor: Daily"
+title: Testimonies
 ---
 
 ### What Do Leaders, Pastors And Theologians Have To Say?

@@ -15,8 +15,6 @@ Jesus advocated daily discipleship. I have the impression that we often don’t 
 
 (2 Corinthians 4:16 NKJV)
 
-32 CHAPTER 3 A FURTHER OVERLOOKED FACTOR: DAILY
-
 The inward man is also programmed for this daily rhythm. Paul said about himself: “... I die daily.” (1 Corinthians 15:31 NKJV) This then means that he experienced a daily renewal with God’s help. Who programmed us with this rhythm anyway? Jesus, our creator and redeemer, programmed us for daily.
 
 What did Jesus personally do? Ellen G. White says:
