@@ -26,5 +26,6 @@
   - group: Categories
     view: tile
     scope: category
+    showTitle: false
     categories:
       - prayer

@@ -282,7 +282,7 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
                 .sync();
 
             for (let segment of segments) {
-                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^_teacher-comments\.md/.test(segment) ? "" : append)
+                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^teacher-comments\.md/.test(segment) ? "" : append)
                 let segmentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`)
 
                 // skipping hidden segments

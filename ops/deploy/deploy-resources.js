@@ -310,6 +310,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                             title: g.group || null,
                             author: g.author || null,
                             scope: g.scope || null,
+                            showTitle: g.hasOwnProperty('showTitle') ? g.showTitle : null,
                             resources: [],
                             authors: [],
                             categories: [],
@@ -358,7 +359,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
         }
 
         if (
-            resourceFeedConfigs[language] &&
+            resourceFeedConfigs[language] && resourceFeedConfigs[language][resourceType] &&
             resourceFeedConfigs[language][resourceType].groups.find((g) => g.scope === FEED_SCOPES.AUTHOR)
         ) {
             let authors = new fdir()
@@ -388,7 +389,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
         }
 
         if (
-            resourceFeedConfigs[language] &&
+            resourceFeedConfigs[language] && resourceFeedConfigs[language][resourceType] &&
             resourceFeedConfigs[language][resourceType].groups.find((g) => g.scope === FEED_SCOPES.CATEGORY)
         ) {
             let categories = new fdir()
