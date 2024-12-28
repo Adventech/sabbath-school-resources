@@ -1,6 +1,10 @@
 ---
   title: Explore
   groups:
+  - group: Adventist Review
+    view: folio
+    resources:
+      - en-explore-adventist-review-*
   - group: Family Ministries
     view: folio
     resources:
