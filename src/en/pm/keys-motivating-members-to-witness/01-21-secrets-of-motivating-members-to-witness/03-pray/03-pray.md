@@ -1,5 +1,6 @@
 ---
 title: Pray
+subtitle: Secret 3
 ---
 
 God is the best motivator. “‘Pray ye therefore the Lord of the harvest, that He will send forth laborers into His harvest.’ These words teach us how the field is to be supplied with workers who will labor for the salvation of souls.”<sup>33</sup> As a motivator, ask God daily to motivate certain individuals. Then urge them to claim from Jesus His love for souls, as stated above, to give themselves to God for the saving of the lost, and to claim the daily baptism of the Holy Spirit. He will motivate (see _Testimonies, vol. 8_, p. 21).

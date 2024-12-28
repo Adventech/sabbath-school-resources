@@ -1,5 +1,6 @@
 ---
 title: Engage participants in planning, goal setting, and evaluation
+subtitle: Secret 10
 ---
 
 People take better care of their own babies than the babies of others. When they own the plan, having formulated it, and set specific goals and target dates, they are much more likely to carry out their plan and reach their goals than if told what to do. And the good news is that when the members make their own plans and set their own goals they are motivated to set them much higher than envisioned by the leaders, or when they are told what to do.

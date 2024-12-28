@@ -1,5 +1,6 @@
 ---
 title: Conduct regularly scheduled support and training meetings that facilitate constant improvement
+subtitle: Secret 12 
 ---
 
 Continual support and training are vital to maintain motivation. Just launching a program is not enough. A weekly meeting, bathed in prayer, conducted by the pastor or experienced soul winner is excellent. This essential meeting may be very short, but remember, promptness and regularity help to prevent discouragement. When people get discouraged it becomes more difficult to motivate them. Certain ones may have had a difficult experience. First share successes and then challenges. When those who have had a difficult experience hear the success of others they will be encouraged. As each experience is shared, ask, “What can we learn from this?” The leader of the meeting does not answer and lecture, but involves all present and, with constant interaction and input, elaborates on the good points suggested by each person. Everyone who shares thoughts and successes is motivated. When others in the group share how they met the same challenges in the past, the ones with the new challenges gain ideas as to how to move forward. Base any instruction needed on the needs expressed. Keep it simple and pertinent to the coming week’s activities.

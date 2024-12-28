@@ -1,5 +1,6 @@
 ---
 title: Share the joy of witnessing
+subtitle: Secret 4
 ---
 
 Witnessing becomes contagious when even one person in a Sabbath School class or Action Unit shares the joy of witnessing— how God became very real as He worked through him or her.

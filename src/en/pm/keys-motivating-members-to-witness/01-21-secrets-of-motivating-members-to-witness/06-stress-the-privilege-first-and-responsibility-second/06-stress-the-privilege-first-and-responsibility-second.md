@@ -1,5 +1,6 @@
 ---
 title: Stress the “privilege” first and “responsibility” second
+subtitle: Secret 6
 ---
 
 The duty and responsibility of every member to become involved in witnessing, and also the results of failure to do so are emphatically stressed in the Spirit of Prophecy. (These important statements will be shared near the end of this booklet, so that they could, perhaps, be used more wisely). But the joy and benefits of sharing are also underscored by Ellen White.

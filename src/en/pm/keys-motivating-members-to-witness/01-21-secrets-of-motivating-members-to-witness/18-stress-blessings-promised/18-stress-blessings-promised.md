@@ -1,5 +1,6 @@
 ---
 title: Stress blessings promised
+subtitle: Secret 18
 ---
 
 We turn now to just a few of the tremendous blessings promised in the writings of Ellen White to those who work with Christ in witnessing. There are so many blessings promised in every line or two that it is too difficult to put captions on them all. We can only praise God for the richness promised and work and pray to help every member receive their benefits.

@@ -10,6 +10,8 @@
     reverse: true
     view: tile
     resources:
+      - en-devo-bhp-2025
+      - en-devo-bhp-sop-2025
       - en-devo-bhp-*
   - group: Steps to Personal Revival
     view: folio
@@ -33,4 +35,5 @@
     resources:
       - en-devo-the-way-back-to-altar
       - en-devo-when-god-said-remember
+      - en-devo-hope-for-troubled-times
       - en-devo-test

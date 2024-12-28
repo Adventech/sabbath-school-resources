@@ -1,5 +1,6 @@
 ---
 title: Know other truths and remnant church history that motivate
+subtitle: Secret 2
 ---
 
 Members will be motivated to witness when they vividly discern and internalize the whole package of fundamental biblical truths and the history of God’s leading in the advent movement (in the light of the Great Controversy), and when they yield to the influence of the Holy Spirit upon their responsive hearts. Also, the act of sharing even a very limited knowledge of these truths will be found one of the greatest motivators to further sharing.

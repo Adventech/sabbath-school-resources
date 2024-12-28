@@ -1,5 +1,6 @@
 ---
 title: Recognize that “Many would be willing to work if they were taught how to begin.”
+subtitle: Secret 14
 ---
 
 _**“Many would be willing to work if they were taught how to begin.”**_ <sup>40</sup>

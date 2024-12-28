@@ -1,5 +1,6 @@
 ---
 title: Work together toward target dates and provide rest periods
+subtitle: Secret 11
 ---
 
 As indicated above, total involvement in working towards specific target dates can be very motivating. Let’s use the evangelistic cycle as an example. If an evangelistic reaping meeting is planned to begin, say, May 15, individual members, or, preferably, Sabbath School Action Units or other small groups, can be inspired to work diligently toward that date in anticipation of a harvest. They can begin January 1 with cultivating friendships and various cultivation activities, such as community service projects, Bible study advertising, etc., and begin sowing with Bible studies by February 15, so that interests can be prepared for a graduation the first night of the month long harvesting meetings beginning May 15. (The meetings will basically be a review of the message they have already studied in their homes. With that preparation they will be able to make intelligent lasting decisions during the meetings).

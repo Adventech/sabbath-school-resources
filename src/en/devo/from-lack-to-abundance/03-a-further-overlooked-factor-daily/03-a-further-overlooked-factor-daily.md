@@ -1,5 +1,6 @@
 ---
 title: "A Further Overlooked Factor: Daily"
+subtitle: Chapter 3
 ---
 
 Jesus said to His disciples in Luke 9:23-25 (NKJV) about discipleship:

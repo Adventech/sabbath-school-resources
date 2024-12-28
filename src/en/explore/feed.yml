@@ -14,7 +14,7 @@
     view: folio
     resources:
       - en-explore-stewardship-offertory-readings-2025
-      - en-explore-steps-to-discipleship-leader-guide
+      - en-explore-steps-to-discipleship-*
   - group: Other Resources
     view: folio
     scope: resource

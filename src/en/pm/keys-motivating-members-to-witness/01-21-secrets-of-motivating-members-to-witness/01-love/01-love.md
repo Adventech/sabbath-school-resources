@@ -1,5 +1,6 @@
 ---
 title: Love
+subtitle: Secret 1
 ---
 
 “It is the Saviour’s love that constrains the messenger to bear the message to the lost.”<sup>8</sup> When Paul caught a glimpse of the love of Jesus for the lost he said, “The love of Christ leaves us no choice” but to share it (2 Corinthians 5:14, NEB). “For the love of Christ controls and urges and impels us” (Amplified Bible). A clear picture of Christ’s love for a soul gave the early church one purpose for existence. They endured poverty, persecution, and death to “ring doorbells.” Notice how contemplating His love motivated Ellen White: “As I have thought of that cup trembling in the hands of Christ; as I have realized that He might have refused to drink, and left the world to perish in its sin, I have pledged that every energy of my life should be devoted to the work of winning souls to Him.”<sup>9</sup>

@@ -4,7 +4,6 @@
   - group: Global TMI
     view: tile
     resources:
-      - en-pm-making-disciples-101
       - en-pm-global-tmi-church*
       - en-pm-global-tmi*
   - group: GROW Series
@@ -13,6 +12,7 @@
       - en-pm-discipleship-handbook
       - en-pm-spread-the-word
       - en-pm-fundamentals-of-faith
+      - en-pm-making-disciples-101
   - group: Keys Series
     view: folio
     resources:

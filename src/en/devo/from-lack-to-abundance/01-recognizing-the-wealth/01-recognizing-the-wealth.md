@@ -1,5 +1,6 @@
 ---
 title: "Recognizing The Wealth: Closing the crucial gap"
+subtitle: Chapter 1
 ---
 
 ### Recognizing the Wealth

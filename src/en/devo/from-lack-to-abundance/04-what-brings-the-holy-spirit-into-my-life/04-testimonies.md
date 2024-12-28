@@ -1,5 +1,6 @@
 ---
 title: "What Brings The Holy Spirit Into My Life?: What does everything depend on?"
+subtitle: Chapter 4
 ---
 
 What is given to believers through a life in the Holy Spirit, who live in complete surrender to Jesus and daily ask for and receive the Holy Spirit?
@@ -7,35 +8,20 @@ What is given to believers through a life in the Holy Spirit, who live in comple
 It essentially has to do with two areas: the fruit of the Spirit and the gifts of the Spirit. Saving souls is influenced by the fruit of the Spirit as well as the gifts of the Spirit. We will only take a look at the fruit here, although to this day I don’t have a complete picture of the entire blessing, which God gives us on this path nor can I comprehensively present it. In short: Jesus gives us gifts through the Holy Spirit. The Holy Spirit is the gift of God, which brings all the others gifts with it.
 
 1. **New fulfilled life** – John 10:10 NKJV: “... that they may have it [life] more abundantly,” which will be continued in eternal life in glory. John 3:5 NKJV: “... unless one is born of water and the Spirit, he cannot enter the kingdom of God.”
-
 2. **Powerful life** – Ephesians 3:16 NKJV: “That He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man.” We receive power, motivation and joy for our life and willingness to obey.
-
 3. **Jesus becomes much more valuable to us** – John 16:14 NKJV: “He will glorify Me....” Total trust in Jesus brings peace and joy! It is marvelous to trust in Jesus.
-
 4. **Jesus lives in us** – Corinthians 1:27 NKJV: “... which is Christ in you, the hope of glory.” Ephesians 3:16-17 NKJV: “... to be strengthened with might through His Spirit... that Christ may dwell in your hearts through faith ...” (More in the book Abide in Jesus, chapter 3.)
-
 5. **Character renewal**, away from egoism, which tyrannizes us, towards God’s love. Ephesians 3:17 NKJV: “that Christ may dwell in your hearts through faith; that you, being rooted and grounded in love.”
-
 6. **Christ our righteousness** – Romans 8:4 NKJV: “that the righteous requirement of the law might be fulfilled in us who ... walk according ... according to the Spirit.”
-
 7. **Prayer** is a gift of the Holy Spirit. He gives us delight in prayer. Galatians 4:6 NKJV: “And because you are sons, God has sent forth the Spirit of His Son into your hearts, crying out, ‘Abba, Father!’” Jesus said in John 15:7 NKJV: “If you abide in Me, and My words abide in you, you will ask what you desire, and it shall be done for you.”
-
 8. **Delight in God’s word.** The Holy Spirit creates a hunger in us for the Word of God. It is His mission to guide us into all truth. (John 16:13) “... He will teach you all things, and bring to your remembrance all things that I said to you.” (John 14:26 NKJV) He is the Spirit of knowledge (Isaiah 11:2). Not only will our hunger be stilled by the Word of God, but we will also discover treasures, which will make our life happy and rich and will motivate us to speak about it.
-
 9. **He gives us assurance of salvation** – Romans 8:16 NKJV: “The Spirit Himself bears witness with our spirit that we are children of God.”
-
 10. **Empowers us to witness**. As Spirit-filled workers of Jesus, we gladly tell other people about Jesus and faith. Acts 1:8 NKJV: “But you shall receive power [ability, be equipped] when the Holy Spirit has come upon you; and you shall be witnesses ...” Our faith will be attractive to us and our fellow men.
-
 11. **Deliverance from the power of sin** – We are freed in Christ from damnation; we are freed through the Holy Spirit from the power of sin (Romans 8:1-2). We will sin less and less, because we don’t want to anymore. When we fail, we confess it. With God’s help we leave everything that we have realized is wrong (1 John 5:18; 1 John 2:1). “For the law of the Spirit of life in Christ Jesus has made me free from the law of sin and death.” (Romans 8:2 NKJV)
-
 12. **Our thoughts will be ordered**. Galatians 5:16 NKJV: “... Walk in the Spirit, and you shall not fulfill the lust of the flesh.” (Think about the 10th commandment: you shall not covet....) 2 Corinthians 10:5 NKJV: “... bringing every thought into captivity to the obedience of Christ.”
-
 13. **Preservation, protection, ability to discriminate, steadfastness** – Matthew 24:24 NKJV: “... to deceive, if possible, even the elect.” 1 John 5:18 NKJV: “We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him.”
-
 14. **I receive advice.** The Holy Spirit the “Spirit of counsel” (Isaiah 11:2 NKJV). He is the only one who can give me the right answer to every question.
-
 15. Last, but very important. **Leading people to Christ through a life of service in the Holy Spirit**. I am convinced that we would have many more church members today, if we didn’t have a lack of the Holy Spirit! And many would have a much deeper spiritual level.
-
 16. **Liberty** – 2 Corinthians 3:17: “Where the Spirit of the Lord is, there is liberty.” “In the change that takes place when the soul surrenders to Christ, there is the highest sense of freedom.” (Desire of Ages, p. 466.4)
 
 ### What does everything depend on?

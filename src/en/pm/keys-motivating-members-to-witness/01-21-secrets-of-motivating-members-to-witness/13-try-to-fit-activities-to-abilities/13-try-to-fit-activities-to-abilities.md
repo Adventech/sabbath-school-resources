@@ -1,5 +1,6 @@
 ---
 title: Try to fit activities to abilities, but be careful—don’t limit God
+subtitle: Secret 13
 ---
 
 Experience has taught that God increases the talents and abilities of people who work with Him far beyond man’s expectation. The key is to depend on His wisdom and power. Gideon, the poor, uneducated thresher, is only one of many Bible examples. And examples are not limited to Bible times.

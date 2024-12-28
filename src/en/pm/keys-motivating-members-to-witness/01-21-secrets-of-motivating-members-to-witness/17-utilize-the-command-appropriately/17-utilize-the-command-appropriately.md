@@ -1,5 +1,6 @@
 ---
 title: Utilize the “command” appropriately
+subtitle: Secret 17
 ---
 
 Now we come to the gospel commission—the “command” in Matthew 28:19-20, and other similar words used by Ellen to motivate the membership. We have reserved the following Ellen White statements until near the end of this leaflet. Certainly it would not be wise to use these pointed statements to beat people over the head. But they should be used, and used appropriately.
