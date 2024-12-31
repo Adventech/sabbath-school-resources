@@ -18,6 +18,7 @@ import { html } from "./html.js"
 
 import { style } from "./style.js"
 import { superscript } from "./superscript.js"
+import { sanitize } from "./sanitize.js"
 
 export {
     story,
@@ -41,4 +42,5 @@ export {
     excerpt,
     table,
     html,
+    sanitize,
 }

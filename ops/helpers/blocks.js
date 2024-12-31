@@ -1,6 +1,7 @@
 import crypto from "crypto"
 import { marked } from "marked"
 import { story, storySlide, carousel, slide, image, collapse, audio, video, reference, question, blockquote, hr, heading, list, paragraph, poll, style, excerpt, table, html } from "./blocks/index.js"
+import { getBibleData } from "./bible.js"
 
 marked.use({
     extensions: [
@@ -52,7 +53,26 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
     }
 
     if (supportedBlockTypes[block.type]) {
-        let processedBlock = await supportedBlockTypes[block.type].process(block, resourcePath, depth)
+        let blockType = block.type
+
+        // This is a fix for the Bible book names that start with \d\.,
+        // ex. 2. Mose 33,15-22;
+        // to treat them as paragraph and not like a list
+        if (block.type === "list" && block.ordered) {
+            const bibleData = depth !== "no-bible" ? getBibleData(resourcePath, block.raw) : null
+
+            if (bibleData
+                && bibleData.bibleData.length
+                && bibleData.text
+                && new RegExp(`^\\[${block.start}\\.`, "g").test(bibleData.text)
+            ) {
+                blockType = "paragraph"
+                block.type = "paragraph"
+                block.text = block.raw
+            }
+        }
+
+        let processedBlock = await supportedBlockTypes[blockType].process(block, resourcePath, depth)
 
         // In certain cases we might decide that we should skip this block, i.e image is referencing local file that
         // does not exist. In this case we will skip it

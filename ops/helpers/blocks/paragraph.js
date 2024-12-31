@@ -4,6 +4,7 @@ import crypto from "crypto"
 import { parseSegment } from "../blocks.js"
 import { completion } from "./completion.js"
 import { superscript } from "../blocks/index.js"
+import { sanitize } from "../blocks/index.js"
 
 export const paragraph = {
     extension: {},
@@ -11,6 +12,7 @@ export const paragraph = {
         let text = block.text.trim()
 
         text = superscript(text)
+        text = sanitize(text)
 
         if (/<a>?/g.test(block.raw)) {
             return false

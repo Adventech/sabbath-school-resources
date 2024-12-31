@@ -21,6 +21,7 @@
     "marked": "^4.3.0",
     "node-html-markdown": "^1.3.0",
     "picomatch": "^3.0.1",
+    "sanitize-html": "^2.14.0",
     "ttfmeta": "^1.1.2",
     "turndown": "^7.1.2",
     "yargs": "^17.7.2"
