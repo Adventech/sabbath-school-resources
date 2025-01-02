@@ -64,19 +64,18 @@ let getDocumentInfoYml = async function (document) {
 let getSegmentInfo = async function (segment, processBlocks = false, append = "") {
     let segmentFile = fs.readFileSync(segment, "utf8")
 
+    const segmentInfoFrontMatter = frontMatter(segmentFile)
+    const segmentPathInfo = parseResourcePath(segment)
+
     const egwNotesRegex = /\n#{2,}\s*Additional Reading[\s\S]*/g // = #### Additional Reading
-    const match = segmentFile.match(egwNotesRegex)
+    const match = segmentInfoFrontMatter.body.match(egwNotesRegex)
 
     if (match) {
         const foundLines = match[0]
-        const replacement = `\`\`\`=${foundLines.replace(/\n#{2,}\s*/, '').trim()}\n\`\`\``
-        segmentFile = segmentFile.replace(egwNotesRegex, replacement)
+        const replacement = `\n\`\`\`=${foundLines.replace(/\n#{2,}\s*/, '').trim()}\n\`\`\``
+        segmentInfoFrontMatter.body = segmentInfoFrontMatter.body.replace(egwNotesRegex, replacement)
     }
-
-    segmentFile += append
-
-    const segmentInfoFrontMatter = frontMatter(segmentFile)
-    const segmentPathInfo = parseResourcePath(segment)
+    segmentInfoFrontMatter.body += append
 
     const segmentInfo = {
         ...segmentInfoFrontMatter.attributes,

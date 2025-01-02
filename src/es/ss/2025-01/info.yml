@@ -15,6 +15,7 @@ start_date: 28/12/2024
 end_date: 28/03/2025
 color_primary: '#1C2D1C'
 color_primary_dark: '#0D200D'
+splash: true
 credits:
   - name: Autor
     value: John C. Peckham

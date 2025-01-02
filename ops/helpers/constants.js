@@ -134,6 +134,8 @@ export const MEDIA_PDF_URL_LEGACY = `https://sabbath-school-pdf${DEPLOY_ENV === 
 export const FIREBASE_DATABASE_NAME = (DEPLOY_ENV === "prod") ? "https://blistering-inferno-8720.firebaseio.com" : "https://sabbath-school-stage.firebaseio.com"
 export const FIREBASE_DATABASE_LANGUAGES = "languages"
 export const FIREBASE_DATABASE_RESOURCES = "resources"
+export const FIREBASE_DATABASE_USER_DATA = "userData"
+export const FIREBASE_DATABASE_USER_DATA_INPUT = "input"
 export const FIREBASE_DATABASE_BLOCKS = "blocks"
 export const FIREBASE_DATABASE_DOCUMENTS = "documents"
 export const FIREBASE_DATABASE_SEGMENTS = "segments"
