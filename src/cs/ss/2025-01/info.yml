@@ -13,6 +13,7 @@ start_date: 28/12/2024
 end_date: 28/03/2025
 color_primary: '#B89B7D'
 color_primary_dark: '#8F7254'
+splash: true
 credits:
   - name: Autor
     value: John C. Peckham
@@ -27,3 +28,5 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/cs/ss/2025-01/assets/splash.png

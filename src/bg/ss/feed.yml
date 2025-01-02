@@ -7,3 +7,7 @@ groups:
     view: folio
     resources:
       - '*[0-9-]+-cq|*-iv'
+  - group: Уроци за юноши
+    view: folio
+    resources:
+      - '*[0-9-]+-cc'
