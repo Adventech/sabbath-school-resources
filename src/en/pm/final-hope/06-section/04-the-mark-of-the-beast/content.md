@@ -1,0 +1,45 @@
+---
+title: The Mark of the Beast
+---
+
+Revelation 13 repeats a great deal of imagery directly from Daniel 7, including Rome’s past persecution of God’s people—it “shall persecute the saints” (Daniel 7:25); it will “make war with the saints” (Revelation 13:7). The same verse that depicts this persecution, Daniel 7:25, also tells of Rome’s attempt to change the law (it shall “think to change times and laws” [KJV]). Then, in the context of Rome (remember, in Daniel 2 and Daniel 7, Rome is the final earthly power remaining until God establishes His eternal kingdom), which is identified in Revelation 13:1-9 as a beast, the issue of worshipping the image in the last days first appears in Revelation 13:8, 12-15. This, in contrast to the three angels’ messages, which warn against worshipping “the beast and his image” (Revelation 14:9, 10), but not before calling people to “worship Him who made heaven and earth, the sea and springs of water” (verse 7)—language taken from the fourth commandment, which the beast power had attempted to change!
+
+To repeat: “A. We observe Sunday instead of Saturday because the Catholic Church transferred the solemnity from Saturday to Sunday” (Peter Geiermann, The Convert’s Catechism of Catholic Doctrine [Rockford, Ill.: Tan Books and Publishers, 1977], p. 50).
+
+The issue becomes clearer because, right after warning about this false worship, the third angel’s message portrays God’s people like this: “Here is the patience of the saints; here are those who keep the commandments of God and the faith of Jesus” (Revelation 14:12). In direct contrast to those who worship the beast and its image, God’s people are depicted, besides having “the faith of Jesus,” as keeping the commandments of God, which includes the one commandment that points to Him as the Creator, as the one “who made heaven and earth, the sea and springs of water” (verse 7)—again, the commandment that Rome had attempted to change!
+
+Worship the Creator? Or worship the beast and its image? Can the issue of worshipping the beast and its image, or worshipping the Creator, Jesus (see John 1:1-3; Hebrews 1:1, 2; 1 Corinthians 8:6; Colossians 1:15- 17), really be outwardly manifested over Sabbath versus Sunday?
+
+How else? We worship God because, as the Creator (and also our Redeemer), He alone is worthy of worship (Revelation 5:9), and no more foundational symbol of Him as our Creator exists than the seventh-day Sabbath—blessed and made holy in Creation itself. For an earthly power, then, to seek to change, to usurp, the most basic sign, the seventh-day Sabbath, of the most basic doctrine, creation, is to attempt to usurp the Lord’s authority at the most basic level possible: Him as Creator. The only level more basic is God Himself. No power, in heaven or on earth, can get to Him, so instead they get as close as possible: to the foundational sign of Him as Creator.
+
+How fundamental is worship of the Creator to Christianity?
+
+It’s a truth so fundamental that God commands one seventh of our lives, every week, to remember it. That’s why it’s hard to see how the controversy about worship—either worship of the beast (the very power that attempted to change the Sabbath) and its image, or worship of the Creator—could be centered on anything else but the day God established as a memorial to Him as Creator. This in contrast to the day that the beast power has established instead.
+
+But killing people over the seventh-day Sabbath? Can that really happen? It already has! The Gospels themselves give us a precursor to it: those promoting human tradition wanting to kill because of the seventh-day Sabbath.
+
+In John 9 Jesus had healed on the Sabbath a man blind from birth, perhaps the greatest miracle ever yet seen. “Since the world began it has been unheard of that anyone opened the eyes of one who was born blind” (John 9:32). How did the religious authorities respond? They accused Jesus of having violated the seventh-day Sabbath, saying, “This Man is not from God, because He does not keep the Sabbath” (verse 16). A conflict between human tradition (nothing in the Bible forbade healing on the Sabbath, just as nothing in the Bible has Sunday as a holy day) and God’s law—specifically the seventh-day Sabbath of the fourth commandment—was brewing.
+
+“Now when He had departed from there, He went into their synagogue. And behold, there was a man who had a withered hand. And they asked Him, saying, ‘Is it lawful to heal on the Sabbath?’— that they might accuse Him. Then He said to them, ‘What man is there among you who has one sheep, and if it falls into a pit on the Sabbath, will not lay hold of it and lift it out? Of how much more value then is a man than a sheep? Therefore it is lawful to do good on the Sabbath.’ Then He said to the man, ‘Stretch out your hand.’ And he stretched it out, and it was restored as whole as the other” (Matthew 12:9-13).
+
+How did the religious leaders respond to this astonishing expression of God’s power? “But the Pharisees went out and plotted how they might kill Jesus” (verse 14, NIV).
+
+Kill Jesus? Death because of the seventh-day Sabbath?
+
+In John 5:1-16, after another miraculous healing on the seventh- day Sabbath, the religious leaders “persecuted Jesus, and sought to kill him, because He had done this on the Sabbath.”
+
+Wanting to kill because of the seventh-day Sabbath? Death because of human tradition versus the seventh-day Sabbath? Exactly! Though the specific issue here isn’t the same as what the world will face in the final days, it’s close enough: human law versus God’s, and in these cases the part of God’s law under contention is the Sabbath commandment, the one commandment that gets to the foundation of why we should worship only God, the Creator, and nothing or no one else.
+
+In the life of Jesus, then, we can find precursors, hints, to what those “who keep the commandments of God and the faith of Jesus” (Revelation 14:12) will face: human tradition in conflict with God’s law.
+
+How does this idea, that of the mark of the beast centering on the biblical Sabbath, the seventh day of the week, versus human tradition, the first day, fit with the warning about the end-time power that “causes all, both small and great, rich and poor, free and slave, to receive a mark on their right hand or on their foreheads, and that no one may buy or sell except one who has the mark or the name of the beast, or the number of his name” (Revelation 13:16, 17)?
+
+During the centuries, speculation has arisen over what the “mark on the right hand or their foreheads” means. But that’s only what it has been, speculation. More remains to be revealed. But, going on the principle that the Old Testament holds the key to interpreting Revelation, we can find indications of what Revelation is talking about here.
+
+Before the children of Israel were about to enter the Promised Land, Moses, having warned them many times about false worship, reminded them to keep God’s commandments, that is, His law. He then said: “Therefore you shall lay up these words of mine in your heart and in your soul, and bind them as a sign on your hand, and they shall be as frontlets between your eyes” (Deuteronomy 11:18).
+
+Exactly how they were supposed to bind his words to their hands and between their eyes, we don’t know (the practice today of religious Jews “wrapping tefillin” is one interpretation). Yet they were to keep these words, God’s law, “in your heart and in your soul,” and this faithful adherence to God’s law was to be manifested by the words being put on their hand, symbolic of deeds, actions, and on their heads, symbolic of their knowledge of God’s law. Though one can’t be too dogmatic about exactly how this was done in ancient Israel, or how in the last days this “mark on their right hand or on their foreheads” will be manifested either, there will be, it seems, some outward sign that will distinguish those who worship the beast and his image from those who, instead, “keep the commandments of God and the faith of Jesus” (Revelation 14:12).
+
+(Also, for the record: only when the issues unfold in the last days does the mark come into effect. So, no—people who now keep Sunday do not now have “the mark of the beast.”)
+
+Finally, a question: How could something like this happen? An answer: We don’t know. Though Revelation tells us what will happen, it does not tell us how. If, however, the COVID-19 pandemic has taught us anything, it’s that our world, the entire world, can change— dramatically, quickly, dangerously. If in early 2019 people would have been told what we all would be doing in 2020 (lockdowns, quarantines, face masks, a pandemic with millions infected), most would not have believed it. After COVID-19 we should be aware that anything, even the unexpected (or, maybe, especially the unexpected), can happen, including, as the third angel warns, “the mark of the beast.”

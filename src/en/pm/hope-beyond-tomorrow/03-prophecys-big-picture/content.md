@@ -1,0 +1,116 @@
+---
+title: Prophecy’s Big Picture
+subtitle: Chapter 3
+---
+
+The year was 1989. The Berlin Wall fell. Communism crumbled. Like a mighty rushing unstoppable river, change swept across the Soviet bloc countries. Freedom was in the air in Eastern Europe. The Soviet Union opened to the gospel.
+
+Shortly after the fall of the Communist regime, I traveled to the former Soviet Union with a team of pastors to share the Word of God with Soviet citizens who had been denied the privilege of attending public evangelistic meetings for 40 years.
+
+Night after night I preached to packed audiences in the Plekhanov University auditorium in Moscow. In 1991 and 1992 I conducted evangelistic meetings in the prestigious Kremlin auditorium and finally Moscow’s Olympic Stadium. One evening after one of our meetings a frail, middle-aged woman approached me and said, “Pastor, I too am a Christian; please come visit me at my home. I would gladly feed you supper.” My wife and I graciously accepted her kind invitation.
+
+When we arrived at her very modest apartment, she enthusiastically welcomed us with open arms. We were somewhat embarrassed with all the attention she showered on us. It was obvious she had prepared for two or three days for our visit.
+
+At that time the average monthly salary in Moscow was $28 a month. As I looked at the dinner table laden with fresh fruits and set for a four-course meal I knew she had spent more than her entire month’s salary on the meal. My discomfort level grew as this humble family in a little three-room apartment treated us like royalty. They seemed to want to know everything about America. They asked question after question. They wanted to know where we lived, what our house was like, what we liked to eat, and scores of other little details about our personal lives.
+
+To get the attention off us and on her, I simply asked, “What was the most difficult situation you ever faced as a Christian under the Communist regime?” Her lips began to quiver; her body trembled, her hands shook, and she began to sob. My translator gripped my hand and said, “Pastor Mark, back up. Don’t lead this poor woman down this pathway of questioning. Her memories are too painful. She may have an anxiety attack.” But it was too late.
+
+The locked secrets kept hidden in her heart for decades came rushing out. She responded, “Pastor, the most difficult experience I ever had under Communism was the KGB [Russian secret police] learning that I was teaching my two daughters about Jesus. An informant living in an apartment above me tipped them off. The police discovered I conducted worship with my children each evening. They discovered that we sang Christian hymns and studied the Bible together. I taught them to place all their confidence in Jesus, not the Communist government. One evening the secret police burst into my home and seized my 9-year-old daughter.
+
+“I still remember her sobs. Her cries, ‘Mama, Mama, please help me.’ They carried her out the door, and I could do nothing. I was powerless to help her. Pastor, that was 28 years ago, and I have not seen her since.” In some of the harshest years of Communism, Christian children who were indoctrinated in the teachings of Christianity and openly shared their Christian views with their friends were under some circumstances taken from their parents and placed in state homes, to be reeducated in the philosophy of the state.
+
+I looked into the tear-stained eyes of that godly woman. I thought of the pain that pierced her heart like a sword. Through her tears her voice broke, and she confidently stated, “Pastor, I know I will see my daughter again when Jesus comes. We will be reunited then. No one will be able to separate us then. We will be together with Jesus forever.”
+
+### Jesus’ Return: Prophecy’s Big Picture
+
+This is prophecy’s big picture. It is possible to get so caught up in the minute details of prophecy we miss the big picture. The big picture of prophecy gives us hope. Jesus describes it this way.
+
+“Let not your heart be troubled; you believe in God, believe also in Me. In My Father’s house are many mansions; if it were not so, I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, there you may be also” (John 14:1–3).
+
+The second coming of Christ provides hope for troubled hearts. Soon Jesus will come. Soon the heartache and sorrows of life will be over. Soon our trials and tribulations will be a thing of the past. Soon suffering and sickness, war and strife, will be no more. Terrorism and the horrible school shootings will cease. Natural disasters with their devastating effects will vanish in the light of Jesus’ return.
+
+There may be many things about the future that we wish we knew. There may be many things about prophecy that we wish we could explain. There is something more important than speculating about all the details of prophecy. Some people are fixated about each minute detail of prophecy and think they have all the answers. The most important thing about prophecy is the glorious, incredibly good news that Jesus is coming again.
+
+All prophecies point to Jesus. He is the climax of all prophecy. His return is the focus of all prophecy. History is not an endless cycle of events. All of history is moving toward one colossal event, the second coming of our Lord. Of all 66 books in the Bible, there are two, Daniel in the Old Testament and Revelation in the New Testament, that focus particularly on the climax of history. The ancient Bible prophets bring courage to our generation. Their focus is not on disaster but on deliverance. Their emphasis is not on a coming catastrophe. It is on a coming Christ. They speak not of a tragic ending but of a glorious beginning. Deep within the hearts of people everywhere there is a longing for peace and prosperity, health and happiness, fairness, forgiveness, and forever.
+
+### The Prophecies of Daniel and Revelation
+
+In Daniel and Revelation the prophets present a new world; a better world. They help us reach out and touch the kingdom of God. They give us glimpses of eternity. They help us see the big picture.
+
+Let’s take a brief journey together through the prophetic books of Daniel and Revelation. Let’s catch the inspiration of these hope-filled books. Daniel and John were captives in foreign lands when they wrote their books. In 605 B.C. King Nebuchadnezzar of Babylon attacked and overthrew Jerusalem. Nebuchadnezzar took a significant number of Hebrew youth captive. One of his captives was Daniel.
+
+John was a captive too. The last of the 12 disciples, John was exiled by the Romans on the island of Patmos, off the coast of Greece. Both Daniel and John longed for deliverance. These prophets anticipated the day when sin and suffering would be over—a day when conflict and chaos would be gone. They looked forward to a new tomorrow, when disease, disaster, devastation, destruction, and death would fade away in the glory of a new world. God honored these Bible stalwarts’ faithfulness by showing them prophecy’s big picture. He opened their eyes to see eternity.
+
+The second chapter of the book of Daniel opens with the dream of the Babylonian king Nebuchadnezzar. “Now in the second year of Nebuchadnezzar’s reign, Nebuchadnezzar had dreams; and his spirit was so troubled that his sleep left him” (Daniel 2:1). The king knew that his dream had unusual significance, but he could not remember it. He called the wisest men of his realm together for an explanation. They too could neither recall the king’s forgotten dream nor explain its significance. Infuriated, the king threatened them with death. At this crisis moment Daniel stepped forward. He graciously requested time to pray about the unsolved mystery. God intervened. Heaven’s mystery was revealed.
+
+The content of the dream is obvious from Daniel’s prayer of thanksgiving. It reveals a God who “changes the times and the seasons; removes kings and raises up kings. . . . He reveals deep and secret things” (verses 21, 22). Since “wisdom and might” (verse 20) are His, God not only knows the future, but is the architect of the future. Bible prophets do not speculate about the future. They do not guess about what might be coming. In the Scriptures they reveal to us what God has revealed to them. Daniel clearly explained what King Nebuchadnezzar had dreamed. “You, O king, were watching; and behold, a great image!” (verse 31). The prophet then described this awesome figure for the king. This huge metallic image had a head of gold, breast and arms of silver, thighs of brass, legs of iron, and feet of iron and clay (verses 31–33). The climax of the king’s dream is a massive stone descending from heaven, striking the image on its feet, and finally becoming a mountain that fills the whole earth.
+
+Think of how amazed the ancient king must have been when the prophet Daniel described the minute details of his dream. The king’s next question must have been “Daniel, what does all of this mean?” Daniel’s explanation of the dream’s meaning is just as precise as his description of the dream’s content. He begins the explanation with these words: “You are this head of gold. But after you shall arise another kingdom inferior to yours; then another, a third kingdom of bronze, which shall rule over all the earth. And the fourth kingdom shall be as strong as iron” (verses 38–40).
+
+According to God’s interpretation through the prophet Daniel, each metal represents a world-dominating empire. The dream depicts the rise and fall of nations. Daniel identifies Nebuchadnezzar’s kingdom of Babylon with these words: “You are this head of gold” (verse 38). The Babylonian Empire ruled the Middle East and extended its dominion throughout the Mediterranean Basin from 605 B.C. to 539 B.C. Gold is a fitting symbol of Babylon. Babylon’s chief god, Bel Marduk, was symbolized in a statue of pure gold. This golden image of Bel Marduk sat in a golden-domed temple on a golden throne beneath a golden candlestick before a golden table.
+
+Babylon’s lifestyle of luxurious living led Jeremiah the prophet to call Babylon “a golden cup in the Lord’s hand” (Jeremiah 51:7). This incredible prophecy in Daniel 2 reveals that Babylon would not rule forever. “Another kingdom” symbolized by the breast and arms of silver would arise.
+
+During a night of drunken debauchery a mysterious hand wrote these words on Babylon’s palace wall: “God has numbered your kingdom, and finished it. You have been weighed in the balances, and found wanting. Your kingdom has been divided and given to the Medes and Persians” (Daniel 5:26–28).
+
+There is no guesswork or speculation here. The kingdom that followed Babylon was Media-Persia. Both the Bible and history verify this fact. The famed Cyrus Cylinder housed in the British Museum records the Persian general’s attack on Babylon.
+
+The breast and arms of silver (Media-Persia) were overcome by a third empire of bronze. What nation successfully conquered Media-Persia? The Medes and Persians ruled from 539 B.C. to 331 B.C. They were defeated by the Greeks. The brilliant Greek general Alexander the Great led the Greek armies to victory. Daniel 8 describes the Greeks by name as vanquishing the Media-Persians. Both the Scriptures and history agree. The Greeks ruled from 331 B.C. to 168 B.C., when they were defeated by the iron monarchy of Rome.
+
+During the Roman rule of the Caesars, Jesus was born. A Roman governor tried Jesus, and Roman soldiers crucified Him. The Romans ruled from 168 B.C. to approximately A.D. 351. Four metals: gold, silver, bronze, and iron. Four dominant world empires: Babylon, Media-Persia, Greece, and Rome. Did a fifth nation overthrow Rome? Was Rome conquered by another more powerful political power? Certainly not. Rome was overcome by the Germanic barbarian tribes from the north. Listen to these remarkable words from the prophecy: “Whereas you saw the feet and toes, partly of potter’s clay and partly of iron, the kingdom shall be divided” (Daniel 2:41).
+
+History has followed prophecy like a builder follows an architect’s blueprint. The Roman Empire was divided and remains divided to this day. The prophecy continues with these insightful words: “They will not adhere to one another, just as iron does not mix with clay” (verse 43). Would-be world rulers have tried to revive the Roman Empire.
+
+Each passing century marks the fulfillment of this ancient prophecy. Charlemagne, Charles V, Napoleon, Kaiser Wilhelm, Hitler, Mussolini, and Stalin all attempted to unite Europe through either intermarriage or political conquest. The independent nations of Europe speak eloquently of a God who is in control, a God who guides the destiny of the nations. The prophecy comes to an incredible climax in Daniel 2:44. “And in the days of these kings the God of heaven will set up a kingdom which shall never be destroyed; and the kingdom shall not be left to other people; it shall break in pieces and consume all these kingdoms, and it shall stand forever.”
+
+According to this remarkable prophecy the next event on heaven’s timetable is Jesus Christ, the Rock of Ages, that Rock cut out without hands, setting up His eternal, everlasting kingdom. The kingdoms of this earth are temporary. God’s kingdom will last forever. The reign of earthly kings is shortlived. The reign of Jesus is eternal. The prophecies of both Daniel and Revelation picture one glorious, climatic event on the horizon—the return of the Lord Jesus Christ. Each successive prophecy throughout the 12 chapters of Daniel repeats the central theme of the earlier chapters and enlarges upon it. Repetition and enlargement are God’s way of helping us understand prophecy’s genuine meaning.
+
+### Prophecy Repeats and Enlarges
+
+In Daniel 2 God uses the symbol of four metals to describe four mighty kingdoms. In Daniel 7 God uses the symbol of four beasts to describe the same four nations. In Daniel 2 the fourth metal, iron, has 10 toes. In Daniel 7 the fourth beast has 10 horns. The beasts that God chooses to describe these nations are fitting descriptions of each nation. Once again, we do not have to guess at the meaning of this prophetic symbolism. The same God who reveals prophecy explains prophecy. According to Daniel 7:17, “those great beasts, which are four, are four kings which arise out of the earth.” A king represents his kingdom. The fact that each beast in Daniel 7 represents a kingdom is made clear in verse 23: “The fourth beast shall be a fourth kingdom on earth, which shall be different from all other kingdoms.” In a magnificent vision God pictured these beasts rising up out of the sea on a fiercely stormy night in the midst of mighty winds.
+
+In Bible prophecy the sea or water represents people (Revelation 17:15). Wind represents destruction, devastation, and disaster (Jeremiah 49:36, 37). Daniel’s prophecy predicts nations arising amid the conflict of war and strife.
+
+The first beast, the lion with eagle’s wings (Daniel 7:4), is an accurate description of the nation of Babylon. Archaeologists have discovered this “lion with eagle’s wings” symbol on the walls of the famed Ishtar Gate of Babylon and on coins excavated from Babylon’s ruins.
+
+The Medes and Persians were aptly described in the ruthlessness of a bear with three bloody ribs in its mouth (verse 5). It is interesting to note that for the Medes and Persians to dominate the Middle East they had to conquer three nations—Babylon, Lydia, and Egypt. As the prophecy describes, they devoured three ribs.
+
+The swiftness of Alexander the Great’s conquests are graphically revealed in the symbolism of a leopard with wings (verse 6). This third beast, the leopard, has four heads. Why? When Alexander died, his four generals took over his empire. Amid conflict and political intrigue, Cassander, Lysimachus, Ptolemy, and Seleucus divided the territory of the Greek Empire among themselves. The fourth beast is pictured as incredibly fierce and amazingly powerful, with huge iron teeth (verse 7). The image of Daniel 2 has 10 toes. The “dreadful beast” of Daniel 7 has 10 horns (verse 8). Like the 10 toes, the 10 horns symbolize the divisions of the Roman Empire. It is at this point in the prophecy that God introduces a completely new element.
+
+Until now, political powers have attempted to usurp God’s rightful position as the one who truly reigns over this earth. In Daniel 7:8 a “little horn” power, a power that begins small but is catapulted into world dominance, grows quietly out of the Roman Empire.
+
+According to the prophecy, this power has “eyes like the eyes of a man” (verse 8). In the Bible, eyes are a symbol of wisdom or understanding (Ephesians 1:18). The authority of this power is human, not divine. It is based on human wisdom, not God’s Word. It would ultimately “cast truth down to the ground” (Daniel 8:12).
+
+This new power would “speak pompous words,” “persecute the saints of the Most High,” and “intend to change times and law” (Daniel 7:25). This little-horn power would be “different” (verse 23) than all other political powers mentioned in this chapter.
+
+Prophecy indicates this power is religious, not political (verse 24, 25). A counterfeit political religious system arises in the Middle Ages attempting to usurp God’s authority by changing God’s law. God’s answer to the challenge of the little horn is His final judgment (verse 21, 22).
+
+God’s final judgment establishes our Lord as the rightful ruler of the universe. In the judgment all things are set right. Earthly rulers have attempted to usurp Christ’s place, but in the final judgment Christ is established as the rightful ruler of this planet. No political or religious ruler can rival Him.
+
+All the prophecies of Daniel end in the same place—the establishment of God’s eternal, everlasting kingdom. Catch the triumphant tone of the final verses of this amazing prophecy.
+
+“But the court shall be seated, and they shall take away his dominion, to consume and destroy it forever. Then the kingdom and dominion, and the greatness of the kingdoms under the whole heaven, shall be given to the people, the saints of the Most High. His kingdom is an everlasting kingdom, and all dominions shall serve and obey Him” (verses 26, 27).
+
+As the earth’s kingdoms crumble, God’s kingdom lasts forever. The prophecies of Daniel all have one central theme. They have a single sharp focus, the triumph of God’s eternal kingdom in the return of our Lord. This is true of all four great lines of prophecy in Daniel 2, 7, 8, and 11. The prophecies of Daniel and Revelation picture the triumph of Christ over all the forces of hell. When He comes again in power and glory and splendor, the kingdoms of this world will become the kingdoms of our Lord. The coming of our Lord is the climax of history. It is the triumph of the kingdom of God over the forces of hell. It is the climax of the great controversy between good and evil.
+
+### Revelation’s Prophecies, Christ’s Triumph
+
+The aged apostle John, a prisoner on the rocky, barren island of Patmos, joyfully writes, “Behold, He is coming with clouds, and every eye will see Him” (Revelation 1:7). Separated from his family, friends, and fellow Christians, John longed to see the One whom his soul loved. John longed for the day when he could sing with the redeemed of all ages, “Blessing and honor and glory and power be to Him who sits on the throne, and to the Lamb, forever and ever!” (Revelation 5:13). This is prophecy’s big picture.
+
+The prophecies of Daniel and Revelation focus on much more than cryptic symbols, bloodthirsty beasts, dreadful dragons, and the antichrist’s mark. They speak of a climax of all things. They speak of Jesus and His everlasting kingdom. In Revelation 7 John looks beyond all of earth’s coming sorrows to this magnificent scene. “Therefore they are before the throne of God, and serve Him day and night in His temple. And He who sits on the throne will dwell among them” (verse 15).
+
+There is a God-shaped vacuum within us that will never be filled unless God fills it. Our hearts cry out for intimacy with the Creator. We long for God. Since the day Adam and Eve sinned, humanity has felt a sense of loss, an emptiness within. The only thing that can fill this aching void is the reality of God’s presence. When Jesus returns, this longing will be fulfilled. The kingdom of God will be restored. The entire universe will sing. There is nothing quiet or silent about this event. This is the coronation of a king! The entire universe shouts it!
+
+Revelation’s prophecy of the seven trumpets concludes with these words: “The kingdoms of this world have become the kingdoms of our Lord and of His Christ, and He shall reign forever and ever!” (Revelation 11:15).
+
+Along with Daniel, the prophecies of Revelation graphically describe the destruction of all evil forces at the coming of our Lord. In Revelation 14:19, 20, John pictures God’s “sickle” destroying all sin and sinners. In the glorious triumph of the coming of our Lord that is portrayed in Revelation 19, John sees heaven open. Jesus Christ symbolized as a conquering general riding a white horse returns. All evil forces that stand in His way are destroyed. The powers of hell, which battle against His kingdom, are doomed. The “beast” and the “false prophet” are “cast alive into the lake of fire burning with brimstone” (Revelation 19:20). Jesus is exalted as “KING OF KINGS AND LORD OF LORDS” (verse 16).
+
+In Revelation 20 John depicts a desolate earth with Satan bound and the wicked destroyed for 1,000 years (verses 1–3). During this 1,000 years, which some Bible students term “the millennium,” the redeemed or saved who have been caught up to meet Christ in the air at His return (John 14:1–3; 1 Thessalonians 4:16, 17) reign with Jesus in heaven (Revelation 20:4). As heaven’s books are opened, the saved see clearly that God’s love has done everything possible to save every single person.
+
+At the end of these 1,000 years the Holy City descends from heaven to earth. The wicked dead are resurrected. Satan leads these legions of the lost to attack the Holy City (verses 5, 7, 8). The cleansing fire of the presence of God descends from heaven and devours sin and sinners forever. God’s holiness purifies the earth.
+
+John describes this almost overwhelming, breathtaking, magnificent scene this way:
+
+“Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. And I heard a loud voice from heaven saying, ‘Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. And God Himself will be with them and be their God. And God will wipe away every tear from their eyes; there will be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away’ ” (verses 1–4).
+
+What a hope! What a destiny! What a bright picture of tomorrow! Beyond our heartaches, sorrow, and tears, Jesus will come. Beyond the disasters of tribulation, Jesus will come as King of kings. He will come as Lord of lords. He will come as the Mighty Conqueror. He will come to reign eternally, and the whole world will know it!

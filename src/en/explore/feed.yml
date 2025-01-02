@@ -22,14 +22,3 @@
   - group: Other Resources
     view: folio
     scope: resource
-  - group: Authors
-    view: square
-    scope: author
-    authors:
-      - sspm
-  - group: Categories
-    view: tile
-    scope: category
-    showTitle: false
-    categories:
-      - prayer

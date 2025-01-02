@@ -276,19 +276,29 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
             .sync().reverse()
 
         for (let resource of resources) {
+            if (resource === 'en/devo/test/info.yml' && DEPLOY_ENV === 'prod') {
+                console.log('skipping test resource')
+                continue
+            }
             console.log(`Processing resource ${resource}`)
             try {
                 const resourceInfo = await getResourceInfo(`${SOURCE_DIR}/${resource}`)
                 const resourcePathInfo = parseResourcePath(resource)
 
-                if (!fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${RESOURCE_FEED_FILENAME}`)) {
+                let feedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${RESOURCE_FEED_FILENAME}`
+
+                if (!fs.pathExistsSync(feedFilenamePath)) {
                     continue
+                }
+
+                if (fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/feed-${DEPLOY_ENV}.yml`)) {
+                    feedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/feed-${DEPLOY_ENV}.yml`
                 }
 
                 if (!resourceFeedConfigs[resourcePathInfo.language]
                     || !resourceFeedConfigs[resourcePathInfo.language][resourcePathInfo.type]) {
 
-                    const resourceFeedConfig = await getResourceFeed(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${RESOURCE_FEED_FILENAME}`)
+                    const resourceFeedConfig = await getResourceFeed(feedFilenamePath)
 
                     if (!resourceFeedConfigs[resourcePathInfo.language]) {
                         resourceFeedConfigs[resourcePathInfo.language] = {}

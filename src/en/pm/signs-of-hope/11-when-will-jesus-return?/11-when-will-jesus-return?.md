@@ -1,0 +1,36 @@
+---
+title: When Will Jesus Return?
+subtitle: Chapter 11
+---
+
+Not long ago we were talking with a couple who had been married for more than twenty five years, and the wife was blissfully sharing the wonderful vacation they had just enjoyed in Aruba. It was evident she was very excited about the opportunity to share with us that she and her husband made their marriage such a priority that they saved funds to enjoy time away together in a beautiful place. No sooner had she mentioned the place where they had vacationed than the husband chimed in, almost annoyed, “No dear,” he said, “we went to Barbados, remember?” The bubbly and cheerful demeanor of the lovely lady suddenly changed from joy to sorrow.
+
+On a different occasion, we were speaking to a family with three teenage children, and the youngest son was sharing with a measure of pride that he had learned to water ski at summer camp three years ago. One could not easily miss how much this youngster enjoyed the activity he was talking about and that he felt pretty confident about the skills he had mastered, when his mother cut into the conversation and said: “It was two years ago, Matthew, not three years ago.” The youngster’s response was instantaneous. The once happy face was replaced by a scowl, and confident body language gave way to drooping shoulders.
+
+We share these stories to make the point that we have never experienced couples growing happier in their relationships or a parent-child connection enhanced because the unsolicited help of a family member corrected their story.
+
+The truth is, as kind as the husband was trying to be in the first story, and as helpful as the mother was attempting to be in the second anecdote, these are very offensive examples of the tendency many of us have to correct one another, particularly those who are closest to us, in public. These instances also reveal how ill-mannered and potentially destructive this practice can be to the quality of a relationship.
+
+In both of these illustrations, the correction was completely needless, adding no real value to the information that was being shared. Clearly, there was no intent to deceive on the part of the happy wife about where they had been on vacation, since both Aruba and Barbados are beautiful Caribbean islands, with wonderful beaches to enjoy. Neither was there an attempt to deceive on the part of the teen about how long it had been since he learned to water ski; whether two or three years ago, it surely didn’t matter.
+
+So, watch out for the habits you have developed and are practicing in your family relationships every day. While it is true that your family members are not perfect and, like you, are apt to make inadvertent errors or forget the exact details of a story, the way you relate to what they are saying will enhance or disrupt your relationship. While their imperfect stories will not hurt anyone, your constant corrections will convey that speaking in your presence may not be safe for them.
+
+A few months ago, we were counseling with a woman who had been married for fifteen years and had two school-age children. She was really upset that her husband was always busy with work and never had time for her or the children. “I don’t believe my husband loves me anymore,” she said. “I’ve been waiting for a long time for him to get less busy, but nothing has changed in the last ten years. I am tired of waiting and want out of this miserable marriage,” she shared.
+
+On another occasion we spoke with a woman who told us: “Does God expect me to be married to a drug addict? My husband is one, and sometimes I am afraid for my life and that of our children when he becomes violent or blows away our money to pay bills on drugs.”
+
+We felt the profound pain of a young woman we were talking with a few weeks ago when she shared with us: “We have been married for three years, and my husband has already forgotten to be romantic. What can I say to him or do to encourage him to do a better job of staying romantic?”
+
+While women tend to seek us out more often than men to talk about their relationships, we could feel his deep burden when the man we were speaking with a few months ago told us: “My wife is simply impossible to live with. Every time we have a conversation about anything that is significant, it ends up in a fight because she must have it her way. It really doesn’t matter what the situation is, the pattern is the same. I always feel invalidated when I talk with my wife about anything because she is always right and I am always wrong. As the man in this relationship, I am of the impression that God expects me to be the leader. But with a woman like my wife, I don’t believe it is possible to accomplish God’s purposes in our marriage. I am tired and frustrated and don’t know what to do anymore.”
+
+As we said at the beginning of this book, marriage and family relationships are the most challenging experiences human beings can have. And, it is true that there are no perfect families because there are no perfect people.
+
+It is our hope that as you make relationship choices for your life in the days ahead regardless of your status—married, divorced, widowed, never married, younger, middle-aged, or older— you will do so with the confidence that you are not alone in your quest for greater peace and happiness.
+
+Despite the fact that healthy family relationships are difficult to develop and sustain, more than ever we believe and are encouraged that there is hope for today’s families. And yet, the hope is not only in the counsel we have shared in these pages about the choices you can make to respond in a better way: to be proactive, to pause, to think, and to choose the correct response in your interactions with loved ones. The hope is not only in the fact that you can seek help from professional counselors who can assist you to gain perspective and process ways to learn better skills for building stronger relationships. The hope is not only in the fact that you can remember to make deposits in the emotional bank accounts of your family members each day. The real hope is in the promises of God to help you in situations that seem impossible when He states in Mark 10:27, “With man it is impossible, but not with God. For all things are possible with God” (ESV).
+
+To have God on your side is very significant. Seek Him in your journey through life, look to Him when you face decisions. In fact, He wants to have a part in your life: He wants to speak to you when you read His Word; as you talk to Him in prayer. The best decision you can make for your family is to make God the third column in your marriage—the Counselor and Guide for you and your children, a real source of hope when everything around you seems hopeless.
+
+This is His invitation to you and your loved ones: “Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in to him and dine with him, and he with Me” (Revelation 3:20). Will you give Him a chance?
+
+This is our hope for your family relationships. More than hope so, we pray so.

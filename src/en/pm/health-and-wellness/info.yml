@@ -1,0 +1,32 @@
+title: Health & Wellness
+subtitle: Secrets That Will Change Your Life
+kind: book
+primaryColor: '#3C58A3'
+primaryColorDark: '#2A448B'
+credits:
+  - name: Copyright
+    value: Copyright © 2014 by Review and Herald® Publishing Association
+  - name: Authors
+    value: Mark A. Finley and Peter N. Landless
+  - name: Editor
+    value: Gerald Wheeler
+  - name: Copyeditors
+    value: Jeremy J. Johnson and Ted Hessel
+  - name: Cover design
+    value: Bryan Gray/Review and Herald Design Center
+  - name: Contributors and Consultants
+    value: >-
+      Albert Reece, Physician; Allan Handysides, Physician; Benjamin Carson,
+      Neurosurgeon; Clifford Goldstein, Writer; Delbert W. Baker, Theologian;
+      Duane McBride, Sociologist; Fred Hardinge, Physician; Katia Reinert,
+      Nurse; Mark A. Finley, Pastor; Gary Fraser, Researcher; Gary Hopkins,
+      Researcher; Peter N. Landless, Physician; Neil Nedley, Physician
+  - name: ISBN
+    value: 978-0-8280-2803-5
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/health-and-wellness/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/health-and-wellness/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/health-and-wellness/assets/cover.png

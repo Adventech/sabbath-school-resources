@@ -1,0 +1,24 @@
+title: Signs of Hope
+kind: book
+primaryColor: '#1D3951'
+primaryColorDark: '#0D2840'
+credits:
+  - name: Copyright
+    value: >-
+      Copyright © 2008 by Review and Herald® Publishing Association All rights
+      reserved
+  - name: Author
+    value: Alejandro Bullón
+  - name: Editor
+    value: Gerald Wheeler
+  - name: Copyeditor
+    value: James Cavil
+  - name: ISBN
+    value: 978-0-8280-2392-4
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/signs-of-hope/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/signs-of-hope/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/signs-of-hope/assets/cover.png

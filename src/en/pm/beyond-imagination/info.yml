@@ -1,0 +1,20 @@
+title: Beyond Imagination
+kind: book
+primaryColor: '#713434'
+primaryColorDark: '#6A1010'
+credits:
+  - name: Copyright
+    value: Copyright © 2013 by Pacific Press® Publishing Association
+  - name: Editor
+    value: Gerald Wheeler
+  - name: Copyeditor
+    value: James Cavil
+  - name: ISBN
+    value: 978-0-8280-2392-4
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/beyond-imagination/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/beyond-imagination/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/beyond-imagination/assets/cover.png

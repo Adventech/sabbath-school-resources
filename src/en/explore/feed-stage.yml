@@ -1,0 +1,35 @@
+---
+  title: Explore
+  groups:
+  - group: Adventist Review
+    view: folio
+    resources:
+      - en-explore-adventist-review-*
+  - group: Family Ministries
+    view: folio
+    resources:
+      - en-explore-family-resource-book-2025
+      - en-explore-hope-for-todays-families
+      - en-explore-family-to-family-church-guide
+      - en-explore-family-to-family-family-guide
+      - en-explore-family-worship-kit
+      - en-explore-family-worship-memories
+  - group: Stewardship
+    view: folio
+    resources:
+      - en-explore-stewardship-offertory-readings-2025
+      - en-explore-steps-to-discipleship-*
+  - group: Other Resources
+    view: folio
+    scope: resource
+  - group: Authors
+    view: square
+    scope: author
+    authors:
+      - sspm
+  - group: Categories
+    view: tile
+    scope: category
+    showTitle: false
+    categories:
+      - prayer

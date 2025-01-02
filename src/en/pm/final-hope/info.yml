@@ -1,0 +1,25 @@
+title: The Final Hope
+subtitle: Three Messages for an Anxious World
+kind: book
+primaryColor: '#425D69'
+primaryColorDark: '#274A59'
+credits:
+  - name: Copyright
+    value: >-
+      Copyright © 2021 by General Conference Corporation of Seventh-day
+      Adventists®
+  - name: Author
+    value: Clifford Goldstein
+  - name: Copyeditor
+    value: James Cavil
+  - name: Cover Design
+    value: Viviene Martinelli
+  - name: ISBN
+    value: 978-0-8280-2890-5
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/final-hope/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/final-hope/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/final-hope/assets/cover.png

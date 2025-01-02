@@ -1,0 +1,21 @@
+title: Story of Hope
+subtitle: A Glimpse Into a Time When Suffering Will Be No More
+kind: book
+primaryColor: '#2D7F26'
+primaryColorDark: '#176610'
+credits:
+  - name: Copyright
+    value: Copyright © 2016 by The Ellen G. White® Estate, Inc.
+  - name: Author
+    value: Ellen G. White
+  - name: Cover Design
+    value: Gerald Lee Monks
+  - name: ISBN
+    value: 978-0-8280-2817-2
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/story-of-hope/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/story-of-hope/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/story-of-hope/assets/cover.png

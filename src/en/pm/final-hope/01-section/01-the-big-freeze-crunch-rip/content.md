@@ -1,0 +1,39 @@
+---
+title: The Big Freeze, Crunch, Rip
+---
+
+For years Hollywood has cranked out film after film about the end of the world, or at least the end of the world as we now know it. Armageddon (1998), Zombieland (2009), Mad Max: Fury Road (2015), This Is the End (2013), Greenland (2020), just to name a few, depict a pretty sorry future for us all. And suddenly, with COVID-19 (including variants, such as B.1.1.7 or B.1.351 and counting) Hollywood’s science fiction end-of-the-world stuff seems a little too close to home for comfort.
+
+Science fiction aside, real science presents a future that is, to put it mildly, rather bleak as well. Sooner or later the universe, scientists say—not just the earth, but the universe!—is going to end. How? Depending upon the numbers that these scientists stick in their physics equations, some theorize that the universe might tear itself apart (the Big Rip). Others, using different numbers, predict that it might collapse in on itself (the Big Crunch). The most popular scenario is that it might burn out (the Big Freeze): “The universe,” wrote Paul Davies, “currently aglow with the prolific energy of nuclear power, will eventually exhaust this valuable resource. The era of light will be forever over.”<sup>1</sup>
+
+Big Crunch, Big Rip, Big Freeze—long-term, things don’t look very hopeful for this world, do they?
+
+Interestingly enough, the Bible depicts the end of this world as well, just quite differently than either Hollywood or science do. A few biblical excerpts about our long-term prospects: “For behold, I create new heavens and a new earth; and the former shall not be remembered or come to mind” (Isaiah 65:17). “Nevertheless we, according to His promise, look for new heavens and a new earth in which righteousness dwells” (2 Peter 3:13). “Now I saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also, there was no more sea. Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband” (Revelation 21:1, 2). Or this, one of the most hopeful: “And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away” (verse 4).
+
+Not quite the Big Freeze or the Big Crunch, is it? Nor the future depicted in Zombieland, either.
+
+Yes, both science and biblical revelation agree: our world as it is will not remain this way forever. Everything will change. But what about us and our loved ones? Is the end of the world the ultimate end of us all as well? The Big Rip, the Big Freeze—none of these options offer us any long-term hope, do they?
+
+No. They offer us nothing but the prospect that we and our loved ones—and, in fact, every person who has ever lived or will live—will vanish into eternal oblivion. The obvious conclusion of all is that we, ultimately, mean nothing, and that our lives mean nothing, and that we are of no more significance than a cloud of cosmic dust. “Must I again declare to you the supreme vacuity of culture, of science, of art, of good, of truth, of beauty, of justice,” wrote Spain’s Miguel de Unamuno, “. . . of all these beautiful conceptions, if at the last, in four days or in four million of centuries—it matters not which—no human consciousness shall exist to appropriate this civilization, this science, art, good, truth, beauty, justice, and all the rest?”<sup>2</sup>
+
+The Bible, in contrast, presents the promise of a radically different future for the world and, most important, for us: a new heaven and a new earth. However, this promise of a new heaven and a new earth leads to the logical question: What happened to the old heavens and the old earth? What happens to them, and to us—we who live under and on them? The answer is full of hope and promise. They, the old heavens, the old earth, are going to be swept away, replaced by a new heaven and a new earth, which will be inhabited by people for eternity in an existence without sin, suffering, sickness, and death. A concept hard to imagine for beings like us, who have known only sin, suffering, sickness, and death.
+
+However, Scripture says that before all this happens, a terrible crisis will be unleashed upon the world—a crisis that will make some of these Hollywood end-of-the-world flicks look tame. The Old Testament prophet Daniel warned: “And there shall be a time of trouble, such as never was since there was a nation, even to that time” (Daniel 12:1). And who, since the COVID-19 outbreak, doubts that the whole world can, overnight, face a crisis? And who doesn’t sense that this COVID crisis might be only the beginning of woes, and that something worse could await us?
+
+According to the Bible, something worse does.
+
+The good news, however, is that God, who “so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life” (John 3:16)—this same God has not left us without a hope, without a warning, without a way of escape, if not from the trials, at least from the hopeless despair and destruction these last-day trials will bring for way too many.
+
+From the beginning to the end of the Bible, the prophets, though they themselves had faced everything—sickness, depression, war, natural disasters, prison, exile, torture, death—that the fallen world could throw at them, could nevertheless write again and again about the love and goodness of God. Isaiah, 2,500 years ago, penned: “‘Though the mountains be shaken and the hills be removed, yet my unfailing love for you will not be shaken nor my covenant of peace be removed,’ says the Lord, who has compassion on you” (Isaiah 54:10, NIV). The psalmist, almost 3,000 years ago, could sing: “Give thanks to the God of heaven. His love endures forever” (Psalm 136:26, NIV). The apostle Paul, who experienced prison, physical ailments, hatred, mob violence, poverty, hunger, cold, could write—in a world almost 2,000 years away from anaesthetics—that “God demonstrates his own love for us in this: While we were still sinners, Christ died for us” (Romans 5:8, NIV).
+
+In other words, though some people try to use the evil in this world as an excuse to reject the existence of God, or certainly the existence of a loving God, the Bible writers didn’t, couldn’t, because they knew the Lord and they knew for themselves His love. And one manifestation of His love is seen when God warns His people about what is coming, so that they can be prepared for it. And if He would do that for ancient Israel and Judah (so much of the prophetic writings are the prophets warning those two nations about what was coming), relatively small kingdoms compared to the world, how much more so would He give the whole world itself a warning, a chance to be prepared for what is coming, for “a time of trouble, such as never was since there was a nation, even to that time”?
+
+And He has. That warning is found in the book of Revelation, the last book of the Bible, in what are known as the three angels’ messages of Revelation 14. Who are these angels? What are these messages? What warning do they give to a world obviously in trouble? And most important, what hope do they (as opposed to, for example, the Big Freeze or any of the other hopeless alternatives that, we’re told, await us) offer us for the long-term, eternal future?
+
+---
+
+{"style": {"text": {"size": "sm"}}}
+<sup>1</sup> Paul Davies, The Last Three Minutes (New York: BasicBooks, 1994), pp. 49, 50.
+
+{"style": {"text": {"size": "sm"}}}
+<sup>2</sup> Miguel de Unamuno, Tragic Sense of Life (New York: Dover Publications, 1954), p. 96. 6
