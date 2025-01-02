@@ -72,10 +72,6 @@ let getResourceInfo = async function (resource, depth = 0) {
         resourceInfo.displayProgress = true
     }
 
-    if (resourceInfo.splash) {
-        delete resourceInfo.splash
-    }
-
     if (resourceInfo.color_primary) {
         delete resourceInfo.color_primary
     }
@@ -137,13 +133,17 @@ let getResourceInfo = async function (resource, depth = 0) {
 
     let resourceTitleForSplash = resourcePathInfo.title.replace(/-er$/, '').replace(/-(ay|inv)$/, '-cq')
 
-    if (!resourceInfo.covers.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourcePathInfo.type}/${resourceTitleForSplash}/splash.png`)) {
+    if (!resourceInfo.covers.splash && resourceInfo.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourcePathInfo.type}/${resourceTitleForSplash}/splash.png`)) {
         resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourcePathInfo.type}/${resourceTitleForSplash}/splash.png`
     }
 
     if (resourceInfo.covers) {
         resourceInfo.covers.square ??= resourceInfo.covers.portrait
         resourceInfo.covers.landscape ??= resourceInfo.covers.portrait
+    }
+
+    if (resourceInfo.splash) {
+        delete resourceInfo.splash
     }
 
     const documents = new fdir()
