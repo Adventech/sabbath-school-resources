@@ -13,6 +13,10 @@
       - en-devo-bhp-2025
       - en-devo-bhp-sop-2025
       - en-devo-bhp-*
+  - group: Study Guides
+    view: square
+    resources:
+      - en-devo-start-into-life
   - group: Steps to Personal Revival
     view: folio
     resources:
