@@ -34,11 +34,8 @@ Ellen White explains how the steps to obedience worked in the life of Daniel: Wh
 ### What part do we play? What part does Jesus have in us?
 
 1. We decide to develop our trust in Jesus, who works in us to will and to do. He creates in us an atmosphere of willingness, and we will know what we have to do. But He waits for our decision.
-
 2. It is our job to decide to do God’s will. Since God completely respects our personality and will, He can and will only intervene after we have made our decision. He waits for it.
-
 3. It is our job to make visible our decision to trust in Jesus and to express it in our steps of obedience. These steps of obedience can differ greatly in magnitude.
-
 4. God does the crucial part alone, and He also supports us with our developing trust and preparation. But we shouldn’t forget that there is a big difference between trying to make the decision and steps of obedience in our own strength or if we do them in God’s strength. Our part is done in God’s strength, when Jesus lives in us through the Holy Spirit. This makes obedience a joy, whether in small things or great things.<sup>113</sup>
 
 ### Questions
@@ -173,38 +170,55 @@ We want to hear about a great step of obedience.
 > <callout></callout>
 > Prayer: “Father, thank you that in your infinite wisdom, tremendous power and glorious love you have provided full guidance for us to attain the best life possible. You created everything in our best interest. I want to praise you and thank you for this. Please give me complete trust in your ways and help me to follow you in all matters with my whole heart in surrender and obedience.” Amen
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>111</sup> Ellen G. White, Prophets and Kings, pp. 486, 487.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>112</sup> Ellen G. White, Ye Shall Receive Power, January 2, p. 10.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>113</sup> Mark Finley, Decisions: Persuading People for Christ (Silver Spring, MD: General Conference of Seventh-day Adventists, 1984).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>114</sup> Ellen G. White, The Desire of Ages, p. 309.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>115</sup> Ellen G. White, Testimonies to Ministers and Gospel Workers (Nampa, ID: Pacific Press Publishing Association, 2003), p. 454.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>116</sup> Ellen G. White, A New Life (Revival and Beyond) (Payson, AZ: Leaves-of-AutumnBooks, 1972), pp. 38, 39.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>117</sup> Maria Ana Hirschmann, I Changed Gods (Nampa, ID: Pacific Press Publishing Association, 1968), p. 156.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>118</sup> Steve Kasperbauer, Gott ist treu (Braunau/Austria: Copyright Brigitte Kinder, 2013). A full report about this experience is published in German in the MISSIONSBRIEF (mission letter) No. 40, March/ April 2014.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>119</sup> Ellen G. White, Christ’s Object Lessons, p. 333.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>120</sup> See the Adult Bible Study Guide, March 31, 2011.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>121</sup> Dennis Smith, 40 Days–Prayers and Devotions to Prepare for the Second Coming (R&H 2009) pp. 21, 22.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>122</sup> Ellen G. White, Messages to Young People, pp. 15, 16.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>123</sup> Ellen G. White, Patriarchs and Prophets, pp. 255, 256.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>124</sup> Ibid., p. 256.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>125</sup> Ellen G. White, Steps to Christ, p. 73.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>126</sup> Ellen G. White, In Heavenly Places (Nampa, ID: Pacific Press Publishing Association, 1999), p. 53.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>127</sup> E. E. EE260419 Experience # 91 at www.steps-to-personal-revival.info Experiences

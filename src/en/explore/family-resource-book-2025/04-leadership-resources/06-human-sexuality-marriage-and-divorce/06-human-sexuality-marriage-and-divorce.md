@@ -115,52 +115,75 @@ Finally, one does not need to change the biblical theology of marriage to deal w
 
 Sexuality gone wrong is a difficult issue and typically causes much pain for those involved. Jesus is compassionate and cares for all His suffering children. He also upholds the importance of marriage as a divine gift which can bring with it many blessings. So must we do. Human hardness of heart and depravity are not to overrule God’s ideal. The divine plan regarding sexuality and marriage is very good and must be supported. However, so must also be those who suffer from the problem of sin. The Lord of the resurrection can forgive sins, revive dying marriages, and give hope to the afflicted.
 
-#### Notes
+---
 
-<sup>1</sup> https://www.spiegel.de/partnerschaft/tantra-lehrerin-gibt-tipps-jede-gesunde-frau-verkraftet-fuenf-liebhaber-a-92cf4ef7-502a- 4560-8c10-f3bc6d605dce (accessed and translated 4/19/2024).
+{"style": {"text": {"size": "sm"}}}
+<sup>1</sup> https://www.spiegel.de/partnerschaft/tantra-lehrerin-gibt-tipps-jede-gesunde-frau-verkraftet-fuenf-liebhaber-a-92cf4ef7-502a-4560-8c10-f3bc6d605dce (accessed and translated 4/19/2024).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> https://www.spiegel.de/panorama/die-zukunft-des-sex-a-630cb4c2-9506-4ba0-bd93-75c8848cb3c5 (accessed and translated 4/21/2024).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> David P. Barash, “Polygamy in Humans,” in Encyclopedia of Evolutionary Psychological Science, 2021, edited by Todd K Shackelford and Viviana A Weekes-Shackelford (Cham/Switzerland: Springer, 2021): 6045.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> https://www.spiegel.de/kultur/kino/drei-regisseur-tom-tykwer-letztlich-ist-monogamie-widernatuerlich-a-735277.html (accessed and translated 4/21/2024).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Joe Kort, https://www.psychologytoday.com/us/blog/understanding-the-erotic-code/201809/mono-gamy-it-s-not-what-you-think (accesses 4/21/2024).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> See Alberto R. Timm, “The Impact of Great Revolutions on Marriage and Family,” in Family with Contemporary Issues on Marriage and Parenting. Biblical Research Institute Studies in Biblical Ethics, Volume 3; edited by Ekkehardt Mueller and Elias Brasil de Souza (Silver Spring: Biblical Research Institute, 2023), 632-638.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Mentioned by Kort: “Another man in the group looked at him and asked, ‘How could you be against polygamy? You’ve divorced three wives and are looking for a fourth!’”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Zoltán Szalos-Farkas, “Spirituality of Human Sexuality: A Theological and Anthropological Perspective” in Marriage: Biblical and Theological Aspects, Biblical Research Institute Studies in Biblical Ethics, Volume 1, edited by Ekkehardt Mueller and Elias Brasil de Souza (Silver Spring: Biblical Research Institute, 2015), 123-141.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Thomas Domanyi, “Sexuality and Marriage from a Theological Perspective,” Marriage: Biblical and Theological Aspects, 103.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> They do not only affect the persons involved in the act but also children, parents, the extended family, the church, and even society and nations. in addition, we must leave it to God how He evaluates sins.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> If used symbolically it refers to the relation of humanity with God which is jeopardized by idolatry (Jer 3:9).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> For a study of the term see Ekkehardt Mueller, “Porneia: Sexual Immorality” in Sexuality: Contemporary Issues from a Biblical Perspective, Biblical Research Institute Studies in Biblical Ethics, Volume 2, edited by Ekkehardt Mueller and Elias Brasil de Souza (Silver Spring: Biblical Research Institute, 2022), 17-31.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> See Sexuality: Contemporary Issues from a Biblical Perspective and Family with Contemporary Issues on Marriage and Parenting.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Kathy McCoy, “7 Important Truths About Divorce After a Long Marriage,” Psychology Today (https://www.psychologytoday.com/us/blog/complicated-love/201809/7-important-truths-about-divorce-after-a-long-marriage [accessed 4/22/2024]).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> Nevertheless, some claim that the Hebrew phrase erwat _dābār_ (a matter of indecency) corresponds with the Greek porneia (sexual immorality including adultery etc.). However, the LXX (the Greek translation of the OT) translates the phrase erwat _dābār_ with the phrase aschēmon _pragma_, “a shameful thing.” This indicates that the Jewish translators of the LXX did not think that the Hebrew terminology referred to porneia (sexual immorality including adultery). That Jesus does not use the wording of the LXX in the exception clause is an indication that He went beyond indecency in Deuteronomy 24:1 and meant sexual immorality.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> Mark 10:12 does not only mention the male initiative but also the female for getting a divorce.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> See https://www.adventist.org/official-statements/ending-violence-against-women-and-girls/, https://www.adventist.org/official-statements/well-being-and-value-of-children/, https://www.adventist.org/official-statements/child-sexual-abuse/, https://www.adventist.org/official-statements/family-violence/, https://www.adventist.org/official-statements/statement-on-abuse-and-family-violence/ (accessed 4/23.2024).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> See Richard M. Davidson, Flame of Yahweh: Sexuality in the Old Testament. (Peabody: Hendrickson Publishers, 2007), 192-193.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> This is also so in 1 Timothy 5:8. Exodus 21:7-11, although a passage on slavery, has been applied by some to argue for neglect and violence in marriage and consequently for divorce. This is not legitimate. The passage does not deal with divorce and is casuistic law, relating to a specific situation in Israel. According to R. Davidson, 191-193, the text does not support polygamy and the slave girl should not be understood as a wife. But she has a right to food, clothing, and a third item. The Hebrew term, often translated as “marriage rights,” is a hapax legomenon (a term occurring only once in Scripture) and hardly means conjugal rights but may refer to shelter.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> to call a church member an unbeliever, if he/she sins in certain ways, and conclude that a divorce is therefore legitimate is also a difficult issue. Like other biblical characters David would easily qualify as such due to his premeditated adultery and murder. Believers are still sinners in various ways. We better leave such a judgment to God unless the process of Matthew 18:15-18 is carried through, and repentance is not achieved. But even if the church member were an unbeliever, the initiative for a divorce would still be with that person.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> For a discussion of the differences in Jesus’ sayings about divorce–some with exception clause and others without such a pronouncement–see Ekkehardt Mueller, “Divorce and Remarriage in the New Testament,” in Marriage: Biblical and Theological Aspects, Biblical Research Institute Studies in Biblical Ethics, Volume 1, edited by Ekkehardt Mueller and Elias Brasil de Souza (Silver Spring: Biblical Research Institute, 2015), 203-247.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> The conflict between Goliath (verbal violence) and David (physical violence) is interesting.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> See the Church Manual.
 
 #### References

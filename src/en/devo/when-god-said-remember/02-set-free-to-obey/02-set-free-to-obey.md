@@ -244,10 +244,13 @@ His grace flows from His throne to your heart right now. Why not commit your lif
 
 Why not tell Him in the quietness of your soul that you want to humbly obey Him? Why not thank Him that His way is truly best—that obeying Him is truly your delight?
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Shervert Frazier, Psychotrends: What Kind of People Are We Becoming? (n.p.: Simon & Schuster, 1994), 15.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Helen H. Lemmel, “Turn Your Eyes Upon Jesus,” 1922.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Julia H. Johnston, “Grace Greater Than Our Sin,” 1911.

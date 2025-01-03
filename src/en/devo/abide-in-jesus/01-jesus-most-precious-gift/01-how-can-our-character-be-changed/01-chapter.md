@@ -110,22 +110,31 @@ I have always thought that I could manage a child and make them see reason. Pati
 > <callout></callout>
 > Let the words you speak always be full of grace. Season them with salt. Then you will know how to answer everyone. Colossians 4:6
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Ellen G. White, Christ’s Object Lessons, p. 96.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Ibid., pp. 96, 97.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Ibid., pp. 98, 99.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> Ibid., p. 96.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> Ellen G. White, Selected Messages, bk. 1 (Hagerstown, MD: Review and Herald Publishing Association, 2007), p. 374.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> Ellen G. White, Christ’s Object Lessons, pp. 96, 97.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> Ibid., p. 97.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> Ralph Luther, Neutestamentliches Wörterbuch, S. 71, quoted in O. S. von Bibra, Der Name Jesus (Wuppertal, 1964), S. 98.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> Ellen G. White, The Desire of Ages, p. 805.

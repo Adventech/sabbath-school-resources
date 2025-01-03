@@ -63,4 +63,7 @@ What separates successful marriages from those that consistently experience dist
 
 If you are willing to integrate these building steps into your marriage, you will build a marriage that will weather the storms of life. Although all marriages will experience distress at some time or another, they do not need to dissolve when trials come. Couples who learn to work together as a team during good times and bad times will see their marriage not only survive but thrive, and they will “live happily ever after”!
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> “Marriages and Divorces,” DivorceStatistics, http:// Divorcestatistics.org, and ”Crude Divorce Rate”; Eurostat, http://ec.europa.eu/eurostat/web/products-datasets/-/tps00013.

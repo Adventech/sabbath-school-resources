@@ -45,8 +45,13 @@ Becoming intimate allies is a decision you make to be patient and kind with your
 
 This is the kind of marriage relationship we wish for everyone to have.
 
-#### Footnotes
+---
 
-1. H. Norman Wright, The Secrets of a Lasting Marriage (Ventura, CA: Regal Books, 1995), 152.
-2. Ellen G. White, The Adventist Home (Hagerstown, MD: Review and Herald®, 1952), 205.
-3. “Nevertheless, because of sexual immorality, let each man have his own wife, and let each woman have her own husband.”
+{"style": {"text": {"size": "sm"}}}
+<sup>1</sup> H. Norman Wright, The Secrets of a Lasting Marriage (Ventura, CA: Regal Books, 1995), 152.
+
+{"style": {"text": {"size": "sm"}}}
+<sup>2</sup> Ellen G. White, The Adventist Home (Hagerstown, MD: Review and Herald®, 1952), 205.
+
+{"style": {"text": {"size": "sm"}}}
+<sup>3</sup> “Nevertheless, because of sexual immorality, let each man have his own wife, and let each woman have her own husband.”

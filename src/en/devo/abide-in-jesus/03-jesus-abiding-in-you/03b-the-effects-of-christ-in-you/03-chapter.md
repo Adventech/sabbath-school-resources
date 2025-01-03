@@ -171,50 +171,73 @@ I praise God for having opened my eyes spiritually since reading _Steps to Perso
 
 I went to the Adventist bookstore. There I was offered the book, steps to Personal Revival. I did not want to have it. The saleswoman pushed me and said, “This book also helps couples. My niece broke up with her husband. This book brought them together again. Now they are praying together and going to church together.” So I bought the book and have experience it as a precious treasure. #120 a
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>71</sup> Ellen G. White, Selected Messages, book 1, p. 386.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>72</sup> Ellen G. White, Messages to Young People (Hagerstown, MD: Review and Herald Publishing Association, 2003), p. 28.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>73</sup> Ellen G. White, The Adventist Home (Hagerstown, MD: Review and Herald Publishing Association, 2002), p. 120.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>74</sup> Ellen G. White, Temperance (Nampa, ID: Pacific Press Publishing Association, 2004), pp. 290, 291.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>75</sup> Ellen G. White, The Acts of the Apostles, p. 476.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>76</sup> Ellen G. White, Steps to Christ, p. 115.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>77</sup> Dennis Smith, 40 Days: Prayers and Devotions to Revive Your Experience With God, book 2, p. 18.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>78</sup> Ellen G. White, The Acts of the Apostles, p. 565.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>79</sup> Book 3 in miniserie _Steps to Personal Revival_ entitled “Spirit-Filled Co-Workers of Jesus—How Can I Become That?” (2019).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>80</sup> For more particulars, see: www.steps-to-personal-revival.info under “Development.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>81</sup> Ellen G. White, Steps to Christ, p. 115.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>82</sup> Ellen G. White, Christ’s Object Lessons, p. 147.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>83</sup> Ellen G. White, Steps to Christ, pp. 100, 101.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>84</sup> Claiming promises in prayer is dealt with in more detail in _Steps to Personal Revival_ by H. Haubeil, Chapter 5: The Key to Practical Experience
 
+{"style": {"text": {"size": "sm"}}}
 <sup>85</sup> Werner E. Lange, Hrgb., Unser größtes Bedürfnis (Lüneburg: 2011), S. 31.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>86</sup> Ellen G. White, Ye Shall Receive Power, January 5; p. 13.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>87</sup> According Medical Wellness mit Newstart—Plus, by Drs. Heide (Leipzig:, 2014), pp. 333, 334.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>88</sup> Dennis Smith, 40 Days: God’s Health Principles for His Last-Day People, book 3 (Hagerstown, MD: Review and Herald Publishing Association, 2012), Day 1.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>89</sup> E-mails from a businessman on March 3 and March 21, 2013, shortened and adapted.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>90</sup> The complete testimony can be read in German at www.missionsbrief.de – Archiv – Missionsbrief Nr. 42, S. 17, Völlige HIngabe veränderte mein Leben.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>91</sup> Don Macintosh, Director Newstart Global, Weimar, USA, in D’Sozo, (Remnant USA), Foreword.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>92</sup> Dennis Smith, Spirit Baptism and Abiding in Christ, p. 10, 11. Recommended further reading: Dennis Smith, 40 Days: Prayers and Devotions to Prepare for the Second Coming, book 1 (Hagerstown, MD: Review and Herald Publishing Association, 2009), especially Day 4: “Christ in You,” p. 18, as well as the fourth part of the book, Spirit Baptism and Abiding in Christ, pp. 81–102.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>93</sup> Ellen G. White, The Ministry of Healing, p. 511.

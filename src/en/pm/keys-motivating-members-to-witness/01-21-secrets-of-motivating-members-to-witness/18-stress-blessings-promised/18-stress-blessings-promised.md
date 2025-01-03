@@ -25,22 +25,29 @@ We used this statement before, but it is very appropriate here. “The Lord impa
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>71</sup> _This Day With God_, p. 303.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>72</sup> _Manuscript Releases, vol. 4_, p. 36.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>73</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>74</sup> _Testimonies, vol. 6_, p. 424.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>75</sup> Ibid., vol. 6, p. 333.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>76</sup> _Christ’s Object Lessons_, pp. 353, 354.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>77</sup> _Testimonies, vol. 7_, p. 30.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>78</sup> Ibid., vol. 9, p. 135.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>79</sup> _Review and Herald_, Jan. 5, 1905.

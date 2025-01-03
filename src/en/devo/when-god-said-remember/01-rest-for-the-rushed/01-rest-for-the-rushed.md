@@ -88,12 +88,16 @@ Sabbath also reminds us of the rest we have in Jesus Christ. Each Sabbath, we re
 
 Sabbath is God’s rest for the rushed in a fast-paced world.
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Arianna Huffington, “My New New Thing: Single Tasking,” Olam, Winter 2000, http://www.olam.org/treasure.php?issue=3&id=114.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> The Associated Press, “Don’t Stress: Anxiety Can Hurt Your Heart,” MSNBC, January 7, 2008, http://www.msnbc.msn.com/id/22544210/ (accessed February 19, 2009).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> David Wolpe, “Eternity Utters a Day,” Olam, Winter 2000, http://www.olam.org/treasure.php?issue=3&id=123.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> H. G. Koenig et al., “The Relationship Between Religious Activities and Blood Pressure in Older Adults,” International Journal of Psychiatry in Medicine 28 (1998):189– 213.

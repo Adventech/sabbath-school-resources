@@ -96,66 +96,96 @@ Since God promises to be with you always,<sup>28</sup> give you His peace,<sup>2
 
 We often say that if most people knew what having a good marriage entailed, most would choose not to participate. However, if we could but understand that God, our Creator, so desperately longs to have a close and intimate relationship with us that He gave us marriage to help us better understand His love and grace, then perhaps our entire concept and understanding of marriage would be different. Marriage would be elevated to more than just a social status, and the Christian part of it would be more than a mere designation or title. Maybe Christian marriage is very good because ultimately it is less about our personal satisfaction and more about God’s desire to save us in His kingdom!
 
-#### Notes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> “and the Lord God said, ‘It is not good that man should be alone; I will make him a helper comparable to him” (Gen 1:18). All biblical quotations are from the NKJV, unless otherwise indicated.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> “So God created man in His own image; in the image of God He created him; male and female He created them” (Gen 1:27).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> “and the Lord God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place. Then the rib which the Lord God had taken from man He made into a woman, and He brought her to the man. and Adam said: ‘This is now bone of my bones and flesh of my flesh; She shall be called Woman, because she was taken out of Man.’ Therefore a man shall leave his father and mother and be joined to his wife, and they shall become one flesh. and they were both naked, the man and his wife, and were not ashamed” (Gen 2:21–25).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> “Then God saw everything that He had made, and indeed it was very good. So the evening and the morning were the sixth day” (Gen 1:31).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Ellen G. White, The Adventist Home (Nashville, TN: Southern Publishing, 1952), 18.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> “So husbands ought to love their own wives as their own bodies; he who loves his wife loves himself. For no one ever hated his own flesh, but nourishes and cherishes it, just as the Lord does the church” (Eph 5:28–29).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> “But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control. Against such there is no law” (Gal 5:22–23).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> “and God blessed them. and God said to them, ‘Be fruitful and multiply and fill the earth and subdue it’” (Gen 1:28).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> “You shall teach them diligently to your children, and shall talk of them when you sit in your house, when you walk by the way, when you lie down, and when you rise up” (Deut 6:7).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> White, 28, says, “The presence of Christ alone can make men and women happy. All the common waters of life can turn into the wine of heaven. The home then becomes as an Eden of bliss; the family a beautiful symbol of the family in heaven.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Linda Waite and Maggie Gallagher, The Case for Marriage: Why Married People Are Happier, Healthier and Better off Financially (New York: Penguin Books, 2001), 15. Waite and Gallagher, 15, write, “Between rights and needs, between individualism and community, between fear and hope, between freedom and love. on the one hand, we cherish marriage as
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Ibid., 16.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> “on the same day the Lord made a covenant with Abraham, saying: ‘to your descendants I have given this land, from the river of Egypt to the great river, the River Euphrates”’ (Gen 15:18).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> “Likewise He also took the cup after supper saying, ‘This cup is the new covenant in My blood, which is shed for you’” (Luke 22:20).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> “Marriage is honorable among all, and the bed undefiled; but fornicators and adulterers God will judge” (Heb 13:4).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> “and the Lord God caused a deep sleep to fall on Adam, and he slept; and He took one of his ribs, and closed up the flesh in its place. Then the rib which the Lord God had taken from man He made into a woman, and He brought her to the man. and Adam said: ‘This is now bone of my bones and flesh of my flesh; She shall be called Woman, because she was taken out of Man’” (Gen 2:21–23).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> Richard M. Davidson, Flame of Yahweh: Sexuality in the Old Testament (Peabody, MA: Hendrickson, 2007), 46–47, writes, “An eighth facet of a theology of sexuality, the divine paradigm for all future marriages as set forth in Gen 2:24 stresses the ingredient of intimacy. . . . The ‘one flesh’ relationship centers in the intimacy of sexual union, sexual intercourse. The physical act of coitus is the primary means of establishing the ‘innermost mystery’ of oneness, and in the covenant context of this verse seems to constitute the sign of the marriage covenant. Notice that according to the ‘therefore’ linking 2:24 with the preceding verses, the ‘one-flesh’ union designed for all marriages in the future was one which Adam and Eve personally experienced in the Garden of Eden before the fall, and thus sexual intercourse was clearly part of their unitive relationship already before fall as well as during their ongoing relationship outside the Garden (4:1).”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> “Your wife shall be like a fruitful vine in the very heart of your house, your children like olive plants all around your table. Behold, thus shall the man be blessed who fears the Lord” (Ps 128:3–4).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> “Train up a child in the way he should go, and when he is old he will not depart from it” (Prov 22:6).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> “You shall not commit adultery” (Exod 20:14).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> See Scott Stanley et al., A Lasting Promise: A Christian Guide to Fighting for Your Marriage (San Francisco, CA: Jossey-Bass, 2014).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> “But Jesus looked at them and said, ‘With men it is impossible, but not with God; for with God all things are possible’” (Mark 10:27).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> See Willie and Elaine Oliver, Hope for Today’s Families (Silver Spring, MD: Review and Herald, 2018).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> See Gary Chapman, The 5 Love Languages: The Secret to Love That Lasts (Chicago, IL: Northfield, 2015).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>26</sup> We are not talking about physical pain and abuse. If you are experiencing any type of physical or emotional abuse in your relationship, please seek help from a qualified counselor or a pastor who has shown a high level of understanding—especially in places or countries where it is not easy to find a qualified counselor. Without help the abuse will most likely get worse. For more information, visit www.family.adventist.org and www.enditnow.org.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>27</sup> “A merry heart does good, like medicine, but a broken spirit dries the bones” (Prov 17:22).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>28</sup> “and lo, I am with you always, even to the end of the age” (Matt 28:20).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>29</sup> “Peace I leave with you, My peace I give to you; not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid” (John 14:27).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>30</sup> “and my God shall supply all your need according to His riches in glory by Christ Jesus” (Phil 4:19).
 
 Reprinted from Chapter 1, originally published in Family: Contemporary Issues on Marriage and Parenting, Volume 3 of the Biblical Research Institute Studies in Biblical Ethics series, edited by Ekkehardt Mueller and Elias Brasil de Souza, 2023. Used with permission.

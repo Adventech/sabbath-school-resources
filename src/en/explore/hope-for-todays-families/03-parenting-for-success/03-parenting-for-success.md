@@ -54,6 +54,7 @@ To be sure, love and limits go together. These two factors are the most signific
 
 When parents set the foundation for positive and healthy development in their children’s lives, then children will have the best chance of becoming the persons God intends them to be. Your child or children will be able to choose right when faced with tough decisions; they will not be easily swayed by other’s opinions. Not only will they find that a strong character coupled with emotional intelligence benefits them personally, but they will also be a benefit to the family, church, and society as a whole because they have been given the essential building blocks for living a healthy life.
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> John M. Gottman and Joan DeClaire, Raising an Emotionally Intelligent Child: The Heart of Parenting (New York: Fireside, 1998), 27.

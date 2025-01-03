@@ -97,40 +97,58 @@ We see here that:
 - For this reason, Jesus gave the command: “Be filled with the Spirit.” In the original Greek text, this means: “Let yourself be continually and repeatedly filled with the Holy Spirit” (see Eph 5:18).
 - His object is that we will have life more abundantly (see John 10:10; Col 2:10).
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> Garrie F. Williams, How to Be Filled With the Holy Spirit and Know It, German version (Lüneburg, 2007), p. 78.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> Ellen G. White, The Desire of Ages, p. 331.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> Ibid., p. 672.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> Ellen G. White, Prophets and Kings (Nampa, ID: Pacific Press Publishing Association, 2002), pp. 218, 219.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> Ellen G. White, Steps to Christ (Nampa, ID: Pacific Press Publishing Association, 1999), pp. 43, 44.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>26</sup> Ellen G. White, The Desire of Ages, p. 466.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>27</sup> Seventh-day Adventist Bible Commentary, Vol.6, p. 560 to Rom. 8,2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>28</sup> Ellen G. White, The Desire of Ages, p. 466.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>29</sup> Ellen G. White, Steps to Christ, p. 43.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>30</sup> Ellen G. White, My Life Today (Hagerstown, MD: Review and Herald Publishing Association, 1999), p. 6.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>31</sup> Hanna W. Smith, Christsein täglich (To Be a Christian Daily) (Asslar, 1994), p. 38.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>32</sup> Johannes Mager, Unser größtes Bedürfnis (Our Greatest Need) (Lüneburg, 2011), S. 47, 48.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>33</sup> Norman B. Grubb, Charles Studd, Kein Opfer zu groß (No Sacrifice Is Too Great), “Introduction.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>34</sup> Dean M. Kelley, “How Adventism Can Stop Growing,” Ministry, February 1983, p. 4.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>35</sup> Oswald Smith, The Man God Uses (New York: The Christian Alliance Publishing Company, 1925), p. 26.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>36</sup> Johannes Mager, Unser größtes Bedürfnis (Our Greatest Need) (Lüneburg, Werner E. Lange, 2011), S. 48.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>37</sup> Ellen G. White, Christ’s Object Lessons, p. 331.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>38</sup> Ellen G. White, Thoughts From the Mount of Blessing (Nampa, ID: Pacific Press Publishing Association, 1999), p. 20.

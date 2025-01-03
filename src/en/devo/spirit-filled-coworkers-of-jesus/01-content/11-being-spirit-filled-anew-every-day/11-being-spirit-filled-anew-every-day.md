@@ -26,24 +26,34 @@ Ellen G. White:
 
 “Through the cunning devices of the enemy the minds of God’s people seem to be incapable of comprehending and appropriating the promises of God. ... The power of God awaits their demand and reception.” <sup>22</sup>
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Seventh-day Adventistis Believe A Biblical Exposition of 27 (28) fundamental doctrines, Copyright by the Ministerial Association General Conference of Seventh-day Adventists, Chapter 17, Spiritual Gifts and Ministries, p. 213.2 – www.Carenage Seventh-dayAdventist-Church Trinidad and Tobago, 16.8.2020
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Adult Bible Study Guide – Standard Edition – July 17, 2014, Principle Contributor: Carlos Steger
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> Adult Bible Study Guide – Standard Edition – January 30, 2017, Principle Contributor: Frank Hasel
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> Auf den Spuren des Heiligen Geistes, Advent-Verlag (Lüneburg 1999), S. 101
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> Der Weg zu einer kraftvollen Erweckung (Hrsg. Abteilung Heimatmission, Gemeinschaft der Siebenten-Tags-Adventisten in Nordrhein-Westfalen), S. 102, 103, ohne Datum. Abschnitt “Lasst euch erfüllen” (Ephesians 5,18)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> Die Lehre von Gott (Seminar Schloss Bogenhofen 2019), S. 224
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> 10 Days–Prayers and Devotions to Experience the Baptism of the Holy Spirit, Dennis Smith
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> Acts of the Apostles, p. 50.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> Acts of the Apostles, p. 56.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> Testimonies to Ministers and Gospel Workers, p. 174.2

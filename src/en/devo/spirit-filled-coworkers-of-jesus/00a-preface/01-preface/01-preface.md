@@ -76,6 +76,7 @@ This method shows how you can lead a really successful life: If something contra
 
 Maybe you haven’t surrendered yourself completely to Christ yet. Or in the meantime, you have wandered away and lost your “first love” (Revelation 2:4). When we are in this condition, then we have a completely different attitude and see many things differently. And it seems “normal” to us. Romans 8:5 GNT: “Those who live as their human nature tells them to, have their minds controlled by what human nature wants. **Those who live as the Spirit tells them** to, have their minds controlled by what the Spirit wants.” This text shows us two different basic attitudes, depending on if we are filled with the Holy Spirit or not. When I hadn’t completely surrendered myself to Christ, I occasionally found it very strenuous and burdensome to live as a Christian. But now my life is filled with joy, assurance, strength and victory. E.G. White said: “The secret of success is the union of divine power with human effort.” (Patriarchs and Prophets, p. 509.1) That is why we want to contemplate basic questions in this book, which will through a close relationship with Christ lead us to success or in the biblical language, a fruitful life – a life as a Spirit-filled and Spirit-led coworker of God.
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> William H. Shea, Das Buch Daniel, Teil 1 (Advent-Verlag Lüneburg, 1998), S. 52

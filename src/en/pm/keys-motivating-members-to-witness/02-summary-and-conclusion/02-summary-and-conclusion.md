@@ -12,6 +12,5 @@ The tremendous blessings promised to the faithful witness and the alternative â€
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>83</sup> _Patriarchs and Prophets_, p. 34.

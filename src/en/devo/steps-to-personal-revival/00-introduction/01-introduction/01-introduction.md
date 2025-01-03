@@ -27,10 +27,16 @@ First, we want to look at the fruits that have grown where this deficiency has b
 
 I wish each person that is already living in the Holy Spirit to attain the fullness of the Spirit. For those who haven’t lived with the Holy Spirit or have only had an insufficient life with the Holy Spirit, I hope that this is the beginning of a new fulfilled and victorious life.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes, (Lüneburg, 1999), Cover
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> D. Martin Lloyd-Jones, Vollmacht, Telos-Taschenbuch Nr. 385, Marburg 1984, S. 72
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Ellen G. White, The Coming of the Comforter (Hagerstown, 1949), p. 94
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Editor Helmut Haubeil, Missionsbrief Nr. 34 (Bad Aibling, 2011), S. 3

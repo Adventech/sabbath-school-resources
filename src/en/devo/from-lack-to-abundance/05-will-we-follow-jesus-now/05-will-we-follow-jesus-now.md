@@ -44,6 +44,7 @@ May the Lord prepare us to be willing for everything He wants. May a great reviv
 
 “But thanks be to God, who gives us the victory through our Lord Jesus Christ. Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor is not in vain in the Lord.” (1 Corinthians 15:57.58 NKJV)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> Dr. S. J. McMillan, None of these diseases – arguments from a doctor based on the Bible (Aussaat-Verlag), p. 11

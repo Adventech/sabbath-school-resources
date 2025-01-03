@@ -126,22 +126,28 @@ There is no question that mission must march on unabated. Discipleship and nurtu
 
 _April 2020_
 
-**Endnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Ellen G. White, _Christ’s Object Lessons_ (Washington, D.C.: Review and Herald Pub. Assn., 1900, 1941), p. 187.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Ibid., p. 192.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> “Christ’s method alone will give true success in reaching the people. The Savior mingled with men as one who desired their good. He showed His sympathy for them, ministered to their needs, and won their confidence. Then He bade them, ‘Follow Me’” (Ellen G. White, _The Ministry of Healing_ [Mountain View, Calif.: Pacific Press Pub. Assn., 1905], p. 143).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Ellen G. White, _The Desire of Ages_ (Mountain View, Calif.: Pacific Press Pub. Assn., 1898, 1940), p. 825.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Ellen G. White, _Testimonies for the Church_ (Mountain View, Calif.: Pacific Press Pub. Assn., 1948), vol. 7, p. 20.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> E. G. White, _The Desire of Ages_, p. 195.
 
-<sup>7</sup> Marianne M. Jennings, _The Seven Signs of Ethical Collapse_ (New York: Martin’s Press,
+{"style": {"text": {"size": "sm"}}}
+<sup>7</sup> Marianne M. Jennings, _The Seven Signs of Ethical Collapse_ (New York: Martin’s Press, 2006), p. 17.
 
-2006), p. 17.
-
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> “What compassion, what matchless love, has God shown to us, lost sinners, in connecting us with Himself, to be to Him a peculiar treasure!” (Ellen G. White, _Patriarchs and Prophets_ [Mountain View, Calif.: Pacific Press Pub. Assn., 1890, 1908], p. 289).

@@ -53,7 +53,7 @@ If couples would employ the golden rule of Matthew 7:12, “so whatever you wish
 
 ### Forgive often
 
-In marriage—the most intimate relationship— couples will experience hurt1 from time to time. Thus, couples will need to learn to forgive each other. Sometimes one partner hurts the other unintentionally. There are also times when people wound each other by saying offensive and nasty things to retaliate for pain they may be experiencing. Some injuries can be easily ignored, some are a little harder to forgive, and others leave deep and lasting scars.
+In marriage—the most intimate relationship— couples will experience hurt<sup>1</sup> from time to time. Thus, couples will need to learn to forgive each other. Sometimes one partner hurts the other unintentionally. There are also times when people wound each other by saying offensive and nasty things to retaliate for pain they may be experiencing. Some injuries can be easily ignored, some are a little harder to forgive, and others leave deep and lasting scars.
 
 Forgiving someone who has harmed you is the hardest part of loving, and yet you cannot continue to truly love without doing it. Forgiveness is not about becoming a doormat to be trampled upon, absolving others from responsibility, or simply forgetting. Still, forgiving actually helps begin the process of healing from your hurts and from the need to punish the other person. It also pushes you toward restoring the fracture in the relationship. And, through God’s power, you will be able to give the gift of forgiveness to your spouse. Romans 5:8 offers, “God shows his love for us in that while we were still sinners, Christ died for us” (ESV).
 
@@ -65,4 +65,7 @@ The old adage “Laughter is good medicine” still rings true today. In fact, m
 
 Marriage is at once awesome, wonderful, and difficult. Awesome and wonderful because it was designed by the Creator for us to reflect His image. Difficult because it brings together two flawed, imperfect, selfish human beings who become even more flawed and selfish once married. Married couples need to confront this reality and work together as teammates and friends. Together, we must fight the enemy that threatens to destroy our oneness with each other and our oneness with God.
 
-1. We are not talking about the pain of abuse. If you are experiencing any type of physical or emotional abuse in your relationship, please seek help from a qualified counselor or pastor. Without help, the abuse will most likely get worse. For more information, visit Adventist Family Ministries at http://www.family.adventist.org.
+---
+
+{"style": {"text": {"size": "sm"}}}
+<sup>1</sup> We are not talking about the pain of abuse. If you are experiencing any type of physical or emotional abuse in your relationship, please seek help from a qualified counselor or pastor. Without help, the abuse will most likely get worse. For more information, visit Adventist Family Ministries at http://www.family.adventist.org.

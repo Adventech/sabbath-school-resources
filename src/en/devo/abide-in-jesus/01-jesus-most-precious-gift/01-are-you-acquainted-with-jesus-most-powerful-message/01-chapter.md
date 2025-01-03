@@ -114,26 +114,37 @@ We have a sinful nature. Thus, we are all egoists, and we suffer from this selfi
 > <callout></callout>
 > Never underestimate the power of one individual to help set in motion the movements of God’s Spirit in a mighty way. God may be calling you for just such a time as this. (Please read: Esther 4:14-16)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Johannes Mager, Auf den Spuren des heiligen Geistes (Lüneburg, Germany, Advent-Verlag, 1999), S. 101.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Ellen G. White, Signs of the Times, November 21, 1895.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Pub. Werner E. Lange, Unser größtes Bedürfnis (Lüneburg, 2011), S. 42
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Ellen G. White, Christ’s Object Lessons (Hagerstown, MD: Review and Herald Publishing Association, 2003), p. 145.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Adult Bible Study Guide, July 17, 2014.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> This important topic is dealt with in chapter 4 of Dennis Smith’s book, 40 Days: Prayers and Devotions to Revive Your Experience With God, book 2 (Hagerstown, MD: Review and Herald Publishing Association, 2011).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Ellen G. White, The Desire of Ages (Nampa, ID: Pacific Press Publishing Association, 2002), p. 671.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Dave Fiedler, D’Sozo: Reversing the Worst Evil (Coldwater, MI: Remnant, 2000), “Foreword.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Mark Finley, Revive Us Again (Nampa, ID: Pacific Press Publishing Association, 2010), p. 26.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Dennis Smith, 40 Days, book no. 2, p. 112.

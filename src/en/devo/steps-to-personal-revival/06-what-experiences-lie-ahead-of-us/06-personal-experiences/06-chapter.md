@@ -144,10 +144,13 @@ Ellen G. White said the following about this event: “In response to His prayer
 
 It is amazing what happened during His ministry: “Morning by morning he communicated with his Father in heaven, receiving from him daily a fresh baptism of the Holy Spirit.” <sup>143</sup> If Jesus needed a fresh baptism of the Holy Spirit daily, then how much more do we need it!
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>141</sup> M. Trajkovska, Southern European Union, Belgrade, quoted in www.revivalandreformation.org
 
+{"style": {"text": {"size": "sm"}}}
 <sup>142</sup> Ellen G. White, Ye Shall Receive Power (1995), p. 14.4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>143</sup> Ellen G. White, Signs of the Time, Nov. 21, 1895

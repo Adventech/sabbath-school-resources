@@ -62,6 +62,7 @@ The viability of ACS as an agency capable of maintaining effective, credible min
 
 Therefore consideration needs to be given to the following when plans are made and priorities decided: Community needs; potential for real change in the life or condition of people; expertise available; management capability; existing organizations and structures; the needs of the church; potential for sustaining programs; and degrees of opportunity to be a player in meeting community needs in a usually crowded field of local charitable activities.
 
-Footnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Ronald J. Sider, Philip N. Olson, & Heidi Rolland Unruh, _Churches That Make a Difference_, Grand Rapids, Michigan: Baker Books, 2002, pp. 86-87.

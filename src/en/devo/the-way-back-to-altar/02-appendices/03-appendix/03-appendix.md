@@ -167,6 +167,7 @@ What is the secret to renewed strength? What does it mean to wait on the Lord?
 
 **Praise**: Take time going through the ABCs of praise, praising God for each name you have found. In addition, see how many things you can think of to praise God for using each letter of the alphabet. Don’t move on to the next letter until someone can’t think of any more ideas to thank God for.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> We thank Adventist Family Ministries for these worship ideas. Links for additional family, youth, and children’s resources are included at the end of this booklet.
 
 ### Back to the Altar Tips for Couples

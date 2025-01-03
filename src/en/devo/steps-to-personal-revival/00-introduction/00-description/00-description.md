@@ -53,6 +53,10 @@ Experience has shown that the study of these precious truths is particularly ble
 > <callout></callout>
 > Our Lord Himself has given the command<sup>1</sup> let yourselves be consistently and repeatedly filled anew with the Spirit!<sup>2</sup>
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Ellen G. White, Mount of Blessing, MB 20.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Lüneburg, 1999), S. 101

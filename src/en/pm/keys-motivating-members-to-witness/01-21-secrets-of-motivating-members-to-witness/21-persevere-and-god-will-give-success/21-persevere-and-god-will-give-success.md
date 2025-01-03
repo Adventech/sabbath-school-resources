@@ -7,6 +7,5 @@ Your positive, persevering attitude will motivate members. Urge them never to gi
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>82</sup> _Testimonies, vol. 6_, vol. 7, p. 30.

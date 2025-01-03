@@ -13,10 +13,11 @@ As the work will never be finished until we all work together,<sup>37</sup> help
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>35</sup> _Testimonies, vol. 7_, p.14.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>36</sup> Ibid., vol. 9, p 221.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>37</sup> _Gospel Workers_, p. 352.

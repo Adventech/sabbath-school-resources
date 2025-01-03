@@ -140,26 +140,37 @@ L. M. 08072019 from Tanzania/East Africa – shortened, #140
 
 I praise the Lord for the booklet _Steps to Personal Revival_. ...I remember being given this booklet in January, but I put off reading because I thought I already knew it to well. I was so wrong. Then as I seek again for the baptism of the Holy Spirit, 3 or 4 weeks ago, a colleague sent me a pdf copy of this booklet. I was so excited that it came, while I needed it most. While reading I fell on my knees asking the Lord for forgiveness for why I had allowed myself to neglect this very important area of my life. Yesterday, Sabbath, I fasted and prayed and surrendered my life again to the Lord and asked Him to use me and show me clearly the specific ministry that He wants me to do for Him. My work requires me to travel to different countries every month ... I believe that this is a great opportunity for me to pass on this very important message through the power of the Holy Spirit to our brothers and sisters. M. A. EE130518 from Philippines, #109
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>121</sup> Ellen G. White, My Life Today, p. 338.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>122</sup> Ellen G. White, Education(1903), p. 258.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>123</sup> Roger J. Morneau, A Trip into the Supernatural, Review and Herald 1982, p. 43
 
+{"style": {"text": {"size": "sm"}}}
 <sup>124</sup> Ellen G. White, The Desire of Ages (1898), p. 668.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>125</sup> Ellen G. White, Testimony Treasure, vol. 3, p. 213.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>126</sup> Morris L. Venden, 95 Theses on Righteousness by Faith (Pacific Press 1987), p. 60
 
+{"style": {"text": {"size": "sm"}}}
 <sup>127</sup> Ellen G. White, The Great Controversy (1911), p. 109.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>128</sup> Ellen G. White, Education (1903), p. 170.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>129</sup> Ellen G. White, Thoughts from the Mount of Blessing (1896), p. 142.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>130</sup> Johannes Mager, Aufden Spurendes Heiligen Geistes (Lüneburg, 1999), S.101
 
+{"style": {"text": {"size": "sm"}}}
 <sup>131</sup> Ellen G. White, Acts of the Apostles, p. 37.1

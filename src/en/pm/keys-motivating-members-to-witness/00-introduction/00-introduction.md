@@ -46,18 +46,23 @@ How is it done? If it is your desire to foster total involvement of your members
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> _Testimonies, vol. 2_, p. 233.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Ibid., _vol. 7_, p. 10.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> _Testimonies, vol. 9_, p. 19.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> _The Desire of Ages_, p. 822.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> _Gospel Workers_, p. 352 and in 9 other places.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> _Testimonies, vol. 6_, p. 438.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Ibid., _vol. 5_, p. 754.

@@ -41,17 +41,3 @@ In this way, the dear person can be led to an abiding life in Christ. Here, you 
 It is certainly advisable to repeat Letter to Andrew No. 13 (or “The Way to Eternal Life” – more about this shortly) and Letter to Andrew No. 14 for further insights. Pray that the Holy Spirit will guide you in your next course of action.
 
 If the two steps have been taken (prayer according to chapter 7 and positive developments in life through the power of God according to chapter 8), then it is a great help if you suggest afterwards that they read the book Steps to Personal Revival and then Abide in Jesus or you could study it together. (See the book offers at the end of the book.)
-
-138 CHAPTER 7 HOW CAN WE LEAD PEOPLE TO JESUS?
-
-EXPERIENCES
-
-Test prior to publication
-
-“I asked two theologians for examination. The first answer was (in excerpt): Your work on Steps to Personal Revival is really a gift from heaven, first to you and through you then to all readers. Therefore, I first thanked my Lord, and now I thank you very much. Although there have recently been some very practical and deeply spiritual books in the church, Steps to Personal Revival is extraordinary. In such a compact and yet quite detailed way, the path to fulfillment is represented with the Holy Spirit. Anyone who reads it cannot avoid his spiritual inventory and make a decision.”
-
-Email May 1, 2012 – Both brothers recommended printing
-
-From the Ludwigsburg Church – “My husband and I were studying 40 Days No 1 and experienced great personal blessings praying together. Afterwards, we organised prayer meetings twice weekly at church in Ludwigsburg and read the book with our church members. We distinctly experienced God’s guidance and blessings and many miracles! God refreshed us and spiritually awakened our congregation: members who were never before able to speak to people, all of a sudden approached strangers. When we joined in prayer, God welded us together as a congregation. Praying for 5 people during the 40 days brought exceptional results – God worked in a mighty way on those people. Every so often people walk in to our church service on Sabbath off the street. One of those families now receives Bible studies. They learned about Sabbath through videos on the internet and through the book Great Controversy and were looking for a church for some time.” K.a.C.S. (abbreviated) Web T1
-
-Lively Intercessory Prayer – “At first, I just read through the book (40 Days No 1). Now that I go through the devotions with my prayer partner, I realize that they are even more valuable than I first thought! I got answers to questions that I could not solve by myself. I thank God also for my prayer partner who participates openly and with lots of energy. I was impressed with the book from the first pages. We should not only pray for someone, but also lovingly care about that person. This makes the Intercessory Prayer come alive. I regret that I never saw intercessory prayer in this light before. Living, lively faith! I am convinced that the intercession is just as important for the one who prays, as it is for the one being prayed for.” Web T6

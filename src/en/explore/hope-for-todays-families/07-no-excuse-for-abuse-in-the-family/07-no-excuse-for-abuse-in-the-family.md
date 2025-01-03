@@ -73,20 +73,28 @@ God’s love and grace gives us the power to empower others. When mutual empower
 
 Many today find themselves outside of this model of healthy family relationships. In homes where abuse has infiltrated, we encourage you— starting today—to strive toward making your home and relationships abuse free. We beg you to recognize the abuse and to seek counsel and professional help as soon as possible to begin the healing process. This step will bring greater hope to your family today.
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> “Get the Facts and Figures,” The National Domestic Violence Hotline, http://www.thehotline.org/resources /statistics/.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> “Domestic Violence,” Bay Area Women’s Center, http://bawc-mi.org/site15/index.php/2015-03-30-00-21-30/domestic-violence.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Ibid.

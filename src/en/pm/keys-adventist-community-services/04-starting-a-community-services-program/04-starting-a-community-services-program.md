@@ -80,10 +80,12 @@ If you are opening a new center or agency, the obvious founding event is a ribbo
 
 After the first year of operations, it is important to devote quality time for evaluation and long-range planning. By this time, the board members will have worked together for a while. The various unforeseen circumstances in the implementation of plans will have surfaced, and it will be time to review plans, adjust them for the future, and chart a new strategy for your organization. It will also be time for careful reflection on scripture and the mission God has given your ministry organization. Allow quality time for prayer together while seeking God’s guidance. After the struggles of the first year and the bonding during the retreat, the board and the director should be ready to move to a more mature level of operation and to take full advantage of the opportunities God will bring to them. It may be wise to invite a skilled consultant from the conference staff or another professional to act as facilitator for the weekend.
 
-Footnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Sample questions to ask are in Appendix A.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Some regions have demographic information in local government offices, libraries, and realty associations. The Center for Metropolitan Ministry (www.sdacmm.org) in Takoma Park, Maryland, USA, can be contacted at 301-270-9350. Demographic information can be obtained online for specific geographic areas (in the U.S. see www.census.gov or www.epodunk.com). Here are some websites for international databases:
 
 **Geography and environment website**
@@ -108,6 +110,8 @@ http://membres.lycos.fr/demonetasia/
 
 Type in google.com, then type in “demographics”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> A simple questionnaire can be developed and administered easily by volunteers going door to door. This survey can include four to six simple questions about the needs in the area and interest in selected services. See a sample questionnaire in Appendix B. NOTE: Later, when inviting the community to the resulting events, you might say, “As a result of your community’s input, we are providing the following services” (List dates and places — no more than three at once).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Windshield surveys can best be conducted in teams of two (one to drive and another to make notes), or individually, with a tape recorder. Note features of the area, layout of streets, traffic patterns, kinds of housing, upkeep of homes, general impressions about the population (age group, occupations, ethnicity, etc.). A sample Windshield Survey worksheet is in Appendix C.

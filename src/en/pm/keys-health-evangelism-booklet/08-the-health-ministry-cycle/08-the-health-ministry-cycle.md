@@ -9,9 +9,7 @@ Here again are Prochaska’s six stages of change in detail with brief ideas or 
 You’re simply not aware of the need.
 
 - Or you’re denying the need. You react defensively when somebody brings up the subject. (“I’m doing enough exercise as it is; besides, the benefits of exercise are overrated.“)
-
 - Or you feel overwhelmed by what it would take to make a change; so you feel change is not a realistic option.
-
 - Or you think you want to change, but in fact, it’s only a “should” that you don’t really believe in deep down.
 
 **What it takes to move you from this stage:**
@@ -23,11 +21,8 @@ _Strategies_: Self assessments; awareness campaigns; show needs/benefits; use st
 ### 2. You are getting serious. “Contemplation.”
 
 - You’re no longer sidestepping the issue. You’ve become conscious of the problem.
-
 - You’re aware that what you do (or don’t do) has consequences.
-
 - You have the intention to do something about it, not right now, but perhaps within the next 6 months.
-
 - This is a sort of incubation stage, a transition toward doing something. You internally become more open to the possibility of change.
 
 **What it takes to move you from this stage:**
@@ -99,11 +94,7 @@ A complete, fully effective health ministry in a local church will regularly go 
 #### Suggested ministry activities for each of the six parts in the health ministry cycle:
 
 - Awareness (raise awareness of a particular health issue): Ideas include a health newsletter; church bulletin insert on health; health posters/flyers; health segment on news shows.
-
 - Assessment (provide an opportunity for people to assess their personal health): For example, provide computerized health assessment at a county fair or mall; a self-scoring assessment in a magazine; assessment handouts.
-
 - Education (offer a formal educational opportunity): Regularly offer information through events such as an evening, eight-week class on general health, a three-night class on stress management, a lunch-time lecture on heart health, or a weekend seminar on fitness.
-
 - Change (an opportunity for a formal public commitment to change): Activities could be throwing cigarettes in the trash at a Stop Smoking Clinic; signing a pledge card to stop drinking; getting a walking “buddy;” support groups; logging progress; reporting on progress to a support group; experimenting with new health practices (eating, activities, relaxation techniques, spiritual support, etc.).
-
 - Follow-through (holding your participants accountable to the changes they’ve made): Options include monthly health meetings; telephone or e-mail follow-up; informal inquiries into progress; getting successful individuals involved in helping others; reinforcement through church activities, newsletters, web sites, potlucks, small groups; wellness and fitness challenges and recognition for achieving goals; commit to lifelong health; joining a lifelong health foundation.

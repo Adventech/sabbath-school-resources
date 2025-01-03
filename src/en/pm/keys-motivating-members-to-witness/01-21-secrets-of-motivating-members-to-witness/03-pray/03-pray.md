@@ -11,6 +11,5 @@ Encourage each to pray daily, “Who today, Lord?” As they plan, work, and pra
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>33</sup> _Manuscript Releases, vol. 6_, p. 194.

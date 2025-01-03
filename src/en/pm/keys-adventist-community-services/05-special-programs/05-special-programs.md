@@ -65,55 +65,36 @@ ADRA Canada is involved in the funding of community service initiatives. Working
 Whether large or small, there are outreach opportunities in every community. The following are some ideas for programs and services fostered in Canada that can be used worldwide:
 
 - Adopt a family – assist with food, clothes, household items, furniture, transportation, utility bills
-
 - Child care – give single parents an evening to go shopping or provide after school care
-
 - Back-to-school supplies for a child
-
 - Community kitchen – hands-on, small group, low cost cooking. Food is taken home by participants to use during the month.
-
 - Dress-out program for prisoners on release
-
 - Drug abuse prevention – especially among youth in the middle grades
-
 - Sewing and mending service – includes quilt-making for those in need
-
 - Family finance seminar/counseling
-
 - Emergency food pantry
-
 - Free medical clinic – dental, eye, podiatry
-
 - Adventist Health Screening – provide free blood pressure reading, BMI, grip-strength test, health age, stress profile, healthy lifestyle tips
-
 - Health seminars on topics such as healthy lifestyle, smoking cessation, depression recovery, grief recovery, cooking
-
 - Homemaker services – for seniors, new single moms, the ailing
-
 - Skills training – for those on social assistance or working poor
-
 - Phone a friend – for seniors or latch-key kids
-
 - Baby layettes – for teens, single moms
-
 - Meals on wheels – for seniors or the unwell
-
 - Homeless initiatives – clothes, food, sports activities, mobile clinic
-
 - Community gardens – to teach economically challenged how to grow and preserve food
-
 - Home renovation – for working poor, single parents
-
 - Healthy eating club – monthly vegetarian potluck with health nugget
-
 - Furniture bank – repair and recycle furniture
 
 Additional ideas and actual implementation sites can be found on ADRA Canada’s website at www.adra.ca.
 
 There are many other kinds of programs that can be operated by ACS organizations. Information about such programs can be found on the internet and by contacting other non-government organizations.
 
-Footnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Each of the geographic areas (countries, states, or provinces) will have their own requirements for documentation. As an example, it is often required that the client/disaster survivor sign a Release of Confidential Information before their information may be shared with other supporting agencies or organizations, so be sure to become trained in the ACS program for your area. Through such training, you will learn about the regulations and policies that apply for your area.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Adapted from www.communityservices.org

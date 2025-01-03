@@ -9,9 +9,7 @@ title: Appendix D
 Everything hinges on honestly answering three questions. I have taken this path hundreds of times and have repeatedly experienced positive reactions and amazement.
 
 1. Does a living, all-knowing and all-powerful God exist, who loves humans?
-
 2. Is Jesus of Nazareth really the redeemer sent by God?
-
 3. Was the Bible or the Holy Scriptures really written by people under God’s authority or is it merely a human product?
 
 There are very satisfactory answers to these fundamental questions. See

@@ -15,7 +15,7 @@ _Hallowed be Your name_. Approach God with reverence.
 
 _Your kingdom come_. Be ready to say goodbye to this world.
 
-_Your will be done. _Determine to obey God’s will.
+_Your will be done._ Determine to obey God’s will.
 
 _Give us this day our daily bread_. Express gratitude and acknowledge total dependence upon God.
 

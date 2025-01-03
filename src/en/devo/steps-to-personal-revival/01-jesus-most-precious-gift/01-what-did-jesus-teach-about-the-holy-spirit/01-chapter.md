@@ -144,16 +144,22 @@ Someday when this boy is in heaven, then I will know that God brought it about. 
 > <callout></callout>
 > Prayer: Father in heaven, thank you for Jesus’ urgent invitation to ask for the Holy Spirit. I am sorry for the losses I have experienced because of a lack of the Holy Spirit. I need divine assistance so that Jesus can become greater in me. I need His help in every area of my life. Thank you that the Holy Spirit can change my character and can make me fit for God’s kingdom. I completely surrender myself to you with all that I am and have. Thank you for accepting me and giving me your blessings. Help me to grow in knowledge about the Holy Spirit. Amen.
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Ellen G. White, Christ’s Object Lessons (1900), p. 145.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> It is worthwhile to pray with promises. If you want to know more about this, please read chapter 4 of Steps to Personal Revival.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Ellen G. White, Signs of the Times, November 21, 1895, par. 3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Ellen G. White, The Acts of the Apostles (1911) p. 56.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Lüneburg, 1999), S. 101
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Sabbath School Study Guide July 17, 2014

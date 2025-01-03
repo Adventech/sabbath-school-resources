@@ -7,6 +7,5 @@ subtitle: Secret 5
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>34</sup> _Prophets and Kings_, p. 263.

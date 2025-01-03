@@ -66,10 +66,12 @@ The Church asserts the right to express its commitment to biblical truth through
 
 to achieve a consistent application of a “clear and respectful” standard in its ministries, the Church urges all its ministries, including pastoral and evangelistic ministries, educational ministries, publishing and media ministries, and health and medical ministries, among others, periodically to provide training and counsel to employees who interface with the public through media and public presentations. This training should include a review of current national or community law pertaining to public speech about sexual behaviors, and examples of appropriate ways to communicate the Church’s beliefs and teachings.
 
-#### Notes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> See the Seventh-day Adventist Church’s Official Statements about “Same-Sex Unions” and “Homosexuality.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Fundamental Beliefs of Seventh-day Adventists, “Marriage and Family,” No. 23.
 
 These guidelines were approved and voted by the General Conference of Seventh-day Adventists, Spring Meeting 2014.

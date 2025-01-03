@@ -123,20 +123,27 @@ God wants our marriages to be harmonious and happy. This is the point of Ephesia
 
 May our Heavenly Father give us selfless love we are not capable of producing. May He give us the ability to walk in humility and inner strength. May He grant us His presence each day anew, so that the flowers in the meadows of every marriage will bloom incessantly for His glory.
 
-**Notes**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Ludwigsburger Zeitung, 19.9.97 (Translated from German).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> While Jesus died to save all of humanity, here the focus is on the church.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> in Heinz Schäfer, Mach ein Fenster dran! Beispiele für die Wahrheiten der Bibel (Stuttgart: Christliches Verlagshaus, 1982), 270 (Translated from German).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> See, e.g., the wives of the patriarchs, Abigail, the OT prophetesses, and the praiseworthy woman in Proverbs 31.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> in Heinz Schäfer (ed.). Hört ein Gleichnis (Stuttgart: Christliches Verlagshaus, 1982), 292-293 (Translated from German).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Cf., for instance, 1Cor 7:2-5.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> in Heinz Schäfer, in Bildern reden; Beispiele für die Wahrheiten der Bibel (Stuttgart: Christliches Verlagshaus, 1987), 179-180 (Translated from German).
 
 #### References

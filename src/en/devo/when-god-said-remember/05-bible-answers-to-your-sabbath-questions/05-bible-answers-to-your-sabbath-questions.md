@@ -22,11 +22,8 @@ Ask yourself, Where is the weight of evidence on this topic? What do the majorit
 Here are four principles in discovering truth:
 
 1. Approach the Bible with an open mind, willing to do whatever Christ asks you (John 7:17).
-
 2. Ask God to send His Holy Spirit to your mind to reveal truth (Matthew 7:7; John 16:13).
-
 3. Compare each relevant passage of Scripture on a given topic (1 Corinthians 2:13).
-
 4. Act on the truth God reveals, and He will reveal more truth. Do not wait for all the truth to act on the truth you know (John 12:35).
 
 As we approach His Word with sincere hearts, He will reveal His truth. He will enlighten our minds. He will impress us by His Holy Spirit. You may have questions, but God has answers. As you read through some of the most commonly asked questions in the next few pages, and the biblical answers I have provided, pray God will give you wisdom and understanding.

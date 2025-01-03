@@ -22,7 +22,5 @@ Contact your prayer partner and discuss the topic.
 **Pray with your prayer partner...**
 
 - [ ] that we will continue to daily pray for and receive the Holy Spirit.
-
 - [ ] and thank the Lord for His future guidance in our spiritual life..
-
 - [ ] that we will make the right decisions for our future course of action.

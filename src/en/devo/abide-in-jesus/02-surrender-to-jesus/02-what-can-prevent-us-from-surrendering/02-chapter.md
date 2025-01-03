@@ -160,24 +160,34 @@ C.H., #133
 > <callout></callout>
 > Arise, shine, for your light has come. Is. 60:1
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>39</sup> J. Edwin Orr, Volle Hingabe (Full Surrender) (Kassel, 1965), S. 108ff., shortened.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>40</sup> Ellen G. White, The Review and Herald, February 23, 1892.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>41</sup> H. W. Smith, Christsein täglich (Being a Christian Daily), S. 73.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>42</sup> Ellen G. White, Christian Service (Hagerstown, MD: Review and Herald Publishing Association, 1999), p. 258.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>43</sup> David Wolkwitz, Der Weg zu einer kraftvollen Erweckung, (NRW-Vereinigung), S. 25.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>44</sup> Ellen G. White, The Acts of the Apostles (Nampa, ID: Pacific Press Publishing Association, 2002), pp. 283, 284.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>45</sup> Aller Diener (Bern, Euro-Africa Division, 1983) II/III, S. 142.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>46</sup> Ellen G. White, The Ministry of Healing (Nampa, ID: Pacific Press Publishing Association, 2003), p. 498.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>47</sup> R. A. Torrey, Der Heilige Geist—Sein Wesen und Wirken (Frankfurt: 1966), S. 151; (The Holy Spirit— His Nature and Ministry).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>48</sup> Morris Venden, 95 Theses on Righteousness by Faith (Nampa, ID: Pacific Press Publishing Association, 2003), p. 133.

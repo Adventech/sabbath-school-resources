@@ -231,10 +231,13 @@ We want to take the time for prayer and contemplation for the preliminary though
 
 The Corona virus crisis has had an effect on our lives, which we never could have believed possible. When we invite our neighbors to a care group to discuss “Ways to Improve your Immune System”, then we can speak about the meaning of a personal relationship with God (Psalm 91) and about the eight ways to health (Newstart) or Newstart-Plus. Our goal should be to show others the advantages, which they don’t have yet. May the Lord bless you in your contemplation and prayer.
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Seeking God’s Spirit, January 8. – 18.,2020, Day 4, p. 36 – www.tendaysofprayer.org)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Ibid., p. 37, We just mentioned the main thoughts.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Randy Maxwell, If My People Pray (Pacific Press 1995), p. 72.

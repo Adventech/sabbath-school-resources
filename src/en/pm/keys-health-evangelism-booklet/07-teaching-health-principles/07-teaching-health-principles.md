@@ -118,20 +118,28 @@ Help participants set their own goals. Behavior change needs to be something the
 
 Reinforce good behavior! Plan incentives for reaching benchmarks. Recognize and praise even the smallest positive response.
 
-Endnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> _The Ministry of Healing_, p. 241.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Ibid., p. 128.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Ibid., pp. 130, 128.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Ibid., p. 130.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> _Medical Ministry_, p. 14.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> _The Ministry of Healing_, p. 147.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Ibid., p. 156.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Ibid., p. 156.

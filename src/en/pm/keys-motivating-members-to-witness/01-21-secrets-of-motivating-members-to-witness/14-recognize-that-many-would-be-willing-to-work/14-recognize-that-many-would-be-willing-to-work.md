@@ -31,10 +31,11 @@ It is equally important to train a soul winner as to win a soul. Every member ne
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>40</sup> _Ministry of Healing_, p. 149.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>41</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>42</sup> Ibid.

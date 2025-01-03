@@ -89,30 +89,43 @@ Spirit!’, but rather ‘Be filled with the Spirit!’ No person can fill thems
 > <callout></callout>
 > The Lord himself has given the command:<sup>a</sup> Let yourselves be consistently and repeatedly filled anew with the Spirit!<sup>b</sup>
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>67</sup> D. L. Moody, They Found the Secret, pp. 85, 86; quoted in 10 Days—Prayers and Devotions ... by Dennis Smith, p. 23
 
+{"style": {"text": {"size": "sm"}}}
 <sup>68</sup> Joseph H. Waggoner, The Spirit of God (Battle Creek, Michigan 1 877), p. 35f, quoted in Garrie F. Williams, Erfüllt vom Heiligen Geist (Lüneburg, 2007), S. 58
 
+{"style": {"text": {"size": "sm"}}}
 <sup>69</sup> Ekkehard Müller, Die Lehre von Gott: Biblischer Befund und Theologische Herausforderung, Bogenhofen 2010, S. 224
 
+{"style": {"text": {"size": "sm"}}}
 <sup>70</sup> Ellen G. White, The Acts of the Apostles (1911), p. 284.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>71</sup> Ellen G. White, The Desire of Ages (1898), p.313.4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>72</sup> Ellen G. White, The Desire of Ages (1898) pp. 671.2, 672.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>73</sup> Thomas A. Davis, Als Christ siegreich leben (HW-Verlag), S. 43 / How to be a victorious Christian, R&H.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>74</sup> Ellen G. White, The Desire of Ages (1898), p. 173.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>75</sup> Catherine Marshall, Der Helfer (Erzhausen, 2002), S. 24
 
+{"style": {"text": {"size": "sm"}}}
 <sup>76</sup> Ellen G. White, Thoughts from the Mount of Blessings, p. 20.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>77</sup> Johannes Mager was a pastor, evangelist and for many years a university lecturer on systematic theology. Most recently, he was the head of the ministry department in the Euro-African Division in Bern, Switzerland (now the Inter-European Division). Presently he is retired and lives in Friedensau. The quote is from his book: Auf den Spuren des Geistes, (Lüneburg, 1999) p. 100f (with permission from the publishing house)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>a</sup> Ellen G. White, Mount of Blessing, MB 20.3 (egwwritings.org)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>b</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Lüneburg, 1999), S. 101

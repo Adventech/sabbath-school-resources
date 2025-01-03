@@ -2,8 +2,6 @@
 title: The First Angel’s Message and Health Ministry
 ---
 
-The First Angel’s Message and Health Ministry
-
 God created mankind healthy—in His image. The “gospel” of the First Angel’s Message (Revelation 14:6, 7) that is to go to all people on earth just before Christ returns includes their restoration to His image.<sup>3</sup> Christian health workers should never be satisfied with simply helping sick people overcome pain or recover their previous level of health. Their goal should be to help everyone to reach ever higher levels of health, to take steps toward increased development of body, mind, and soul—toward the restoration of God’s image.
 
 David clarifies that God is as interested in people’s physical health as in their spiritual health. In one breath both forgiveness and healing are proclaimed: “Praise the Lord . . . who forgives all your sins and heals all your diseases, who redeems your life from the pit . . . .” He is the God “who satisfies your desires with good things, so that your youth is renewed like the eagle’s” (Psalms 103:1-5, NIV). Isaiah says those that wait on God “will renew their strength” (Isaiah 40:31, NIV). Peter indicates that the “restoration of all things” has been the theme of the prophets (Acts 3:20). The blessings of “restoration” must be our goal. People must be taught to turn away from Satan’s way of disobeying God’s physical laws which leads to disease and death, and turn to cooperating with God in following those laws which He established for our good, and that lead to life.
@@ -26,8 +24,10 @@ Note: There are lessons that could apply to health ministry found in the Second 
 
 We will now look at health ministry from differing perspectives apart from just the biblical basis and the First Angel’s Message mentioned above, although there will be some correlation. First, to operate a successful health ministry one should have and incorporate in presentations the following:
 
-Endnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Dysinger, William, “Heaven’s Lifestyle Today,” _General Conference of Seventh-day Adventists, 1997_, p. 13.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Ibid., pp. 19 - 131.

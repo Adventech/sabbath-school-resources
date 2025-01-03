@@ -232,6 +232,7 @@ God’s word gives me assurance: “Whoever has the Son has this life; whoever d
 
 _Helmut and my friend Kurt (Helmut Haubeil and Kurt Hasel)_
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> The name was selected to remind us of the biblical Andrew, who led his brother Petrus to Jesus (John 1:40-42).

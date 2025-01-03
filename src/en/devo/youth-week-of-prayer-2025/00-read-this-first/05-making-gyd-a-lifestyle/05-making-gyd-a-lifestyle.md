@@ -53,18 +53,25 @@ From its inception in 2013, Global Youth Day (GYD) had these core aspects: salva
 
 Christ's method was about taking care of the needs of the people and calling them to follow Him. Let us not be ashamed to call people to follow Jesus!
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Visit this website for Caleb Mission resources: https://www.gcyouthministries.org/initiatives/public-campus-ministries/ 
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Visit the GC Family Ministries website for ideas on families: https://family.adventist.org/ 
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Visit the Possibility Ministries website: https://www.possibilityministries.org/
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Visit this website for the ten days of prayer resources: https://www.tendaysofprayer.org/
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Get VOY resources here: https://www.gcyouthministries.org/wp-content/uploads/Voy-Proposal-v10.pdf 
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Read more about OYiM and the resources you can use: https://www.gcyouthministries.org/initiatives/one-year-in-mission/ 
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Visit: https://www.gcyouthministries.org/events-and-projects/global-youth-day-gyd/ GYD promo materials were sent out to the divisions.

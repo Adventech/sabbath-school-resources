@@ -213,28 +213,40 @@ Jesus is calling you today. He is calling you to step out of the crowd. He is ca
 
 Why not say in your heart, “Jesus, yes, I will follow You all the way”? Why not bow your head and make your commitment to follow Him right now?
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> A Biblical Cyclopaedia, 12th ed., ed. John Eadie (London: Charles Griffin & Company, 1870), s.v. “Sabbath.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> William L. Gildea, “Paschale,” The Catholic World, March 1894, 809. 3. “Canon 29,” Council of Laodicea, A.D. 337.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Peter Geiermann, The Converts Catchism of Catholic Doctrine (1957), 50. 6. James Cardinal Gibbons, Catholic Mirror, September 23, 1893.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> The Catholic Encyclopedia, vol. 4, ed. Charles G. Herbermann, et al. (New York: The Universal Knowledge Foundation, Inc., 1908, 1913), s.v. “Commandments of God,” 153.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Leo Broderick, “Pastor’s Page,” Sentinel (Algonac, Mich.: Saint Catherine Catholic Church newsletter, May 21, 1995).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Karl Keating, Catholicism and Funamentalism: The Attack on “Romanism” by “Bible Christians” (San Francisco: Ignatius Press, 1988), 38.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Broderick.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> James Cardinal Gibbons, The Faith of Our Fathers, 34th ed. (Baltimore, Md.: John Murphy & Co., 1889), 111.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Mgr. Segur, Plain Talk About the Protestantism of To-Day (Boston: Patrick Donahoe, 1868), 225.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> “Clergy Say That Sunday Keeping Not in the Bible,” Toronto Daily Star, October 26, 1949.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> J. H. Holtzman, Canon and Tradition, quoted in J. N. Andrews and L. R. Conradi, History of the Sabbath and First Day of the Week, 4th ed. (Washington, D.C.: Review and Herald® Publishing Association, 1912), 589.

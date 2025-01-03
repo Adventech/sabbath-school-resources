@@ -45,4 +45,5 @@ To find peace as a single person, it is important that you identify your values 
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Walter Trobisch, I Married You (New York: Harper and Row, 1971), 75–77.

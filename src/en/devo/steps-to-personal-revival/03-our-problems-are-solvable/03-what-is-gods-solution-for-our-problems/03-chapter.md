@@ -131,50 +131,73 @@ I am reading _Steps to Personal Revival_ in Spanish for the third time. I just g
 > <callout></callout>
 > “What you intend, you will not succeed by the power of an army and not by human power: No, my spirit will effect it! I promise, the LORD Almighty God.” (Zechariah 4,6)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>44</sup> Ellen G. White, The Desire of Ages (1898), p. 676.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>45</sup> Ellen G. White, The Acts of the Apostles, (1911), p. 284.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>46</sup> Ellen G. White, The Desire of Ages (1898), p. 313.4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>47</sup> Editor Francis D. Nichol, Adventist Bible Commentary, vol. 1 (Review and Herald, 1976), p. 1113
 
+{"style": {"text": {"size": "sm"}}}
 <sup>48</sup> Ellen G. White, Review and Herald, Jan. 6, 1885
 
+{"style": {"text": {"size": "sm"}}}
 <sup>49</sup> Ellen G. White, Steps to Christ (1892), p. 70.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>50</sup> Morris Venden, 95 Theses on Righteousness by Faith (Pacific Press, 1987), p. 96
 
+{"style": {"text": {"size": "sm"}}}
 <sup>51</sup> Morris Venden, 95 Theses on Righteousness by Faith (Pacific Press, 1987), p. 233
 
+{"style": {"text": {"size": "sm"}}}
 <sup>52</sup> Ellen G. White, Sons and Daughters of God, p. 279
 
+{"style": {"text": {"size": "sm"}}}
 <sup>53</sup> Dr. S. Joseph Kidder, Anleitung zum geistlichen Leben (Andrews University), PPP slide 14
 
+{"style": {"text": {"size": "sm"}}}
 <sup>54</sup> Ellen G. White, The Desire of Ages (1898), p. 523.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>55</sup> Ellen G. White, The Desire of Ages (1898), p. 827.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>56</sup> Ellen G. White, Acts of the Apostles (1911), p. 56.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>57</sup> Editor Werner E. Lange, Unser größtes Bedürfnis (Lüneburg, 2011), S. 42
 
+{"style": {"text": {"size": "sm"}}}
 <sup>58</sup> Sabbath School Study Guide July 17, 2014
 
+{"style": {"text": {"size": "sm"}}}
 <sup>59</sup> Ellen G. White, The Acts of the Apostles (1911), p. 50.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>60</sup> Ellen G. White, Selected Messages 1 (1958), p. 374.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>61</sup> Ellen G. White, The Signs of the Times, March 8, 1910, par. 1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>62</sup> Ellen G. White, The Desire of Ages (1898), p. 313.4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>63</sup> Ellen G. White, The Review and Herald, March 2, 1897, par. 5
 
+{"style": {"text": {"size": "sm"}}}
 <sup>64</sup> Ellen G. White, Testimonies to the Church (1904), vol. 8, p. 191
 
+{"style": {"text": {"size": "sm"}}}
 <sup>65</sup> Fritz Rienecker, Lexikon zur Bibel (Wuppertal, 1964), S. 1017
 
+{"style": {"text": {"size": "sm"}}}
 <sup>66</sup> Ellen G. White, Patriarchs and Prophets (1890), p. 353.3

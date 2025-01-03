@@ -270,100 +270,147 @@ Children of divorce may face many changes, challenges, and premature family resp
 
 The truth is, there is an increasing number of people in the church who are divorced and who are themselves, in many instances, children of divorce. Because of this reality, the church must focus on providing empathy, guidance, and assistance for those who are wounded and often broken by divorce or the divorce of their parents. This places a great responsibility on the church to be proactive. of course, being proactive means implementing “divorce care” programs for children and parents. It also means having in place pre-engagement and premarital counseling programs to equip couples considering marriage develop skills to help mitigate the results of marital conflicts that will inevitably arise. Such programs, personal interactions, and friendships with peers and older brothers and sisters will help to save many from the burdens and traumas caused by divorce, creating in the process stronger and healthier families, which in turn will give rise to stronger and healthier churches that can share the gospel with power and joy until the Lord comes.
 
-#### Notes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Ellen G. White, “Love to God and Man,” Review and Herald, November 17, 1896, offers, “God would have our families’ symbols of the family in heaven. Let parents and children bear this in mind every day, relating themselves to one another as members of the family of God. Then their lives will be of such a character as to the world an object lesson of what families who love God and keep His commandments may be. Christ will be glorified; His peace and grace and love will pervade the family circle like a precious perfume.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Donna S. Hershkowitz and Drew R. Liebert, “The Direction of Divorce Reform in California: From Fault to No-Fault . . . and Back Again?” (paper prepared for a hearing by the Assembly Judiciary Committee of the State of California, Nov. 6, 1997), https://ajud.assembly.ca.gov/sites/ajud.assembly.ca.gov/files/reports/1197%20divorcereform97.pdf (accessed May 8, 2022), 1.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> See Paul R. Amato, “Good Enough Marriages: Parental Discord, Divorce, and Children’s Long-Term Well-Being,” Virginia Journal of Social Policy & the Law 71 (2001–2002): 1.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> All biblical quotations are from the New King James Version, unless otherwise indicated.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Mark Earley, “Hope for Grown Children of Divorce,” The Christian Post, December 12, 2008, https://www.christianpost.com/news/hope-for-grown-children-of-divorce.html (accessed May 8, 2022).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Marija Lazic “13 Saddening Children of Divorce Statistics for 2022,” Legal Jobs, January 4, 2021, https://legaljobs.io/blog/children-of-divorce-statistics/ (accessed May 8, 2022), 2.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Anthony Giddens, Modernity and Self-Identity: Self and Society in the Late Modern Age (Stanford, CA: Stanford University Press, 1991).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Andrew Root, The Children of Divorce: The Loss of Family as the Loss of Being (Grand Rapids, MI: Baker Academic, 2010).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Judith Wallerstein, Julia M. Lewis, and Sandra Blakeslee, The Unexpected Legacy of Divorce: A 25 Year Landmark Study (New York, NY: Hyperion, 2000).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Ekkehardt Mueller, “Divorce and Remarriage in the New Testament,” in Marriage: Biblical and Theological Aspects, ed. Ekkehardt Mueller and Elias Brasil de Souza, Biblical Research Institute Studies in Biblical Ethics 1 (Silver Spring, MD: Biblical Research Institute, 2015), 247. For a broader discussion of the topic, see ibid., 207–246.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Archibald D. Hart, Helping Children Survive Divorce: What to Expect; How to Help (Dallas, TX: Word, 1997), 38–39, 80, 92.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Wallerstein, Lewis, and Blakeslee, 422.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Jann Gumbiner, “Divorce Hurts Children, Even Grown Ones,” Psychology Today, October 31, 2011, https://www. psychologytoday.com/us/blog/the-teenage-mind/201110/divorce-hurts-chil-dren-even-grown-ones (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> Wallerstein, Lewis, and Blakeslee, 283.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> Cynthia R. Pfeffer, ed., Severe Stress and Mental Disturbance in Children (Arlington, VA: American Psychiatric Association, 1996), 559–590.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> Doreen Oelmann, Das Fünf-Phasen-Modell zum Sterbeprozess nach Kübler-Ross, adapted by T. Witzig (Norderstedt: GRIN Verlag, 2008), 7–9.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> Wallerstein, Lewis, and Blakeslee, 34.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> Ibid., 411.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> Ibid., 422.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> Jann Gumbiner, “Divorce Hurts Children, Even Grown Ones,” Psychology Today, October 31, 2011, https://www. psychologytoday.com/us/blog/the-teenage-mind/201110/divorce-hurts-children-even-grown-ones (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> Paul Amato and Alan Booth, “The Consequences of Divorce for Attitudes Toward Divorce and Gender Roles,” Journal of Family Issues 12 (1991): 306–323.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> E. Mavis Hetherington and John Kelly, For Better or Worse: Divorce Reconsidered (New York: Norton, 2002).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> Grant W. Mohi, “Positive Outcomes of Divorce: A Multi-Method Study on the Effects of Parental Divorce on Children” (honors
 
+{"style": {"text": {"size": "sm"}}}
 <sup>thesis</sup>, University of Central Florida, 2014), 20–22, 28.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>26</sup> Grant W. Mohi, 20–22, 28.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>27</sup> Remo H. Largo and Monika Czernin, Glückliche Scheidungskinder (München Zürich: Piper, 2015), 100.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>28</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>29</sup> Wallerstein, Lewis, and Blakeslee, 171.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>30</sup> Largo and Czernin, 100.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>31</sup> Wayne Stocks, “The Bible and Children of Divorce,” Hope 4 Hurting Kids, February 27, 2017, https://hope4hurtingkids.com/family/divorce-and-family-disruption/bible-children-divorce/ (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>32</sup> Joyce G. Baldwin, Haggai, Zechariah and Malachi: An Introduction and Commentary, Tyndale Old Testament Commentaries 28 (Downers Grove, IL: InterVarsity, 1972), 262. Richard A. Taylor and E. Ray Clendenen, Haggai, Malachi, The New American Commentary (Nashville, TN: Broadman and Holman, 2004), 356, note, “Too often do contemporary married couples think of children as an option; they regard their own personal happiness or fulfillment as the primary goal in marriage. This was never to be the case according to the biblical revelation.” Mignon R. Jacobs, The Books of Haggai and Malachi, New International Commentary on the Old and New Testament, ed. E. J. Young, R. K. Harrison, and Robert L. Hubbard Jr. (Grand Rapids, MI: Eerdmans, 2017), 260, suggests, “The issue is fidelity to the Deity and a concern about producing children who are faithful to Yahweh.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>33</sup> “Children, Youth, Families and Socioeconomic Status,” American Psychological Association, http://www.apa.org/pi/ses/resources/publications/children-families.aspx (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>34</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>35</sup> Joshua E. Stern, “Strategies for Conflict Resolution in Divorce and Family Law,” Stern Perkoski Mendez, January 14, 2013, http:// jesfamilylaw.com/blog/strategies-for-conflict-resolution (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>36</sup> Susan Pease Gadoua, “I’m Divorced. Now What?” Psychology Today, July 10, 2016, https:// www.psychologytoday.com/us/blog/contemplating-divorce/201607/im-divorced-now-what (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>37</sup> Largo and Czernin, 259.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>38</sup> Karen L. Maudlin, “Children of Divorce,” Today’s Christian Woman, September 2008, https://www.todayschristianwoman.com/articles/2008/september/children-of-divorce.html (accessed May 8, 2022).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>39</sup> Largo and Czernin, 150.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>40</sup> Deborah Serani, “The Do’s and Don’ts of Co-Parenting Well,” Psychology Today, March 28, 2012, https://www.psychologytoday.com/us/blog/two-takes-depression/201203/the-dos-and-donts-co-parenting-well (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>41</sup> Hart, 218, 222, 225–226.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>42</sup> Wallerstein, Lewis, and Blakeslee, 304.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>43</sup> “Adventurer Club,” Hagerstown Seventh-day Adventist Church, http://www.hagerstownadventist.org/ministries/children/adventurer-club/ (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>44</sup> “Pathfinders and Adventurers,” Elkins SDA Church, https://elkinswv.adventistchurch.org/ministries/pathfinders-and-adventures (accessed December 31, 2021).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>45</sup> Root, 124–138.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>46</sup> Root, 139.
 
 Reprinted from Chapter 19, originally published in Family: Contemporary Issues on Marriage and Parenting, Volume 3 of the Biblical Research Institute Studies in Biblical Ethics series, edited by Ekkehardt Mueller and Elias Brasil de Souza, 2023. Used with permission.

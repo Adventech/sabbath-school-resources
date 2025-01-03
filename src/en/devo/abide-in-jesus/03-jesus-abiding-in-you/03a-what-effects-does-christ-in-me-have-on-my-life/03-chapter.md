@@ -145,48 +145,70 @@ E. Stanley Jones has said, “Paul...focuses on the phrase ‘in Christ’ and u
 > <callout></callout>
 > There is therefore now no condemnation for those who are in Christ Jesus who do not walk according to the flesh, but according to the Spirit. Romans 8:1 NKJV<callout>
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>49</sup> Ellen G. White, The Review and Herald, May 24, 1892, par. 4.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>50</sup> Ellen G. White, The Desire of Ages, p. 388.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>51</sup> Ibid., 676.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>52</sup> Ellen G. White, Ye Shall Receive Power (Hagerstown, MD: Review and Herald Publishing Association, 2012), October 24 p. 306.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>53</sup> Ibid., October 23; p. 305.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>54</sup> Dr. William R. Bright, Erfüllt mit dem Heiligen Geist—Wie erfährt man das? (Neuhausen, 1971), S. 27.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>55</sup> Ellen G. White, The Desire of Ages, pp. 599, 600.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>56</sup> Ellen G. White, Thoughts From the Mount of Blessing, p. 21.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>57</sup> Ellen G. White, Christ’s Object Lessons, p. 121.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>58</sup> David Wolkwitz, Der Weg zu einer kraftvollen Erweckung (The Way to a Powerful Revival) (NRW, Abt. Heimatmission), S. 205.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>59</sup> Ellen G. White, The Desire of Ages, p. 668.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>60</sup> Andrew Murray, Bleibe in Jesus (Remain in Jesus) (Leun, 2012), S. 149.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>61</sup> Francis D. Nichol, ed., Seventh-day Adventist Bible Commentary, vol. 6 (Hagerstown, MD: Review and Herald Publishing Association, 2001), p. 1112.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>62</sup> Ellen G. White, Ye Shall Receive Power, February 8; p. 47.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>63</sup> Ibid., February 4; p. 43.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>64</sup> Ellen G. White, The Signs of the Times, May 22, 1884, par. 3.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>65</sup> Roger J. Morneau, A Trip Into the Supernatural, (Hagerstown, MD: Review and Herald Publishing Association, 1999), p. 43.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>66</sup> Ellen G. White, The Desire of Ages, p. 805.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>67</sup> Ellen G. White, Sons and Daughters of God (Hagerstown, MD: Review and Herald Publishing Association, 2003), p. 279.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>68</sup> Dennis Smith, Spirit Baptism and Abiding in Christ (2010), p. 12.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>69</sup> Ellen G. White, Education (Nampa, ID: Pacific Press Publishing Association, 2002), p. 172.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>70</sup> E. Stanley Jones, In Christ (London: Hodder and Stoughton, 1961), p. 9; re-translated from German.

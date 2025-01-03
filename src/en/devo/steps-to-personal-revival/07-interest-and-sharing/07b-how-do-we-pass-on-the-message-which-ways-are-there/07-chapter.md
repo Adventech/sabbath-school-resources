@@ -97,8 +97,10 @@ I want to close with a Bible text and a prayer for revival:
 
 **“A revival need be expected only in answer to prayer.” <sup>144</sup> “The baptism of the Holy Spirit as on the day of Pentecost will lead to a revival of true religion and to the performance of many wonderful works.” <sup>145</sup>**
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>144</sup> Ellen G. White, Selected Messages, book 1 (1958), p. 121.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>145</sup> Ellen G. White, Selected Messages, book 2 (1958), p. 57.1

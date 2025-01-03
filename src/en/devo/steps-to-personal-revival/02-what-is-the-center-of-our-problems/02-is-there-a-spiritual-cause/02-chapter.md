@@ -195,32 +195,46 @@ Thank you again for helping us to return to the basics! J. S. 231118 excerpt, #9
 > <callout></callout>
 > “For if the trumpet makes an uncertain sound, who will prepare for battle.” (1 Corinthians 14,8)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Ellen G. White, The Desire of Ages (1898), p. 672
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Ellen G. White, Manuscript Releases vol. 7 p. 267
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> Ellen G. White, Testimonies for the Church vol. 8, p. 22
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> Mark A. Finley, Revive us again, p. 25
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> Henry T. Blackaby, Den Willen Gottes erkennen und tun (Experiencing God: Knowing and Doing the Will of God), (Kassel, 2002), S. 31
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> Ellen G. White, Steps to Christ, 95.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> Ellen G. White, The Desire of Ages (1898), p. 676
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> E.G.White, The Desire of Ages (1898), p.357.2—Das Leben Jesu, S. 349 [357]
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> Ellen G. White, Steps to Christ (1892), p. 43.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> Ellen G. White, Steps to Christ (1892) p. 43.4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> Morris Venden, 95 Theses on Righteousness by Faith (Pacific Press, 1987), p. 63
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> Ellen G. White, Desire of Ages, p. 523
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> Email an H. Haubeil—received on February 15, 2012
 
+{"style": {"text": {"size": "sm"}}}
 <sup>26</sup> Email from March 31, 2013

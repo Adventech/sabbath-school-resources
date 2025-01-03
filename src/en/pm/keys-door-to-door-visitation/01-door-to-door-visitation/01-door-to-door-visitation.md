@@ -601,34 +601,47 @@ Persevere in door-to-door visitation. God’s presence will be with you and He w
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> _Gospel Workers_, p. 188.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> _Evangelism_, p. 431.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> _Testimonies, vol. 9_, p. 30.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> _Testimonies, vol. 6_, p. 296.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> _Testimonies, vol. 7_, p. 30.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> _Testimonies, vol. 6_, p. 296.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> _Acts of the Apostles_, p. 109.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> _Testimonies, vol. 2_, p. 615.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> _Prophets and Kings_, p. 263.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> _Evangelism_, p. 229.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> _Review and Herald_, March 13, 1888.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> _Christ’s Object Lessons_, p. 231.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> _The Ministry of Healing_, p. 158.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> _The Desire of Ages_, p. 141.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> _The Review and Herald_, December 29, 1904.

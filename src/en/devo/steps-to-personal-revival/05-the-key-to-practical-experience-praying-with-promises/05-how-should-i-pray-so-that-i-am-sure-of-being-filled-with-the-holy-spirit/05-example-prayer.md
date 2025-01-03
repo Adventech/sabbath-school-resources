@@ -12,4 +12,7 @@ Thank You that through the Holy Spirit the power of sin has been broken in me (R
 
 And please help me to be Your witness in word and deed (Acts 1:8). I praise You and thank You for hearing my prayer. Amen.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> “Only those who will become co-workers with Christ, only those who will say, Lord, all I have and all I am is Thine, will be acknowledged as sons and daughters of God.” Ellen G. White, The Desire of Ages (1898), p. 523.1

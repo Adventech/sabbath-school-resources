@@ -32,8 +32,9 @@ This passage suggests several important guidelines for addressing spiritual matt
 
 When we are led by Jesus and have sincere compassion for others, we will have many opportunities to offer God’s encouragement, support, comfort, and unconditional love. Start somewhere, and He will multiply your unselfish efforts.<sup>9</sup>
 
-Footnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> For more insights on witnessing through community services, see Ronald J. Sider, Philip N. Olson, & Heidi Rolland Unruh, _Churches That Make a Difference_, chapter 5: “Integrating Evangelism and Social Outreach.”
 
 #### Official Statements of the Seventh-day Adventist Church

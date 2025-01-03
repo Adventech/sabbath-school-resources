@@ -179,24 +179,34 @@ What does God word say in James 4:2 (NKJV)?
 
 “You ... do not have ... because you do not ask.” Verse 3 (NIV): “When you ask, you do not receive, because you ask with wrong motives ...” (without complete surrender to Christ). This is certainly the main reason for the deficiency.
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Lüneburg, 1999), cover
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> D. Martin Lloyd-Jones, Vollmacht, Telos-Taschenbuch No. 385 (Marburg 1984), p. 72
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Wolfgang Trillhaas, Dogmatik, 3. Auflage (Berlin 1972), p. 408
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Lüneburg, 1999), p. 9
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Lüneburg, 1999), p. 10, 11, 13
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Ron E.M. Clouzet, Adventism’s Greatest Need – The Outpouring of the Holy Spirit, (PPPA 2011), What Readers are Saying
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Paulo Macena, The Missing Power, (PPPA 2017) 167 pages. Please send all inquiries to Paulo Macena: pmacena@icloud.com www.themissingpower.com.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> D. Smith, 10 Days – Prayers and Devotions to experience the Baptism of the Holy Spirit, p. 37
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Lüneburg 1999), p. 101-102
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> www.steps-to-personal-revival.info – right column – video sermons with Helmut Haubeil on Steps to Personal Revival, No 4: How can I know the will of my God for my personal decisions?

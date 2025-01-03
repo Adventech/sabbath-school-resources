@@ -139,16 +139,22 @@ Here, too, the members began to perform the 10 prayer and fasting days individua
 
 Pastor F.H. and his wife, #85b
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>128</sup> Taken from Wikipedia, “Mary Jones.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>129</sup> BWgung, news magazine from the Seventh-day Adventists in Baden-Württemberg (Germany), Nr. 6/2012, S. 24.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>130</sup> Ellen G. White, The Acts of the Apostles, pp. 549, 550.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>131</sup> Ellen G. White, Prophets and Kings, p. 233.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>132</sup> Ellen G. White, Ye Shall Receive Power, November 5; p. 318.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>133</sup> Ellen G. White, Selected Messages, book 1, p. 386.

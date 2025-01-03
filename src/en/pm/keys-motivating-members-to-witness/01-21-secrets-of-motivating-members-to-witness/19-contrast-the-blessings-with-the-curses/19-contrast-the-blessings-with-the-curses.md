@@ -7,6 +7,5 @@ The “blessings” of being a laborer together with God are numerous. One can a
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>80</sup> _Review and Herald_, Dec. 12, 1878.

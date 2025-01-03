@@ -101,6 +101,10 @@ The Sabbath is not drudgery. It is life-giving. The Sabbath is not a burden. It 
 
 If you have not experienced the exhilarating joy of Sabbath worship, why not begin this week? If you have not entered into the peace of Sabbath rest, why not start now? If you would like a closer relationship with your loved ones and friends, the Sabbath experience awaits you. The Sabbath is not simply something to be debated—it is a joy to be experienced. Why not experience the blessings of Sabbath for yourself? With arms wide open, Jesus says, “Come unto Me all you who are burdened, and I will give you rest.”
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Wikipedia contributors, “French Republican Calendar,” Wikipedia.com, http://en.wikipedia.org/wiki/French_Republican_Calendar (accessed March 11, 2009).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Herman Wouk, This Is My God (New York: Back Bay Books, 1992), 45, 46. 3. Ibid., 46.

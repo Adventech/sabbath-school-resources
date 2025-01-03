@@ -7,6 +7,5 @@ The very simplest modes combined with united action equals results. “The very 
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>38</sup> _Testimonies, vol. 6_, p. 433.

@@ -214,8 +214,10 @@ We want to thank our Lord with all our heart that He makes us willing and able �
 > <callout></callout>
 > Prayer: “Father in heaven, make me willing to want everything you want. Please, awaken the desire in me to help with the great task of winning a lost world for You. Thank You, Lord Jesus, that You will lead me with Your good Spirit. AMEN.”
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> See Victory over Tobbaco & Alcohol www.Steps-to-personal-revival.info: Letters to Andrew No. 5 – Missionary tools.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> It doesn’t have to do with reverence here, but rather fear, misgivings. NKJV: “Let us fear”; RSV: “Let us fear”

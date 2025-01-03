@@ -246,10 +246,13 @@ An effective witness means:
 
 “The Holy Spirit will come to all who are begging for the bread of life to give to their neighbors.” (E.G. White, Testimonies for the Church, vol. 6, p. 90.1)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Dennis Smith, 40-Days (book one) – Prayers and Devotions to Prepare for the Second Coming, in this book: Part Two: The Holy Spirit and Prayer, pp. 47 f
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> S. Joseph Kidder, ... und sie wächst doch! Vier entscheidende Faktoren für das Wachstum von Gemeinden (Lüneburg 2014), S. 101, 131, 124, 136 – English: The Big Four – Secrets to a Thriving Church Family, 2011 R&H
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Wirksames Zeugnis –Wie macht man das? (Neuhausen-Stuttgart, 1971), p. 33

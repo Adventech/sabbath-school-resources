@@ -126,50 +126,73 @@ The carnal Christian lives in “visual flight mode“. He makes all the decisio
 > <callout></callout>
 > I have come to bring fire on the earth. How I wish the fire had already started! Jesus in Luke 12:49 NIRV
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>98</sup> Dennis Smith, 40 Days—Prayer and Devotions to Revive Your Experience with God, book 2 (Vienna, 2013), p. 175
 
+{"style": {"text": {"size": "sm"}}}
 <sup>99</sup> Ellen G. White, The Faith I Live By (1958), p. 333.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>100</sup> Ellen G. White, The Great Controversy (1911), p. 469.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>101</sup> Randy Maxwell, If My People Pray (Pacific Press 1995), p. 145
 
+{"style": {"text": {"size": "sm"}}}
 <sup>102</sup> Author unknown, Our Daily Bread—Worship book (RBC Ministries), 26.Nov.1993
 
+{"style": {"text": {"size": "sm"}}}
 <sup>103</sup> Ellen G. White, Medical Ministries (1932), p. 12.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>104</sup> Email from 7.3.2013
 
+{"style": {"text": {"size": "sm"}}}
 <sup>105</sup> Email from November 18, 2014 from Sister M.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>106</sup> Andrew Letter Nr. 5, Victory over Tobacco and Alcohol, https://steps-to-personal-revival.info, button: Victory over Tobacco and Alcohol.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>107</sup> Dave Fiedler, D’Sozo (Remnant Publications), Foreword
 
+{"style": {"text": {"size": "sm"}}}
 <sup>108</sup> Dave Fiedler, D’Sozo (Remnant Publications), Foreword
 
+{"style": {"text": {"size": "sm"}}}
 <sup>109</sup> Ellen G. White, Review and Herald, April 5, 1892
 
+{"style": {"text": {"size": "sm"}}}
 <sup>110</sup> Ellen G. White, The Great Controversy (1911), p. 625.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>111</sup> Editor Francis D. Nichol, Adventist Bible Commentary, vol. 6 (Hagerstown, 1980), p. 1112
 
+{"style": {"text": {"size": "sm"}}}
 <sup>112</sup> Hrsg. Gerhard Rempel, Schlüsselbegriffe adventistischer Glaubenslehre (Hamburg), S.44
 
+{"style": {"text": {"size": "sm"}}}
 <sup>113</sup> Ellen G. White, Southern Watchman, March 1, 1904
 
+{"style": {"text": {"size": "sm"}}}
 <sup>114</sup> www.gotterfahren.info—GottverändertLeben—VomProkuristzumPrediger
 
+{"style": {"text": {"size": "sm"}}}
 <sup>115</sup> www.gotterfahren.info—WegezumZiel:Gotterfahren—GottesBotschaftfürunsereZeit—Thema Nr. 11
 
+{"style": {"text": {"size": "sm"}}}
 <sup>116</sup> Missions brief.de—Predigten lesen—Henry Drummond: Wie erkenne ich den Willen Gottes? (Deutsch und Englisch)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>117</sup> Ellen G. White, The Desire of Ages (1898), p. 363.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>118</sup> Ellen G. White, Prophet and Kings (1917), p. 651.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>119</sup> Ellen G. White,The Great Controversy (1911), p. 512.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>120</sup> Kalenderzettel February 17, 1979 by Reinhard Petrik

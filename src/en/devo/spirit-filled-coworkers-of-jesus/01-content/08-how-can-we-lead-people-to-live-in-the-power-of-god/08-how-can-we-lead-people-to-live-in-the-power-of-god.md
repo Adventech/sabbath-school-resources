@@ -272,6 +272,7 @@ Best wishes and blessings,
 
 _Helmut and my friend Kurt (Helmut Haubeil and Kurt Hasel)_
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> The name was selected to remind us of the biblical Andrew, who led his brother Peter to Jesus (John 1:40-42).

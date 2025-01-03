@@ -83,10 +83,13 @@ Praise and thanks to God that He has shown us the way. We are glad that we can t
 
 What risk do we run when we don’t continually ask for the Holy Spirit? “The enemy is a master worker, and if God’s people are not constantly led by the Spirit of God, they will be snared and taken.” (Selected Messages, book 2, p. 352.2)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> Mark Finley, Revive us again, p. 25
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> Dennis Smith, 40 Days – Prayers and Devotions to Prepare for the Second Coming, Vienna 2012, p. 103
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> Helmut Haubeil, Spirit-Filled Coworkers of Jesus, chapter 2: God’s ingenious way. Available online www.schritte-zur-persönlichen-erweckung.info or as a book www.remnantpublications.com

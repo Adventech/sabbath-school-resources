@@ -40,16 +40,21 @@ As the transgender phenomenon must be evaluated by Scripture, the following bibl
 
 10\. Those who experience incongruity between their biological sex and gender identity are encouraged to follow biblical principles in dealing with their distress. They are invited to reflect on God’s original plan of purity and sexual fidelity. Belonging to God, all are called to honor Him with their bodies and their lifestyle choices (1 Cor 6:19). With all believers, transgender people are encouraged to wait on God and are offered the fullness of divine compassion, peace, and grace in anticipation of Christ’s soon return when all true followers of Christ will be completely restored to God’s ideal.
 
-### Notes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Diagnostic and Statistical Manual of Mental Disorders, 5th ed. (DSM-5TM), edited by the American Psychiatric Association (Washington, DC: American Psychiatric Publishing, 2013), 451.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Those born with ambiguous genitalia may or may not benefit from corrective surgical treatment.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> See DSM-5TM, 451-459.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> This sentence is part of a succinct summary of gender dysphoria provided to introduce DSM-5TM that was published in 2013 (accessed April 11, 2017).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Cross-dressing, also referred to as transvestite behavior, is prohibited in Deuteronomy 22:5.
 
 This statement was voted during the Spring Meeting of the General Conference Executive Committee on Wednesday, April 11, 2017, in Silver Spring, Maryland.

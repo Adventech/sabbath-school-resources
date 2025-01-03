@@ -146,6 +146,7 @@ Let us serve our wonderful Lord with Jesus Christ in our hearts and filled with 
 > <callout></callout>
 > Prayer of Thanks: “Father in heaven, I want to praise and thank you for your wonderful guidance. Thank you that our local church trusted You and was willing to risk a step in global mission. I want to thank You for all the praying people, givers and helpers. Thank You for all those involved – the pioneers, churches, administrative offices and supporting ministries. You led us so that we could help in the salvation of people. Please continue to be with us and our mission work! Thank You that we were able to experience the “reflex influence”! We now ask You for a worldwide revival and reformation! Yes, we want the final great proclamation of the gospel to take place now, so that Jesus can come again soon! Father, praise and glory be Yours forever and ever! AMEN.”
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Author Dr. William Bright – The fundamental problems were identified with the use of comprehensive opinion surveys.

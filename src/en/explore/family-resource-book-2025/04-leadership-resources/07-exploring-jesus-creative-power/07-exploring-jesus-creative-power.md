@@ -74,30 +74,42 @@ Leadership does not mean that you try to coerce or force people to believe what 
 
 God is our Creator, and we are made in His image—this is our most fundamental relationship with Him. While the topic of Creation may be daunting at times, it is an exciting and spiritually fulfilling area to explore. Take courage in the fact that the Holy Spirit will guide you as you disciple people into a deeper understanding of Jesus’ creative work and power.
 
-#### Notes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> David Kinnaman, You Lost Me: Why Young Christians Are Leaving Church and Rethinking Faith (Grand Rapids, MI: Baker Books, 2016). While gender and sexuality are major issues for young people in Gen Z, they also feel uneasy about the relationship between science and the Bible. Barna Group, Gen Z: The Culture, Beliefs, and Motivations Shaping the Next Generation (Ventura, CA: Barna Goup and Impact 360 Institute, 2018), 64, 65.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Alvin Plantinga has pointed this out in his book Where the Conflict Really Lies: Science, Religion, and Naturalism (New York, NY: Oxford University Press, 2011).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> As J. P. Moreland and William Lane Craig have noted regarding the positions of theistic evolution, progressive creationism, and young earth creationism: “Thus the dialogue among these groups is not merely one about scientific fact. It never has been, because beginning with Darwin himself, the creation-evolution controversy has significantly been a debate about philosophy of science: Should theology directly interact and enter into the very fabric of science or should science adopt methodological naturalism?” J. P. Moreland and William Lane Craig, Philosophical Foundations for a Christian Worldview, 2nd ed. (Downers Grove, IL: InterVarsity, 2017), 377.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Refer to Rebekah Miles’s chapter, “The Instrumental Role of Reason,” in W. Stephen Gunter, Scott J. Jones, Ted A. Campbell, Rebekah L. Miles, and Randy L. Maddox, Wesley and the Quadrilateral: Renewing the Conversation (Nashville, TN: Abingdon, 1997), 77–106.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> A number of books and resources can help you evaluate the various positions, such as J. P. Moreland and John Mark Reynolds, Three Views on Creation and Evolution, Counterpoints (Grand Rapids, MI: Zondervan, 1999), Richard Davidson, “The Genesis Account of Origins,” in The Genesis Creation Account and Its Reverberations in the Old Testament, ed. Gerald A. Klingbeil (Berrien Springs, MI: Andrews University Press, 2015), J. P. Moreland, Stephen C. Meyer, Christopher Shaw, Ann K. Gauger, and Wayne Grudem, eds., Theistic Evolution: A Scientific, Philosophical, and Theological Critique (Wheaton, IL: Crossway, 2017).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Ben Clausen provides a good personal testimony of building relationships with people in the scientific community: Ben Clausen, “Making Friends in the Scientific Community,” Adventist Review, May 2021, https://adventistreview.org/magazine-article/2105-24/.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Max Lucado, Just Like Jesus (Nashville, TN: Word Publishing, 1998), 3, 173.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> Ellen G. White, Education (Nampa, ID: Pacific Press, 2002), 80.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Ellen G. White, The Desire of Ages (Oakland, CA: Pacific Press , 1898), 671.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Good websites that you can refer to include the Geoscience Research Institute (https://www.grisda.org/), Creation Ministries International (https://creation.com), and Answers in Genesis (https://answersingenesis.org).
 
-<sup>11</sup> You can explore my personal exegesis of Genesis 1:1–3 in Sven Östring, “Our Miraculous Planet Earth,” Ministry, December 2018, https://www.ministrymagazine.org/archive/2018/12/Our-miraculous-planet-Earth, and Sven Östring, “An Apologia for an Earlier Commencement for Day 1 of Creation: A Structural Analysis Based on a Work Correspondence,” Andrews University Seminary Studies 59, no. 1 (2021), https://digitalcommons. andrews.edu/auss/vol59/iss1/1/.
+{"style": {"text": {"size": "sm"}}}
+<sup>11</sup> You can explore my personal exegesis of Genesis 1:1–3 in Sven Östring, “Our Miraculous Planet Earth,” Ministry, December 2018, https://www.ministrymagazine.org/archive/2018/12/Our-miraculous-planet-Earth, and Sven Östring, “An Apologia for an Earlier Commencement for Day 1 of Creation: A Structural Analysis Based on a Work Correspondence,” Andrews University Seminary Studies 59, no. 1 (2021), https://digitalcommons.andrews.edu/auss/vol59/iss1/1/.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> Refer to the web page “What Adventists Believe About Creation,” General Conference of Seventh-day Adventists, accessed June 16, 2024, https://www.adventist.org/creation/. A fuller exposition of the Seventh-day Adventist understanding of Creation can be found in General Conference Ministerial Association, “Creation,” in Seventh-day Adventists Believe: An Exposition of the Fundamental Beliefs of the Seventh-day Adventist Church (Hagerstown, MD: Review and Herald, 2018), 79–89.
 
 Reprinted from an article first appeared in the September 2024 issue of Ministry,® International Journal for Pastors, www.MinistryMagazine.org. Used by permission. 

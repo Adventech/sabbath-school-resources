@@ -89,46 +89,65 @@ We turn now to other major secrets of motivation.
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> _Manuscript Releases, vol., 6_, p. 202.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> _Review and Herald_, Dec. 19, 1878.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> _Evangelism_, p. 17.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> _Review and Herald_, July 23,1895.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> _Testimonies, vol. 4_, p. 612.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> _Selected Messages, book 2_, pp. 402, 403.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> _The Desire of Ages_, p. 634.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> _Manuscript Releases, vol. 5_, p. 291.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> _Letter B-44_, 1903.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> _Selected Messages, vol. 1_, p. 196.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> _Evangelism_, pp. 221, 222.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> Ibid., p. 222.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> _Testimonies, vol. 6_, p. 296.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> _Gospel Workers_, pp. 26, 27.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>26</sup> _Manuscript 11_, 1892.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>27</sup> _Manuscript Releases, vol. 6_, p. 196.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>28</sup> _Testimonies, vol. 9_, p. 106.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>29</sup> _The True Missionary_, January 1874, vol. 1, no. 1, p. 24.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>30</sup> _Review and Herald_, Dec. 19, 1878.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>31</sup> Ibid., Jan. 4, 1898.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>32</sup> _Testimonies, vol. 6_, pp. 421, 422.

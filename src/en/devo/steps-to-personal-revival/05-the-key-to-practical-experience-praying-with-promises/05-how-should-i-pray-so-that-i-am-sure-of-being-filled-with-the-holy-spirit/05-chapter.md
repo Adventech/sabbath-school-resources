@@ -76,22 +76,31 @@ The abundant life here and eternal life in the future, the salvation of many peo
 > <callout></callout>
 > Invisible armies of light and power attend the meek and lowly ones who believe and claim the promises of God. Ellen White, Christ’s Object Lessons, p. 176
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>132</sup> Reuben A. Torrey, Der Heilige Geist–Sein Wesen und Wirken (Frankfurt, 1966), S. 150
 
+{"style": {"text": {"size": "sm"}}}
 <sup>133</sup> Ellen G. White, Christ’s Object Lessons (1900), p. 38.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>134</sup> Email to H. Haubeil C. S. 
 
+{"style": {"text": {"size": "sm"}}}
 <sup>135</sup> Editor Francis D. Nichol, Adventist Bible Commentary vol. 6 (Hagerstown, 1980), p. 1112
 
+{"style": {"text": {"size": "sm"}}}
 <sup>136</sup> Email to Helmut Haubeil: E. S. 
 
+{"style": {"text": {"size": "sm"}}}
 <sup>137</sup> Helmut Haubeil & Gerhard Padderatz, Gott, Geld & Glaube (Eckental, 2009), p. 97
 
+{"style": {"text": {"size": "sm"}}}
 <sup>138</sup> Ellen G. White, The Acts of the Apostles (1911), p. 561.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>139</sup> Randy Maxwell, If My People Pray (Pacific Press, 1995), p. 158
 
+{"style": {"text": {"size": "sm"}}}
 <sup>140</sup> Ellen G. White, Steps to Christ (1892), p. 73.1

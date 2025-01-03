@@ -60,12 +60,16 @@ What is the significance of my personal morning worship, if it is so important t
 
 This two-part divine solution (surrender to Jesus and the infilling of the Holy Spirit) to our main problem – being born again and living a new life – is also the way to a happy Christian life. Why? Jesus commented in John 15:11 NKJV: “These things I have spoken to you, that My joy may remain in you, and that your joy may be full.” Through these two steps (continually receiving the Holy Spirit and living in complete surrender to Jesus and to His service) Christ lives in us and this is the path to perfect happiness. Colossians 1:27 NKJV speaks about the riches of the glory: Christ in you. It is important to renew this relationship every day during morning worship.
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> Seventh-day Adventists Believe ... A Biblical Exposition of 27 Fundamental Doctrines, English Copyright: 1988 Ministerial Association, General Conference of Seventh-day Adventists, German Copyright 1996, Advent-Verlag Lüneburg, p. 311
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> David Wolkwitz, Encounter for Revival of Power, published by the personal ministries department of the General Conference, p. 102-103. No date. Section: “Be filled” (Eph 5:18)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> Ekkehardt Müller, Die Lehre von Gott – Biblischer Befund und Theologische Herausforderung (The Doctrine of God – Biblical Findings and Theological Challenge, Bogenhofen 2019, p. 224
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> Dennis Smith, 10 Days – Prayers and Devotions to Experience the Baptism of the Holy Spirit, p. 36, 37

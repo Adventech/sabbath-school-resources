@@ -7,7 +7,6 @@
     resources:
       - en-devo-dh-reading-plan*
   - group: Believe His Prophets
-    reverse: true
     view: tile
     resources:
       - en-devo-bhp-2025

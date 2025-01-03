@@ -15,6 +15,5 @@ It is good to discover our spiritual gifts and use them in the church. Fitting a
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>39</sup> _Testimonies, vol. 6_, p. 333.

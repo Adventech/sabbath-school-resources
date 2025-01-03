@@ -7,6 +7,5 @@ Members are often concerned about receiving stars in their crowns. What would ha
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>81</sup> _Testimonies, vol. 6_, p. 296.

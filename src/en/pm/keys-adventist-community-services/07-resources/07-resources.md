@@ -27,13 +27,9 @@ www.adra.org
 Below are ideas from the Caribbean Union in the Inter- American Division that you may wish to adapt to your region:
 
 - Seek to preach one Community Sermon each quarter on Sabbath, Sunday night, or Wednesday night. Ask the preacher to make a call at the end of the sermon for new members to join the army of Community Services members.
-
 - At every Community Service meeting repeat the Community Service Pledge and Motto.
-
 	- Community Services Pledge: “Following the example of Jesus, I promise to be kind and merciful to all in need so that the name of God may be glorified in my community.” (_Stand at attention when repeating._)
-
 	- Community Services Motto: “By the grace of God, I promise to carry the gospel on the wheels of community services to my community.” (_Stand at attention with right hand on heart and repeat._)
-
 - Promote and conduct an annual Community Services Day in your church. Think big and plan big.
 
 `What are your innovative ideas?`

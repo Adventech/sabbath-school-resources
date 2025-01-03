@@ -9,15 +9,15 @@ Jesus promised, “This gospel of the kingdom will be preached in all the world 
 
 In the prophecy of Revelation 14:6, the everlasting gospel is being preached to the whole world, just as Matthew said it would be. In verse 14 we see the expected result: “One like the Son of Man” coming to the earth on a cloud—a representation of the second coming of Christ and the end of the world. Matthew had said that the gospel must go to the whole world before the end, but between Revelation 14:6 (gospel to the world) and Revelation 14:14 (the end) we learn that there are distinct and essential components to the end-time message that will usher in the coming of Christ:
 
-_The hour of His judgment has come _(Revelation 14:7). This judgment began in 1844 when Christ entered the Most Holy Place to cleanse the heavenly sanctuary (see Daniel 8:14).
+_The hour of His judgment has come_ (Revelation 14:7). This judgment began in 1844 when Christ entered the Most Holy Place to cleanse the heavenly sanctuary (see Daniel 8:14).
 
-_Worship Him who made heaven and earth, the sea and springs of water _(Revelation 14:7). A reference to the fourth commandment (Exodus 20:8-11) and the importance of keeping the seventh-day Sabbath.
+_Worship Him who made heaven and earth, the sea and springs of water_ (Revelation 14:7). A reference to the fourth commandment (Exodus 20:8-11) and the importance of keeping the seventh-day Sabbath.
 
-_Babylon is fallen _(Revelation 14:8). Popular false teachings on topics such as death, hell, and the secret rapture must be exposed, the truth restored, and an invitation given to genuine Christians unknowingly holding to the errors of spiritual Babylon to “come out of her, my people” (Revelation 18:4).
+_Babylon is fallen_ (Revelation 14:8). Popular false teachings on topics such as death, hell, and the secret rapture must be exposed, the truth restored, and an invitation given to genuine Christians unknowingly holding to the errors of spiritual Babylon to “come out of her, my people” (Revelation 18:4).
 
-_Do not worship the beast or receive his mark _(Revelation 14:9-11). A final warning not to obey human laws when they contradict the law of God (see Acts 5:29).
+_Do not worship the beast or receive his mark_ (Revelation 14:9-11). A final warning not to obey human laws when they contradict the law of God (see Acts 5:29).
 
-_Keep the commandments of God and the faith of Jesus _(Revelation 14:12). The commandments of God are to be obeyed by faith (see Romans 3:31). Law and grace, faith and works, are not opposed to one another.
+_Keep the commandments of God and the faith of Jesus_ (Revelation 14:12). The commandments of God are to be obeyed by faith (see Romans 3:31). Law and grace, faith and works, are not opposed to one another.
 
 From these unique details we are struck with a sobering reality. The message of Revelation 14 that will bring about the end is none other than that which is proclaimed by the Seventh-day Adventist Church. We cannot depend upon the missionary efforts of other denominations that are not sharing these essential truths. We must carry this message to the entire world.
 

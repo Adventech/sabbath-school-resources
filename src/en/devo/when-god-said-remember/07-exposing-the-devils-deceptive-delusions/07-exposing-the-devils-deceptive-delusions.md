@@ -207,58 +207,85 @@ Tenderly, in tones of love, Jesus, by His Spirit, speaks to your heart. With lov
 
 Some of Jesus’ people are still in Babylon. Do you hear His call right now? Do you hear Him speaking to your heart? I know that right now, you are willing to say, “Jesus, I love You, and I choose to follow You. Because I love You, I desire to be part of Your commandment-keeping people. I hear Your voice gently appealing, ‘If you love Me, keep My commandments.’ Yes, Lord, I will follow.”
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Wikipedia contributors, “David Copperfield (illusionist),” Wikipedia.com, http://en.wikipedia.org/wiki/David_Copperfield_(illusionist) (accessed March 11, 2009).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> From this paragraph on (with allowance for additions and minor revisions), the rest of this chapter first appeared in Mark Finley with Steven Mosley, Why so Many Denominations? Revelation’s Four Horsemen Provide an Answer (Nampa, Idaho: Pacific Press® Publishing Association, 1994), 43–61.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Robert Jamieson, A. R. Fausset, and David Brown, A Commentary, Critical and Explanatory, on the Old and New Testaments (New York: S. S. Scranton, 1875), 593; emphasis added.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Alexander Hislop, The Two Babylons; Or, the Papal Worship Proved to be the Worship of Nimrod and His Wife, 3rd ed. (Edinburgh: James Wood, 1862), 17.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Amos A. Phelps, “Is Man by Nature Immortal?” in J. H. Pettingell, The Life Everlasting: What Is It? Whence Is It? Whose Is It? (Philadelphia: J. D. Brown, 1882), 640, 641, quoted in LeRoy E. Froom, The Conditionalist Faith of Our Fathers (Washington, D.C.: Review and Herald® Publishing Association, 1965), 2:553.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Justin Martyr, “Dialogue With Trypho: Chapter LXXX,” in Justin Martyr and Athenagors, trans. George Reith, vol. 2 of The Ante-Nicene Fathers, eds. Alexander Roberts and James Donaldson (Edinburgh: T. and T. Clark, 1867), 199.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> James G. Frazer, The Worship of Nature (n.p.: Macmillan, 1926), http://www .giffordlectures.org/Browse.asp?PubID=TPTWON&Volume=0&Issue=0&ArticleID= 15 (accessed March 12, 2009).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> Johann Jakob Herzog and others, The New Schaff-Herzog Encyclopedia of Religious Knowledge: Embracing Biblical, Historical, Doctrinal, and Practical Theology and Biblical, Theological, and Ecclesiastical Biography from the Earliest Times to the Present Day (New York: Funk and Wagnall, 1910), 7:421.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> Arthur Weigall, The Paganism in Our Christianity (New York: G. P. Putnam’s Sons, 1928), 145.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Claude R. Conder, The Tell Amarna Tablets, 2d ed. (London: Committee of the Palestine Exploration Fund, 1894), http://www.archive.org/stream/ tellamarnatablet00palerich/tellamarnatablet00palerich_djvu.txt (accessed March 12, 2009).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>12</sup> John Arendzen, The Catholic Encyclopedia, vol. 10 (New York: Robert Appleton, 1911), s.v. “Mithraism,” http://www.newadvent.org/cathen/10402a.htm (accessed March 12, 2009).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>13</sup> Franz Cumont, Textes et Monuments Figurés Relatifs aux Mystères de Mithra (Brussells: Lamertin, 1896, 1899), 1:119, quoted in Robert Leo Odom, Sunday in Roman Paganism, illustrated ed. (Brushton, New York: TEACH services, 2003), 156, 157.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>14</sup> Agostinho de Almeida Paiva, O Mitraísmo (Porto, Portugal: Santos, 1916), 3, quoted in Robert Leo Odom, Sunday in Roman Paganism, illustrated ed. (Brushton, New York: TEACH services, 2003), 149.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>15</sup> Edward Gibbon, The History of the Decline and Fall of the Roman Empire, 3rd ed. (London: Methuen, 1901), 2:291.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>16</sup> Arthur McGiffert, trans., “Chapter LXV,” Eusebius: Church History, Life of Constantine the Great, and Oration in Praise of Constantine, eds. Philip Schaff and Henry Wace, vol. 1 of Nicene and Post-Nicene Fathers of the Christian Church (New York: Scribner & Sons, 1904), 516.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>17</sup> Arthur P. Stanley, Lectures on the History of the Eastern Church (New York: E. P. Dutton, 1907), 204.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>18</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>19</sup> Alexander Hislop, The Two Babylons, 151; emphasis added.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>20</sup> Edward T. Hiscox, quoted in Carlyle B. Haynes, From Sabbath to Sunday (Washington, D.C.: Review and Herald®, 1928), 92, 93.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>21</sup> Our Sunday Visitor, January 4, 1931.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>22</sup> F. G. Lentz, The Question Box (New York: Christian Press Association, 1900), 99.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> James Wharey, Sketches of Church History, rev. ed. (Philadelphia: Presbyterian Board of Publication, 1840), 39, 40.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> Alexander Hislop, The Two Babylons, 93.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> Robert Jamieson, A. R. Fausset, and David Brown, A Commentary, 593.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>26</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>27</sup> Cardinal Gibbons, “Appendix,” Catholic Mirror, December 23, 1893, quoted in Abram Herbert Lewis, The Sabbath Question From the Roman Catholic Standpoint, as Stated by the “Catholic Mirror,” 4th ed. (New York: American Sabbath Bible Tract Society, 1894), 2; emphasis added.

@@ -173,18 +173,25 @@ In closing: We want to ask our God to lead each of us to the personal insights, 
 
 (In the booklet Abide in Jesus, chapter 2 deals with “Surrender to Jesus” and chapter 3 with “Jesus abiding in you”.)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes, Lüneburg 1999, p. 108
 
+{"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Adventism’s Greatest Need – The Outpouring of the Holy Spirit (2011) by Ron E. M. Clouzet – see p. 5 – and The Missing Power (2017) by Paulo Macena – see p. 5 – or also Testimonies to Ministers and Gospel Workers, Chapter 19 (TM 174) (1891) by E.G. White – a brief excerpt is also on p. 3.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>3</sup> Arthur G. Daniells, Christus unsere Gerechtigkeit, Hamburg 1962, p. 20 – bold sections added by author.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>4</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes, Lüneburg 1999, p. 102-103
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Missionsbrief No. 34, Bad Aibling, March/April 2011, p. 3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Missionsbrief No. 34, Bad Aibling, March/April 2011, p. 3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>7</sup> Dennis Smith, 40 Days – Prayers and Devotions to Prepare for the Second Coming (R&H, 2009), p. 61

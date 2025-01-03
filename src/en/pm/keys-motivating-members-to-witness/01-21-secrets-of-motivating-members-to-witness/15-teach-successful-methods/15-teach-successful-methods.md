@@ -27,6 +27,5 @@ Members are motivated by success. Many need to be taught the proper methods that
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>43</sup> _Ministry of Healing_, p. 143.

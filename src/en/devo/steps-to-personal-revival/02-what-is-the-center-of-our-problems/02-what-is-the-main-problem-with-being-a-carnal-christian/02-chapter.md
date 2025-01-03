@@ -178,38 +178,55 @@ I’m excited about the changes that have and are occuring in my life through th
 > <callout></callout>
 > “Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.” (Matthew 7:24)
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>27</sup> Dr. S. Joseph Kidder, Anleitung zum geistlichen Leben (Andrews University), PPP Folie 2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>28</sup> Ellen G. White, Testimonies for the Church, vol. 1, (1868), p. 383.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>29</sup> Johannes Mager, Auf den Spuren des Heiligen Geistes (Following the Steps of the Holy Spirit), (Lüneberg, 1999), S. 102-103. Johannes Mager was a pastor, evangelist and a professor of systematic theology for many years. He worked last as secretary of the ministerial department of the Euro-African Division (now: Inter-European Division) in Bern, Switzerland.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>30</sup> Ellen G. White, Review and Herald,July 1, 1890
 
+{"style": {"text": {"size": "sm"}}}
 <sup>31</sup> EGW Letter 44, 1903, quoted in Adv. Bible Commentary, vol.7, p. 963 on Rev. 3: 15,16
 
+{"style": {"text": {"size": "sm"}}}
 <sup>32</sup> Arthur G. Daniells, Christ our Righteousness, p. 30, Christus unsere Gerechtigkeit (Hamburg 1962), S.20
 
+{"style": {"text": {"size": "sm"}}}
 <sup>33</sup> Roger Morneau, A Trip into the Supernatural, Review and Herald 1982, p. 43
 
+{"style": {"text": {"size": "sm"}}}
 <sup>34</sup> Ellen G. White, The Acts of the Apostles (1911), p. 284.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>35</sup> Ellen G. White, The Desire of Ages (1898), p. 676.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>36</sup> Ellen G. White, Review and Herald, Aug. 19, 1890
 
+{"style": {"text": {"size": "sm"}}}
 <sup>37</sup> Ellen G. White, Letter 44, 1903, quoted in the Seventh Day Adventist Bible Commentary, vol. 7, p. 963 on Rev 3:15,16
 
+{"style": {"text": {"size": "sm"}}}
 <sup>38</sup> Ellen G. White, MS 148, 1897, quoted in the Seventh Day Adventist Bible Commentary, vol. 6, p. 1075, Many buried alive
 
+{"style": {"text": {"size": "sm"}}}
 <sup>39</sup> A. G. Daniells, Christ our Righteousness, p. 20
 
+{"style": {"text": {"size": "sm"}}}
 <sup>40</sup> Ellen G. White, Selected Messages, vol. 1 (1958), p. 109.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>41</sup> Ellen G. White, Christian Service (1925), p. 41.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>42</sup> Ellen G. White, The Great Controversy (1911), p. 507.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>43</sup> Ellen G. White, Selected Messages, vol. 1 (1958), p. 109.2

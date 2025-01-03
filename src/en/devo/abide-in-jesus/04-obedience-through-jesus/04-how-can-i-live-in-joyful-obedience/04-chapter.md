@@ -199,38 +199,55 @@ It should be clear to us that we cannot be obedient by our own efforts. The Lord
 
 We cannot observe God’s commandments in our own power. The secret of obedience is Jesus in us through the indwelling of the Holy Spirit. If we really love and trust Jesus, if He lives in us through the Holy Spirit, then obedience brings great joy. When Jesus lives in us, then He ensures that we have His law in our hearts. This law is the law of liberty, the Ten Commandments (Jas 2:12).
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>94</sup> Report by Prof. Dr. Karl Heim in a devotional, which I currently do not have on hand.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>95</sup> Matthias Claudius (Edition Steinkopf, 1982), S. 10.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>96</sup> Ellen G. White, Christ’s Object Lessons, p. 414.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>97</sup> Dennis Smith, 40 Days: Prayers and Devotions to Prepare for the Second Coming, book 1, pp. 21, 22.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>98</sup> Ellen G. White, Steps to Christ, pp. 60, 61.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>99</sup> Ellen G. White, Christ’s Object Lessons, p. 314.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>100</sup> Ellen G. White, The Review and Herald, July 1, 1890, par. 11.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>101</sup> Ellen G. White, Faith and Works (Hagerstown, MD: Review and Herald Publishing Association, 1999), p. 18.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>102</sup> Ellen G. White, Christ’s Object Lessons, p. 145.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>103</sup> Ibid., p. 391.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>104</sup> Cited in Unser größtes Bedürfnis (Our Greatest Need), Lüneburg: Werner E. Lange, 2011, S. 102.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>105</sup> Ellen G. White, Steps to Christ, p. 58.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>106</sup> Ellen G. White, Christ’s Object Lessons, p. 97.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>107</sup> Dennis Smith, 40 Days: Prayers and Devotions to Revive Your Experience With God, book 2 (Hagerstown, MD: Review and Herald Publishing Association, 2011), p. 35.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>108</sup> Ellen G. White, Steps to Christ, pp. 43, 44.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>109</sup> Ellen G. White, The Desire of Ages, p. 668.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>110</sup> Ellen G. White, Patriarchs and Prophets (Nampa, ID: Pacific Press Publishing Association, 2005), p. 371.

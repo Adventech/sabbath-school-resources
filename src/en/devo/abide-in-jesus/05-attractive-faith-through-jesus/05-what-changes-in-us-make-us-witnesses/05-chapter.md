@@ -132,42 +132,61 @@ May God help us fully understand the great importance of oneness! May He help us
 > <callout></callout>
 > Prayer: “Heavenly Father, I wholeheartedly thank you that truly following Jesus brings the most exciting life. Please help me to stay in a close relationship with Jesus all my life. Also use my life to lead my loved ones and other people to Him.” Amen
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>134</sup> Luke 11:13: “If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him?” (KJV).
 
+{"style": {"text": {"size": "sm"}}}
 <sup>135</sup> Adult Bible Study Guide, November 21, 2012.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>136</sup> Ellen G. White, Prophets and Kings, p. 233.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>137</sup> E-mail message sent to H. Haubeil on December 18, 2012.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>138</sup> Dennis Smith, 40 Days: Prayers and Devotions to Revive Your Experience With God, book 2, Day 6; p. 24.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>139</sup> Ellen G. White, Ye Shall Receive Power, October 25; p. 307.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>140</sup> R. A. Torrey, Der Heilige Geist (Frankfurt/Main: 1966), S. 37, 38; a short summary.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>141</sup> Ellen G. White, Ye Shall Receive Power, October 4; p. 286.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>142</sup> Ellen G. White, Testimonies for the Church (Nampa, ID: Pacific Press Publishing Association, 2002), 9:189.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>143</sup> Ellen G. White, Testimonies to Ministers and Gospel Workers, p. 175.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>144</sup> Ellen G. White, Selected Messages, book 1; p. 129.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>145</sup> See Dennis Smith, 40 Days, books 1 and 2, Introduction.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>146</sup> Ellen G. White, The Acts of the Apostles, p. 551.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>147</sup> See Helmut Haubeil, _Steps to Personal Revival_, pp. 36, 74, 76.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>148</sup> Ellen G. White, The Acts of the Apostles, pp. 550, 551.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>149</sup> Ellen G. White, The Desire of Ages, p. 153.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>150</sup> Taken from Wikipedia, “Marie Durant.”
 
+{"style": {"text": {"size": "sm"}}}
 <sup>151</sup> Ellen G. White, Testimonies for the Church (Nampa, ID: Pacific Press Publishing Association, 2002), 4:626.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>152</sup> Ellen G. White, Steps to Christ, p. 116.

@@ -61,17 +61,16 @@ We conclude: Love and intimacy have a powerful affect on our health and survival
 The message of good health should encompass all aspects of health—mental, social, physical, and spiritual life in its fullness. This includes:
 
 - Creating healthy communities of friends and family
-
 - Learning to communicate in ways that enhance intimacy with loved ones
-
 - Developing empathy and love for ourselves and others 13
-
 - Developing a spiritual connection with God that brings comfort, strength, and joy in life
 
 To broaden this perspective, let’s consider “total health.”
 
-Endnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>5</sup> _The Ministry of Healing_, p. 111.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>6</sup> Ibid., p. 115.

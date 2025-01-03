@@ -17,17 +17,11 @@ It is during sleep that the body’s physical and mental reserves are replenishe
 The following eating practices are proven contributors to good health:
 
 - Eat 5-9 servings of fruits and vegetables daily.
-
 - Eat at least 3 servings of whole grain breads and cereals daily.
-
 - Eat a good breakfast daily.
-
 - Limit animal fats, solid fats, and fried foods. Choose healthier fats: non-hydrogenated vegetable oils, avocados, nuts, olives, seeds, and nut butters.
-
 - Limit refined and sugary food: soft drinks, snacks, desserts, candy, etc.
-
 - Eat salt and salty foods moderately.
-
 - Drink 6-8+ glasses of water daily.
 
 In summary, eat a wide variety of unrefined foods, primarily from plant sources, in sufficient amounts to maintain a healthy weight.
@@ -35,13 +29,9 @@ In summary, eat a wide variety of unrefined foods, primarily from plant sources,
 **4. Maintain a healthy weight.**
 
 - Avoid fad diets. Develop healthy habits you can live with for a lifetime.
-
 - If you need to lose weight, choose a realistic goal―1-2 pounds per week.
-
 - Limit high calorie foods such as desserts, fatty meats, cheese, snack foods, pop, alcohol, margarine, etc.
-
 - Eat high fiber foods—vegetables, fresh fruits, legumes, and whole grains. Research shows these foods help prevent weight gain.
-
 - Maintain an active lifestyle—30-60 minutes of moderate activity daily.
 
 **5. Stay in control.**
@@ -51,17 +41,11 @@ Being dependant on smoking, alcohol, or drugs is the number one cause of prevent
 **6. Get regular health exams.**
 
 - Blood pressure—keep below 135/85.
-
 - Cholesterol level—keep below 200.
-
 - Blood glucose level—less than 110.
-
 - Weight: BMI—25, Waist—35 inches for women, or 40 inches for men.
-
 - Colorectal cancer checks yearly after age 50 (sooner if high risk).
-
 - Women: PAP tests every 1-3 years, mammograms every 1-2 years after 50, or as doctor directs.
-
 - Keep immunizations (pneumonia, flu, tetanus) up to date.
 
 **7. Environment**

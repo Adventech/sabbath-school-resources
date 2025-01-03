@@ -13,12 +13,14 @@ Appealing to the members to share on the basis of the unfathomable love of Jesus
 
 ---
 
-Endnotes:
-
+{"style": {"text": {"size": "sm"}}}
 <sup>8</sup> _Review and Herald_, Sept. 24, 1895.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>9</sup> _Testimonies, vol. 9_, pp. 102, 103.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>10</sup> see _Christ’s Object Lessons_, p. 187.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>11</sup> Ibid., p. 235.

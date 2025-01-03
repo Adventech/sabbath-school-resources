@@ -49,6 +49,7 @@ The quality of your family life will have much to do with the quality of your co
 
 It takes determination to build a great family. But anything that is worth doing is worth doing well. So, make the commitment to communicate well, and watch your family blossom and grow in the days, weeks, months, and years ahead.
 
-#### Footnotes
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Stephen R. Covey, The 7 Habits of Highly Effective Families (New York: Golden Books, 1997).

@@ -33,7 +33,7 @@ _Father, or mother in his absence, to lead_. “Before leaving the house for lab
 
 _Secure the protection of angels_. “Come in humility, with a heart full of tenderness, and with a sense of the temptations and dangers before yourselves and your children; by faith bind them upon the altar, entreating for them the care of the Lord. Ministering angels will guard children who are thus dedicated to God.”
 
-_Keep it short and interesting. _“Let the seasons of family worship be short and spirited. Do not let your children or any member of your family dread them because of their tediousness or lack of interest. When a long chapter is read and explained and a long prayer offered, this precious service becomes wearisome, and it is a relief when it is over.”
+_Keep it short and interesting._ “Let the seasons of family worship be short and spirited. Do not let your children or any member of your family dread them because of their tediousness or lack of interest. When a long chapter is read and explained and a long prayer offered, this precious service becomes wearisome, and it is a relief when it is over.”
 
 _Components of family worship._ “Let the father select a portion of Scripture that is interesting and easily understood; a few verses will be sufficient to furnish a lesson which may be studied and practiced through the day. Questions may be asked, a few earnest, interesting remarks made, or [an] incident, short and to the point, may be brought in by way of illustration. At least a few verses of spirited song may be sung, and the prayer offered should be short and pointed. The one who leads in prayer should not pray about everything, but should express his needs in simple words, and praise God with thanksgiving.”
 

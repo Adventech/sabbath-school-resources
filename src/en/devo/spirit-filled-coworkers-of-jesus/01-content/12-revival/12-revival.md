@@ -16,16 +16,22 @@ title: Revival!
 
 **LeRoy E. Froom**: “God cannot do anything revolutionary with people before He has done something revolutionary for them, by the Holy Spirit entering their lives.” <sup>28</sup>
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>23</sup> Selected Messages Book 1, 1SM, 128.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>24</sup> Belebe uns neu (Advent-Verlag Lüneburg, 2011), S. 25 (Revive us again, PPPA 2010)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>25</sup> Vollmacht (Franke, Marburg 1984) S. 105
 
+{"style": {"text": {"size": "sm"}}}
 <sup>26</sup> Ch. G. Finney, Über Geistliche Erweckung (Harfe-Verlag, Aarburg 1976), S. 5
 
+{"style": {"text": {"size": "sm"}}}
 <sup>27</sup> 40-Days of Prayers and Devotions to prepare for the second coming, 40 Tage-Andachten und Gebete zur Vorbereitung auf die Wiederkunft Jesu (Wien 2012), S. 103
 
+{"style": {"text": {"size": "sm"}}}
 <sup>28</sup> Das Kommen des Heiligen Geist (Edelstein 1995), S. 100

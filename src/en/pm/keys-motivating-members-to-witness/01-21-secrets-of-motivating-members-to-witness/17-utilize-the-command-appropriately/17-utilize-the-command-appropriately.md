@@ -59,58 +59,85 @@ d. All must have “a keen sense of the responsibility resting upon them individ
 
 **Eternal life at stake.** Failure to heed the command— “Go ye”— results in a failure to hear the “well done!” “There are hundreds and thousands who can work if they are so disposed. Up to the present time they have done nothing but serve themselves. This class of do-nothings and know-nothings, as far as the work to be done in God’s cause is concerned, will never hear the well done from the lips of the Majesty of Heaven.”69 “That any one can be saved in indolence and inactivity is an utter impossibility.”<sup>70</sup>
 
-Endnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>44</sup> The True Missionary, Jan. 1, 1874, pp. 23, 24.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>45</sup> _Testimonies, vol. 6_, p. 427.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>46</sup> Ibid., vol. 9, p. 116.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>47</sup> _Review and Herald_, Dec. 19, 1878.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>48</sup> Ibid., Dec. 12, 1878.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>49</sup> _Testimonies, vol. 6_, p. 427.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>50</sup> Ibid., p. 431.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>51</sup> _Review and Herald_, Dec. 19, 1878.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>52</sup> _Testimonies, vol. 9_, p. 19.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>53</sup> _Evangelism_, p. 16.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>54</sup> _Testimonies, vol. 6_, p. 438.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>55</sup> Ibid., vol. 9, p. 116.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>56</sup> _Manuscript Releases, vol. 6_, p. 196.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>57</sup> _Review and Herald_, Jan. 2, 1879.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>58</sup> _This Day With God_, p. 303.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>59</sup> _Manuscript Releases, vol. 5_, p. 314.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>60</sup> _Testimonies, vol. 1_, p. 261.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>61</sup> _The Desire of Ages_, p. 142.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>62</sup> _Sons and Daughters of God_, p. 263.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>63</sup> _Manuscript Releases, vol. 5_, p. 314.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>64</sup> _Review and Herald_, Jan. 5, 1905.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>65</sup> _Manuscript Releases, vol. 6_, p. 196.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>66</sup> _Testimonies, vol. 9_, p. 103.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>67</sup> Ibid., vol. 6, p. 425.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>68</sup> Ibid.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>69</sup> _Review and Herald_, Dec. 12, 1878.
 
+{"style": {"text": {"size": "sm"}}}
 <sup>70</sup> Ibid., Jan. 20, 1903.

@@ -79,25 +79,19 @@ Robert Linthicum,<sup>1</sup> one of the great leaders of urban/community-based 
 1. The church _in_ the city (community)
 
 - This refers to location.
-
 - Members are not from the community.
-
 - There is little or no involvement in the community.
 
 2. The church _to_ the city (community)
 
 - This church has a sense of responsibility to do something for the community.
-
 - It decides unilaterally what the community needs—without doing a needs assessment to diagnose their needs.
-
 - It then invites the community to participate in programs in which the community might have no interest.
 
 3. The church _with_ the city (community)
 
 - Sees mission to the community as a partnership.
-
 - Discovers from the community the burning issues.
-
 - Brings the ministry of the church out into the community.
 
 In other words, this is the church that ASKS the community: What needs do you see are not being met in the community? e.g. Is it poverty, drugs, and alcohol abuse? What organizations are already doing something? What areas are not being covered—because there are not enough resources? It says, “We want to help—How can we help?” Then it makes a strategic plan and gets out there—with the community! Sometimes this church collaborates with existing organizations in the community to meet the expressed needs.
@@ -110,6 +104,7 @@ Research in a random sample of hundreds of Seventh- day Adventist churches acros
 
 Why are social action ministries such as those conducted by Adventist Community Services so important to the mission of the remnant church? Because they reveal a belief that faithfulness to Jesus Christ includes compassion for the poor, the hurting, and the victims of injustice. Because they say something important about our God. Because they constitute a living witness to the Advent Hope. Because they make a practical contribution to church growth. Because the Bible teaches that we should. Because Christ asked us to do it in preparation for His soon return. Because people need the Lord.
 
-Footnotes:
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Robert C. Linthicum, _Empowering the Poor: Community Organizing Among the City’s ‘Rag, Tag, and Bobtail.’_ (Monrovia, CA: MARC Publications, 1991), pp. 21-30.

@@ -146,44 +146,64 @@ The following is said about our literature: “If the salvation of God is with t
 > <callout></callout>
 > I want to emphasize again: Naturally everything we did wasn’t wrong. By no means. We have developed good and very good things; God certainly blessed our human efforts as far as possible. But the important question is: Do we approach these duties as spiritual or carnal Christians? One thing is certain: When we struggle to find solutions on a carnal basis, we will invest a lot of time in vain; we will perform many tasks, which will be of no use.
 
-**Footnotes:**
+---
 
+{"style": {"text": {"size": "sm"}}}
 <sup>78</sup> Garrie F. Williams, Erfülltsein vom Heiligen Geist – Wie erfahren wir das? (Lüneburg 2007), S. 8
 
+{"style": {"text": {"size": "sm"}}}
 <sup>79</sup> Ellen G. White, Christ’s Object Lessons, p. 45.1-46.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>80</sup> EGW Letter 44, 1903, quoted in Adventist Bible Commentary, vol.7, p.963 on Rev 3:15-16
 
+{"style": {"text": {"size": "sm"}}}
 <sup>81</sup> Ellen G. White, Child Guidance (1954), p. 69
 
+{"style": {"text": {"size": "sm"}}}
 <sup>82</sup> Dr. S. Joseph Kidder, Anleitung zum geistlichen Leben (Andrews University), PPP Folie 3+4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>83</sup> Ellen G. White, Acts of the Apostles (1911), p. 551.2
 
+{"style": {"text": {"size": "sm"}}}
 <sup>84</sup> Ellen G. White, Testimonies for the Church, vol. 4, p. 348.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>85</sup> William G. Johnsson, Adventgemeinde in der Zerreißprobe (Lüneburg 1996), S. 118
 
+{"style": {"text": {"size": "sm"}}}
 <sup>86</sup> Ellen G. White, Selected Messages, book 1 (1958), p. 386.1
 
+{"style": {"text": {"size": "sm"}}}
 <sup>87</sup> Excerpt from the General Conference Prayer Letter Number 148)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>88</sup> Studienanleitung Standardausgabe, Philip G. Samaan, 10.11.1989, to question 8
 
+{"style": {"text": {"size": "sm"}}}
 <sup>89</sup> Helmut Haubeil (Hrsg.), Missionsbrief Nr. 34, (Bad Aibling, 2011) p. 3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>90</sup> Dennis Smith, 40 Days—Prayers and Devotions to Prepare for the Second Coming (Wien, 2012), p. 88
 
+{"style": {"text": {"size": "sm"}}}
 <sup>91</sup> Ellen G. White, Testimonies for the Church, vol. 6 (1901), p. 370.3
 
+{"style": {"text": {"size": "sm"}}}
 <sup>92</sup> Ellen G. White, Testimonies for the Church, vol. 9 (1909), p. 189.4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>93</sup> Ellen G. White, MS 148 (1897)
 
+{"style": {"text": {"size": "sm"}}}
 <sup>94</sup> Ellen G. White, The Desire of Ages (1898), p. 671.4
 
+{"style": {"text": {"size": "sm"}}}
 <sup>95</sup> Randy Maxwell, If my people pray (Pacific Press, 1995), p. 11
 
+{"style": {"text": {"size": "sm"}}}
 <sup>96</sup> CD Die letzte Vorbereitung, Teil 6
 
+{"style": {"text": {"size": "sm"}}}
 <sup>97</sup> Ellen G. White, PH 016, p. 29.1
