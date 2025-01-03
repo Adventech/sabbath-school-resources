@@ -32,7 +32,7 @@ import {
     RESOURCE_AUDIO_FILENAME,
     RESOURCE_VIDEO_FILENAME,
     RESOURCE_PDF_FILENAME,
-    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING, AUTHORS_DIRNAME
+    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING, AUTHORS_DIRNAME, RESOURCE_TYPE
 } from "../helpers/constants.js"
 import { getAuthorInfo } from "./deploy-authors.js"
 import { getCategoryInfo } from "./deploy-categories.js"
@@ -295,74 +295,104 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     feedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/feed-${DEPLOY_ENV}.yml`
                 }
 
-                if (!resourceFeedConfigs[resourcePathInfo.language]
-                    || !resourceFeedConfigs[resourcePathInfo.language][resourcePathInfo.type]) {
+                let processFeed = async function (feedFilenamePath, feedType, fromOther = false) {
+                    if (!resourceFeedConfigs[resourcePathInfo.language]
+                        || !resourceFeedConfigs[resourcePathInfo.language][feedType]) {
 
-                    const resourceFeedConfig = await getResourceFeed(feedFilenamePath)
+                        const resourceFeedConfig = await getResourceFeed(feedFilenamePath)
 
-                    if (!resourceFeedConfigs[resourcePathInfo.language]) {
-                        resourceFeedConfigs[resourcePathInfo.language] = {}
+                        if (!resourceFeedConfigs[resourcePathInfo.language]) {
+                            resourceFeedConfigs[resourcePathInfo.language] = {}
+                        }
+
+                        resourceFeedConfigs[resourcePathInfo.language] = {
+                            ...resourceFeedConfigs[resourcePathInfo.language],
+                            ...{
+                                [feedType]: {
+                                    title: resourceFeedConfig.title,
+                                    groups: [],
+                                    fromOther: fromOther
+                                }
+                            }
+                        }
+
+                        resourceFeedConfig.groups.map((g, index) => {
+                            resourceFeedConfigs[resourcePathInfo.language][feedType].groups.push({
+                                ...g,
+                                title: g.group || null,
+                                author: g.author || null,
+                                scope: g.scope || null,
+                                showTitle: g.hasOwnProperty('showTitle') ? g.showTitle : null,
+                                resources: [],
+                                authors: [],
+                                categories: [],
+                                resourceIds: g.resources || [],
+                                authorIds: g.authors || [],
+                                categoryIds: g.categories || [],
+                                view: g.view || FEED_VIEWS.FOLIO,
+                                recent: g.recent || null,
+                                type: feedType,
+                                direction: g.direction || FEED_DIRECTION.HORIZONTAL,
+                                id: crypto.createHash("sha256").update(
+                                    `${language}-${feedType}-${g.group}-${index}`
+                                ).digest("hex"),
+                                seeAll: g.noSeeAll ? null : (languageInfo.feedSeeAll ?? "See All"),
+                            })
+                        })
                     }
 
-                    resourceFeedConfigs[resourcePathInfo.language] = {
-                        ...resourceFeedConfigs[resourcePathInfo.language],
-                        ...{
-                            [resourcePathInfo.type]: {
-                                title: resourceFeedConfig.title,
-                                groups: []
+                    let resourceFeed = resourceFeedConfigs[resourcePathInfo.language][feedType]
+
+                    let groupByName = resourceFeed.groups.find(g => g.resourceIds.some(i => picomatch(i)(resourceInfo.id) ))
+                    let groupByAuthor = resourceFeed.groups.find(g => g.author === resourceInfo.author)
+                    let groupByKind = resourceFeed.groups.find(g => g.kind === resourceInfo.kind)
+                    let groupByType = resourceFeed.groups.find(g => g.scope === FEED_SCOPES.RESOURCE)
+
+                    if (groupByName) {
+                        groupByName.resources.push(resourceInfo)
+                        groupByName.resources = sortResourcesByPattern(groupByName.resources, groupByName.resourceIds)
+                    } else if (groupByAuthor) {
+                        groupByAuthor.resources.push(resourceInfo)
+                        groupByAuthor.resources = sortResourcesByPattern(groupByAuthor.resources, groupByAuthor.resourceIds)
+                    } else if (groupByKind) {
+                        groupByKind.resources.push(resourceInfo)
+                        groupByKind.resources = sortResourcesByPattern(groupByKind.resources, groupByKind.resourceIds)
+                    } else if (groupByType) {
+                        groupByType.resources.push(resourceInfo)
+                        groupByType.resources = sortResourcesByPattern(groupByType.resources, groupByType.resourceIds)
+                    }
+
+                    await database.collection(FIREBASE_DATABASE_RESOURCES).doc(resourceInfo.id).set(resourceInfo);
+
+                    fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${feedType}/${resourcePathInfo.title}/index.json`, JSON.stringify(resourceInfo))
+                }
+
+                await processFeed(feedFilenamePath, resourcePathInfo.type)
+
+                if (resourcePathInfo.type !== RESOURCE_TYPE.SS) {
+                    for (let otherFeed of Object.keys(RESOURCE_TYPE).filter((f) => RESOURCE_TYPE[f] !== resourcePathInfo.type)) {
+                        let otherFeedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed.yml`
+                        if (fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed-${DEPLOY_ENV}.yml`)) {
+                            otherFeedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed-${DEPLOY_ENV}.yml`
+                        }
+
+                        const otherResourceFeedConfig = await getResourceFeed(otherFeedFilenamePath)
+
+                        if (otherResourceFeedConfig.groups) {
+                            let foundThisResourceInOtherFeeds = otherResourceFeedConfig.groups.find((g) => {
+                                if (g.resources) {
+                                    return g.resources.some(i => picomatch(i)(resourceInfo.id) )
+                                }
+                                return false
+                            })
+
+                            if (foundThisResourceInOtherFeeds) {
+                                await processFeed(otherFeedFilenamePath, RESOURCE_TYPE[otherFeed], true)
                             }
                         }
                     }
-
-                    resourceFeedConfig.groups.map((g, index) => {
-                        resourceFeedConfigs[resourcePathInfo.language][resourcePathInfo.type].groups.push({
-                            ...g,
-                            title: g.group || null,
-                            author: g.author || null,
-                            scope: g.scope || null,
-                            showTitle: g.hasOwnProperty('showTitle') ? g.showTitle : null,
-                            resources: [],
-                            authors: [],
-                            categories: [],
-                            resourceIds: g.resources || [],
-                            authorIds: g.authors || [],
-                            categoryIds: g.categories || [],
-                            view: g.view || FEED_VIEWS.FOLIO,
-                            recent: g.recent || null,
-                            type: resourcePathInfo.type,
-                            direction: g.direction || FEED_DIRECTION.HORIZONTAL,
-                            id: crypto.createHash("sha256").update(
-                                `${language}-${resourcePathInfo.type}-${g.group}-${index}`
-                            ).digest("hex"),
-                            seeAll: g.noSeeAll ? null : (languageInfo.feedSeeAll ?? "See All"),
-                        })
-                    })
                 }
 
-                let resourceFeed = resourceFeedConfigs[resourcePathInfo.language][resourcePathInfo.type]
-
-                let groupByName = resourceFeed.groups.find(g => g.resourceIds.some(i => picomatch(i)(resourceInfo.id) ))
-                let groupByAuthor = resourceFeed.groups.find(g => g.author === resourceInfo.author)
-                let groupByKind = resourceFeed.groups.find(g => g.kind === resourceInfo.kind)
-                let groupByType = resourceFeed.groups.find(g => g.scope === FEED_SCOPES.RESOURCE)
-
-                if (groupByName) {
-                    groupByName.resources.push(resourceInfo)
-                    groupByName.resources = sortResourcesByPattern(groupByName.resources, groupByName.resourceIds)
-                } else if (groupByAuthor) {
-                    groupByAuthor.resources.push(resourceInfo)
-                    groupByAuthor.resources = sortResourcesByPattern(groupByAuthor.resources, groupByAuthor.resourceIds)
-                } else if (groupByKind) {
-                    groupByKind.resources.push(resourceInfo)
-                    groupByKind.resources = sortResourcesByPattern(groupByKind.resources, groupByKind.resourceIds)
-                } else if (groupByType) {
-                    groupByType.resources.push(resourceInfo)
-                    groupByType.resources = sortResourcesByPattern(groupByType.resources, groupByType.resourceIds)
-                }
-
-                await database.collection(FIREBASE_DATABASE_RESOURCES).doc(resourceInfo.id).set(resourceInfo);
-
-                fs.outputFileSync(`${API_DIST}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/index.json`, JSON.stringify(resourceInfo))
             } catch (e) {
                 console.log(`Error processing resources: ${e}`);
             }
@@ -447,6 +477,8 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
         //     await database.collection(FIREBASE_DATABASE_LANGUAGES).doc(language).collection("feed").doc("recent").set(recentFeedGroupAPI);
         // }
 
+        // console.log(JSON.stringify(resourceFeedConfigs, null, 2))
+
         for (let resourceFeedLanguage of Object.keys(resourceFeedConfigs)) {
             for (let resourceFeedForType of Object.keys(resourceFeedConfigs[resourceFeedLanguage])) {
                 let resourceFeed = resourceFeedConfigs[resourceFeedLanguage][resourceFeedForType]
@@ -516,7 +548,8 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     }
 
                     // Get existing feed for non-global deployments
-                    if (resourceGlob !== "*") {
+
+                    if (resourceGlob !== "*" || resourceFeed.fromOther) {
                         let existingFeedResponse
                         let existingFeed
                         try {
@@ -559,6 +592,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 
                     let feedGroupAllFinal = JSON.parse(JSON.stringify(feedGroupAll))
                     delete feedGroupAllFinal.seeAll
+                    delete feedGroupAllFinal.fromOther
 
                     fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`, JSON.stringify(feedGroupAllFinal))
 
@@ -568,7 +602,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                 }
 
                 // Get existing feed for non-global deployments
-                if (resourceGlob !== "*") {
+                if (resourceGlob !== "*" || resourceFeed.fromOther) {
                     let existingMainFeedResponse
                     let existingMainFeed
                     try {
@@ -596,6 +630,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     }
                 }
 
+                delete resourceFeed.fromOther
                 fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
             }
         }
