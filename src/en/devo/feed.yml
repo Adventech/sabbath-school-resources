@@ -1,6 +1,11 @@
 ---
   title: Devotional
   groups:
+  - group: Featured
+    direction: vertical
+    view: square
+    resources:
+      - en-devo-ten-days-of-prayer-2025
   - group: "Discipleship Handbook: Correlated Bible & EGW"
     reverse: true
     view: square
@@ -28,7 +33,7 @@
     resources:
       - en-devo-nad-family-devo-2025
       - en-devo-nad-health-devo-2025
-  - group: Prayer
+  - group: Prayer initiatives
     view: folio
     resources:
       - en-devo-ten-days-of-prayer-2025
@@ -37,6 +42,4 @@
     view: folio
     resources:
       - en-devo-the-way-back-to-altar
-      - en-devo-when-god-said-remember
-      - en-devo-hope-for-troubled-times
       - en-devo-test

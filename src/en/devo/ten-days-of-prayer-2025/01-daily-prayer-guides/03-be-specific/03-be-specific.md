@@ -1,5 +1,6 @@
 ---
 title: Be Specific
+date: 10/01/2025
 ---
 
 > <p>Matt. 6:7, 8, NKJV</p>

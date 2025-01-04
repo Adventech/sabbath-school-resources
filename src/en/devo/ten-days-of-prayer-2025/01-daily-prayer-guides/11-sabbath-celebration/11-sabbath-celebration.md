@@ -1,5 +1,6 @@
 ---
 title: Sabbath Celebration
+date: 18/01/2025
 ---
 
 Design the final Sabbath of Ten Days of Prayer to celebrate God’s goodness and mighty power. Tell how you have experienced the power of prayer and share the valuable spiritual insights gained during the past ten days. Rejoice in what God has done, is doing, and will do.

@@ -1,5 +1,6 @@
 ---
 title: Give Us This Day Our Daily Bread
+date: 15/01/2025
 ---
 
 > <p>Galatians 6:9, 10, NIV</p>

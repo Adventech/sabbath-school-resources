@@ -1,5 +1,6 @@
 ---
 title: Unanswered Prayers (and Faith)
+date: 11/01/2025
 ---
 
 > <p>Isaiah 40:31A, NKJV</p>

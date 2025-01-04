@@ -1,5 +1,6 @@
 ---
 title: Abide in Me
+date: 08/01/2025
 ---
 
 > <p>John 15:5, NIV</p>

@@ -1,5 +1,6 @@
 ---
 title: Forgive Us Our Debts As We Forgive Our Debtors
+date: 16/01/2025
 ---
 
 > <p>Matthew 6:14, NKJV</p>

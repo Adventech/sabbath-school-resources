@@ -1,5 +1,6 @@
 ---
 title: Teach Us How to Pray
+date: 09/01/2025
 ---
 
 > <p>Luke 11:1, NIV</p>

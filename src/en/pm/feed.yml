@@ -13,6 +13,10 @@
       - en-pm-spread-the-word
       - en-pm-fundamentals-of-faith
       - en-pm-making-disciples-101
+  - group: Keys Series
+    view: folio
+    resources:
+      - en-pm-keys-*
   - group: Sharing books
     view: folio
     resources:
@@ -27,10 +31,6 @@
       - en-devo-when-god-said-remember
       - en-pm-signs-of-hope
       - en-pm-ten-commandments
-  - group: Keys Series
-    view: folio
-    resources:
-      - en-pm-keys-*
   - group: Other Resources
     view: folio
     scope: resource

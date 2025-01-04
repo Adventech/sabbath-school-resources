@@ -3,6 +3,8 @@ kind: devotional
 subtitle: 2025 Ten Days of Prayer
 primaryColor: '#31516A'
 primaryColorDark: '#134061'
+startDate: 08/01/2025
+endDate: 18/01/2025
 credits:
   - name: Author
     value: Pavel Goia

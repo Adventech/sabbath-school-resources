@@ -1,5 +1,6 @@
 ---
 title: Your Kingdom Come
+date: 13/01/2025
 ---
 
 > <p>Luke 17:21B, NKJV</p>

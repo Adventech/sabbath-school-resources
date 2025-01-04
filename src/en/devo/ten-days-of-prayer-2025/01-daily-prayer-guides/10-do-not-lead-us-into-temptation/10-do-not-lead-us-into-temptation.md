@@ -1,5 +1,6 @@
 ---
 title: Do Not Lead Us Into Temptation
+date: 17/01/2025
 ---
 
 > <p>James 1:13, NKJV</p>
