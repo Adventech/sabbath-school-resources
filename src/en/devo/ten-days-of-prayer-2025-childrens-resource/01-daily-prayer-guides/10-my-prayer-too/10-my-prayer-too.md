@@ -1,6 +1,6 @@
 ---
 title: My prayer too!
-date: 10/17/2025
+date: 17/01/2025
 ---
 
 Katie and Kenny loved Friday nights! They always had a special worship time together. Katie and Kenny took turns making a special dessert with Mommy. Katie and Kenny usually decorated the table, sometimes with flowers from the yard, or with things they had made at school. Friday nights were filled with laughter, hugs, sharing good news, comforting sadness, and spending time together with God. Daddy was busy...There was a long string trailing through the rooms and into the yard. Katie and Kenny were excited and curious! After dinner they gathered for worship. “We’ve been exploring different parts Jesus’ special prayer. So now we’re going on a treasure hunt to find them all!”
