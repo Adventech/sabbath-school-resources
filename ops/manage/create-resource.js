@@ -58,6 +58,9 @@ const args = yargs(hideBin(process.argv))
         choices: [
             RESOURCE_TYPE.DEVO,
             RESOURCE_TYPE.PM,
+            RESOURCE_TYPE.EXPLORE,
+            RESOURCE_TYPE.SS,
+            RESOURCE_TYPE.AIJ,
         ]
     })
     .option("documents_num", {
@@ -137,8 +140,13 @@ let createResource = async function () {
     let createDocs = function (sectionName) {
         for (let i = 1; i <= numDocuments; i++) {
             fs.outputFileSync(
-                `${resourcePath}/${sectionName ? `${sectionName}/` : ""}${documentPrefix}${pad(i, (Math.max(2, (numDocuments+"").length)))}.md`,
-                `---\ntitle: Document ${i}\n---`
+                `${resourcePath}/${sectionName ? `${sectionName}/` : ""}${documentPrefix}${pad(i, (Math.max(2, (numDocuments+"").length)))}/info.yml`,
+                `title: Document ${i}\nsubtitle: Subtitle`
+            )
+
+            fs.outputFileSync(
+                `${resourcePath}/${sectionName ? `${sectionName}/` : ""}${documentPrefix}${pad(i, (Math.max(2, (numDocuments+"").length)))}/${documentPrefix}${pad(i, (Math.max(2, (numDocuments+"").length)))}.md`,
+                `---\ntitle: Document ${i}\nsubtitle: Subtitle\n---`
             )
         }
     }

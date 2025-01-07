@@ -8,13 +8,13 @@ primaryColor: '#FBBC1B'
 primaryColorDark: '#C18D00'
 covers:
   landscape: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover-landscape.png?updated
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover-landscape.png?updated2
   square: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover-square.png?updated
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover-square.png?updated2
   portrait: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover.png?updated
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/cover.png?updated2
   splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/splash.png?updated
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos/assets/splash.png?updated2
 featuredResources:
   - en/aij/aij-training-videos-babies
   - en/aij/aij-training-videos-beginner

@@ -2,10 +2,12 @@
   title: Devotional
   groups:
   - group: Featured
-    direction: vertical
-    view: square
+    direction: horizontal
+    view: tile
+    noSeeAll: true
     resources:
       - en-devo-ten-days-of-prayer-2025
+      - en-devo-ten-days-of-prayer-2025-childrens-resource
   - group: "Discipleship Handbook: Correlated Bible & EGW"
     reverse: true
     view: square

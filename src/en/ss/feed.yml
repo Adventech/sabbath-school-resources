@@ -2,7 +2,8 @@ title: Sabbath School
 groups:
   - group: Standard Adult
     view: folio
-    scope: resource
+    resources:
+      - 'en-ss-????-0[1-4]'
   - group: InVerse
     view: folio
     resources:
@@ -31,7 +32,3 @@ groups:
     view: folio
     resources:
       - '*[0-9-]+-kd'
-  - group: Beginner
-    view: folio
-    resources:
-      - '*[0-9-]+-bg'

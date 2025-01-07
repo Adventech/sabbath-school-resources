@@ -10,6 +10,7 @@
     view: folio
     resources:
       - en-pm-discipleship-handbook
+      - en-pm-discipleship-handbook-appendix-a
       - en-pm-spread-the-word
       - en-pm-fundamentals-of-faith
       - en-pm-making-disciples-101

@@ -5,15 +5,16 @@ primaryColor: '#31516A'
 primaryColorDark: '#134061'
 startDate: 08/01/2025
 endDate: 18/01/2025
+progressTracking: automatic
 credits:
   - name: Author
     value: Pavel Goia
 covers:
   landscape: >-
-    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/cover-landscape.png
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/cover-landscape.png?updated
   square: >-
-    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/cover-square.png
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/cover-square.png?updated
   portrait: >-
-    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/cover.png
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/cover.png?updated
   splash: >-
-    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/splash.png
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2025/assets/splash.png?updated
