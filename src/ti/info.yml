@@ -1,0 +1,8 @@
+name: Tigrinya
+native: ትግርኛ
+code: ti
+sections:
+  default: Main
+bible:
+  - tig15
+feedSeeAll: ኩሉ ርአ

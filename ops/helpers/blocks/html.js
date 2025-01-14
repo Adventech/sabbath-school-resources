@@ -6,6 +6,10 @@ export const html = {
     process: async function (block, resourcePath) {
         if (/<(table|img|center|p|(b$)|(i$))>?/g.test(block.raw)) {
             try {
+                if (NodeHtmlMarkdown.translate(block.raw).trim() === '') {
+                    return false
+                }
+
                 let ret = (await parseSegment(NodeHtmlMarkdown.translate(block.raw), resourcePath))[0] ?? null
 
                 return { ...ret, id: block.id }
