@@ -18,6 +18,10 @@
     view: folio
     resources:
       - en-pm-keys-*
+  - group: GLOW
+    view: folio
+    resources:
+      - en-pm-glow-*
   - group: Sharing books
     view: folio
     resources:

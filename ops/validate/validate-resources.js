@@ -6,15 +6,22 @@ import { fdir } from "fdir"
 import { Validator } from "jsonschema"
 import { getResourceInfo } from "../deploy/deploy-resources.js"
 import { getSectionInfo } from "../deploy/deploy-sections.js"
-import { isMainModule, parseResourcePath } from "../helpers/helpers.js"
+import { arg, isMainModule, parseResourcePath } from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
     RESOURCE_TYPE,
     RESOURCE_KIND,
     RESOURCE_INFO_FILENAME,
     SECTION_INFO_FILENAME,
-    RESOURCE_ASSETS_DIRNAME, RESOURCE_COVERS
+    RESOURCE_ASSETS_DIRNAME, RESOURCE_COVERS, SEGMENT_FILENAME_EXTENSION, API_DIST
 } from "../helpers/constants.js"
+import { getDocumentInfoYml, getSegmentInfo } from "../deploy/deploy-documents.js"
+import dayjs from "dayjs"
+import isBetween from "dayjs/plugin/isBetween.js"
+import customParseFormat from "dayjs/plugin/customParseFormat.js"
+dayjs.extend(isBetween)
+dayjs.extend(customParseFormat)
+
 
 let failMessages = []
 
@@ -32,6 +39,9 @@ const resourceSchema = {
         "type": { type: "string", },
         "index": { type: "string", },
         "title": { type: "string", },
+        "markdownTitle": { type: "string", },
+        "markdownSubtitle": { type: "string", },
+        "markdownDescription": { type: "string", },
         "subtitle": { type: "string", },
         "description": { type: "string", },
         "kind": {
@@ -54,13 +64,13 @@ const resourceSchema = {
         "categories": { type: "array", },
         "featuredResources": { type: "array", items: {"$ref": "/schemas/resource" }},
         "covers": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "portrait": { type: "string" },
-                "landscape": { type: "string" },
-                "square": { type: "string" },
-                "splash": { type: "string" },
+            type: "object",
+            additionalProperties: false,
+            properties: {
+                portrait: { type: "string" },
+                landscape: { type: "string" },
+                square: { type: "string" },
+                splash: { type: "string" },
             }
         },
         "fonts": {
@@ -69,19 +79,30 @@ const resourceSchema = {
         "documentId": { type: "string" },
         "documentIndex": { type: "string" },
         "externalURL": { type: "string" },
+        "preferredCover": { type: "string" },
+        "featuredResourcesView": { type: "string" },
+        "progressTracking": { type: "string" },
+        "displayProgress": { type: "boolean" },
+        "introduction": { type: "string" },
+        "cta": {
+            type: "object",
+            additionalProperties: false,
+            properties: {
+                "hidden": { type: "boolean" },
+                "text": { type: "string" },
+            }
+        },
+
+        "style": { type: "object" },
     },
-    "required": [ "id", "name", "type", "index", "kind", "title", "primaryColor", "primaryColorDark", "description" ],
+    "required": [ "id", "name", "type", "index", "kind", "title", "primaryColor", "primaryColorDark", "covers" ],
     "if": {
         "not": {
             "properties": {
                 "kind": { "const": "external" }
             },
-
         }
     },
-    "then": {
-        "required": ["description"]
-    }
 }
 
 const fontsSchema = {
@@ -105,6 +126,8 @@ const sectionSchema = {
     "properties": {
         "title": { type: "string", },
         "name": { type: "string", },
+        "displaySequence": { type: "boolean", },
+        "isRoot": { type: "boolean", },
     },
     "required": [ "title", "name" ]
 }
@@ -113,12 +136,12 @@ const validator = new Validator()
 validator.addSchema(fontsSchema, "/schemas/fonts")
 
 // TODO: add feed validation for categories, authors and resource roots
-let validateResources = async function (resourceType) {
+let validateResources = async function (language, resourceType, resourcesG) {
     const resources = new fdir()
         .withBasePath()
         .withRelativePaths()
         .withMaxDepth(3)
-        .glob(`**/${resourceType}/**/${RESOURCE_INFO_FILENAME}`)
+        .glob(`${language}/${resourceType}/${resourcesG}/${RESOURCE_INFO_FILENAME}`)
         .crawl(SOURCE_DIR)
         .sync()
 
@@ -174,10 +197,105 @@ let validateResources = async function (resourceType) {
             const documents = new fdir()
                 .withBasePath()
                 .withRelativePaths()
-                .withMaxDepth(4)
-                .glob(`**/info.yml`)
-                .crawl(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`)
+                .withMaxDepth(5)
+                .glob(`${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/*/**/info.yml`)
+                .crawl(SOURCE_DIR)
                 .sync()
+
+            // console.log(documents)
+
+            let prevDate
+
+            for (let document of documents) {
+                let documentInfo
+                let documentPathInfo
+
+                try {
+                    documentPathInfo = parseResourcePath(document)
+                } catch (e) {
+                    e = e.toString().replace(/\n/g, "<br>")
+                    fail(`Critical error. Can not parse the document path: ${document}. Error: \`${e}\``)
+                    continue
+                }
+
+                try {
+                    documentInfo = await getDocumentInfoYml(`${SOURCE_DIR}/${document}`)
+                } catch (e) {
+                    e = e.toString().replace(/\n/g, "<br>")
+                    fail(`Critical error. Can not parse the document info: ${document}. Error: \`${e}\``)
+                    continue
+                }
+
+                if (prevDate) {
+                    let startDate = dayjs(documentInfo.startDate)
+                    let endDate = dayjs(documentInfo.endDate)
+
+                    if (!startDate.isSame(endDate, 'day')) {
+                        console.log(`${document} not same start and end date`)
+                    }
+
+                    if (startDate.diff(prevDate, 'd') !== 1) {
+                        console.log(`${document} date range more than 1, got ${startDate.diff(prevDate, 'd')}`)
+                    }
+                    prevDate = dayjs(documentInfo.startDate, "DD/MM/YYYY")
+                } else {
+                    prevDate = dayjs(documentInfo.startDate, "DD/MM/YYYY")
+                }
+
+                const segments = new fdir()
+                    .withBasePath()
+                    .withRelativePaths()
+                    .withMaxDepth(7)
+                    .glob(`${document.replace(/info.yml/g, '')}*${SEGMENT_FILENAME_EXTENSION}`)
+                    .crawl(`${SOURCE_DIR}`)
+                    .sync();
+
+                for (let segment of segments) {
+                    let segmentInfo
+                    let segmentPathInfo
+
+                    try {
+                        segmentPathInfo = parseResourcePath(segment)
+                    } catch (e) {
+                        e = e.toString().replace(/\n/g, "<br>")
+                        fail(`Critical error. Can not parse the segment path: ${segment}. Error: \`${e}\``)
+                        continue
+                    }
+
+                    try {
+                        segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${segment}`)
+                    } catch (e) {
+                        e = e.toString().replace(/\n/g, "<br>")
+                        fail(`Critical error. Can not parse the segment info: ${segment}. Error: \`${e}\``)
+                        continue
+                    }
+
+                    if (segmentInfo.date) {
+
+                        try {
+                            let segmentDate = dayjs(segmentInfo.date, "DD/MM/YYYY")
+
+                            console.log(segmentDate)
+
+                            if (!documentInfo.startDate) {
+                                fail(`Segment has a date, but document does not: ${segment}. Error: \`${e}\``)
+                            } else {
+                                let documentStartDate = dayjs(documentInfo.startDate, "DD/MM/YYYY")
+                                let documentEndDate = dayjs(documentInfo.endDate, "DD/MM/YYYY")
+
+                                if (!segmentDate.isBetween(documentStartDate, documentEndDate, null, '[]')) {
+                                    console.log(`${segment} date if off`)
+                                }
+                            }
+
+                        } catch (e) {
+                            console.log(e)
+                            fail(`Error parsing segment date: ${segment}. Error: \`${e}\``)
+                        }
+
+                    }
+                }
+            }
 
             if (resourceInfo.kind !== RESOURCE_KIND.EXTERNAL) {
                 if (!documents.length) {
@@ -224,27 +342,95 @@ let validateResources = async function (resourceType) {
             if (!resourceInfo && !resourceInfo.square && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SQUARE}`)) {
                 fail(`Square cover not found for resource: ${resource}`)
             }
-
-            if (!resourceInfo && !resourceInfo.splash && !fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_ASSETS_DIRNAME}/${RESOURCE_COVERS.SPLASH}`)) {
-                fail(`Splash cover not found for resource: ${resource}`)
-            }
         } catch (e) {
             fail(`Critical error. Checking covers validation error: ${resource}, ${e}`)
         }
     }
 }
 
-if (isMainModule(import.meta)) {
-    await validateResources(RESOURCE_TYPE.DEVO)
-    await validateResources(RESOURCE_TYPE.PM)
+let fixDates = function (resource) {
+    const segments = new fdir()
+        .withBasePath()
+        .withRelativePaths()
+        .withMaxDepth(9)
+        .glob(`${resource}/**/*.md`)
+        .crawl(`${SOURCE_DIR}/`)
+        .sync();
 
-    if (failMessages.length) {
-        let pullRequestComment = "Ooops! Issues were found\n"
-        pullRequestComment += "||Error description |\n| ----------- | ----------- |"
+    let startDate = dayjs("04/01/2025", "DD/MM/YYYY")
 
-        for (let message of failMessages) {
-            pullRequestComment += `\n|🛑| ${message}|`
+    for (let segment of segments) {
+        if (!/2025.md/.test(segment)) {
+            continue
         }
-        console.error(pullRequestComment)
+        let segmentContent = fs.readFileSync(`${SOURCE_DIR}/${segment}`, "utf-8")
+        segmentContent = segmentContent.replace(/^date:.*?$/gmi, `date: ${startDate.format("DD/MM/YYYY")}`)
+        startDate = startDate.add(7, 'd')
+
+        // console.log(segment)
+
+        fs.outputFileSync(`${SOURCE_DIR}/${segment}`, segmentContent)
     }
+
+    const documents = new fdir()
+        .withBasePath()
+        .withRelativePaths()
+        .withMaxDepth(9)
+        .glob(`${resource}/*/**/info.yml`)
+        .crawl(`${SOURCE_DIR}/`)
+        .sync();
+
+    startDate = dayjs("29/12/2024", "DD/MM/YYYY")
+
+    // console.log(documents)
+
+    for (let document of documents) {
+        if (!/2025\/info.yml/.test(document)) {
+            continue
+        }
+
+        console.log(document)
+
+        let documentContent = fs.readFileSync(`${SOURCE_DIR}/${document}`, "utf-8")
+
+        console.log(startDate.format("DD/MM/YYYY"))
+
+        documentContent = documentContent.replace(/^startDate:.*?$/gmi, `startDate: ${startDate.format("DD/MM/YYYY")}`)
+        startDate = startDate.add(6, 'd')
+
+        console.log(startDate.format("DD/MM/YYYY"))
+        documentContent = documentContent.replace(/^endDate:.*?$/gmi, `endDate: ${startDate.format("DD/MM/YYYY")}`)
+        startDate = startDate.add(1, 'd')
+
+        console.log(startDate.format("DD/MM/YYYY"))
+        fs.outputFileSync(`${SOURCE_DIR}/${document}`, documentContent)
+    }
+}
+
+if (isMainModule(import.meta)) {
+    Object.keys(arg).map(async (argLanguage) => {
+        Object.keys(arg[argLanguage]).map(async (argType) => {
+            // console.log(argLanguage, argType, arg[argLanguage][argType].resources)
+            // await validateResources(argLanguage, argType, arg[argLanguage][argType].resources)
+
+            if (failMessages.length) {
+                let pullRequestComment = "Ooops! Issues were found\n"
+                pullRequestComment += "||Error description |\n| ----------- | ----------- |"
+
+                for (let message of failMessages) {
+                    pullRequestComment += `\n|🛑| ${message}|`
+                }
+                console.error(pullRequestComment)
+            }
+        })
+    })
+
+    fixDates("en/devo/stewardship-offertory-readings-2025")
+
+    // await validateResources(RESOURCE_TYPE.DEVO)
+    // await validateResources(RESOURCE_TYPE.PM)
+    // await validateResources(RESOURCE_TYPE.AIJ)
+    // await validateResources(RESOURCE_TYPE.SS)
+
+
 }
