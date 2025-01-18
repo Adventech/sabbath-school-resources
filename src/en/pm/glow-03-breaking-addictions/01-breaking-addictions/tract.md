@@ -1,0 +1,33 @@
+---
+title: Breaking Addictions
+---
+
+When I saw Randy, he appeared to be at death’s door. After a long embrace, I looked into his eyes, which were sunk way back into his head. I watched tears welling up. He told me how good I looked and how proud he felt that I was clean and sober. I looked him squarely in the eyes and said, “Randy, you don’t have to live like this.” He responded with a perplexed look, cocked his head a little, and asked, “I don’t?” No one had ever told Randy that before. My old friend who did drugs with me, who had abused substances his entire adult life—like my wife and I—knew no other way.
+
+But here’s good news. No one has to live with an overpowering addiction. My wife and I broke free after 25 years—and so can you.
+
+Some people spend their lives in a long search for pain relief. The pain and the relief come in many emotional and physical forms. Believe it or not, an addiction is often used as a coping mechanism. People use addictions to get through life, and these addictions come in two varieties: substance abuse and people abuse, better known as substance addictions and behavioral addictions.
+
+Substances most commonly abused are marijuana, methamphetamine, heroin, cocaine, alcohol, tobacco, and caffeine, as well as prescription painkillers. Behavioral addictions are much broader and more complex. They manifest themselves in a variety of ways ranging from gambling to anger, sexual addictions, jealousy, gossiping, media addictions, food addictions, overwork, and any other type of behavior that people use to escape reality.
+
+### Problems from the Start
+
+Often, the origins of addictions can be found in childhood. Although you were not aware of it, during the early years of your life, your brain was developing its own equipment and chemicals that would allow you to deal with life and its ups and downs. If this equipment did not develop to its full potential for whatever reason (physical abuse, verbal abuse, neglect, sexual abuse, and so on), you may have found yourself searching for other ways to cope with life.
+
+You may be in one of these situations right now, unknowingly trying to deal with scars and emotional distress from the past. You may seek pain relief in a behavior or use a substance that you know is not good for you, yet nothing else brings relief. You say in your heart, How can anyone take this away from me? It’s the only way I can deal with life. You might not even be able to identify the pain and the problems that you’re running from, and that is exactly what makes this kind of addiction so hard to break.
+
+In other cases, addiction results from simply fostering your natural human lusts. The Bible says that “each one is tempted when he is drawn away by his own desires and enticed. Then, when desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death” (James 1:14, 15). The Bible describes someone in this apparently hopeless condition as a slave, “caught in the cords of his sin” (John 8:34; Romans 6:16; Proverbs 5:22).
+
+These addictions often seem to be a hopeless situation, and believe me, friend, I have been there. Your addiction is the habit that controls you; you don’t control it. The habit tells you when and where to engage in it. To top it all off, each time you choose to engage in an addictive behavior, neural pathways are formed to further cement the addiction.
+
+### Overcoming
+
+So, how do you change coping mechanisms? How do you break out of the ruts that are carved so deeply into your neural pathways from lustful habits? How can you construct a new future for yourself? To fully answer that question for each individual is beyond the scope of this pamphlet. Each case is unique, and much of your recovery process requires individual attention and advice, some of which can be found at the end of this pamphlet. But the first steps, which are the same in all successful roads to recovery, are recognizing that you don’t have to live with addictions and identifying the source of the solution!
+
+You have a Father in heaven who doesn’t want you to live your life chained to your addictions. He wants you to live a free, happy, and healthful life. He wants you to leave your past right where it is, in the past. He can be your new coping mechanism. He wants these blessings for you so much that He gave His Son, and through that gift, He gives you all the power needed to escape the chains that bind you. Listen to His promise: “No temptation has overtaken you except such as is common to man; but God is faithful, who will not allow you to be tempted beyond what you are able, but with the temptation will also make the way of escape, that you may be able to bear it” (1 Corinthians 10:13). Freedom is possible and even assured! God can break the addictive cycle in your life! He is “able to save to the uttermost those who come to God through Him” (Hebrews 7:25).
+
+Have repeated failures stolen hope from you? Focusing on your lack of ability and your failures is discouraging, but looking to God and trusting His power brings problems to the right perspective. Look at reality for a moment. The person you are inclined to trust the most is yourself. Unfortunately, people have shown time and time again that they don’t do a very good job managing their lives. To put it bluntly, we’ve trusted the wrong person. In Proverbs 3:5, the Bible says to “trust in the Lord with all your heart, and lean not on your own understanding.” God says this for a reason. He knows that your understanding is faulty, He knows that you are emotionally scarred, He knows that you are doing the very best you can, but He also knows that you need to trust Him and His ability—otherwise your hope and motivation are gone. He has a new way mapped out for you, a way of systematically replacing bad behavior with good behavior, a way of changing those neural connections in the brain to work for good and for your advantage, not your detriment.
+
+Jesus once asked a sick, crippled man, “Do you want to be made well?” (John 5:6) That’s His question for you today, friend. You don’t have to live this way. A life of freedom, peace, and victory is possible for you. You don’t have to be like my friend Randy. Jesus is reaching out His hand with inexpressible tenderness and pity, saying, “Do you want to be made well?”
+
+Check out our recovery resources by visiting our [website](https://glowonline.org) and clicking on the “Breaking Addictions” tract.
