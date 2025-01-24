@@ -1,10 +1,10 @@
 ---
 title: Extra Grace Required?
+subtitle: Chad Stuart
 ---
 
-_Chad Stuart_
-
-### Every part of the church body is indispensable.
+> <callout></callout
+> Every part of the church body is indispensable.
 
 Every church has them. I’ve been in big churches and small churches, and I’ve met them.
 
@@ -14,7 +14,7 @@ They are equally distributed across white-collar and blue-collar churches and in
 
 EGRs.
 
-#### Extra Grace Required
+### Extra Grace Required
 
 What is an EGR? An EGR is that person in your church you see on Sabbath morning, and extra grace is required not to turn and run in the other direction.
 
@@ -32,7 +32,7 @@ There are different types of EGRs. While there are many categories one might lis
 
 I’m sure the list could go on, and even as I write down these EGR types, I see faces with every example. And if I’m honest, I see myself in some of these examples as well. For instance, I’m probably an awkward EGR to some people. I’m a hugger, and I know many a stoic man who has gone home and thought, It is going to require a lot of extra grace for me to go back to a church with a hugging pastor.”
 
-#### EGRs in the Church
+### EGRs in the Church
 
 Unfortunately, many church members decide the value of a church based on their likes and dislikes. These likes and dislikes range from such things as the style of music, length of preaching, and the church decor. And yes, even “This church has fewer EGRs than the one up the street, so I’ll transfer or join here.”
 
@@ -42,7 +42,7 @@ While all these reasons for choosing a church are problematic, the latter might 
 
 And if there are many, there is always an EGR in the mix. Our human nature might be to turn and run from these people. Or maybe we are more subtle, and our instinct might be to enter through the church door where we are least likely to run into these people or to sit as far away from them in the sanctuary as possible. But does such an attitude recognize that the EGR person is an essential part of the church, and without them, you would suffer?
 
-#### What?
+### What?
 
 Yes, it is true. Continue reading 1 Corinthians 12 with me,
 
@@ -62,7 +62,7 @@ As Sam Allberry puts it: “It is impossible to be in Christ and not belong to o
 
 But we are also hurting ourselves because we fail to learn to love like Jesus loves by avoiding these people. We fail to grow in patience. Worst of all, we might fail to realize that they are not an EGR but a beautiful brother or sister in Christ.
 
-#### Growing in Grace
+### Growing in Grace
 
 I was only 30 years old, still a young pastor, and the Sunday after my second week as the senior pastor in a new church, I opened my email and found the following:
 
@@ -114,8 +114,9 @@ I smiled big, hugged her, and thanked her for her perspective. A few weeks later
 
 So go forth and find the EGRs and love them! Because just as I needed Sherry, you need your EGRs too, and you’ll find they aren’t any more EGR than you, but indispensable children of God.
 
+{"style": {"text": {"size": "sm"}}}
 _* Sam Allberry, quoted from Brett McCracken, Uncomfortable: The Awkward and Essential Challenge of Christian Community (Wheaton, Ill.: Crossway, 2017), p. 123._
 
 ---
 
-**Chad Stuart** is the senior pastor of the Spencerville Seventh-day Adventist Church in Silver Spring, Maryland.
+_Chad Stuart is the senior pastor of the Spencerville Seventh-day Adventist Church in Silver Spring, Maryland._

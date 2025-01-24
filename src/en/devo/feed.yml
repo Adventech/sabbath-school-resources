@@ -1,13 +1,6 @@
 ---
   title: Devotional
   groups:
-  - group: Featured
-    direction: horizontal
-    view: tile
-    noSeeAll: true
-    resources:
-      - en-devo-ten-days-of-prayer-2025
-      - en-devo-ten-days-of-prayer-2025-childrens-resource
   - group: "Discipleship Handbook: Correlated Bible & EGW"
     reverse: true
     view: square
@@ -19,10 +12,6 @@
       - en-devo-bhp-2025
       - en-devo-bhp-sop-2025
       - en-devo-bhp-*
-  - group: Study Guides
-    view: square
-    resources:
-      - en-devo-start-into-life
   - group: Steps to Personal Revival
     view: folio
     resources:
@@ -39,6 +28,7 @@
     view: folio
     resources:
       - en-devo-ten-days-of-prayer-2025
+      - en-devo-ten-days-of-prayer-2025-childrens-resource
       - en-devo-youth-week-of-prayer-2025
   - group: Other resources
     view: folio

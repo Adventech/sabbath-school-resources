@@ -36,6 +36,10 @@
       - en-devo-when-god-said-remember
       - en-pm-signs-of-hope
       - en-pm-ten-commandments
+  - group: Bible Study Guides
+    view: square
+    resources:
+      - en-devo-start-into-life
   - group: Other Resources
     view: folio
     scope: resource
