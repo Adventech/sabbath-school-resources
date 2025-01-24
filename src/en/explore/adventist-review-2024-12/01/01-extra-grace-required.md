@@ -3,7 +3,7 @@ title: Extra Grace Required?
 subtitle: Chad Stuart
 ---
 
-> <callout></callout
+> <callout></callout>
 > Every part of the church body is indispensable.
 
 Every church has them. I’ve been in big churches and small churches, and I’ve met them.
