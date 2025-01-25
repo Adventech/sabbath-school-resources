@@ -3,8 +3,6 @@ title: Annoying Adventism
 subtitle: Editorial
 ---
 
-_Justin Kim_
-
 Boy, are there some annoying people out there! They might not have the very basic social skills to determine whether their own vocal volume, length of speech, or conversational demeanor might be inappropriate.
 
 Some might have a lack of hygiene, producing unpleasant aromas. Some might commit faux pas by aggressively correcting your grammer, spalling, and pronunssiaccion. They can be socially sticky, gossipers, contrarians, downers, complainers, or any combination of the above. They might cause you to sigh and cry (and not of the Ezekiel 9:4 kind). There are various categories of them, but whatever their taxonomy, when you see one who is annoying, chances are neurons are firing like crazy to think of escape strategies.
@@ -24,3 +22,7 @@ We all require extra grace for each other because we are sinners. We are all sel
 In short, imagine a church in which everyone realizes they are an EGR themselves and thereby daily seeks the Holy Spirit’s power and grace, not only to receive but also to dispense it to everyone they encounter.
 
 EGR. That’s what I am. That’s what I need. That’s what’s required. And that’s what I pray for.
+
+---
+
+_**Justin Kim** is the editor for Adventist Review._

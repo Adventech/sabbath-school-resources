@@ -119,4 +119,4 @@ _* Sam Allberry, quoted from Brett McCracken, Uncomfortable: The Awkward and Es
 
 ---
 
-_Chad Stuart is the senior pastor of the Spencerville Seventh-day Adventist Church in Silver Spring, Maryland._
+_**Chad Stuart** is the senior pastor of the Spencerville Seventh-day Adventist Church in Silver Spring, Maryland._
