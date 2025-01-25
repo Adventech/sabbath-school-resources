@@ -1,0 +1,3 @@
+---
+title: Historical Statements on the Change of the Sabbath
+---

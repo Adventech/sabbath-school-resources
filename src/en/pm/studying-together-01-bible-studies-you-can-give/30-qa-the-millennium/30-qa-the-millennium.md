@@ -1,0 +1,7 @@
+---
+title: Commonly Asked Questions Regarding The Millennium
+---
+
+**When Jesus returns, won't He establish His kingdom on earth for 1000 years? I have always thought there will be people alive during 1000 years of peace on earth during the millennium.**
+
+In Jn. 14:1-3, Jesus states that He is preparing a place for us and will come to take us where He is. 1 Thess. 4:16,17 reveals we shall be caught up to meet Him in the sky. Matt. 16:27 declares that Jesus will come with the glory of the angels to give His eternal rewards. 2 Thess. 1:7,8 adds when Jesus comes with His angels, He shall come in flaming vengeance and destruction upon the wicked. According to Jer. 25:33, the slain ofthe Lord will be from one end of the earth to another with no one to bury them. Jer. 4:23-27 concludes that "no man" lives on this desolate earth during the 1000 years. Rev. 20:1,2 adds that Satan is bound by a chain of circumstances in the "bottomless pit" or abyss. The Greek word abussos is the same word used in the Greek translation of the Hebrew Old Testament for "without form and void." In Gen. 1:2, when God spoke the world into existence, it was without form and void, a darkened, desolate, abyss of nothingness until God immediately separated the dry land, and then created a new world full of life. Again the earth will be reduced to nothingness. Sin will be destroyed. Out of the abyss of the old world, God will create a marvelously beautiful new world (2 Pet. 3:13, Rev. 21:1-5).

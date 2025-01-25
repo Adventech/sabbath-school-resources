@@ -18,6 +18,10 @@
     view: folio
     resources:
       - en-pm-keys-*
+  - group: Studying Together
+    view: folio
+    resources:
+      - en-pm-studying-together-*
   - group: GLOW
     view: folio
     resources:
