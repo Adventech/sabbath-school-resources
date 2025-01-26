@@ -9,8 +9,12 @@ description: >-
   summaries follow each Bible reference so you will know clearly what is in the
   text.
 kind: book
-primaryColor: '#561B1E'
-primaryColorDark: '#4F1013'
+primaryColor: '#703438'
+primaryColorDark: '#390609'
+displayProgress: true
+featuredResources:
+  - en/pm/studying-together-02-practical-christianity
+featuredResourcesView: folio
 credits:
   - name: Copyright
     value: Copyright © 1991, 1995, Hart Research Center

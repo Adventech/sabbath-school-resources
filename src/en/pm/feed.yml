@@ -21,7 +21,9 @@
   - group: Studying Together
     view: folio
     resources:
-      - en-pm-studying-together-*
+      - en-pm-studying-together-01*
+      - en-pm-studying-together-02*
+      - en-pm-studying-together-03*
   - group: GLOW
     view: folio
     resources:
