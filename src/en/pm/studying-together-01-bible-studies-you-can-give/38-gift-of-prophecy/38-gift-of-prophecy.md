@@ -38,4 +38,6 @@ _Matt. 7:15-16_ — The fruits of prophets' lives reveal their divine credential
 
 _2 Chron. 20:20_ — Believe His prophets so shall ye prosper.
 
-_1 Cor. 12:27,28_ — God places true prophets in His church keeping His commandments to guide it through crises. Just as He sent John the Baptist to His people to prepare them for the first coming ofJesus, He promises that His last-day commandment keeping church would be blessed by the Gift of Prophecy. Seventh-day Adventists believe that the genuine gift ofprophecy was manifest in the church through the writings of Ellen G. White. Her writings do not in any way take the place of the Bible. They are a fulfillment of Rev. 12:17 which declares the Gift of Prophecy will be manifest in God's last day church. Her writings pass the critical Biblical tests ofa true prophet.
+_1 Cor. 12:27,28_ — God places true prophets in His church keeping His commandments to guide it through crises. Just as He sent John the Baptist to His people to prepare them for the first coming ofJesus, He promises that His last-day commandment keeping church would be blessed by the Gift of Prophecy.
+
+_Seventh-day Adventists believe that the genuine gift ofprophecy was manifest in the church through the writings of Ellen G. White. Her writings do not in any way take the place of the Bible. They are a fulfillment of Rev. 12:17 which declares the Gift of Prophecy will be manifest in God's last day church. Her writings pass the critical Biblical tests ofa true prophet._

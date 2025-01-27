@@ -19,7 +19,8 @@ _Rev. 13:11_ — The second beast rises rapidly from an unpopulated area-the ear
 
 _Rev. 13:11_ — The second beast has two horns with no crowns. It has no king. It is a democratic/republican form of government.
 
-_Rev. 13:11_ — The beast of Rev. 13:11 is a young beast-or a youthful power full of freedom and innocence-a new nation. (See Dan. 7: 17, 23 -a beast represents a nation.) In this prophecy, a new nation rapidly rises in or around 1798 in an unpopulated area, without kingly authority, governed by the people. It has the lamblike quality of Jesus, allowing its people freedom of choice. The only nation arising at this time which fits the specifications of the prophecy is the United States.
+_Rev. 13:11_ — The beast of Rev. 13:11 is a young beast-or a youthful power full of freedom and innocence-a new nation. (See Dan. 7: 17, 23 -a beast represents a nation.)\
+In this prophecy, a new nation rapidly rises in or around 1798 in an unpopulated area, without kingly authority, governed by the people. It has the lamblike quality of Jesus, allowing its people freedom of choice. The only nation arising at this time which fits the specifications of the prophecy is the United States.
 
 _Rev. 13:11, 12_ — The features of the lamblike beast rapidly turn into a dragon. Religious liberty is followed by religious oppression.
 

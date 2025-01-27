@@ -12,7 +12,7 @@ _Matt. 24:6,7_ — Wars and rumors of war.
 
 _Rev. 11:18_ — When the nations are angry, Christ will ultimately destroy those who destroy the earth.
 
-_Lk.21:26_ — Men's hearts failing with fear.
+_Lk. 21:26_ — Men's hearts failing with fear.
 
 _1 Thess. 5:2,3_ — Peace talks.
 

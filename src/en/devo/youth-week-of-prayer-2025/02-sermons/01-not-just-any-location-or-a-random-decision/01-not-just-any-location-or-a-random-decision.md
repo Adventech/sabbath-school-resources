@@ -10,7 +10,7 @@ Christian Mission
 
 ### Main Text
 
-> <p>Luke 19:10</p>>
+> <p>Luke 19:10</p>
 > For the Son of Man came to seek and to save the lost.
 
 ### Beyond Our Borders: The Global Call of Christian Missio

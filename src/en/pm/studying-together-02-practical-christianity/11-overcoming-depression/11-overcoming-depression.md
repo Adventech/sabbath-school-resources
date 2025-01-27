@@ -6,7 +6,7 @@ title: Overcoming Depression
 
 Depression afflicts thousands in varying degrees. Some depression is so severe it requires medical and psychological assistance to overcome as well as spiritual power. The Biblical principles outlined below will assist you in helping those who are depressed.
 
-Depression Defined: Depression is a sense of despondency in which the present contains little joy, problems seem overwhelming, and the future offers little hope. You are not alone in your feelings. Great men of faith, Biblical giants, have felt discouraged.
+**Depression Defined**: Depression is a sense of despondency in which the present contains little joy, problems seem overwhelming, and the future offers little hope. You are not alone in your feelings. Great men of faith, Biblical giants, have felt discouraged.
 
 1. Look at David's discouragement for example (See Ps. 6:6,7; 40:12; 88). In his discouraging moments, David discovered the following principles for overcoming depression:
 	- a. God does not forsake us in discouragement (Ps. 16:8; 139:7-17).

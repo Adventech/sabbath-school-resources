@@ -30,7 +30,7 @@ _Rev. 1:10_ — The Lord still has a special day at the end of the first century
 
 _Matt. 12:8_ — The Son of Man is Lord also of the Sabbath. If the Son of Man is Lord of the Sabbath, the Sabbath must be the Lord's day.
 
-_Lk. 23:54-56;24:1_ — This passage lists three days in succession. The day Christ died--the preparation--Friday. The day Jesus rested in the tomb--Sabbath--Saturday.  The day Jesus resurrected--the first day--Sunday. The Sabbath is clearly Saturday, the seventh day of the week.
+_Lk. 23:54-56;24:1_ — This passage lists three days in succession. The day Christ died—the preparation—Friday. The day Jesus rested in the tomb—Sabbath—Saturday.  The day Jesus resurrected—the first day—Sunday. The Sabbath is clearly Saturday, the seventh day of the week.
 
 _Heb.13:8_ — Jesus is the same yesterday, today and forever.
 

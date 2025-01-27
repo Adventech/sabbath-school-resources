@@ -12,4 +12,6 @@ Many people harbor bitterness against those who have wronged them in childhood. 
 6. He has a purpose for all that has happened to us and will make all things beautiful in His time (Eccl. 3:1,11).
 7. He heals the broken hearted giving us beauty for the ashes of our lives (Isa. 61:1-3).
 8. We can honestly forgive others for the way they have treated us because Christ has forgiven us for the way we have treated Him (Eph.4:32).
-9. Extending forgiveness to others who have wronged us lances the boil ofbitterness. Just as Jesus forgave those who crucified Him, we can forgive those who have wounded us (Col. 3;13). The spirit of revenge is self-destructive. As we overcome evil with good, we ourselves are healed (Rom. 12:19-21). Others may mean us evil but God will accomplish good (Gen. 50:20).
+9. Extending forgiveness to others who have wronged us lances the boil ofbitterness. Just as Jesus forgave those who crucified Him, we can forgive those who have wounded us (Col. 3;13).\
+The spirit of revenge is self-destructive. As we overcome evil with good, we ourselves are healed (Rom. 12:19-21).\
+Others may mean us evil but God will accomplish good (Gen. 50:20).

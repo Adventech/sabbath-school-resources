@@ -4,7 +4,7 @@ title: Commonly Asked Questions Regarding The Law of God
 
 !v[https://sabbath-school-resources-assets.adventech.io/en/pm/studying-together-01-bible-studies-you-can-give/assets/12bChangeInGodsLaw.mp4]
 
-**Didn't Jesus come to do away with the ten commandments and establish a new commandment of love? What about Matt.22:37-40, "Love God with all your heart and your neighbors as yourself?" Isn't love to God and our neighbors all Jesus requires? These are the new commandments.**
+**Didn't Jesus come to do away with the ten commandments and establish a new commandment of love? What about Matt. 22:37-40, "Love God with all your heart and your neighbors as yourself?" Isn't love to God and our neighbors all Jesus requires? These are the new commandments.**
 
 It may surprise you to discover that Jesus was summarizing the law as given in the Old Testament. Deut. 6:5 declares "Love the Lord your God with all your heart." Lev. 19:18 adds, "Love your neighbor as yourself." The God of the Old Testament was a God of everlasting love (Jer. 31:3). In Matt. 22:40, Jesus declared, "On these two commands (love to God and fellow man) hang all the laws and the prophets." The first four commandments reveal how human beings tangibly demonstrate their love to their to God. The last six commandments show how they demonstrate their love to their fellow man. "Jesus did not come to destroy the law, but to fulfill it" (Matt. 5:17). He revealed how to lovingly keep the law. He came to magnify the meaning of the law (Isa. 42:21). Jesus reveals how love is the fulfilling of the law (Rom. 13:10). He adds "Ifyou love me, keep my commandments" (Jn. 14:15).
 

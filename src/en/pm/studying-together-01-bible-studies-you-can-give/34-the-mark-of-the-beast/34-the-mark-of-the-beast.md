@@ -30,7 +30,7 @@ _Num.14:34_ — One day for a year (Gen.29:27).
 
 _Dan. 7:25_ — The Papal power which changed God's law would reign supreme for 1260 prophetic days or 1260 literal years. In 538A.D. the pagan Roman empire granted the pope of Rome civil and religious authority over the empire. Exactly 1260 years later, in 1798A.D., Berthier, a French General on orders from Napoleon, took the Pope captive.
 
-_Rev. 13:18_ — The number of the beast is the number of a man. His number is 666. In Bible prophecy 6 equals an error or imperfection where 7 equals perfection or completeness. A triple of six equals the great trinity of error: the dragon, the beast, and the false prophet. Here is Satan's false trinity. The number 666 is closely associated with the most exalted title of the papacy. Vicarius Filii Dei-means Vicar the Son of God. V = 5 F = 0 D = 500
+_Rev. 13:18_ — The number of the beast is the number of a man. His number is 666. In Bible prophecy 6 equals an error or imperfection where 7 equals perfection or completeness. A triple of six equals the great trinity of error: the dragon, the beast, and the false prophet. Here is Satan's false trinity. The number 666 is closely associated with the most exalted title of the papacy. Vicarius Filii Dei-means Vicar the Son of God.
 
 _Dan. 3:1_ — Nebuchadnezzer establishes a counterfeit image with dimensions of60 and 6.
 
