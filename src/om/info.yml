@@ -1,0 +1,8 @@
+name: Oromo
+native: Afaan Oromoo
+code: om
+sections:
+  default: Main
+bible:
+  - macqul
+feedSeeAll: Hundaa ilaalaa
