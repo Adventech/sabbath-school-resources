@@ -3,7 +3,7 @@ title: Glory in Tribulation?
 date: 28/09/2025
 ---
 
-Pamela Consuegra, PhD
+_Pamela Consuegra, PhD_
 
 > <p>Scripture</p>
 > "And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us" (Romans 5:3-5 NKJV)

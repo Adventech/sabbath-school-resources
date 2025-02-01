@@ -3,7 +3,7 @@ title: Reading Scripture From Childhood
 date: 22/12/2025
 ---
 
-Pamela Consuegra, PhD
+_Pamela Consuegra, PhD_
 
 > <p>Scripture</p>
 > "... from childhood you have known the Holy Scriptures, which are able to make you wise for salvation through faith which is in Christ Jesus." (2 Timothy 3:15 NKJV)
