@@ -52,15 +52,15 @@ style:
     title:
       text:
         typeface: Astralaga Bold
-        color: "#AF7852"
+        color: '#AF7852'
     subtitle:
       text:
         typeface: BaskervilleBT-BoldItalic
-        color: "#d2b67f"
+        color: '#d2b67f'
     description:
       text:
         typeface: BaskervilleBT-BoldItalic
-        color: "#d2b67f"
+        color: '#d2b67f'
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/cover-landscape.png
@@ -73,51 +73,64 @@ fonts:
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-Bold.ttf
+    attributes: bold
   - name: BaskervilleBT-BoldItalic
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-BoldItalic.ttf
+    attributes: bold-italic
   - name: BaskervilleBT-Italic
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-Italic.ttf
+    attributes: regular-italic
   - name: BaskervilleBT-Roman
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/BaskervilleBT-Roman.ttf
+    attributes: regular
   - name: PTSans-Bold
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-Bold.ttf
+    attributes: bold
   - name: PTSans-BoldItalic
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-BoldItalic.ttf
+    attributes: bold-italic
   - name: PTSans-Italic
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-Italic.ttf
+    attributes: regular-italic
   - name: PTSans-Regular
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/PT_Sans-Web-Regular.ttf
+    attributes: regular
   - name: Astralaga Bold
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-bold.ttf
+    attributes: bold
   - name: Astralaga Light
     weight: 300
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-light.ttf
+    attributes: light
   - name: Astralaga Medium
     weight: 500
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-medium.ttf
+    attributes: medium
   - name: Astralaga Regular
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-regular.ttf
+    attributes: regular
   - name: Astralaga SemiBold
     weight: 600
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bb-pth/assets/fonts/astralaga-semibold.ttf
+    attributes: semiBold

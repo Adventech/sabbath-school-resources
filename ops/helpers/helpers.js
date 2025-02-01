@@ -74,6 +74,28 @@ let determineFontWeight = async function (fontStr) {
     return 400
 }
 
+let getFontAttributesAsString = async function (fontStr, weight) {
+    const weights = {
+        100: 'thin',
+        200: 'extraLight',
+        300: 'light',
+        400: 'regular',
+        500: 'medium',
+        600: 'semiBold',
+        700: 'bold',
+        800: 'extraBold',
+        900: 'black',
+    }
+
+    let ret = weights[weight] ?? 'regular'
+
+    if (/italic/ig.test(fontStr)) {
+        ret += '-italic'
+    }
+
+    return ret
+}
+
 let getImageRatio = async function (src) {
     const DEFAULT_IMAGE_RATIO = 16/9
     const DECIMAL_POINTS = 3
@@ -400,4 +422,5 @@ export {
     getNextQuarter,
     deepMerge,
     sortResourcesByPattern,
+    getFontAttributesAsString,
 }

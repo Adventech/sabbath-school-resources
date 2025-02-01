@@ -6,7 +6,7 @@ import yaml from "js-yaml"
 import ttfMeta from "ttfmeta"
 import { fdir } from "fdir"
 import { getCategoryInfo } from "../deploy/deploy-categories.js"
-import { parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getPositiveCoverAndLogoImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
+import { getFontAttributesAsString, parseResourcePath, getResourceTypesGlob, getPositiveCoverImagesGlob, getPositiveCoverAndLogoImagesGlob, getFontsGlob, determineFontWeight } from "../helpers/helpers.js"
 import {
     ASSETS_URL,
     SOURCE_DIR,
@@ -207,6 +207,7 @@ let transferResourcesFonts = async function () {
                                 name: postScriptName,
                                 weight: parseInt(weight),
                                 src: remoteURL.replace(/ /g, '%20'),
+                                attributes: await getFontAttributesAsString(postScriptName, parseInt(weight))
                             })
                             if (mode === "remote") fs.removeSync(`${SOURCE_DIR}/${resourceFontAsset}`)
                         }

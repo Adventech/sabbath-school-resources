@@ -28,7 +28,7 @@ God’s strong, kind voice echoed across the hills. As He spoke, the air came al
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/09-03.png)
 {"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
-Listen (hand to ear); do you hear the singing birds? They are happy as they sing of God’s love. There are red ones, and blue ones, and yellow ones, too. God made each with a special song for you. Some birds fly way up high, like an eagle, and others run on the ground, like an emu. God cares for each one He made, and even more, He cares for you. God was excited for what would be next. What do you think is ahead on Day 6 (six fingers)?\ 
+Listen (hand to ear); do you hear the singing birds? They are happy as they sing of God’s love. There are red ones, and blue ones, and yellow ones, too. God made each with a special song for you. Some birds fly way up high, like an eagle, and others run on the ground, like an emu. God cares for each one He made, and even more, He cares for you. God was excited for what would be next. What do you think is ahead on Day 6 (six fingers)?\
 (Say together) Thank You, God, for making the birds!
 ^^^
 ;;;

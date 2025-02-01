@@ -59,23 +59,29 @@ fonts:
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Bold.ttf
+    attributes: bold
   - name: CenturyGothic-BoldItalic
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-BoldItalic.ttf
+    attributes: bold-italic
   - name: CenturyGothic-Italic
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Italic.ttf
+    attributes: regular-italic
   - name: CenturyGothic
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Regular.ttf
+    attributes: regular
   - name: Omnes-Bold
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Bold.ttf
+    attributes: bold
   - name: Omnes-Regular
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Regular.ttf
+    attributes: regular
