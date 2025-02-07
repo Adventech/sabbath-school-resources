@@ -1,6 +1,6 @@
 ---
 title: Original PDF
 pdf:
-    - src: adventist-review-2024-09.pdf
-      title: November 2024
+    - src: https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2024-10/original-pdf/adventist-review-2024-10.pdf
+      title: October 2024
 ---
