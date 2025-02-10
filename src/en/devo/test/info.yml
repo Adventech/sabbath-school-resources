@@ -24,35 +24,44 @@ fonts:
     weight: 900
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Black.ttf
+    attributes: black
   - name: RobotoSlab-Bold
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Bold.ttf
+    attributes: bold
   - name: RobotoSlab-ExtraBold
     weight: 700
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-ExtraBold.ttf
+    attributes: bold
   - name: RobotoSlab-ExtraLight
     weight: 200
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-ExtraLight.ttf
+    attributes: extraLight
   - name: RobotoSlab-Light
     weight: 300
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Light.ttf
+    attributes: light
   - name: RobotoSlab-Medium
     weight: 500
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Medium.ttf
+    attributes: medium
   - name: RobotoSlab-Regular
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Regular.ttf
+    attributes: regular
   - name: RobotoSlab-SemiBold
     weight: 600
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-SemiBold.ttf
+    attributes: semiBold
   - name: RobotoSlab-Thin
     weight: 100
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/devo/test/assets/fonts/RobotoSlab-Thin.ttf
+    attributes: thin
