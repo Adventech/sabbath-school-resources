@@ -38,6 +38,8 @@ The media advertises many “miraculous” plans for losing weight, but the best
 
 ***BMI classification***
 
+|   |   |
+|---|---|
 | Underweight | <18.5 |
 | Normal range | 18.5—24.9 |
 | Overweight | ≥25.0 |
