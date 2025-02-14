@@ -10,7 +10,7 @@ export const table = {
         let processRows = async function(_rows) {
             let r = []
             for (let [rowIndex, row] of _rows.entries()) {
-                let items = await parseSegment(row.text, resourcePath, block.id)
+                let items = await parseSegment(row.text, resourcePath, `${block.id}-${JSON.stringify(_rows)}-${rowIndex}`)
 
                 for (let [index, item] of items.entries()) {
                     items[index].id = crypto.createHash("sha256").update(

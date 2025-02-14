@@ -35,7 +35,7 @@ I think it is obvious that the fruit of these Spirit-given characteristics is lo
 
 The lists of gifts in the New Testament are not exhaustive. There were many more gifts in the early church; and in our modern age, there are additional gifts.
 
-| Wordgifts | Miraculous gifts | Service gifts
+| Word gifts | Miraculous gifts | Service gifts |
 | --- | --- | --- |
 | Wisdom speech 1 Cor 12:8 | (miraculous) faith 1 Cor 12:9 | Gifts of leadership Rom 12:8; 1 Cor 12:28 |
 | Knowledge speech 1 Cor 12:8 | healing gifts 1 Cor 12:9,28 | General services Rom 12:7 |

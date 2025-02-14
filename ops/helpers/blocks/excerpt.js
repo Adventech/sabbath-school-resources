@@ -29,7 +29,14 @@ export const excerpt = {
         if (bibleData.bibleData) {
             r.options = [...new Set(bibleData.bibleData.map(obj => obj.name))];
             r.items = []
-            let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}`
+            let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${resourcePath.section ? resourcePath.section + "-" : ""}${resourcePath.document}/${resourcePath.segment}`
+
+            // corner case in order not to break all existing highlight and comments for
+            // the quarter when the fix is rolling out
+            if (resourcePath.type === 'ss' && /2025-01/.test(resourcePath.title)) {
+                documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}`
+            }
+
             for (const [index, passageArray] of bibleData.bibleData.entries()) {
                 let item = {
                     id: crypto.createHash("sha256").update(`${documentIndex}-${r.id}-${block.type}-${index}`).digest("hex"),

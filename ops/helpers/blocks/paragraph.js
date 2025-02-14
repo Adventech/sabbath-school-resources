@@ -22,7 +22,14 @@ export const paragraph = {
 
         let r =  { id: block.id, type: block.type, markdown: text }
 
-        let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
+        let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${resourcePath.section ? resourcePath.section + "-" : ""}${resourcePath.document}/${resourcePath.segment}`
+
+        // corner case in order not to break all existing highlight and comments for
+        // the quarter when the fix is rolling out
+        if (resourcePath.type === 'ss' && /2025-01/.test(resourcePath.title)) {
+            documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
+        }
+
         if (bibleData && bibleData.bibleData.length) {
             r["markdown"] = bibleData.text
 

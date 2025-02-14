@@ -229,8 +229,6 @@ I wrote in the right half of the main column what teaching this sentence contain
 
 In the right margin, I made columns for each of the churches, which I wanted to examine (for example a column for the Catholic Church, Evangelical Church, Adventist Church and the Baptist Church).
 
-165
-
 I made a plus mark in each church’s column that supported that particular teaching.
 
 In the end, the church, which had a plus mark for every teaching, concurs with Jesus’ teachings. This is the church of Jesus, which I want to join.

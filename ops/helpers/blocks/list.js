@@ -12,16 +12,22 @@ import { paragraph } from "./paragraph.js"
 
 export const list = {
     extension: {},
-    process: async function (block, resourcePath, depth) {
+    process: async function (block, resourcePath, depth, parentId) {
         let blockData = { id: block.id, type: block.type, items: [], ordered: block.ordered, start: block.start || 0 }
 
         for (let [index, listItem] of block.items.entries()) {
-            let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}`
+            let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${resourcePath.section ? resourcePath.section + "-" : ""}${resourcePath.document}/${resourcePath.segment}`
+
+            // corner case in order not to break all existing highlight and comments for
+            // the quarter when the fix is rolling out
+            if (resourcePath.type === 'ss' && /2025-01/.test(resourcePath.title)) {
+                documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}`
+            }
 
             for (let token of listItem.tokens) {
                 if (token.type === "text") {
                     let listItemId = crypto.createHash("sha256").update(
-                        `${documentIndex}-${block.id}-${token.type}-${index}`
+                        `${documentIndex}-${block.id}-${token.type}-${index}-${parentId}`
                     ).digest("hex")
 
                     let p = await paragraph.process(token, resourcePath)

@@ -24,7 +24,13 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
     let blockStyleReturn = style(block)
     let blockStyle = blockStyleReturn.blockStyle
 
-    let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
+    let documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.title}/${resourcePath.section ? resourcePath.section + "-" : ""}${resourcePath.document}/${resourcePath.segment}`
+
+    // corner case in order not to break all existing highlight and comments for
+    // the quarter when the fix is rolling out
+    if (resourcePath.type === 'ss' && /2025-01/.test(resourcePath.title)) {
+        documentIndex = `${resourcePath.language}/${resourcePath.type}/${resourcePath.name}/content/${resourcePath.section ? resourcePath.section + "/" : ""}${resourcePath.document}/${resourcePath.segment}`
+    }
 
     block.id = crypto.createHash("sha256").update(
         `${documentIndex}-${parentId}-${block.type}-${index}`
@@ -72,7 +78,7 @@ let parseBlock = async function (block, resourcePath, index, parentId, depth) {
             }
         }
 
-        let processedBlock = await supportedBlockTypes[blockType].process(block, resourcePath, depth)
+        let processedBlock = await supportedBlockTypes[blockType].process(block, resourcePath, depth, parentId)
 
         // In certain cases we might decide that we should skip this block, i.e image is referencing local file that
         // does not exist. In this case we will skip it
