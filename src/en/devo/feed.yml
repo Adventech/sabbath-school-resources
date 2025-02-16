@@ -34,4 +34,5 @@
     view: folio
     resources:
       - en-devo-the-way-back-to-altar
+      - en-devo-as-light-lingers
       - en-devo-test
