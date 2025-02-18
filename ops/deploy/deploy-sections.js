@@ -75,18 +75,18 @@ let processSections = async function (language, resourceType, resourceGlob) {
 
         // TODO: use language default name
         let sectionDocuments = await processSection(resourceInfo, `${resourceContentPath}`)
-        const resourceSectionData = {}
+        const resourceSectionData = []
 
         if (sectionDocuments.length) {
             totalDocuments += sectionDocuments.length
-            resourceSectionData[SECTION_DEFAULT_NAME] = {
+            resourceSectionData.push({
                 id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${SECTION_DEFAULT_NAME}`,
                 name: SECTION_DEFAULT_NAME,
                 title: languageInfo.sections?.default || SECTION_DEFAULT_NAME,
                 isRoot: true,
                 displaySequence: resourceInfo.displaySequence ?? (resourcePathInfo.type === RESOURCE_TYPE.SS),
                 documents: await processSection(resourceInfo, `${resourceContentPath}`)
-            }
+            })
         }
 
         for (let section of sections) {
@@ -96,16 +96,16 @@ let processSections = async function (language, resourceType, resourceGlob) {
             totalDocuments += documents.length
 
             if (documents.length) {
-                resourceSectionData[`${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`] = {
+                resourceSectionData.push({
                     id: `${resourcePathInfo.language}-${resourcePathInfo.type}-${resourcePathInfo.title}-${section.replace(`/${SECTION_INFO_FILENAME}`, "")}`,
                     isRoot: false,
                     documents,
                     ...sectionInfo
-                }
+                })
             }
         }
 
-        resourceInfo.sections = Object.values(resourceSectionData)
+        resourceInfo.sections = resourceSectionData
 
         const pdfFilePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${RESOURCE_PDF_FILENAME}`
 
