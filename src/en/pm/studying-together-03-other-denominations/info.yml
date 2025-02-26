@@ -16,7 +16,7 @@ description: >-
 kind: book
 primaryColor: '#733121'
 primaryColorDark: '#5D2112'
-displayProgress: true
+displayProgress: false
 featuredResources:
   - en/pm/studying-together-01-bible-studies-you-can-give
   - en/pm/studying-together-02-practical-christianity

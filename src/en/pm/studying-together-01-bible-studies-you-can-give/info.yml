@@ -11,7 +11,7 @@ description: >-
 kind: book
 primaryColor: '#703438'
 primaryColorDark: '#390609'
-displayProgress: true
+displayProgress: false
 featuredResources:
   - en/pm/studying-together-02-practical-christianity
   - en/pm/studying-together-03-other-denominations
