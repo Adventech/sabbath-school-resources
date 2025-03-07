@@ -22,5 +22,3 @@ Even the inside of the eyes will show it.
 
 > <callout></callout>
 > If someone checked your physical or spiritual health by looking into your eyes today, what might the "lamps of your body" reveal?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

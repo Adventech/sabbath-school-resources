@@ -22,5 +22,3 @@ God's Spirit is a lot like water. When it comes into people the change is dramat
 
 > <callout></callout>
 > Drink eight glasses of water today, even if you don't feel like it.The results will far outweigh your efforts.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

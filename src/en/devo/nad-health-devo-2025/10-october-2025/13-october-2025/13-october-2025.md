@@ -20,5 +20,3 @@ But for the biggest headache of the world—that of sin—there's only one solut
 
 > <callout></callout>
 > Thank You, God, for the natural remedies for pain, and thank You for the Jesus remedy for sin.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

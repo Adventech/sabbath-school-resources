@@ -20,5 +20,3 @@ Light is the starting place of life. Perhaps that’s why the biblical account o
 
 > <callout></callout>
 > Spend some time today in the light God created for you to enjoy.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

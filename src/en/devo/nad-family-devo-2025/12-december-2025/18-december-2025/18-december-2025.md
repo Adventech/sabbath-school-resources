@@ -24,5 +24,3 @@ On those days when we feel alone, abandoned by God, remind yourself of these wor
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank You for being with us, very near to us, even when we don’t feel close to You. And thank You because You never abandon us in spite of ourselves.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

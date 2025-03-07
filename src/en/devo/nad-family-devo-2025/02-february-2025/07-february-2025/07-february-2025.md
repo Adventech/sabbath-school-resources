@@ -30,5 +30,3 @@ These stories remind me that God’s miraculous power on our behalf is still ava
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for the time You give us. Help us to manage it wisely for You and others.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

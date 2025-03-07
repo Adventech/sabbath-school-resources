@@ -20,5 +20,3 @@ It is interesting that Ellen White also connects these words of Jesus to our fir
 
 > <callout>A Prayer You May Say</callout>
 > Father, Help us to build our foundation daily on Your Son, Jesus Christ, and when the storms of life come and threaten to destroy us, may His strength be ours, and may he keep us together while the world tries to tear us apart.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

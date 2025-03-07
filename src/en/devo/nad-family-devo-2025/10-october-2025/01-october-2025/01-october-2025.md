@@ -26,5 +26,3 @@ Regardless of your family make-up: single parent, grandparent, married couple, y
 
 > <callout>A Prayer You May Say</callout>
 > Lord, thank You for the privilege of coming to You in prayer. Thank you for always being there to listen to our expressions of thanksgiving as well as our pleadings for help.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

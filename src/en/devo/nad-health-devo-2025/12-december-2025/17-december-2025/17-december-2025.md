@@ -20,5 +20,3 @@ Getting out of bed is still the hardest thing I do. But the walk that follows ha
 
 > <callout></callout>
 > Are you getting the best out of life? What about a little walking and “togethering” with someone you love?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

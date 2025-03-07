@@ -18,5 +18,3 @@ We can never underestimate the power of our decisions on what other people, part
 
 > <callout>A Prayer You May Say</callout>
 > Father, in Your goodness you allow us to make our own choices. This day, we choose You as our God and Savior and ask that You come close to our children, that they may sense Your presence in their lives, and that they, too, choose You this day as their God, their Savior, and Lord of their lives.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

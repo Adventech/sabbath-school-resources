@@ -26,5 +26,3 @@ Jesus’ example is best. In His grieve, He took some time to be alone. And he a
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for allowing us to see a glimpse of Jesus’ humanity and the sorrow He felt at the death of John. During our time of sorrow, help us to feel and to live out our pain so that healing will come naturally and faster than if we suppress it all.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -21,5 +21,3 @@ The apostle Paul commended the members of the church at Ephesus because their fa
 Following the example of the Ephesians, then, our faith is not demonstrated in how many miracles we perform, if any, or if we are able to understand and teach complicated Bible passages, or whether we can guide others to a greater knowledge of God, all of which are good, but whether our love for people reflect the faith we have in the God we love and serve. If Paul were alive and he knew us and the church where we attend on a regular basis, what would he say of us? If he knew how we relate to those closest to us, the saints that live with us, what would he say of our faith? I pray his words would be a strong commendation, never a condemnation.
 
 <b> </b>Father God, help our faith be reflected in our loving actions toward all the saints, particularly the ones within our own household.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ When someone asked Peter how he felt having failed to reach the top, he replied,
 
 > <callout></callout>
 > What “mountains” are you facing today? Why not ask God to give you His courage and joy for the climb?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

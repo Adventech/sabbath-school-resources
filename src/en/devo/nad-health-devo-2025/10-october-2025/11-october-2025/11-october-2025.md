@@ -22,5 +22,3 @@ We may each be lost, as Baby Paul would have been, unless we receive a new heart
 
 > <callout></callout>
 > Have you taken advantage of His transplant offer?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

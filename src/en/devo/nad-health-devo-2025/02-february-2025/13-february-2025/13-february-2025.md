@@ -24,5 +24,3 @@ Finally, remember who ultimately brings victory over depression. "Thanks be to G
 
 > <callout></callout>
 > Thank You, Lord, for giving me the victory over depression, and may I consider my problems pure joy knowing that You are in the process of maturing me.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

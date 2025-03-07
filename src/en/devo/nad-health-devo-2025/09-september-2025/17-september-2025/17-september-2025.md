@@ -22,5 +22,3 @@ But that's not all. God has extended to us the high honor of joining the powers 
 
 > <callout></callout>
 > What part are you playing in helping to rescue those "lost at sea" on Planet Earth?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

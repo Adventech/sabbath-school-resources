@@ -18,5 +18,3 @@ Today is a good time for each of us to claim these promises from God. As the eco
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to walk closely with You. We know what the resulting promises are, but just the joy of walking closing with You is the greatest blessing we can hope for. May Your blessings of sustenance and protection surround our families today and always.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

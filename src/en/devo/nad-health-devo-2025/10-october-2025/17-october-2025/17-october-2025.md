@@ -22,5 +22,3 @@ How wonderful to know that God's power can protect us from all of the mind-benum
 
 > <callout></callout>
 > Dear Lord, give me the clarity of perception to see Your ways always in a world offering so many false and ultimately destructive alternatives.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

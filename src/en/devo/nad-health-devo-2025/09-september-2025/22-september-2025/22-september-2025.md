@@ -18,5 +18,3 @@ Alcohol consumption is impossible to control. Some may start with alcohol at mea
 
 > <callout></callout>
 > Take the challenge and determine to not let anything interfere with the “renewing of your mind” through Christ Jesus.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

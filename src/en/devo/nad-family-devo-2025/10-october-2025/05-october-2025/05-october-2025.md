@@ -25,5 +25,3 @@ In Cana, Jesus and His disciples were invited to join in the festivities of the 
 Invite God to your wedding. . . and to your marriage daily.
 
 **A Prayer You May Say**: Our God and Father, thank You that in our marriage we tell everyone not only of our love for each other but of the love of Jesus for His bride, the church. We invite You to come into our marriage again today and to remain with us each and every day of our lives.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

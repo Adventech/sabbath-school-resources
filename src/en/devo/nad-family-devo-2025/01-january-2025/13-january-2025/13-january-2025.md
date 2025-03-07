@@ -18,5 +18,3 @@ This story illustrates the danger of lingering in the world. It becomes easier a
 
 > <callout>A Prayer You May Say</callout>
 > Father, Help us to move on from this place to the place you’ve gone to prepare for us, and protect us from sexual immorality and the worship of idols, whatever they may be.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

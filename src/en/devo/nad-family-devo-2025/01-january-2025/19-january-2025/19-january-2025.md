@@ -22,5 +22,3 @@ In order for children to be able to come back home, they need to have grown with
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for Your generous love and forgiveness toward us. Help us, as parents, to be as generous with our love and forgiveness toward our children.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

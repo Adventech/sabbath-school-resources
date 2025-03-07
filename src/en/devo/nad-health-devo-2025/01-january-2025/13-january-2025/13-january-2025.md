@@ -20,5 +20,3 @@ The good news is that you don't have to be what you are. You and I can take char
 
 > <callout></callout>
 > Are you following God's health principles so you can enjoy the abundant life Jesus wants us to have?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

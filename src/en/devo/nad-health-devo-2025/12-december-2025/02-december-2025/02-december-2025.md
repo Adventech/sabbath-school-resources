@@ -22,5 +22,3 @@ I'm convinced that there is a way that may seem right to us, but in the end is p
 
 > <callout></callout>
 > Just to know and not to do is not good enough, either in the area of our physical health, or in our spiritual lives. "Lord, help me to walk the walk, and not just talk the talk."
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

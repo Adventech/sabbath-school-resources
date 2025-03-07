@@ -20,5 +20,3 @@ It made me think about how much sin is like sugarcane or the sugar-sweet liquid 
 
 > <callout></callout>
 > Lord, open my eyes to the hidden dangers of “sugarcoated” sin.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ Here's what Sherry says: "I was able to see that Don's sin was not really agains
 
 > <callout></callout>
 > When someone hurts you, remember to put mercy before judgment and be kind, tenderhearted, and forgiving.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

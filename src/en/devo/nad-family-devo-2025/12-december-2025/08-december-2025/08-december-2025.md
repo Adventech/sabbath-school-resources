@@ -24,5 +24,3 @@ Who better to share your pain and your burdens than Jesus who is with us whereve
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank You that Jesus, and You, help us carry our burdens so they don’ have to crush us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

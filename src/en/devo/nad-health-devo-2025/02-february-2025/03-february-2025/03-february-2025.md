@@ -56,5 +56,3 @@ If the answer to any of these questions is yes, then you are probably short on s
 
 > <callout></callout>
 > Avoid the “toxic trend” of too little sleep. Set limits on your working hours and get seven or eight hours of sleep at a regular time each day.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ My dream keeps demanding, "How can I share Jesus?"
 
 > <callout></callout>
 > What large things are you expecting from God? Remember, He is the friend of dreamers.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

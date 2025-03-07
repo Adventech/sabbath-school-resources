@@ -28,5 +28,3 @@ We may not be accountants of hold a masters in business administration (MBA); ho
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to be faithful in our accounting of Your gifts and to remember You first of all as we manage these funds.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

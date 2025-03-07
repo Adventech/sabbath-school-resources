@@ -24,5 +24,3 @@ We don’t have to go through all that drama to experience God’s love and forg
 
 > <callout>A Prayer You May Say</callout>
 > Father God, may Your love and forgiveness wash our me and over my family so that we may be renewed by Your spirit and go on to fulfill Your mission for us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

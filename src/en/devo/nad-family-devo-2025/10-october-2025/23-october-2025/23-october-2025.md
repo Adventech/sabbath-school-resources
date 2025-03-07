@@ -24,5 +24,3 @@ God is not asking us to “feel” loving, but rather to “act” lovingly. Som
 > Father God, help us to act lovingly even when we don’t “feel” it. May your love permeate our lives and our relationships so that it will cover us and our past so that we may have a better future.
 
 Father God, help us to act lovingly even when we don’t “feel” it. May your love permeate our lives and our relationships so that it will cover us and our past so that we may have a better future.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

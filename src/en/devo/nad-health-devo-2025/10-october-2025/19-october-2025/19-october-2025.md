@@ -24,5 +24,3 @@ The incident reminded me of the beauty of unselfishness. "Freely you have receiv
 
 > <callout></callout>
 > What gift have you received that would bring cheer to someone else if you were to pass it on?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

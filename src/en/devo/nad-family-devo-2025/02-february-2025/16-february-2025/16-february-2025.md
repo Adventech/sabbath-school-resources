@@ -24,5 +24,3 @@ When others see what God has done in our lives, when our behavior and our words 
 
 > <callout>A Prayer You May Say</callout>
 > Father, reflect your love through us that others may see, not us, but You shining through us and come to know You, Love You, and serve You too.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

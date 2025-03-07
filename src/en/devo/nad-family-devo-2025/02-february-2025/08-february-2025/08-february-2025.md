@@ -24,5 +24,3 @@ Look for ways to serve your husband/wife out of love for them, but also out of l
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to love and serve one another to the end because by so doing we act as your disciples, because it shows Your spirit working in our hearts, and because by doing so we know Your love abides in us and in our marriage.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

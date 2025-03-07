@@ -24,5 +24,3 @@ That event did not take away all her loneliness or solve her physical problems. 
 
 > <callout></callout>
 > Have you felt as if God has abandoned you or turned His back on you? Why not talk to Him about it?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

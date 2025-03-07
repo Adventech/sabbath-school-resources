@@ -24,5 +24,3 @@ How healthy is your brain?
 
 > <callout></callout>
 > Think about your brain next time you take a bite of something, and ask, “Is this good brain food?” Remember, God designed our brains to operate on His original diet of fruits, vegetables, nuts, and grains. Junk foods clog the system.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

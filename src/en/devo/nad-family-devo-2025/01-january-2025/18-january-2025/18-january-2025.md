@@ -38,5 +38,3 @@ Relationships need boundaries for their protection. There needs to be boundaries
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for the boundaries in our lives and relationships because they are not there to divide us but rather to protect us. May we respect others’ boundaries and thus show them the respect and love they deserve.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

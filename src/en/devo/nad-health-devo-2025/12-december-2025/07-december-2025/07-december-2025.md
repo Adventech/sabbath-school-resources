@@ -22,5 +22,3 @@ In most cases sickness indicates that our immune system has broken down. When ou
 
 > <callout></callout>
 > Dear Lord, help me to learn to speak up when I feel someone is trying to control me, and on the flip side, Lord, help me to be careful not to control others with my anger, jealousy, moodiness, or fear.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

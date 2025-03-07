@@ -18,5 +18,3 @@ They, like us, were saved by the blood of the overcomer. Unlike those infants, n
 
 > <callout></callout>
 > Have you let the Holy Spirit fill your life with the blood of the Overcomer?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

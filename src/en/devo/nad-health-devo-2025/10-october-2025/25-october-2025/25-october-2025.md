@@ -20,5 +20,3 @@ Today, as I held Tara Jo in my arms at her dedication service, my mind went back
 
 > <callout></callout>
 > Praise You, Lord, for miracles great and small.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

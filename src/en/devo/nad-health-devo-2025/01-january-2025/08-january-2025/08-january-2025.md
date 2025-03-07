@@ -23,5 +23,3 @@ And what did Ellen White say of that first health reform vision in 1863? “I sa
 
 > <callout></callout>
 > What adjustments should you make in your lifestyle to live up to how you know you should be living?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

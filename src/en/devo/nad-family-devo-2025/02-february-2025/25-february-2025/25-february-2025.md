@@ -30,5 +30,3 @@ We can make our relationships better and win back our spouse, if we are sincere 
 
 > <callout>A Prayer You May Say</callout>
 > Father, we praise You and thank You for your gift of our spouse; may we treat them accordingly.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ Today’s Bible reading reminds me that all we have and all we are is God’s gi
 
 > <callout>A Prayer You May Say</callout>
 > Father, at this moment we pause to thank You for all You have given us. Help us to always be thankful for all Your generosity.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

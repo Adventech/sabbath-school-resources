@@ -18,5 +18,3 @@ Stories like this make me cringe to thin of how one person could deal with his b
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to never place material things over our family or any other person.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

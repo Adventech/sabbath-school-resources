@@ -22,5 +22,3 @@ There’s no doubt in Audrey’s mind or mine about the truth of this statement:
 
 > <callout></callout>
 > Lord, thank You for the incredible restorative power my body has if I just follow God’s laws of nature.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

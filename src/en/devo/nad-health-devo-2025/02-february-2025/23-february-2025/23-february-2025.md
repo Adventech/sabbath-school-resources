@@ -28,5 +28,3 @@ If you find yourself having a hard time hearing God's voice in the traffic, nois
 
 > <callout></callout>
 > How can I get some of the benefits of country living even if I believe the Lord has called me to minister in the city?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

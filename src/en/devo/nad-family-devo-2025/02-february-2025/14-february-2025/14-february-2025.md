@@ -18,5 +18,3 @@ In every relationship, there will be times when one or the other will cause pain
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for being our Refuge, and thank You for making of our home a place of refuge for all of us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

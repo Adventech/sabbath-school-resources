@@ -22,5 +22,3 @@ Each time I travel I marvel at all these miracles! We may say it is modern techn
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for the miracles of safety in long journeys across the country or across the world or across the street. Thank You for the miracle of life in a flower, in a bird, in a child. Thank You for breath, and water, and air, and sight. Than you for food and shelter and clothing and a job. Thank You for all Your miracles for us, simply because You rejoice in our happiness. Todya I praise You for being You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

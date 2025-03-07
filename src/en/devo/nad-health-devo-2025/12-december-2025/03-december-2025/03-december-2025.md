@@ -27,5 +27,3 @@ I challenge you to begin serving others and experience for yourself the double h
 
 > <callout></callout>
 > Lord, give me the good Samaritan's heart to serve others unselfishly.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

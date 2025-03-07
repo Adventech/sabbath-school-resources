@@ -26,5 +26,3 @@ He has promised to make our burdens easy and light.
 
 > <callout></callout>
 > What is the bulge in your life that is keeping you from reaching your desired goals? Give it to Jesus and expect a miracle!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

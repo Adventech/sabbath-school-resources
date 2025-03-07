@@ -22,5 +22,3 @@ One day we will be able to look back and see how God's hand has been on our live
 
 > <callout></callout>
 > How do you feel about the phrase "Feeling is healing"? Why is it so hard to let go?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -20,5 +20,3 @@ So learn to overcome those everyday discouragements and develop a healthy recove
 
 > <callout></callout>
 > In what areas do you need to shorten your recovery time?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

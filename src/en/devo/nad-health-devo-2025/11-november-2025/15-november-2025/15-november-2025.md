@@ -24,5 +24,3 @@ Ellen White said: â€œThe free use of sugar in any form tends to clog the systemâ
 
 > <callout></callout>
 > Do you have a sweet tooth? What could you do without today to have a clearer mind for the Holy Spirit to impress?u could do to make others happy?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

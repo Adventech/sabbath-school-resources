@@ -20,5 +20,3 @@ As we continue the health program we must remember George Butler's words: "When 
 
 > <callout></callout>
 > Lord, help me never to forget the way You have led me in the past. Thank You.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

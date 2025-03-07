@@ -24,5 +24,3 @@ When you're tempted to accumulate things for yourself, remember the scriptural h
 
 > <callout></callout>
 > What more could you do to practice the health principle of generosity?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ This does not mean we stop loving our family members. Instead, by placing God fi
 > Father, by accepting You to have first place in my life I am not relegating my family to last but rather giving You and them the place each rightly deserves. Father, be first in our lives, always and forever.
 
 <sup>1</sup> Andrews Study Bible Notes. 2010 (J. L. Dybdahl, Ed.). Berrien Springs, MI: Andrews University Press.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

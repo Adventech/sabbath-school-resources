@@ -28,5 +28,3 @@ Would you like to know what could make heart disease as rare as leprosy is in ou
 
 > <callout></callout>
 > What changes could you make in your diet to bring down your level of cholesterol to below 150? Why don't you make that your goal?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

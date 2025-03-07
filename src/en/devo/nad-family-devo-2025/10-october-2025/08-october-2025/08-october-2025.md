@@ -28,5 +28,3 @@ Jesus made clear: When you have a beam sticking out of your own eye, how can you
 
 > <callout>A Prayer You May Say</callout>
 > Father, please help me see the beam in my own eye before I stare at the speck of dust in my spouse’ eye. Help me to look for what is good and right and praiseworthy in their life and ignore the things that cause me to look at them in a negative light. Help me to appreciate my spouse for all they bring into my life and for being Your gift to me.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

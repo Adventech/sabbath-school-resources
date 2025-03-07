@@ -24,5 +24,3 @@ In the meantime, your loving actions, your presence, your kindness toward the be
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank You because You are the only one who truly understands and feels our pain, and because You are the only one who can bring solace, comfort, and lasting peace to our lives in turmoil.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -20,5 +20,3 @@ After my divorce, while my friends were retiring from work, I found myself enrol
 
 > <callout></callout>
 > When you feel broken and crushed, remember that God has promised beauty for ashes!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

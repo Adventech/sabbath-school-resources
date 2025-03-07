@@ -40,5 +40,3 @@ Sometimes we can’t fix things ourselves. It is at those times we need to seek 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to recognize when we need help and to look for it before it is too late for our marriage or our family.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

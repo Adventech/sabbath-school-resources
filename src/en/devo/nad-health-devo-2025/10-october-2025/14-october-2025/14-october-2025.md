@@ -23,5 +23,3 @@ Joan has moved away, and I don't see her much. But when we do talk and I try to 
 
 > <callout></callout>
 > Is there someone in your family, your neighborhood, or your church who needs help? Remember, whatever you do for others, Christ says you've done for Him.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

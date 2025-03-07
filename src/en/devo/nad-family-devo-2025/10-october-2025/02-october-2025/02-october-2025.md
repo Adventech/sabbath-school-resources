@@ -30,5 +30,3 @@ If you think this is hard now- imagine the difficulty that may arise if you wait
 
 > <callout>A Prayer You May Say</callout>
 > Lord, where there are two or more, there are differences. Help us to be united as One with you. Lead us to be like-minded according to Your will.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ Daily sit as a family as the feet of Jesus. And, in the process of setting our p
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, please help me set my priorities according to Your will. I pray that the busyness of life will not detract me from spending quality time with You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

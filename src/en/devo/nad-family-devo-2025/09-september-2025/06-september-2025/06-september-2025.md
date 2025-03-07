@@ -24,5 +24,3 @@ When you focus on the positives, your thinking pattern toward them will change, 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to change our thoughts toward our spouse, and help us to behave lovingly toward them so that even if we have lost the loving feelings toward them we will act the way you would want us to act and so that our loving feelings toward them will be renewed every morning.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

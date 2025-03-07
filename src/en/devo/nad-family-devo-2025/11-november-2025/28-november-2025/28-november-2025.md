@@ -28,5 +28,3 @@ Unless we set a godly example from the time our children are small, the chances 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, may our children live according to the truth You have laid our for all of us. When they do, it brings us great joy, but we also know it brings You great joy. May You and us then have this great joy in our lives forever.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

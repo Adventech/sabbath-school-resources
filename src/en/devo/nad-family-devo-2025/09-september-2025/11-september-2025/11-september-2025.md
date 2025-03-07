@@ -24,5 +24,3 @@ Seek wisdom more than you work for money.
 
 > <callout>A Prayer You May Say</callout>
 > Father God, give us the wisdom to help and heal our marriage and to keep it whole for our children and for You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

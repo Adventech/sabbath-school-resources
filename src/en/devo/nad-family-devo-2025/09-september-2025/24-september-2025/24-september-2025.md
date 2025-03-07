@@ -37,5 +37,3 @@ In other words, volunteerism as a family has numerous payoffs. We may falsely as
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, provide opportunities for me to serve alongside my family. Help us, as a family, to follow your example of using each of our gifts and talents to bless others.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

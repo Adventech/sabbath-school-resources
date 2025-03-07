@@ -20,5 +20,3 @@ Most tragically, fear of God is a primitive, immature, wholly unnecessary, and s
 
 > <callout></callout>
 > How do you see God? As someone to fear? a judge? a shepherd? If you were to paint a picture of God, what would you depict?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

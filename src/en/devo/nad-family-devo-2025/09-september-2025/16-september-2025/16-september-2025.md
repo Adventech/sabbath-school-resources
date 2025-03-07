@@ -24,5 +24,3 @@ Leprosy does not have to kill as medication can treat it so that it doesn’t pr
 
 > <callout>A Prayer You May Say</callout>
 > Father, forgive us for the times when we have hurt our spouse, and help us to be more sensitive to their needs in the future. And Father, help us to confess to them our sins toward them so that there may be total healing in our relationship.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

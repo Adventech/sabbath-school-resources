@@ -24,5 +24,3 @@ Becky is the communal adhesive of our family. Her ongoing commitment to communic
 
 > <callout></callout>
 > Nurturing relationships produce health and happiness. How can you be like Becky today?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

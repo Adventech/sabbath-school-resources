@@ -22,5 +22,3 @@ What Jesus tells us in today’s text is that when we practice generosity at hom
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to give generously of ourselves like You gave generously to us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

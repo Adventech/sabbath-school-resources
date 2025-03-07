@@ -22,5 +22,3 @@ The bottom line? If we want to change the way we feel, we need to change the way
 
 > <callout></callout>
 > What steps can you take to manage your emotions and feelings more successfully? Are you allowing your brain to be God-educated and Holy Spirit-impressed?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

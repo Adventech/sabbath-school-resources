@@ -22,5 +22,3 @@ Find ways and times to gather and celebrate together as a family
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank you for all those special times when we have gathered and been together with our families to celebrate special occasions or simply to be together. May we have many more of those opportunities throughout our lives.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

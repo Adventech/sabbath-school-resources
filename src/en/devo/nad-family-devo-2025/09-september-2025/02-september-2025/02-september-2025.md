@@ -17,5 +17,3 @@ The passage really applies to marriage as well as to any relationship. If we wit
 
 > <callout>A Prayer You May Say</callout>
 > Father, forgive us when we have kept to us what we should have given our spouse, and help us to make proper and generous restitution.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

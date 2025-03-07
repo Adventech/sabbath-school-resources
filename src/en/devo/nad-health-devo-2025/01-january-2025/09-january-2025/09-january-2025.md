@@ -20,5 +20,3 @@ If you’re struggling to make healthful changes, take courage. Set your face �
 
 > <callout></callout>
 > In what area of health do you need to set your face “like flint” and do what you know you should?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ An article about Charlotte carried the title "Too Fit to Quit." Not a bad slogan
 
 > <callout></callout>
 > What could you be doing to help you earn the slogan "Too Fit to Quit"?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

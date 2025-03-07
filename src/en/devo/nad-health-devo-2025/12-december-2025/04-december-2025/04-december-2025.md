@@ -22,5 +22,3 @@ I am living proof that a person can "come again from the land of the enemy" (Jer
 
 > <callout></callout>
 > Why not invite the Lord of the universe to dinner next Friday evening and celebrate Shabbat with Him!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

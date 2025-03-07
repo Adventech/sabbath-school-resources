@@ -20,5 +20,3 @@ If you have trouble taming your tongue, if you find yourself having said things 
 
 > <callout></callout>
 > What is it that you could do to make others happy?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

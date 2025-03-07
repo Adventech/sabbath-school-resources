@@ -29,5 +29,3 @@ At the very beginning of His ministry, Jesus received words of affirmation from 
 Ellen White wrote: “It is a parent's duty to speak right words. . . . Day by day parents should learn in the school of Christ lessons from One that loves them. Then the story of God's everlasting love will be repeated in the home school to the tender flock. Thus, before reason is fully developed, children may catch a right spirit from their parents” (Child Guidance, p.26)
 
 A Prayer You May Say: Father, help me to affirm my children and confirm in their hearing and through my actions that I love them and that You love them. Help me to build them up, encourage them, and strengthen them. Help me to reflect Your love to them so that they will not only love me, but that they may also love You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

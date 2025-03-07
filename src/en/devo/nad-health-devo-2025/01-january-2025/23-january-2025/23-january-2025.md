@@ -22,5 +22,3 @@ If you find that at some point during the day you’re feeling irritable toward 
 
 > <callout></callout>
 > Lord, help me always to remember, as I breathe into my body clean, fresh air, that You are the breath of life to my soul.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

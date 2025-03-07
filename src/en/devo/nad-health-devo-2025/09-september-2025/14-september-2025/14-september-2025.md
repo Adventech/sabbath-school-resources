@@ -30,5 +30,3 @@ Going home has a deeper, richer meaning to me now. And "Straight Ahead" is still
 
 > <callout></callout>
 > "Think of Christ. Look to Him in faith, believing His promises. Keep your mind trustful. He will be your stay. Lean on Him, depend on Him. . . . Put your trust in One whose arm will never fail you. . . . But looking to Jesus you will find encouragement" (Selected Messages , book 2, p. 265).
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -27,5 +27,3 @@ Love your spouse unconditionally. Love your children unconditionally. And bask i
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank you for your unconditional love for me. Help me to be Your conduit so that others, my family and children first, will experience your unconditional love for them through my unconditional love for them as well.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -18,5 +18,3 @@ To overcome stress we can use the same acronym, **FEARS**. F is for **F**aith in
 
 > <callout></callout>
 > What FEARS do you have? The first set: Frustration, Envy, Anger, Resentment, and Sadness; or the second set: Faith, Exercise, Acceptance, Rest, and Singing?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

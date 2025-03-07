@@ -18,5 +18,3 @@ Spiritual hygiene calls for cleansing the inside, not a superficial once-over fo
 
 > <callout></callout>
 > Dear Lord, wash my heart and mind with Your Holy Spirit so that I might be spiritually clean. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

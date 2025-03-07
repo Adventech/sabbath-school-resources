@@ -26,5 +26,3 @@ Our effectiveness of witnessing to our family and loved ones depends on our rece
 
 > <callout></callout>
 > What can you do to lower your salt intake? What can you do to be "the salt of the earth"?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -26,5 +26,3 @@ While we are in the midst of troubling circumstances, it is good to be reminded 
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You that even though we do and we will experience trouble in this world, You never leave us. I pray, Father, that your presence, that of Your Son, and that of Your Holy Spirit, will ift us up from the valley of despair and into the mountain of cheer.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

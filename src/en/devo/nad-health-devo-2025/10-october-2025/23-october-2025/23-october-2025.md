@@ -27,5 +27,3 @@ So whether sick or well, a Godlike patient, cheerful attitude is the key to life
 
 > <callout></callout>
 > God, in times of crisis and pain, may I hold on to the fact that You have overcome the troublemaker of this earth, and with Your power, may I be able to maintain a patient, cheerful attitude. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

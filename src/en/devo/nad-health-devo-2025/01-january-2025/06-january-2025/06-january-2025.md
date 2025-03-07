@@ -22,5 +22,3 @@ I believe God is in the process of healing me. I may never be free of pain. The 
 
 > <callout></callout>
 > What are you thankful for today? How can you live in an attitude of praise all day?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

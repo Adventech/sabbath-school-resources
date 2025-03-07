@@ -22,5 +22,3 @@ It is my prayer that when someone sees my face, my birthmark, that they will not
 
 > <callout></callout>
 > Lord, because I am created in Your image, help me to see the beauty in myself—and in others.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

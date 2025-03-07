@@ -22,5 +22,3 @@ So let’s rattle those funny bones today and praise our heavenly Father for the
 
 > <callout></callout>
 > If 10 minutes of laughter helped Norman Cousins sleep pain-free for two hours, what might it do for your health?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

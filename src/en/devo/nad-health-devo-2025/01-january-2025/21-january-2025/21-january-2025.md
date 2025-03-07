@@ -20,5 +20,3 @@ Angry with God over my mother’s illness, I now questioned His goodness, honest
 
 > <callout></callout>
 > Sometimes our faith is tested. Today praise God for the blessings He promises and provides.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

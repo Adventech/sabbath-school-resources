@@ -22,5 +22,3 @@ May this Sabbath bless you with a reality known across the breadth of the cosmos
 
 > <callout></callout>
 > God of the universe, thank You for the Sabbath to remind me weekly of who I am—a person created in Your image—and where I am  going—life eternal. Regardless of tabloid headlines that could trouble my mind, I can rest in this assurance. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

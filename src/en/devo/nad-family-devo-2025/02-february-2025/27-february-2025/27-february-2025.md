@@ -18,5 +18,3 @@ My parents were married twenty-eight years until the afternoon, one early day in
 
 > <callout>A Prayer You May Say</callout>
 > Father, while the pain of the death of our spouse may come to us, I pray that our life together may be of such quality that we may live without regrets, and may the memories we’re building together carry us through the darkest, dreariest valleys of sorrow and pain.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

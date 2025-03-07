@@ -34,5 +34,3 @@ Let's take these three simple steps, and begin right now. today is the best time
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help me to begin right now to make the changes in my life that may result in changes in our relationship.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -30,5 +30,3 @@ The question is What are you doing for your brain? Are you in group 1: lonely an
 
 > <callout></callout>
 > Lord, help me to use it—not lose it! Increase my wisdom and understanding.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

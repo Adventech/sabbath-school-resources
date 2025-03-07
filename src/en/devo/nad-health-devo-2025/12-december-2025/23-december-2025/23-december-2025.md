@@ -20,5 +20,3 @@ You may feel inadequate to sing or play a musical instrument, but you can still 
 
 > <callout></callout>
 > Sing a chorus or hymn of praise to God right now, and see if it doesn’t make a difference in the way you feel!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ It reminded me of the admonition: “Let the saints . . . sing for joy on their 
 
 > <callout></callout>
 > What better time than now to sing a praise song to the Lord? “Rejoice in the Lord always, and again I say rejoice.”
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

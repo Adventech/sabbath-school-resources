@@ -22,5 +22,3 @@ During those two terribly difficult years I learned that God still held me close
 
 > <callout></callout>
 > What support can you offer someone who is suffering from obesity? And if you are the one who is overweight, have you learned that God still loves you and will help you even if others say things that hurt?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

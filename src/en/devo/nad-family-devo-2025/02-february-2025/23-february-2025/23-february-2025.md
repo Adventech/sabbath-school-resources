@@ -32,5 +32,3 @@ These things are part of what Jesus meant when He said, “Let your yes be yes a
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to make no promises or threats we cannot keep.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

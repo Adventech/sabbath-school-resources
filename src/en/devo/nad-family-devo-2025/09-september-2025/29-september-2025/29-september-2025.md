@@ -26,5 +26,3 @@ And, as parents are we guilty of being bad role models? Do we also rush out to b
 
 > <callout>A Prayer You May Say</callout>
 > Lord, help me as a parent to model behavior that I want my children to emulate. Help me to show them that the greatest wealth is in knowing and loving You!
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

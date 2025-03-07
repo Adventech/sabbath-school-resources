@@ -22,5 +22,3 @@ Baptism is one of those spiritual landmarks that, as children look into it, give
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for all those high spiritual moments of our lives when You shows us a greater, brighter glimpse of You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

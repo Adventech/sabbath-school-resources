@@ -22,5 +22,3 @@ My other sons have gone on to lead caring and giving lives. They have happy marr
 
 > <callout></callout>
 > Ellen White says: “No one but you yourself can do your work. If you withhold your light, someone must be left in darkness through your neglect” (Testimonies , vol. 5, p. 464). What is the royal work that God needs you to do at this time?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

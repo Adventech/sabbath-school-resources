@@ -24,5 +24,3 @@ Here’s where this idea becomes more important. Instead of trying to change our
 
 > <callout>A Prayer You May Say</callout>
 > Father God, change me from within that I may resemble your Son, especially to my spouse.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

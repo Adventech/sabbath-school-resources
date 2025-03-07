@@ -24,5 +24,3 @@ Twenty-two days after the accident Mom died.
 
 > <callout></callout>
 > What is your prayer? Can you say “Thy will be done,” or are you still saying “My will be done”?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

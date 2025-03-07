@@ -20,5 +20,3 @@ I am reminded that the work of the Holy Spirit is very much like that of water. 
 
 > <callout></callout>
 > How should you plan your day in order to drink as much of the Living Water as possible?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

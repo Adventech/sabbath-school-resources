@@ -22,5 +22,3 @@ Allow God to manage your financial affairs. Make investments in His kingdom rath
 
 > <callout></callout>
 > Ask God what burden you need to put down to have true peace of mind.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

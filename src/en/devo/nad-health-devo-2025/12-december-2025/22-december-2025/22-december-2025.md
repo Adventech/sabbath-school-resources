@@ -24,5 +24,3 @@ God has His diamonds in this world who open their hearts and homes to people lik
 
 > <callout></callout>
 > As you plan for this Christmas, what can you do to bring an extra sparkle into lives that might otherwise be sad and lonely?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

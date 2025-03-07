@@ -32,5 +32,3 @@ The psalmist writes a morning prayer in which he thanks God for keeping him safe
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank You for a new day of life and health, and thank You for watching over us last night as we slept.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

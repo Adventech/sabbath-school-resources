@@ -28,5 +28,3 @@ O, kiss. Kiss your loved one often and long. And kiss them with an open, honest 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to be honest and open with each other, and help us to express those feelings often to each other through words and kisses.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

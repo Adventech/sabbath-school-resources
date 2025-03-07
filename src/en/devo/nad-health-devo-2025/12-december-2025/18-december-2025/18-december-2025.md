@@ -18,5 +18,3 @@ The Pharisees and Laodiceans both seemed to have spiritual glaucoma. An arrogant
 
 > <callout></callout>
 > Are you in danger of developing spiritual glaucoma? What can you do to prevent it?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

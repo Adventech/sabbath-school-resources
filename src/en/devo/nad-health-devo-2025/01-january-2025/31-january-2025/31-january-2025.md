@@ -24,5 +24,3 @@ Fear makes one vulnerable to distress and disability. But there are many things 
 
 > <callout></callout>
 > Fear can be debilitating. But with God’s help you can walk through your fear and “fly” again.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

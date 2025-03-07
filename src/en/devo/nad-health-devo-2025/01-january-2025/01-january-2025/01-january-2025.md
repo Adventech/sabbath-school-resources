@@ -24,5 +24,3 @@ So as we begin our journey together to a more vibrant life, I wish you a happy n
 
 > <callout></callout>
 > Choose happiness. Resolve to replace every negative thought with thoughts of God’s blessings. You can have a happy new year!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

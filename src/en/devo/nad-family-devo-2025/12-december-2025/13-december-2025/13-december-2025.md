@@ -26,5 +26,3 @@ The apostle Paul encourages us to not be lazy in showing devotion. While we may 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help me to channel the strength and energy You give me to get better acquainted with you and to serve my family better.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -16,5 +16,3 @@ As a result of the renewing of J. C. Penney’s mind through the power of a song
 
 > <callout></callout>
 > When you’re tempted to worry,what song could you think of or sing to relieve the stress?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

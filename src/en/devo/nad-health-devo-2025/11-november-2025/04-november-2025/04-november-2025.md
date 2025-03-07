@@ -20,5 +20,3 @@ God does not expect us to overwork to please Him. He made us with certain laws o
 
 > <callout></callout>
 > Are you building your house on a healthy foundation, or on the sand of drugs and artificial stimulants?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

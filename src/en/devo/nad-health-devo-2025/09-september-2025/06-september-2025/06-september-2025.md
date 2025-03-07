@@ -22,5 +22,3 @@ And E. H. Chapin's thoughts give hope. "An aged Christian, with the snow of time
 
 > <callout></callout>
 > Look forward to each new day, not as a sign of growing older, but for the incredible potential of growing closer to heaven and the person, Jesus Christ, who makes heaven possible.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

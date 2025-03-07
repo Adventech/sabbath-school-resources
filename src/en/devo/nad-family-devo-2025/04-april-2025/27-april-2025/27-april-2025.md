@@ -22,5 +22,3 @@ What message are we telling the world through our families? Would our homes stan
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, may my home be an evangelistic center. may my neighbors, friends, and family members see You. May it testify of Your mercy, Your love, Your forgiveness, and Your grace. In Jesus' name, Amen.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

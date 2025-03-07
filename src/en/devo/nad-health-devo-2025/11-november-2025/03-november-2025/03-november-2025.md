@@ -26,5 +26,3 @@ It's an incredible story, isn't it? But every person has God-given possibilities
 
 > <callout></callout>
 > Dear Lord, help me to see possibilities in myself and others. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

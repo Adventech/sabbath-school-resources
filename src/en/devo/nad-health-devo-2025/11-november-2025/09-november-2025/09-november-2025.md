@@ -20,5 +20,3 @@ Think about it in still another way: if the yo-yo effect has such a negative inf
 
 > <callout></callout>
 > Lord, grant me the self-discipline to maintain a healthy lifestyle, physically and spiritually.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ The solution to the stress problem is to trust in the Lord rather than money. "D
 
 > <callout></callout>
 > Are you giving an honest tithe and generous offerings? If so, pray that God will make it clear to you that His floodgates of blessing are open for you.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

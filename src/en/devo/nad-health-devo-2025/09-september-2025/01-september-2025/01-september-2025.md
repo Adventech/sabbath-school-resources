@@ -22,5 +22,3 @@ How thankful we can be to God for His ideal plan, which brought male and female 
 
 > <callout></callout>
 > O Creator-God, may I show my spouse the respect and admiration of a side-by-side, egalitarian, Edenic relationship, God’s original purpose for male and female.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

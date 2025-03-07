@@ -26,5 +26,3 @@ Now I’m looking forward to another homecoming, when our family will be reunite
 
 > <callout></callout>
 > Family homecomings are marvelous occasions. Why not start planning for one today?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

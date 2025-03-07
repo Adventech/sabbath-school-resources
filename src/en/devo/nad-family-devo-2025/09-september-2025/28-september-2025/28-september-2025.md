@@ -24,5 +24,3 @@ As parents, do you feel the need to always rescue your child? How do you help yo
 
 > <callout>A Prayer You May Say</callout>
 > Lord, help me to see the blessings among the trials. Help me to teach my child that good things can come out of the bad. Even when we do not understand all of the reasons or have all of the answers, help us as a family to trust you.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -28,5 +28,3 @@ Look for compatibility in the most critical areas of life and your changes for a
 
 > <callout>A Prayer You May Say</callout>
 > Father, guide us to the person You would have for us, and help us to be the person who would be best for them.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

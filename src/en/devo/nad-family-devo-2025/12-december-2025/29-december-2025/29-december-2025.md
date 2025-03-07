@@ -22,5 +22,3 @@ Today’s verse holds a promise for all of us wishing to have a happy, healthy h
 
 > <callout>A Prayer You May Say</callout>
 > Father God, today we come humbly before You, asking You to help us, change us, and be our safety.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

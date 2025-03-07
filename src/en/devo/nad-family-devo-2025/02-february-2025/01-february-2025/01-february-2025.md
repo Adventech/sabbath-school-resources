@@ -18,5 +18,3 @@ I think these words are the reflection of what we have come to know as daily wor
 
 > <callout>A Prayer You May Say</callout>
 > Father, on this day, we worship You and serve You, and pause to listen to Your voice as You direct us in our daily activities. May we hear You in everything we do, wherever we go.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

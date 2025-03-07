@@ -30,5 +30,3 @@ Behold, how good and how pleasant it is when husband and wife dwell together in 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to have the type of unity which will help us build a strong, lasting, healthy, and happy marriage.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -26,5 +26,3 @@ For children and youth, the life and not just the death of Jesus should be an ex
 
 > <callout>A Prayer You May Say</callout>
 > Father, may we as parents reflect faithfully the image of Christ so that as we teach our children to obey they grow uo to obey and trust You, their Heavenly Father.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

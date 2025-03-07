@@ -20,5 +20,3 @@ While the family may not always be right in their feelings or opinions of your b
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for the wise counsel of family and friends. May we be attentive to what they have to tell us, specially if that has to do with following Your guidance and when it comes to those relationships which we hope will be life-lasting.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

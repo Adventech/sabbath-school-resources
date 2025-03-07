@@ -28,5 +28,3 @@ It’s encouraging to reflect that when we “eat the flesh” in this way, the 
 
 > <callout></callout>
 > Invite Jesus to live in you today, and experience renewed energy and efficiency.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

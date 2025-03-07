@@ -26,5 +26,3 @@ Take the words of our text today and make them part of your life and marriage: â
 
 > <callout>A Prayer You May Say</callout>
 > Father God, plant in our hearts not only the desire to make things better in our marriage, but help that seed of desire sprout into a willingness to do all we can to see that desire bloom into positive changes in our relationship.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

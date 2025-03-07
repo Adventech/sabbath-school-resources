@@ -22,5 +22,3 @@ True self-esteem comes from finding your place in the cycle of love that governs
 
 > <callout></callout>
 > If you’d like to boost your feelings of value, read Matthew 5 through 7, write down at least three suggestions Jesus makes that you can put into practice, and then just do them!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

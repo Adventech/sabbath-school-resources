@@ -20,5 +20,3 @@ Jesus took on every sin for us. Imagine if a mother could allow herself to be ex
 
 > <callout></callout>
 > Help me to trust You, Lord Jesus, and the power of Your blood to forgive my past sins and give me the ability to overcome current temptations.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

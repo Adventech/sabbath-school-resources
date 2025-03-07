@@ -24,5 +24,3 @@ Sin is something like this. If it’s fashionable—and we’re vain—we’ll d
 
 > <callout></callout>
 > Think about it—are there any unhealthful practices or sins that because of your vanity you are unwilling to give up?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

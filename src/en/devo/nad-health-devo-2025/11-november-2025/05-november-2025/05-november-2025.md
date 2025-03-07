@@ -22,5 +22,3 @@ It's a real wake-up call to realize that eternity can be only a moment away. It 
 
 > <callout></callout>
 > Do you have any fears about facing the future crisis? What will sustain you? What could you do today to prepare to meet your God?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

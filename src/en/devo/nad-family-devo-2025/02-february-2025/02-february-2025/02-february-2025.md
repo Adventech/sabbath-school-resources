@@ -26,5 +26,3 @@ Jesus recipe to have a good, healthy relationship begins with these three, simpl
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for extending to us Your love, Your grace, and Your forgiveness. Help us to be as loving, as gracious, and as forgiving toward our spouse that we may have the type of relationship toward one another that reflects the relationship You wants to have with You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

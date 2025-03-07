@@ -28,5 +28,3 @@ Follow the order of events prescribed in the Bible. God, your designer and creat
 
 > <callout>A Prayer You May Say</callout>
 > Father God, in Your wisdom You have given us a pattern for our happiness. Helps us to follow the path that leads to a long, healthy relationship.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

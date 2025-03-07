@@ -18,5 +18,3 @@ When we understand and come to appreciate the fact that our loved ones – spous
 
 > <callout>A Prayer You May Say</callout>
 > Father, remind us today we are all Your children and thus help us to treat each other with kindness.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -32,5 +32,3 @@ We do not need to fear furious Jezebels. And somewhere out there 7,000-plus loya
 
 > <callout></callout>
 > Think about your circumstances, where you are at this time. If God asked you “What are you doing here?” what would you answer?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -30,5 +30,3 @@ May it be said about our children that they are living according to the truth ju
 
 > <callout>A Prayer You May Say</callout>
 > Father God, Bless our children this day, and may they be faithful to You today and each day of their lives.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

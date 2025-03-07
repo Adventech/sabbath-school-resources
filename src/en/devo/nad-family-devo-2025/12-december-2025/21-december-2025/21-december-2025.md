@@ -22,5 +22,3 @@ And, no matter how old your child gets, never give up praying for them! Prayers 
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, thank you for giving me the privilege of being a parent. I pray that my children will be worthy of Your calling. I pray that they will live their lives in uncut a way to glorify Your name. And, I thank You that Your grace is sufficient for them.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

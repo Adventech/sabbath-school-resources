@@ -29,4 +29,4 @@ Now, as I write these words, I hear again Moses telling the Israelites, “The L
 > <callout>A Prayer You May Say</callout>
 > Father, our Lord and our Foundation, may we be built on You so we may be firmly established forever.
 
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._\
+\

@@ -26,5 +26,3 @@ It is when we feel our emptiness that we can be filled. The Bible says it best i
 
 > <callout></callout>
 > Give God your emptiness today, and allow Him to make something beautiful of your life.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

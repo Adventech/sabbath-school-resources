@@ -30,5 +30,3 @@ Still there remains three basic remedies: faith, hope, and love. The greatest of
 
 > <callout></callout>
 > Lord, help me not to be so busy doing good that I don't have time to experience God's love and give it away.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

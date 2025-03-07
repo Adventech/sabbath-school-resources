@@ -20,5 +20,3 @@ And when it comes to the Lord, I want perfect spiritual ears to catch every word
 
 > <callout></callout>
 > Thank You, Lord, for the ability to hear. So many things we take for granted. And may I always listen to Your instruction.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

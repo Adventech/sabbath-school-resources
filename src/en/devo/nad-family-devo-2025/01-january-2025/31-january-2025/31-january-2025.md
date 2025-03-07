@@ -18,5 +18,3 @@ Truth is to be passed on from one generation to the next, not hoarded as if we w
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for Your Word of truth. Help us to live it and teach it to our children and other generations to come.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

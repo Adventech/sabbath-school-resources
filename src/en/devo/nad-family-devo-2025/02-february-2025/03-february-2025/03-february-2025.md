@@ -20,5 +20,3 @@ Today is my fifty-first birthday, the age my dad was when he died, thirty six ye
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to value each day as if it were the last one we’d be alive.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

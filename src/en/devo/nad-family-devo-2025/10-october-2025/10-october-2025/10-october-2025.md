@@ -22,5 +22,3 @@ Commit yourself and your marriage daily to God that He may use you individually 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, Bless us as individuals and as a couple, and finish the good work You began in us until your ultimate purpose is accomplished in our lives and marriage.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

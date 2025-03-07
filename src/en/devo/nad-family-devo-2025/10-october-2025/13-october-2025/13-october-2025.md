@@ -22,5 +22,3 @@ How can one be free of these habits or addictions? Our texts for today tell us t
 
 > <callout>A Prayer You May Say</callout>
 > Father God, please hear our plea for delivery from the habits and addictions against which we battle, and deliver us from the world of fantasy and the resulting sins into which we fall.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

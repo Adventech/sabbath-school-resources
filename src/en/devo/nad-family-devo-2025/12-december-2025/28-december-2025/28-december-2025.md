@@ -22,5 +22,3 @@ In marriage, when husband and wife work together, as the spiritual ministers of 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank You for calling us, equipping us, and using us to minister to others, beginning with our spouse and children.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

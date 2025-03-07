@@ -26,5 +26,3 @@ But God has a "Heimlich maneuver" to save us. It's called being born again. With
 
 > <callout></callout>
 > Ask the Holy Spirit to convict you of your sins, repent, and then enjoy the breath of fresh air the Holy Spirit will bring to your life. You can be born again—and enter God's kingdom.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -1,25 +1,18 @@
 ---
   title: Devotional
   groups:
-  - group: "Discipleship Handbook: Bible & EGW Reading Plan"
-    reverse: true
-    view: square
-    resources:
-      - en-devo-dh-reading-plan*
   - group: Believe His Prophets
     view: tile
     resources:
       - en-devo-bhp-2025
       - en-devo-bhp-sop-2025
       - en-devo-bhp-*
-  - group: Steps to Personal Revival
-    view: folio
+  - group: "Discipleship Handbook: Bible & EGW Reading Plan"
+    reverse: true
+    view: square
     resources:
-      - en-devo-steps-to-personal-revival
-      - en-devo-abide-in-jesus
-      - en-devo-spirit-filled-coworkers-of-jesus
-      - en-devo-from-lack-to-abundance
-  - group: Daily Devotional
+      - en-devo-dh-reading-plan*
+  - group: Other Daily Devotionals
     view: folio
     resources:
       - en-devo-nad-family-devo-2025
@@ -30,9 +23,16 @@
       - en-devo-ten-days-of-prayer-2025
       - en-devo-ten-days-of-prayer-2025-childrens-resource
       - en-devo-youth-week-of-prayer-2025
-  - group: Other resources
+  - group: Devotional Resources
     view: folio
     resources:
       - en-devo-as-light-lingers
       - en-devo-the-way-back-to-altar
       - en-devo-test
+  - group: Steps to Personal Revival
+    view: folio
+    resources:
+      - en-devo-steps-to-personal-revival
+      - en-devo-abide-in-jesus
+      - en-devo-spirit-filled-coworkers-of-jesus
+      - en-devo-from-lack-to-abundance

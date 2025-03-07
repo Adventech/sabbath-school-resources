@@ -48,5 +48,3 @@ Keep your marriage “twogether” for the long haul.
 
 > <callout>A Prayer You May Say</callout>
 > Father God, bless us so that as we maintain our individuality we may live in unity and “twogetherness.”
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

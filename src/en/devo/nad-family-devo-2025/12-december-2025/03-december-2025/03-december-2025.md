@@ -26,5 +26,3 @@ Your strength for today is promised. The secret to securing it lies in communion
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, in the busyness of life, help me to stop and listen to You today. I need rest. I need quietness, and I need Your strength to meet the challenges that this day will bring.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -26,5 +26,3 @@ Widowed people are among the singles in our congregations we sometimes overlook.
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You fro remind us that You care about widows and have made special provision in Your word for the care and support of those who have lost their husband. Open our eyes to the needs of the widows and widowers in our congregations and in our community, and may we be an extension of Your love for them.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

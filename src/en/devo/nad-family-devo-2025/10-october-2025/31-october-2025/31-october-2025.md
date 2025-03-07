@@ -34,5 +34,3 @@ God hates divorce because of what it does to His children, the people He loves, 
 
 > <callout>A Prayer You May Say</callout>
 > Father, please help those couples who are in the midst of that horrific decision to separate and divorce, help them to see the life-lasting results to their children, and help them to mend their relationship for their sake, for their children’s sake, and for Your honor and glory.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -26,5 +26,3 @@ The same Jesus who calmed the fiercest storm these disciples had ever seen can c
 
 > <callout>A Prayer You May Say</callout>
 > Father, Thank You that the storms of life don’t have to drown us and that You are always with us ready to help us. Calm those storms and return to us the peace You so desire for us to enjoy.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

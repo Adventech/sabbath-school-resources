@@ -20,5 +20,3 @@ As I reflect on these experiences, I can’t help but wonder what God has in sto
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for your leading in the past and for your guidance in our future. We know You have been with us all along; now we can hardly wait to see what You have in store for our future. May You continue to guide us and may we always see clearly what Your will for our lives is.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

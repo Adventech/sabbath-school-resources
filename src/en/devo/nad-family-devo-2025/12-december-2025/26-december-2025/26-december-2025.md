@@ -22,5 +22,3 @@ The vast expanse of the universe moves, expands, contracts, all in a uniform, or
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank You for holding everything under Your hands’ control. I submit myself, my marriage, and my family under Your control today too.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

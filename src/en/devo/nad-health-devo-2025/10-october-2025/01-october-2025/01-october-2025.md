@@ -30,5 +30,3 @@ Have you given the High Priest all that He requires? Are you willing to surrende
 
 > <callout></callout>
 > What does it mean to give your stomach to Jesus? What specifically could you do today to show you have given your stomach to Jesus?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

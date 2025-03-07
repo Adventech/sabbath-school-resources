@@ -26,5 +26,3 @@ If we as parents can see how easily and quickly children learn, we would be so m
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to live daily our faith and may we transmit it faithfully to our children and for generations to come.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

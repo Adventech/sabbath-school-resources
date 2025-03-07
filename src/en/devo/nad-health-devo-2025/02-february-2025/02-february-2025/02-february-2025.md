@@ -28,5 +28,3 @@ When you experience difficulties and come through as victor, you will in time en
 
 > <callout></callout>
 > Challenge: Share your testimony and faith with someone who’s experiencing similar difficulties.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

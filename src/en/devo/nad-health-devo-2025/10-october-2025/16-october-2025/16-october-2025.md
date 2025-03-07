@@ -39,5 +39,3 @@ Nancy Larric, a college professor and author, after reviewing the research on ho
 
 > <callout></callout>
 > For the sake of your children's health—and yours—don't make the TV your shepherd. Make the Lord your shepherd, and live a healthy lifestyle.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -52,5 +52,3 @@ Bring laughter and joy into your life. But if you want to add to your own joy, b
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank you for the gift of laughter. Help us to experience it in our lives and help us to share it with others so that it’s healing power may change their attitude and outlook into a more positive, joyful one.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

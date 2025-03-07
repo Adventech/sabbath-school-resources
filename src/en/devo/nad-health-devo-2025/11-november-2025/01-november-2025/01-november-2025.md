@@ -22,5 +22,3 @@ Recently I learned about 10-year-old Nicky, from Canada, who had fallen from a h
 
 > <callout></callout>
 > Do you know someone who needs healing, comfort, or strength? Prayer is the answer, and it's even cheaper than that highly touted 10-cents-a-minute rate you see advertised on television!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

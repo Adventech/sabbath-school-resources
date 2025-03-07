@@ -24,5 +24,3 @@ Touch is what Christmas is all about. Touch is what Christ did coming to this ea
 
 > <callout></callout>
 > Thank You, Jesus, for touching me with Your love. Which person should I touch for You today?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

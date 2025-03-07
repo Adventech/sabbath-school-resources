@@ -26,5 +26,3 @@ Whenever we violate God’s plan for our life and our marriage, we bring on ours
 
 > <callout>A Prayer You May Say</callout>
 > Our Loving Father, thank you for our families. Please help us to protect the unity and integrity of our marriage and family so that none of may ever experience downfalls and their painful consequences. Keep us together and in love for a lifetime.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

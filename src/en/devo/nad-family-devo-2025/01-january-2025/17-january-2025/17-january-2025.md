@@ -20,5 +20,3 @@ In the United States, our journey has taken us to live in Michigan, Maryland, Ok
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for all the opportunities You have given us to travel and see so many different and beautiful places and for providing us with your protection through thousands of miles. But most of all, Father, thank You for the time we have spent together while enjoying those various trips.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

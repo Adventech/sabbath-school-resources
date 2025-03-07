@@ -46,5 +46,3 @@ As heads of our household, we must be careful not to follow the steps of Balaam.
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for reminding us through the story of Balaam than when we allow temptation to lead away from You we are dumber than a donkey. Help us to be wise and to protect our family from certain harm, danger, and death.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

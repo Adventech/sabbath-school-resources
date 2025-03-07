@@ -22,5 +22,3 @@ There is none, except to place ourselves in the care of Jesus and let His strong
 
 > <callout></callout>
 > What can you do to protect yourself from sexual temptations?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

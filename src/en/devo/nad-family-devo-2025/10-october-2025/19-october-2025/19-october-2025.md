@@ -30,5 +30,3 @@ Remember, in our struggles we are not alone. We have a promised partnership with
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, keep me from stumbling today. Give me patience and help me to endure. Show me a better way, a better response. May I respond in ways that will glorify Your name. In Jesus' name, Amen.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

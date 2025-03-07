@@ -32,5 +32,3 @@ If you refuse to obey, you may be sacrificing more than you think!
 
 > <callout></callout>
 > Lord, help me to sacrifice the unhealthy food that I love so I can have good health to serve You better.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

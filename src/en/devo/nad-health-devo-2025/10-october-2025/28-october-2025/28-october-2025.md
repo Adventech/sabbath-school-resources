@@ -20,5 +20,3 @@ The spiritual lessons are many. It is not just total yielding to sin (broad immu
 
 > <callout></callout>
 > Lord, give me Holy Spirit insight to discern the little temptations that Satan wants to use to destroy my chance for living a more vibrant life.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -18,5 +18,3 @@ For the biblical patriarchs, parenting was no easier than it is today, even thou
 
 > <callout>A Prayer You May Say</callout>
 > Loving Father, how much pain and heartache we ourselves have cause You even though You are the perfect parent. Forgive us for hurting You and help us to be better children. And now that the tables have turned and we are the parents, help us to love and care for our children as You would, as You do, so they may grow to love You and accept You as their Father and their God.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

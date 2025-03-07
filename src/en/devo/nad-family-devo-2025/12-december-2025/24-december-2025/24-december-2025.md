@@ -26,5 +26,3 @@ So, respond to the issue raised in our scriptural text for today--- What manner 
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, please guard my tongue, my thoughts, and my actions. Help me to reflect You to everyone I meet, but most of all, help my family to see You in me today.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

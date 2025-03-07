@@ -30,5 +30,3 @@ Some people are jealous because they are insecure and no matter what their spous
 
 > <callout>A Prayer You May Say</callout>
 > Father, the spirit of jealousy in Lucifer led to these six thousand years of pain and death. May that spirit be eradicated from our lives and our relationships and instead, may the spirit of love and trust reign.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

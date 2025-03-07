@@ -20,5 +20,3 @@ Jesus spent a lot of His ministry setting people free from the false notions abo
 
 > <callout></callout>
 > How is your spiritual health? What can you do to experience the freedom Jesus offers you?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

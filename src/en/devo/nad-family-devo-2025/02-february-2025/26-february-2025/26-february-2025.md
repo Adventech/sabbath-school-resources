@@ -32,5 +32,3 @@ Because God is One, one command cannot be obey in violation of another. We must 
 
 > <callout>A Prayer You May Say</callout>
 > Heavenly Father, thank You for the family into which we were born, and the parents with whom You blessed us. May we honor them and show them respect, not just because of Your promises, because by doing so we also honor You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

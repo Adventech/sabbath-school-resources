@@ -20,5 +20,3 @@ If only the chicken realized it did not have to look at the light, but could clo
 
 > <callout></callout>
 > Are you sometimes like the chicken? Lord, give me the willpower to shut my eyes to the temptations of the world.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

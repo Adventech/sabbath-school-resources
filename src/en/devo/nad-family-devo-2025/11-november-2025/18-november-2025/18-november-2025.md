@@ -20,5 +20,3 @@ It would be well, as soon as the house is in order, that before we call it our h
 
 > <callout>A Prayer You May Say</callout>
 > Father, right now, regardless of how long we have lived in our home, we invite You to be our honored Guest. Abide with us, and help us to live daily with the awareness of your presence in our midst. And as You live with us, a blessing all in itself, may all the other blessings of love, life, and health also live with us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

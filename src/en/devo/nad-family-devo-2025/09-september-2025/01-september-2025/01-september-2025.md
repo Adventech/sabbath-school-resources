@@ -24,5 +24,3 @@ The key is to begin to cultivate your own traditions, not necessarily by plannin
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank you for all those traditions which keep us together as a family. Help us to treasure them as we treasure each other.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -29,5 +29,3 @@ Many days I am contrite-broken, crushed-and need a heart revived by God.
 
 > <callout></callout>
 > Thank You, Father, for Your daily reminder that You will never laugh at my mistakes, but will proudly stand by my side in my most embarrassing moments.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

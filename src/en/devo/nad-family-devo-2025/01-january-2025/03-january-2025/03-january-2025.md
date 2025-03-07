@@ -22,5 +22,3 @@ I think this is Jesus’ way of saying, “Don’t give up on your relationship!
 
 > <callout>A Prayer You May Say</callout>
 > Dear Father, thank you that whatever challenge we may face in our married life or in our family does not have to be unbearable but that Jesus bears all our burdens in life and instead gives us what we can easily bear. Take our burdens, dear Jesus, and help us to live life as you intended for us, life to its full.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

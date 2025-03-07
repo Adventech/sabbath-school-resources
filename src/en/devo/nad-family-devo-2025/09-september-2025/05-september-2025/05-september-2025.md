@@ -28,5 +28,3 @@ During this lifetime process of change there will inevitably be periods of disil
 
 > <callout>A Prayer You May Say</callout>
 > Father God, bless us with ever increasing amounts of patience with ourselves, and in particular with our spouse so our marriage will be healthier, stronger, and long-lasting.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

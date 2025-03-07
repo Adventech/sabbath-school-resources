@@ -20,5 +20,3 @@ That’s why I’d suggest joining a support group of people who are eating vege
 
 > <callout></callout>
 > Lord, You are the Great Enabler. Help me to get on the “wagon” for You.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

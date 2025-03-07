@@ -22,5 +22,3 @@ Too little and too much. It’s not a new problem. The question is What can you 
 
 > <callout></callout>
 > Think of someone in your town, neighborhood, or church who is struggling financially and may benefit from something healthful to eat. What can you do to meet that person’s need?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

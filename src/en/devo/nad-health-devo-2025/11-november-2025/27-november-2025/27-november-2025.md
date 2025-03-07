@@ -26,5 +26,3 @@ I’m way past 70 and actively traveling, giving Bible studies, coordinating ret
 
 > <callout></callout>
 > Do people notice what you eat or don’t eat? Do they notice what you drink or don’t drink? Does that embarrass you, or do you seize the opportunity to glorify God?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

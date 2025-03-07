@@ -20,5 +20,3 @@ But while scientists and food manufacturers struggle to provide us with health-p
 
 > <callout></callout>
 > Lord, help me to remember that Your knowledge and Your guidance in all things are perfect and complete.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

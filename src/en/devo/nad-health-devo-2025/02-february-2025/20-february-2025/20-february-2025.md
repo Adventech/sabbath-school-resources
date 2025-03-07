@@ -34,5 +34,3 @@ Paul thought for a moment and said, "I changed because I have learned to accept 
 
 > <callout></callout>
 > Do you need an attitude change? Focus on Jesus. Ask that His attitude will become yours.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -20,5 +20,3 @@ Every day we face a battle with our emotions. Allow the power of music to soothe
 
 > <callout></callout>
 > Researchers have found that children who listen to Mozart get better grades. Why don?t you play a little Mozart on your stereo or CD player, and see what it might do for you?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

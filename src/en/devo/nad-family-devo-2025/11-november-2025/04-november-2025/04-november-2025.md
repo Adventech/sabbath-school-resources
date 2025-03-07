@@ -22,5 +22,3 @@ As I look back, it was not a matter of showing preference for any of us, it was 
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for teaching us to honor and respect those older than we are because from them we can also learn how to love, honor, and respect You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

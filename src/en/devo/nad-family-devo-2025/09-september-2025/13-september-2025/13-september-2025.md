@@ -24,5 +24,3 @@ As you plan for your wedding, plan for God's presence and arrange the service ac
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank You for creating us and for making us through the seal of the Holy Spirit. Strengthen our bonds daily that we may honor you for the rest of our lives through our marriage.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

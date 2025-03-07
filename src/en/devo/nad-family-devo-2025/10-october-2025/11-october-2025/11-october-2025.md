@@ -28,5 +28,3 @@ What sermons are your children watching you preach? Do your actions match your w
 
 > <callout>A Prayer You May Say</callout>
 > Lord, help me reflect You to my child. May my actions match my words. And, when I fail please help me to acknowledge that to you and to my children. You have entrusted me to show You to my children and that is an awesome responsibility.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

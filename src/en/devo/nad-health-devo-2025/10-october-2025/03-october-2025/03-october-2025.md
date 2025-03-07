@@ -20,5 +20,3 @@ Prayer is a means for us to communicate with the God of the universe, who has ma
 
 > <callout></callout>
 > Is there someone you know who is hurting or ill and needs healing? Your prayers can make a difference. Why not talk to God about it right now?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

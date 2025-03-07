@@ -26,5 +26,3 @@ Today’s passage reminds us that as much as we must drink water daily, and pray
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to make that daily effort to maintain strong, healthy relationships with You, with our spouse, with our family, and with others in our life.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

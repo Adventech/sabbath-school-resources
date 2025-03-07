@@ -28,5 +28,3 @@ Which skater are you?
 
 > <callout></callout>
 > Are you praying for the joy of praying, studying the Bible for the joy of studying, and keeping His commandments for the joy of obedience, or are you so busy being terribly correct that you’re in danger of slipping, or of making yourself and others miserable? God wants you to be joyful in Him.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

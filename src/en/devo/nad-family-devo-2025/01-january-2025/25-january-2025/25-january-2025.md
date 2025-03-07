@@ -22,5 +22,3 @@ We can say definitely that hurting oneself is not appropriate. As we read above,
 
 > <callout>A Prayer You May Say</callout>
 > Father, when the loss of a loved one touches us, help us to know how to mourn them appropriately and in a healthy way.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

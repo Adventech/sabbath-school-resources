@@ -28,5 +28,3 @@ Consider how you have communicated to your family this past week. Have your word
 
 > <callout>A Prayer You May Say</callout>
 > Lord, put a guard on my lips. May all that I say today be acceptable in Your sight!
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ Now, some forty years later, I still remember so much of that weekend – includ
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us be more intentional in setting aside time to be together as families in relaxing, memorable moments.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

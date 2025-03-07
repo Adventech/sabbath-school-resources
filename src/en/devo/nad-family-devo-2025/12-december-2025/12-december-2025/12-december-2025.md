@@ -30,5 +30,3 @@ Learn and practice these three principles in your marriage daily and for a lifet
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to live by these principles that our marriage be stronger and healthier each day.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

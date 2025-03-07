@@ -18,5 +18,3 @@ I guess probably most of us would at least find it hard to believe that what are
 
 > <callout>A Prayer You May Say</callout>
 > God of the impossible, today I thank you for my marriage, for my spouse, and for my family. I thank you for taking two imperfect people and giving us a warm, loving relationship, one where we can help and encourage each other, one where we can love and strengthen each other, and one where we can honor and glorify you. God of the impossible, turn what we think is not possible into the miraculous reality of answered prayer.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

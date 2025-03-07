@@ -22,5 +22,3 @@ At the same time, what we say or do can have a very powerful positive influence 
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to be more careful with our words and our actions that they may be good and such that may lead others, specially our loved ones, closer to You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

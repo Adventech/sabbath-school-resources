@@ -20,5 +20,3 @@ These facts probably shock you, because you don’t see the sugar you’re eatin
 
 > <callout></callout>
 > Begin reading labels and discover the hidden sugar. Don’t let Satan deceive you.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

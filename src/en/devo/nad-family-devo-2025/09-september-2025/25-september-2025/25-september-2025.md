@@ -17,5 +17,3 @@ Moses' father-in-law was a wise man who has wise counsel for his son-in-law. Mos
 Spend sime time reviewing your "to do" list. Are you too busy to have quality time with your children? What actions do you need to take to ensure that your career or other "stuff" does not push your children to the end of your priority list? Moses had resources all around him that he was not utilizing. He was trying to be everything to every one. Are there resources that you can take better dvantage of? Are there ways that you can work smarter instead of harder?. It's time to take inventory and consider the same counsel that was given to Moses long ago. Afterall, that wise counsel is timeless.
 
 A Prayer You May Say: Lord, what are my priorities today? Show me what to delegate, what can wait, and what it is You would have me accomplish on this day.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

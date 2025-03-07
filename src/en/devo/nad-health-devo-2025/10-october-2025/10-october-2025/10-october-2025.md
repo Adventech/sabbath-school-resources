@@ -24,5 +24,3 @@ The exuberance of adolescence, followed by an enriched adult life, is a wonderfu
 
 > <callout></callout>
 > Are you guarding the avenues to your heart and head? Don't waste the time God has given you on pleasures that lead to a dead end. Choose life!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

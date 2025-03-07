@@ -22,5 +22,3 @@ Willpower does not change a person. Nor does time. Only Christ does! "Let this m
 
 > <callout></callout>
 > A good temper will improve your health and make you a better witness for Jesus. Won't you invite Christ into your heart today to heal your temper?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ Today’s text reminds us that with the help of the Holy Spirit we can change an
 
 > <callout>A Prayer You May Say</callout>
 > Father God, may your holy Spirit help us change the negative thoughts that defeat us even when we have good intentions and desires, and may He plant good, positive thoughts that help us win victories every day in our lives, marriages, and families.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

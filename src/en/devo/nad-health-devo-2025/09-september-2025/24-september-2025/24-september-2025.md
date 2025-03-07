@@ -20,5 +20,3 @@ Our Creator did not leave anything to chance when it came to our requirements as
 
 > <callout></callout>
 > Each morning ask the Holy Spirit to lead you, and you can be born again each day as a son or daughter of God.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ As I realize how utterly dependent I am on God for healing, I often think of the
 
 > <callout></callout>
 > Lord, I praise You for the miracle of sight and sound, and for the promise of healing.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

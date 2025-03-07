@@ -18,5 +18,3 @@ What would remedy the headaches? Should she quit? Not necessarily. Margery neede
 
 > <callout></callout>
 > Just as Jesus summoned His disciples apart to replenish their energy, He is calling you. What changes do you need to make in your life so you can do as He urges?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

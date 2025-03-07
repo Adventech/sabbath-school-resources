@@ -24,5 +24,3 @@ Finally, from the spiritual point of view, the relationship with their parents w
 
 > <callout>A Prayer You May Say</callout>
 > Father, our Father, thank You for loving us the way that You do. And thank You, Father, for giving us in our parents the love and care that we needed to one day come to trust You and love You. At the same time, Father, I recognize that some parents have been far from that ideal. Bless us Father, that we may forgive our parents when they have fallen short of the ideal You have for them, forgive us when we as parents have not been a good example for our children, and restore us all to the best relationship there is, that which we can have with You, our loving Father.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -26,5 +26,3 @@ As we live through the stressfulness of these last days of the struggle between 
 
 > <callout></callout>
 > When the devil attacks you, does he find you physically and spiritually healthy, vigorous, and fit enough to resist him?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

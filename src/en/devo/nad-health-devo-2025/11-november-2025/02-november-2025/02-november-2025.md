@@ -22,5 +22,3 @@ Pain teaches us, and as we experience it today, it will remind us that Christ un
 
 > <callout></callout>
 > Lord, when I hurt, let me not limit Your purpose, but allow You to strengthen my faith and give me the fullness of Your joy.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

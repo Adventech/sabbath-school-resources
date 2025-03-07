@@ -26,5 +26,3 @@ At the same time, the fact that Jesus loved them does not mean that death would 
 
 > <callout>A Prayer You May Say</callout>
 > Dear Father, thank You for surrounding us with Your love even during those times when we have a hard time seeing You and when the tears covering our eyes feel as if they are about to drown our hearts. Halp us to feel that love when we feel so lonely, helpless, and hopeless.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

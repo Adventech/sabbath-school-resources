@@ -22,5 +22,3 @@ Ellen White wrote: “Whatever detracts from physical vigor, weakens mental effo
 
 > <callout></callout>
 > Don’t let your lifestyle trap you into fatigue. If you do, you will be much more easily tempted and fooled by the devil!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

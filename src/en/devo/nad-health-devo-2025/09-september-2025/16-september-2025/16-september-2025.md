@@ -26,5 +26,3 @@ Sin is something like caffeine. It often looks so harmless—and tastes so good!
 
 > <callout></callout>
 > With the Lord's help, throw out the caffeine and join the truly unhooked generation!</p>
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

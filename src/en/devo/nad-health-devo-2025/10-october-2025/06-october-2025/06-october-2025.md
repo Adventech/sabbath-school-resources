@@ -18,5 +18,3 @@ Jesus’ “garment was seamless, woven in one piece from top to bottom” (John
 
 > <callout></callout>
 > If you are mourning, Jesus wants to comfort you. Read again the wonderful promise in Isaiah 61:1-3. Write it down and memorize it. He will turn your sorrow into joy!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ I have a feeling that if James had the evidence we now have about the benefits o
 
 > <callout></callout>
 > Ask a friend to go walking with you today and tomorrow and the next day.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

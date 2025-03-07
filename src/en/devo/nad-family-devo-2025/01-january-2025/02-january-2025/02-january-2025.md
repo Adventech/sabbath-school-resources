@@ -30,5 +30,3 @@ So, fathers, add these two ingredients to your relationship with your children: 
 
 > <callout>A Prayer You May Say</callout>
 > Dear Father, Thank You for loving us and leading us. Help us to learn what You want to show us and teach us, and help us to imitate You so that we may love and lead our own children, who are really Your children too, that the may not only follow us but ultimately that they may follow You, their Loving, Eternal, Perfect father.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

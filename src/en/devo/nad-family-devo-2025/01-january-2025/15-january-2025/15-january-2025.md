@@ -34,5 +34,3 @@ The Lord is very clear and specific in the Ten Commandments when He wrote with H
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, our Father and our God, thank you for our parents. Help us, Father, to be patient, kind, and understanding with them, knowing that like any other human being, they may have weak moments when they make mistakes. May we honor them, respect them, and love them during the good times as well as the bad times, and may we protect them from the outside by maintaining their frailties private and praying for them daily.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

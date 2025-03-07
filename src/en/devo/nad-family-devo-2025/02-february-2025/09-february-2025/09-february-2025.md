@@ -20,5 +20,3 @@ For a man who at fifty one is still young, being unable to find employment led t
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for the opportunity to work, and for the health to do it. Help us to keep in mind that working is not punishment but a blessing.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

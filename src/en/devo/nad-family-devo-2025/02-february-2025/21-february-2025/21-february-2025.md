@@ -26,5 +26,3 @@ If they would cherish true humility, the Lord could do much more for His people;
 
 > <callout>A Prayer You May Say</callout>
 > Father, give the courage to go through this conflict and win the final battle against your foe. But also give us the victory with and for our children that we together may enjoy the rewards of eternal life together.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

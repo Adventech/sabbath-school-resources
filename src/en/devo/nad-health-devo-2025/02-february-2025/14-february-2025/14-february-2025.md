@@ -20,5 +20,3 @@ If you feel empty, ask God to fill you. He will speedily respond. And seek out o
 
 > <callout></callout>
 > Loving Father, fill my cup with Your love so I can fill others. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

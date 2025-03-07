@@ -30,5 +30,3 @@ So many make no provision for their children or family in case of their death. T
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank you for our children; help us to give them the best inheritance which is that which lasts forever.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

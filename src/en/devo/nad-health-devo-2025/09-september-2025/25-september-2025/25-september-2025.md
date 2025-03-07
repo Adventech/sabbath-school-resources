@@ -26,5 +26,3 @@ When we make a conscientious effort to get in touch with God, think positive tho
 
 > <callout></callout>
 > Today, find something to laugh about. Admire the marvelous things God has created for your enjoyment. Find joy in just being alive.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

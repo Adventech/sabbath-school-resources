@@ -18,5 +18,3 @@ As long as we live in this world of sin, we are targets for accidents, chronic p
 
 > <callout></callout>
 > In what way are you “disabled”? How are you allowing God to use your “disability”?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

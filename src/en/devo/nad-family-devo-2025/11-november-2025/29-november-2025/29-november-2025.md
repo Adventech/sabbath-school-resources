@@ -26,5 +26,3 @@ Make the decision to love and act lovingly.
 
 > <callout>A Prayer You May Say</callout>
 > Father God, the only way we can love like You is to have You in our life. May Your love shine out to others because it cannot be quenched!
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -30,5 +30,3 @@ Social scientists tell us that it only takes about 21 days to establish a new ha
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You that we can spend this time in conversation together as a couple and as a family with You knowing that You are pleased to hear from us and to talk to us. Help us, Father, to maintain this time as sacred as we do other obligations in our life.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

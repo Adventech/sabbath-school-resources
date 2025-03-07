@@ -32,5 +32,3 @@ How is it with you today? Have you been overstressed, overworked, overburdened? 
 
 > <callout></callout>
 > Thank You, God, for meeting all my needs: for rest, for food, and for drink. And Lord, help me to remember, when I'm stressed out, that You don't require me to go on until my life is back in balance. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

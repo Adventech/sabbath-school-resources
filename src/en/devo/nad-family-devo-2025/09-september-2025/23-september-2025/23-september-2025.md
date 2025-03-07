@@ -18,5 +18,3 @@ There is no replacement for daily prayer in our lives and in our families. Not a
 
 > <callout>A Prayer You May Say</callout>
 > Father, while the daily or yearly ministration of earthly priests is no longer needed, we are grateful for the constant intercession of our Heavenly Intercessor, Jesus Christ. As our Judge and our Attorney, He ministers on our behalf all the time, and for that we thank You. May we also have the spirit of intercession as we lift our prayers up to you on behalf of our loved ones. May your grace and love surround them right now as we read these words.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

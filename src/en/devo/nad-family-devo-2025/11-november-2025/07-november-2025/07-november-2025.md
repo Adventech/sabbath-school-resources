@@ -28,5 +28,3 @@ I would suggest that our words, actions, and attitudes, and how we practice our 
 
 > <callout>A Prayer You May Say</callout>
 > Father, forgive us when we have kept our own children from knowing You, and help us that from now on we will do everything in our power to make sure they know You and love You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

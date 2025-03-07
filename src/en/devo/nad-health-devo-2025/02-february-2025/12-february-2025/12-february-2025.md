@@ -30,5 +30,3 @@ Faith in Jesus and a teachable, submissive spirit will produce character transfo
 
 > <callout></callout>
 > Are you relying on others to keep your behavior in line, or are you holding on to Christ to change your character?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

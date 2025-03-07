@@ -16,5 +16,3 @@ Living through Kristi's illness, we learned so much that we'd like to share with
 
 > <callout></callout>
 > Even through sickness, pain, and death, God is in control. Are you willing to make Him the Lord of your life and trust Him with your most valuable possessions—the members of your family?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

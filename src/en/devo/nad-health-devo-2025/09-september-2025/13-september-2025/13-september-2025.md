@@ -18,5 +18,3 @@ Almost no amount of work pressure and stress can overcome the person who finds m
 
 > <callout></callout>
 > Are you a person of hope? What can you do on Sabbath to bring more meaning to your life and strengthen your hope?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -20,5 +20,3 @@ Have I painted a dreadful picture? Sadly, many have come to me with these feelin
 
 > <callout>A Prayer You May Say</callout>
 > Father God, As we struggle to hold our marriage together, we commit ourselves and our relationship to you. Bring healing, peace, love, and laughter back, and hold it together for eternity.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

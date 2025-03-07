@@ -20,5 +20,3 @@ I’ve learned that everyone is precious in God’s sight. And irrespective of o
 
 > <callout></callout>
 > Heavenly Father, help me to realize that in Your eyes I am precious. Please heal my feelings of inferiority, and help me reach the potential You created within me.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

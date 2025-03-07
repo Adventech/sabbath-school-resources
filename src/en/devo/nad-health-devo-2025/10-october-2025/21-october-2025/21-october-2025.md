@@ -18,5 +18,3 @@ I once heard a zealot say, “I’m going to be healthy if it kills me!” He wa
 
 > <callout></callout>
 > Lord, please stay in the center of my life today, and save me from any danger of swallowing camels!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

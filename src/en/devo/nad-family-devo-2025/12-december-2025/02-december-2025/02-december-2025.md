@@ -28,5 +28,3 @@ So, look for areas where you are similar and build on those, and be aware of the
 
 > <callout>A Prayer You May Say</callout>
 > Father, we all came from the same Creator’s hand, but in the last six thousand years sin has divided us and made us all different. Not only that, but where and how we were raised has made us different. And now, as we enter into romantic and marital relationships, all those differences present us with challenges that threaten to separate us and destroy our families. Father, help us to find more things in common than things to divide us, and help us to stay committed to each other and to You, until no breath remain in us, or until Jesus returns for us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ Is now the time?
 
 > <callout></callout>
 > Lord, You know the way I should go. May Your Holy Spirit convict me to do what is best for my body and brain. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

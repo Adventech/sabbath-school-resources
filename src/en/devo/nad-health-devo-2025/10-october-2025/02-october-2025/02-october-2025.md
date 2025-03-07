@@ -20,5 +20,3 @@ Where was God and why did it happen? I don’t have all the answers, but I am at
 
 > <callout></callout>
 > Just as the rainbow follows the rain, smiles follow the pain. If you look for the blessings in the bad things, you’ll find them. Let God be your refuge.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -20,5 +20,3 @@ Prayer is the breath of the soul. Like a baby exercising its breathing movements
 
 > <callout></callout>
 > Am I getting the spiritual exercise I need to grow spiritually strong and healthy?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

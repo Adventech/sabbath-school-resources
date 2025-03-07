@@ -20,5 +20,3 @@ I know “man does not live on bread alone” (Matt. 4:4, NIV) but it must also 
 
 > <callout></callout>
 > Remember that “holiness is wholeness for God; it is the entire surrender of heart and life to the indwelling of the principles of heaven” (The Desire of Ages , p. 556).
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

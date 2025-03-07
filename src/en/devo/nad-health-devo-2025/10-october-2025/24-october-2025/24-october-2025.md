@@ -26,5 +26,3 @@ That's pretty strong, isn't it? I don't know about you, but it makes me feel a l
 
 > <callout></callout>
 > What changes should I make to more closely follow God's instruction manual for my body?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -25,5 +25,3 @@ Unfortunately, God’s command to “subdue” the earth (Gen. 1:28) has served 
 
 > <callout></callout>
 > What can I do to help preserve the national resources that God created for our use and management?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

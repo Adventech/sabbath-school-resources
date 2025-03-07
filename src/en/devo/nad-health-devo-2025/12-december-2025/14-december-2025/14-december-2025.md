@@ -22,5 +22,3 @@ From that experience we learned how precious is our health, and how its threaten
 
 > <callout></callout>
 > What should you do today, in case there is no tomorrow?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

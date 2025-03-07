@@ -18,5 +18,3 @@ Remarkably, this remedy is available to all who linger in God's presence long en
 
 > <callout></callout>
 > Think about your family and how you spend your time. Are you dwelling in the tents of the wicked, or are you a doorkeeper in the house of your God?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

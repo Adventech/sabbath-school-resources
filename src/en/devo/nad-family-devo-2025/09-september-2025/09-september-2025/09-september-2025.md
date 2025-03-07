@@ -18,5 +18,3 @@ One of the responsibilities we have is to take care of our bodies, since they ar
 
 > <callout>A Prayer You May Say</callout>
 > Loving Father, thank You for your guidelines, teachings, and lessons concerning our health. May we all be unselfish and more loving in what we eat and in what we provide our families for consumption.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

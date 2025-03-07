@@ -20,5 +20,3 @@ A miracle? Webster might not agree that soybeans meet the strictest definition o
 
 > <callout></callout>
 > Lord, teach me to see the many gifts with which You bless my life, and to be always thankful for all the good things You provide.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

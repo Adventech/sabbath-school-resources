@@ -22,5 +22,3 @@ We all have disabilities. The secret is to turn our disabilities into capabiliti
 
 > <callout></callout>
 > Father, thank You for creating me as I am. Help me to focus on what I can do, rather than what I can’t, and to turn my disabilities into capabilites.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

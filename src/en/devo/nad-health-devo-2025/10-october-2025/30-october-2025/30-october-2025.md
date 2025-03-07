@@ -30,5 +30,3 @@ The busyness of modern life cripples our stamina, wounds our self-image, shatter
 
 > <callout></callout>
 > Lord, thank You for the Sabbath. How wonderful it is that You have created that day for us so we can rest from the busyness of life.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

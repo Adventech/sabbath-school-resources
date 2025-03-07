@@ -24,5 +24,3 @@ So Paul is not advocating marriage as a way to avoid sexual temptation or sexual
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help me to yield my passion to Your control that my love may be directed to you first and most of all.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

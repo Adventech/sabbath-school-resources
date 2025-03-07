@@ -28,5 +28,3 @@ So those are three very simple things that anyone can do to have the best of rel
 
 > <callout>A Prayer You May Say</callout>
 > Father, may we all be blessed with a loving, supportive relationship with our in-laws, whether they are our parents-in-law or our children-in-law, that we may have the type of relationships that will be uplifting to everyone in the family.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

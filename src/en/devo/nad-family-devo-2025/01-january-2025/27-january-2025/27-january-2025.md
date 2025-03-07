@@ -18,5 +18,3 @@ As important as it was to go in and conquer the land God was given the Israelite
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to always make provision for our loved ones.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

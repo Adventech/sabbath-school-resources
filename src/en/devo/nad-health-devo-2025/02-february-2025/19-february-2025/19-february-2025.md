@@ -20,5 +20,3 @@ When we compromise our own well-being or the health and welfare of those we love
 
 > <callout></callout>
 > Do I have "clean" addictions in my life? If so, what can I do to find help to deal with them?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

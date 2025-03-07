@@ -20,5 +20,3 @@ If you have a complaint, begin by using “I” instead of “you” and simply 
 
 > <callout>A Prayer You May Say</callout>
 > Father, helps us to own our own faults and to be kind and patient with the faults of others.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

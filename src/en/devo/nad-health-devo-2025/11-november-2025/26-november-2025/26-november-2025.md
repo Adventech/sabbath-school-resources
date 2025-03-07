@@ -20,5 +20,3 @@ Our old instincts would likely have approved should God have allowed the leprosy
 
 > <callout></callout>
 > Have you entered into life?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

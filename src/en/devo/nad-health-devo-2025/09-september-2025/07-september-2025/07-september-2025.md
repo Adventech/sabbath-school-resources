@@ -22,5 +22,3 @@ There's nothing like going to a class reunion looking good and feeling great! I'
 
 > <callout></callout>
 > Are you looking good and feeling great spiritually? There's always room for improvement. Follow God's biblically based program and live abundantly.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ Researchers have found that the majority of strong, healthy families have the fo
 10. **Admitting to and seeking help with problems**: Healthy families aren’t problem-free; they just admit to problems and get the help they need to solve them!
 
 How does your family measure up? For a little bit of heaven on earth, make God the foundation of your family and add these 10 essential traits.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

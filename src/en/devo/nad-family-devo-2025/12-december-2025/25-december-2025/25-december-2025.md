@@ -24,5 +24,3 @@ Our materialistic society leads many parents to believe that the more toys they 
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to provide for our children not only materials things but most importantly the environment and opportunities for spiritual growth.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

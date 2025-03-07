@@ -24,5 +24,3 @@ Balance is certainly the law of nature and a requirement for our physical and em
 
 > <callout></callout>
 > What can you do to live a more balanced life?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

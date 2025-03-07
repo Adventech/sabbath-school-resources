@@ -20,5 +20,3 @@ So, if you have faltered on New Year’s resolutions in the past, remember: “I
 
 > <callout></callout>
 > Make three resolutions for a healthy new year and pray this prayer: “Lord, give me Your strength to keep the resolutions I have made, for my spirit is willing, but my flesh is weak. Amen.”
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -18,5 +18,3 @@ As we begin a new year, this is an opportunity to look over our marriage and our
 
 > <callout>A Prayer You May Say</callout>
 > Father, as we begin this new year, please send your Spirit to bring harmony and order out of what we have so badly mismanaged. Recreate in us Your image and thus make of our marriage and family a true reflection of You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

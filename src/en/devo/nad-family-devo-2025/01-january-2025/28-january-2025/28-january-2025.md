@@ -46,5 +46,3 @@ When we look through critical eyes, we will find fault in everything our spouse 
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to always look for and find the good in our spouses and to refuse to foster negative thoughts about them.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

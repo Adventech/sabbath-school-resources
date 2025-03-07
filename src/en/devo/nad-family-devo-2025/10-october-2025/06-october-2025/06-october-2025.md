@@ -26,5 +26,3 @@ Those kind, gentle, sweet, affirming words will make the other feel warm and lov
 
 > <callout>A Prayer You May Say</callout>
 > Father, help me to maintain a positive attitude and to express words that are pleasant, kind, and gracious so that what I say may be sweet like honey to my family and those around me.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

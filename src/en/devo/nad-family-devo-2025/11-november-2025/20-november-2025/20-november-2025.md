@@ -28,5 +28,3 @@ The spouses should agree early in their marriage, in fact before their marriage,
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to remain faithful and true to You first and always, and may we help each other, as spouses, to keep You first in each other’s life for each other’s sake and for the sake of our children and others.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -20,5 +20,3 @@ Some of these choices have to do with respecting the powerful influence of those
 
 > <callout></callout>
 > How would you rate yourself on avoiding HALT (being hungry, angry, lonely, or tired)?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

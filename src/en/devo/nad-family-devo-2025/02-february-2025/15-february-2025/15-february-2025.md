@@ -56,5 +56,3 @@ Bullying, giving orders, pulling rank, verbal abuse, arrogance, and indifference
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to recognize when we need help before it’s to late to save our family or our marriage, but help us to not just recognize we help but to seek it.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

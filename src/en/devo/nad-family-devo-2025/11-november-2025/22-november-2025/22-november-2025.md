@@ -44,5 +44,3 @@ May you be victorious as you battle the economic giant that threaten to consume 
 
 > <callout>A Prayer You May Say</callout>
 > Father, everything there is belongs to You and yet You give us so much of it for our benefit. May we never forget to return joyfully the small portion You require of us, and help us to give generously so that others may come to know You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

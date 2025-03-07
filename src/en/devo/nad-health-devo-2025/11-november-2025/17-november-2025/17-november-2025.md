@@ -16,5 +16,3 @@ What this meant for King David is still true for us today. Every act or thought,
 
 > <callout></callout>
 > Lord, my prayer is that I will be “heart smart,” and that You will create in me a pure mind. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

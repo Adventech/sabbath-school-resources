@@ -20,5 +20,3 @@ Like the psalmist, I praise the Lord "who forgives all your sins and heals all y
 
 > <callout></callout>
 > What can you praise the Lord for today?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

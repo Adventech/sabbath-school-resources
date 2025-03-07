@@ -26,5 +26,3 @@ None of us likes to have doors slam on what we want to do. But I’ve learned Go
 
 > <callout></callout>
 > Thank You, God, for knowing which doors in my life should be closed, and for opening the ones that You know are best for me.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -20,5 +20,3 @@ We’ve talked about the importance of praying for our children daily in other p
 
 > <callout>A Prayer You May Say</callout>
 > Father God, I lift my children up to you today. May they draw closer to you each day.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

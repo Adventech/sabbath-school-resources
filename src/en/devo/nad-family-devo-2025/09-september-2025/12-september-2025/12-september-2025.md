@@ -26,5 +26,3 @@ I’m not suggesting you get help when you need it but rather to seek God’s he
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to trust You with our marriage as much, or more, than with any other are of our life.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

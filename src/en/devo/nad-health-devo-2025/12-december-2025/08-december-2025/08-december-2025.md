@@ -24,5 +24,3 @@ If you make healthy choices daily, avoid harmful substances, and keep a song in 
 
 > <callout></callout>
 > Dear Creator, thank you for my immune system. May I determine to make healthy choices to keep it strong and vigilant. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

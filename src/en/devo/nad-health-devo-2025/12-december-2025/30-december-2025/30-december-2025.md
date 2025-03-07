@@ -22,5 +22,3 @@ The ultimate purpose of pursuing health remains to become a more efficient light
 
 > <callout></callout>
 > Lord, may my life shine with love to others. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -23,5 +23,3 @@ People who exercise regularly say that it calms their minds and makes them more 
 
 > <callout></callout>
 > What is keeping you from getting out of your chair, stepping out the front door, and walking with the Lord for 30 minutes? God wants you to be physically fit as well as spiritually fit.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

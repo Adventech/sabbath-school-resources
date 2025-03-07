@@ -30,5 +30,3 @@ Take these three words of Paul to heart, and see your relationship survive and t
 
 > <callout>A Prayer You May Say</callout>
 > Father God, bless us, during the challenging days, that we may see the hope beyond the darkness until we experience the sunshine of love and peace in our marriage.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

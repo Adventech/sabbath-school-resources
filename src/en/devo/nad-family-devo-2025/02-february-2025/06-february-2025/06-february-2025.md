@@ -24,5 +24,3 @@ Joshua taught the Bible (Moses’ words) to women, children, and foreigners, bec
 
 > <callout>A Prayer You May Say</callout>
 > Father, You are the God of equality and fairness, righteousness and justice. Father, may we set aside the societal and cultural barriers that keep us from enjoying Your gifts through men and women for the benefit of Your people. And may we achieve, with your help, the equality with which You created us as male and female for it will ultimately be for our benefit and for Your honor and glory.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

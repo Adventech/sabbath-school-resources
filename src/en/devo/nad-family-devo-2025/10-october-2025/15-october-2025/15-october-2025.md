@@ -28,5 +28,3 @@ Don’t imitate others who don’t live correctly; imitate others who provide go
 
 > <callout>A Prayer You May Say</callout>
 > Father God, our children watch our every move, listen to our every word, observe what we do. Help us to imitate those who live upright lives because by doing so we are giving our children a good example to imitate for themselves.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

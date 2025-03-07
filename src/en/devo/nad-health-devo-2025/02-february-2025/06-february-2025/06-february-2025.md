@@ -20,5 +20,3 @@ Will we suffer from “wasting diseases” like the Israelites? Reputable scient
 
 > <callout></callout>
 > Are you praising God for His modern manna—a flesh-free, cholesterol-free diet? Or are you grumbling after the fleshpots of Egypt? What could be the consequences of your choice?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

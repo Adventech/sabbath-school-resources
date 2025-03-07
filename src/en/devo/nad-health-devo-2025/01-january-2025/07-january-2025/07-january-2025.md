@@ -24,5 +24,3 @@ Don’t swallow sin. Saying no to temptation has its reward—a seat with Jesus 
 
 > <callout></callout>
 > Lord, help me to know the difference between truth and error, and to accept and love only truth.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

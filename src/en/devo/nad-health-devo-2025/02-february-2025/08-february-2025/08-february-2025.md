@@ -20,5 +20,3 @@ Notice the way Luke tells these stories. First Jesus announces His mission as Me
 
 > <callout></callout>
 > Why do you spend all your time among towering problems and dead-end pavement, when God has provided a weekly park in time for you to enjoy? Why not follow the custom of Jesus?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

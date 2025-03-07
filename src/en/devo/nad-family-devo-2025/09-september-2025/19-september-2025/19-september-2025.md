@@ -30,5 +30,3 @@ What if your spouse doesn’t want to change? This is where the most powerful to
 
 > <callout>A Prayer You May Say</callout>
 > Father God, we long to be changed unto the image of Jesus Christ because as we change we may also become better spouses. Help us in that process, and help us to be more accepting of each other and more supportive of one another.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

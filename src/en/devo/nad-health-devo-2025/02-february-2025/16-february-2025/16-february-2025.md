@@ -24,5 +24,3 @@ So enjoy your grape juice; it's good for your heart—and your stomach, too—bu
 
 > <callout></callout>
 > Beware of sin that "bites like a snake and poisons like a viper."
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

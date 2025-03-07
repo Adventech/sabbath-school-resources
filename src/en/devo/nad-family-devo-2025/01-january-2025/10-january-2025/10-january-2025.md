@@ -20,5 +20,3 @@ In marriage, as well, spouses need to be gracious and merciful with each other k
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to remember Your mercy toward us, and may extend ours toward our spouse and children so that we may have a close relationship toward one another and with You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

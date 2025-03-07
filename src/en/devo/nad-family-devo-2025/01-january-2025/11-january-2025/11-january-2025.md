@@ -30,5 +30,3 @@ While Jesus uses the example of a kingdom, this principles can also apply to the
 
 > <callout>A Prayer You May Say</callout>
 > Father, Keep our family together in the bonds of mutual love and within Your arms of love.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

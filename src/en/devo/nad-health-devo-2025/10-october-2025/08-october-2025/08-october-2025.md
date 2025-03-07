@@ -30,5 +30,3 @@ I wonder, what does caffeine do to their hearts that makes their bodies go bonke
 
 > <callout></callout>
 > Could I be taking anything into my body or mind that is making my life go bonkers? God, who created us, knows our bodies run best on healthful food—and noncaffeinated beverages.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ With God's help, we, like Ann, can learn to view all of life's experiences as po
 
 > <callout></callout>
 > Make Romans 15:13 your personal prayer: "May the God of hope fill me, [your name], with all joy and peace as I trust in Him, so that I may overflow with hope by the power of the Holy Spirit."
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

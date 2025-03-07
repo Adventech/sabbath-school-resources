@@ -30,5 +30,3 @@ As the years have gone by, I have lost the friendship of friends and the love of
 
 > <callout>A Prayer You May Say</callout>
 > Father God, as hard as it is now to live without the family and friends that we love, it will be so much harder when they betray us and even persecute us. I plead, Father God, for strength and courage as we face these challenges, but I also pray for them that whether they can see You through us or not, they may find You some day, and that in finding You, we may find each other again.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ God has designed our bodies to have incredible restorative powers if we treat th
 
 > <callout></callout>
 > Take the walking challenge: walk 300 more steps today than yesterday. Do this for two weeks, and see the difference it makes in the way you feel.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

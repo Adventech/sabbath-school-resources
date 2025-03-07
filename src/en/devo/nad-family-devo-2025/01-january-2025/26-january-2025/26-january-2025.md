@@ -18,5 +18,3 @@ While the saying goes, “While in Rome, do as Romans do,” that is not what we
 
 > <callout>A Prayer You May Say</callout>
 > Father, may You bless us with Your protection and may You bless our children with your direction.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -24,5 +24,3 @@ God wants to restore our health to us. Drink freely of the "medicine" He has pro
 
 > <callout></callout>
 > Don't wait to feel thirsty to drink water for your physical health, and drink God's Word for your spiritual health.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

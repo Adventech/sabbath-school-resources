@@ -24,5 +24,3 @@ If Jesus, in His purity, does not condemn us, how can we, fallible humans that w
 
 > <callout>A Prayer You May Say</callout>
 > father God, thank You because in Your love You do not condemn us but instead shower Your love to each of us, forgive us, and asks us to share the same forgiveness to those around us. Help us to be more gracious, to condemn less, and love more.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

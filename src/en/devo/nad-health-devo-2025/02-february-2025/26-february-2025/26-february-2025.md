@@ -26,5 +26,3 @@ Sin is deceptive, too. It may look and taste good, but the consequences of indul
 
 > <callout></callout>
 > Watch your moral diet, "for the wages of sin is death" (Rom. 6:23).
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

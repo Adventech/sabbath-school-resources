@@ -24,5 +24,3 @@ Now we thank Him for the pain of the past. We've learned that God sometimes allo
 
 > <callout></callout>
 > Challenge: do whatever it takes to become teachable and submissive to God's will.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

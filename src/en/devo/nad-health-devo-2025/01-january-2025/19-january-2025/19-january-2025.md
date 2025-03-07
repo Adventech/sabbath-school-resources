@@ -26,5 +26,3 @@ Step 7: Ask for Jesus’ power. Even though you may have the desire to quit, rem
 
 > <callout></callout>
 > God longs to give you the peace and power you need to change your bad habits. Remember, with God all things are possible.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

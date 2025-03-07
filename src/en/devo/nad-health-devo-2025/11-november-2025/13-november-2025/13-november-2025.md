@@ -20,5 +20,3 @@ Then examine your life. Is what you are doing an effort to gain acceptance? Or i
 
 > <callout></callout>
 > Are you aggressive and fearless on the outside, but hurting and empty inside? Open that pain to Jesus. He waits for you with love.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

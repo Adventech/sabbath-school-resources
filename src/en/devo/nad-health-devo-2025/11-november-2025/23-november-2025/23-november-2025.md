@@ -20,5 +20,3 @@ The next morning as I deplaned to view two smiling faces holding a huge banner p
 
 > <callout></callout>
 > When you’re frightened, hold on to the promise that God will give you a sound mind, love, and power.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

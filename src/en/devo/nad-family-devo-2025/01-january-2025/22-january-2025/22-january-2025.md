@@ -18,5 +18,3 @@ Several hundred years after this event, one of Abraham’s descendants wrote som
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to be less selfish and more loving. Help us to love, help, and protect each other, as spouses, so that You may be honored in our relationship and that we may enjoy the type of relationship You willed and planned for us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

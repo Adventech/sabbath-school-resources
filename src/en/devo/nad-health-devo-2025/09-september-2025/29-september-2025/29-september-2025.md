@@ -20,5 +20,3 @@ Real growing has nothing to do with announcing other people’s failures. Rather
 
 > <callout></callout>
 > Are you nursing a grudge? Is there someone you need to forgive? Perhaps you need to forgive yourself. How can you allow the lesson to be learned and move on?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

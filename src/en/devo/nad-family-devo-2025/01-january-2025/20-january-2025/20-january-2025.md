@@ -22,5 +22,3 @@ So, don’t rush to solve your child’s problems; encourage them to learn to so
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for allowing us to make our own decisions and to solve our own problems; it us thus that we grow and mature. Help us to let our children grow and mature in the same way.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -28,5 +28,3 @@ Take care of your spiritual health so you will be strong when difficult times co
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, I want to develop a closer relationship with You. Show me areas of my life where change is needed in order to make this time with You a priority.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

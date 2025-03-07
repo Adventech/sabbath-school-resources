@@ -20,5 +20,3 @@ So why did God entrust us with the knowledge of healthful living? Was it so that
 
 > <callout></callout>
 > What do I need to change in my lifestyle to be more receptive to God’s will for me?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

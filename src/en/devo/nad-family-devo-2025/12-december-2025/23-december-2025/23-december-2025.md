@@ -20,5 +20,3 @@ As I think of this passage, it reminds me of an authoritarian home where the fat
 
 > <callout>A Prayer You May Say</callout>
 > Father, forgive us when we have not given a good example as parents and have acted almost like gods; but we’re not, cannot be, don’t want to be. Help us, Father, to have a more loving spirit toward those we love, a more caring attitude toward those in our home, and a willingness and openness to do what’s best for all even if it’s not something we’re used to doing.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

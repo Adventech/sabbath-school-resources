@@ -24,5 +24,3 @@ I can’t deny that my heart is heavy as I think of both my friend and her famil
 
 > <callout>A Prayer You May Say</callout>
 > Our Lord and father, I pray for all those who have lost a dear loved one and who grieve their loss and feel the void left by their departure. I pray that your presence, your loving arms, may surround them during these painful, difficult days, and that you will return to them the joy that comes from knowing death is not forever. And I also pray for those battling serious diseases, that they may also see You as the great Physician and trust their life completely into Your hands so that instead of worry the joy of the Lord may be their strength.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

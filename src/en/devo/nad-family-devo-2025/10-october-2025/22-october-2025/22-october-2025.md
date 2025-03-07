@@ -24,5 +24,3 @@ Marriage and family life is a team sport. It is what we do together to ensure we
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank you for allowing us to have a family around us so that together we may reach the goals which will be best for all of us. Help us to finish the race together, and receive the trophy of eternal life from Your hand.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

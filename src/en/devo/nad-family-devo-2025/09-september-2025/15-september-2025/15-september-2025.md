@@ -41,5 +41,3 @@ We all used to be children and therefor spoke like children, understood what chi
 
 > <callout>A Prayer You May Say</callout>
 > Father God, help us to grow up into the mature adults we need to be to have a healthy, successful marriage.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

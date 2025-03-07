@@ -26,5 +26,3 @@ Reflect on the gifts and talents that God has given your child. What are they an
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord,women my eyes and help me to recognize each of my children for their uniqueness. Help me to encourage them to use their individual gifts and talents for Your service.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

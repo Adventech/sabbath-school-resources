@@ -20,5 +20,3 @@ Jairus was blessed to receive his daughter back from the grip of death. The wido
 
 > <callout>A Prayer You May Say</callout>
 > Father, may we as parents never have to experience the pain and sorrow that comes from losing a child. But if that time were to come, remind us of the family reunion which will take place when Jesus return so we can look forward to that glorious event with even greater anticipation.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

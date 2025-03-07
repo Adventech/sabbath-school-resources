@@ -30,5 +30,3 @@ The words of Paul in Ephesians 5:22-24 should in no way give men reason to mistr
 
 > <callout>A Prayer You May Say</callout>
 > Father, teach us to be humble servants of our spouses and to treat each other with the same love that Your Son has for us which He showed by dying on the cross.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

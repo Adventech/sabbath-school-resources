@@ -20,5 +20,3 @@ Every home has a clearly defined leader, even if the relationship between spouse
 
 > <callout>A Prayer You May Say</callout>
 > Father, bless the women who under difficult circumstances labor to keep their families intact and healthy. May they reflect faithfully the image of Christ in their lives.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

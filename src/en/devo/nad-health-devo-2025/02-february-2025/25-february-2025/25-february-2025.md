@@ -26,5 +26,3 @@ Pure water is one of God's greatest gifts for your health. Help yourself. And wh
 
 > <callout></callout>
 > To get your quota for the day, drink a glass of water the first thing in the morning, another two glasses midmorning and midafternoon, one about a hour after supper—and never pass up a drinking fountain! And for your spiritual thirst, drink freely from God's Word.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

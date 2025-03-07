@@ -26,5 +26,3 @@ Are you convicted?
 
 > <callout></callout>
 > Dear Father, please grant me strength as I resolve not to defile myself with the king's food, wine, and entertainment.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

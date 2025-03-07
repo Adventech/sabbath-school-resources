@@ -24,5 +24,3 @@ Solomon was right. "Remember your Creator," and the days of your youth may last 
 
 > <callout></callout>
 > What are you doing to grow "better" as you grow older?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

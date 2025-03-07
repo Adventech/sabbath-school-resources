@@ -30,5 +30,3 @@ During the years Phyllis was living with pain, the promise “Fear thou not; for
 
 > <callout></callout>
 > Nothing is too hard for the Lord if we will cooperate with Him, and treat our bodies according to the instruction He has given.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ Obviously, the best way to stop a bad habit is never to start it, but if you’v
 
 > <callout></callout>
 > Lord, I know what I should do, but it’s so hard. Show me how to “cut out the cucumber” or “break the bottle.” Thank You.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

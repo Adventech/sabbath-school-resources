@@ -22,5 +22,3 @@ The lifetime benefits of God’s health plan can be yours if you worship Him and
 
 > <callout></callout>
 > What more could you be doing to reap the benefits of God’s health plan?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

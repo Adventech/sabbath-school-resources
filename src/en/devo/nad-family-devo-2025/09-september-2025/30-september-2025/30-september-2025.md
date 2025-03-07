@@ -22,5 +22,3 @@ God’s plans for us are always best. Had everyone always followed the things sp
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to uphold Your regulations concerning sexuality for the protection of our marriages, our families, our children, and those who are innocent and yet are abused by deviant, sick, and sinful people who simply want to exploit them for their own selfish pleasure and purpose.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

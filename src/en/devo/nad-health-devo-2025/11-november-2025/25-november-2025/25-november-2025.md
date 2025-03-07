@@ -22,5 +22,3 @@ I’m reminded of this story every time I read Psalm 107:17-21: “Others, the f
 
 > <callout></callout>
 > When you are tempted and tried, hold on to this picture that Ellen White paints in The Desire of Ages : “God is bending from His throne [on high] to hear the cry of the oppressed. To every sincere prayer He answers, ‘Here am I’” (p. 356).
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

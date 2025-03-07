@@ -24,5 +24,3 @@ Of course, the most important goal is to remain married until death comes or Jes
 
 > <callout>A Prayer You May Say</callout>
 > Father God, thank you for teaching us the importance of setting goals. Help us to set life-long goals for our marriage and family, and help us to reach them successfully.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

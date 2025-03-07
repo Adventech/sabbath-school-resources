@@ -22,5 +22,3 @@ Keep your eyes fixed towards heaven. One day soon, He will make all things new!
 
 > <callout>A Prayer You May Say</callout>
 > Dear Lord, keep my eyes looking up and focused on you. I look forward to that day in heaven when all will be made new. My tears will be dried by your loving hand and my night will be turned in to an eternal day. Thank you for my heavenly home that is waiting for me. In Jesus' name, Amen.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

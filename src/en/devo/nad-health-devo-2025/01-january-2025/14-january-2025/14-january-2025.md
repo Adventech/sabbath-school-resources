@@ -22,5 +22,3 @@ Maybe old age isn't to blame! It's something to think about, isn't it?
 
 > <callout></callout>
 > Sickness and disease don't need to be an expected part of growing older if you maintain your body with God's lifestyle plan.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

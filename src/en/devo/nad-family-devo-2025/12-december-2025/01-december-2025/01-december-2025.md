@@ -26,5 +26,3 @@ Keep your eyes on Jesus, not on each other. He is the author of order in the mid
 
 > <callout>A Prayer You May Say</callout>
 > Father God, we entrust all the relationships in our life, specially our marriage and our family, into your hands. Because you are their Author, we trust You also to be the Finisher of all that You do in us.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

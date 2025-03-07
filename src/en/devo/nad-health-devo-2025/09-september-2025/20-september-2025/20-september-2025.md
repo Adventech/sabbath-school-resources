@@ -26,5 +26,3 @@ I hope you'll find the Bible to be all these things in your life as you start yo
 
 > <callout></callout>
 > Have you had God's "orange juice" and "bread" yet today? If not, sing a hymn of praise and read God's Word. It's the healthy way to start your day!
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ The Lord does not let the guilty go free, but He does offer a solution-a solutio
 
 > <callout></callout>
 > Is there someone who needs your example of God’s love and acceptance?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

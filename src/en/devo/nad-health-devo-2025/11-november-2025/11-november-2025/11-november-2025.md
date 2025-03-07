@@ -26,5 +26,3 @@ If only she had used her willpower to live, and had exercised and eaten a health
 
 > <callout></callout>
 > How can you use the power of your will to live a more vibrant life?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

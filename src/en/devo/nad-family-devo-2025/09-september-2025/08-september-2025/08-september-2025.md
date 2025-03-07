@@ -22,5 +22,3 @@ Besides faith in God, we can also help each other develop and strengthen the typ
 
 > <callout>A Prayer You May Say</callout>
 > Father, help us to see the true value in the material as something temporary, and in character as something that may last forever when it is centered in You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

@@ -25,5 +25,3 @@ Dedicate a specific time each day to family worship. Make sure everyone in the h
 Make sure those Biblical lessons and stories are age appropriate for your child. Family worship should be something that they look forward to all day long. Involve them in selecting the weekly story of emphasis and in planning the activities. Those simple stories that a young child listens to you read to them will become great life lessons they will carry with them into adulthood.
 
 **A Prayer You May Say**: Dear Lord, help me as a parent teach my child to love Your word.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

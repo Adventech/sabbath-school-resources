@@ -24,5 +24,3 @@ I think even Paul hints that what widows (or single parents) should devote their
 
 > <callout>A Prayer You May Say</callout>
 > Father God, I pray you help and encourage single parents, and may they find in You their Companion and Helper so they may devote their life to helping their children come to know You and serve You.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

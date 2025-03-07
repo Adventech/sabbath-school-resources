@@ -22,5 +22,3 @@ Adelante, the lifestyle center of the University of Montemorelos, in Mexico, giv
 
 > <callout></callout>
 > Lord, bless all those who are learning about Your lifestyle at one of the hundreds of lifestyle centers around the world. Give them hope for a healthy future. Amen
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

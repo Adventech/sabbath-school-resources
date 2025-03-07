@@ -20,5 +20,3 @@ As sad as it is to think that all life, except for those in the ark, was destroy
 
 > <callout>A Prayer You May Say</callout>
 > Father, keep us from flooding during conflict, and protect our homes from any and every destructive influence.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

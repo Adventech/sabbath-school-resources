@@ -20,5 +20,3 @@ Soon a whole company of family and neighbors worshipped together each Sabbath da
 
 > <callout></callout>
 > Take Jesus’ challenge: “Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven” (Matt. 5:16).
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

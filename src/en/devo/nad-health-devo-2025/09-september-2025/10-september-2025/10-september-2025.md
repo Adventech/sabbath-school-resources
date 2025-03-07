@@ -27,5 +27,3 @@ And what more beautiful rose is there than the life of a child?
 
 > <callout></callout>
 > Have you stopped to smell the roses today?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

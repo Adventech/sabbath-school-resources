@@ -24,5 +24,3 @@ So much trouble could be prevented if we stopped thinking and acting as if what 
 
 > <callout>A Prayer You May Say</callout>
 > Father, may the same unselfish spirit that reigns in the Godhead reign also in our home and in our marriage. Since everything really belongs to You, help us then to remember that what we have in our marriage is simply Your loan to us. Keep us from assuming possession of what You give us and instead help us to gladly share it with the person You gave us to be married to.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._

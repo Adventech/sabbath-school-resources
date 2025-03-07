@@ -34,5 +34,3 @@ Like the simplicity of the water cure for constipation, so is the Jesus cure for
 
 > <callout></callout>
 > Have you had enough water-and Jesus-today to keep physically and spiritually healthy?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

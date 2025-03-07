@@ -24,5 +24,3 @@ I came away from this experience grateful for a God who is my personal Saviour, 
 
 > <callout></callout>
 > Our personal Saviour and Creator promises that our meditation on Him is mind-renewing and strengthening.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ In contrast, another “dairy product,” “the pure milk of the word” (1 Pet
 
 > <callout></callout>
 > Lord, my prayer is that I will be “heart smart,” and that You will create in me a pure mind. Amen.
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

@@ -22,5 +22,3 @@ The idea of resting one full day out of every seven is as old as the beginning o
 
 > <callout></callout>
 > How can you reap the health benefits from the Sabbath day as God intended?
-
-_Used by permission of Health Ministries, North American Division of Seventh-day Adventists._

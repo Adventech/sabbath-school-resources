@@ -22,5 +22,3 @@ My personal experience, sadly enough, has been that many times those who receive
 
 > <callout>A Prayer You May Say</callout>
 > Father, thank You for treating us better than we deserve. Bless us that we may be a blessing to others, those nearest to us, but also those who don’t have someone to show them our love.
-
-_Used by permission of Adventist Family Ministries, North American Division of Seventh-day Adventists._
