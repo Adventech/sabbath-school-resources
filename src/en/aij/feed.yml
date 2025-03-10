@@ -12,8 +12,14 @@
   - group: Beginner
     view: folio
     resources:
-      - en-aij-*-bg
-      - en-aij-*-bg-tg
+      - en-aij-*-04-bg
+      - en-aij-*-04-bg*
+      - en-aij-*-03-bg
+      - en-aij-*-03-bg*
+      - en-aij-*-02-bg
+      - en-aij-*-02-bg*
+      - en-aij-*-01-bg
+      - en-aij-*-01-bg*
   - group: Training Videos
     view: tile
     reverse: true
