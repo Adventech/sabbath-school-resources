@@ -20,7 +20,7 @@ Bartimaeus sat on the side of the dusty road. The sky was clear and blue. Green 
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/03/02.png)
-{"style":{"block": {"backgroundColor": "#d8d8d8ad"}}}
+{"style":{"block": {"backgroundColor": "#181818ad"}}}
 Jesus heard Bartimaeus’ cry for help. He stopped walking (hold hands up to stop). Jesus said, “What do you want Me to do for you?” (Mark 10:51). Bartimaeus told Jesus that he wanted to see. Jesus then said to him, “Go your way; your faith has made you well” (Mark 10:52).   
 ^^^
 ^^^
