@@ -342,10 +342,10 @@ if (!args.defaulted.lang
                             type = "ss"
                         }
 
-                        // TODO: consider not having the forced current quarter
-                        if (type === "ss") {
-                            r = getCurrentQuarterGlob()
-                        }
+                        // // TODO: consider not having the forced current quarter
+                        // if (type === "ss") {
+                        //     r = getCurrentQuarterGlob()
+                        // }
                     }
 
                     if (!arg[language]) {

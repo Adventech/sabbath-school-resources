@@ -15,6 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         name: Fetch the repository files
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+      - name: Get changed files and write the outputs to a JSON file
+        id: changed-files-write-output-files-json
+        uses: tj-actions/changed-files@v39
+        with:
+          json: true
+          write_output_files: true
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
@@ -65,3 +74,19 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Invalidation
+        if: github.ref == 'refs/heads/stage' && hashFiles('invalidation.json') != ''
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: |
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID_STAGE }} --invalidation-batch file://invalidation.json | > /dev/null
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID_STAGE }} --invalidation-batch file://invalidation.json | > /dev/null
+      - name: Invalidation
+        if: github.ref == 'refs/heads/prod' && hashFiles('invalidation.json') != ''
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        run: |
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID }} --invalidation-batch file://invalidation.json | > /dev/null
+          aws cloudfront create-invalidation --distribution-id ${{ secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID }} --invalidation-batch file://invalidation.json | > /dev/null

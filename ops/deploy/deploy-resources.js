@@ -32,10 +32,13 @@ import {
     RESOURCE_AUDIO_FILENAME,
     RESOURCE_VIDEO_FILENAME,
     RESOURCE_PDF_FILENAME,
-    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING, AUTHORS_DIRNAME, RESOURCE_TYPE
+    RESOURCE_COVER_PLACEHOLDER, RESOURCE_PROGRESS_TRACKING, AUTHORS_DIRNAME, RESOURCE_TYPE,
+    RESOURCE_ASSETS_DIRNAME
 } from "../helpers/constants.js"
 import { getAuthorInfo } from "./deploy-authors.js"
 import { getCategoryInfo } from "./deploy-categories.js"
+
+let invalidationList = new Set()
 
 let getResourceInfo = async function (resource, depth = 0) {
     const resourceInfo = yaml.load(fs.readFileSync(resource, "utf8"));
@@ -253,6 +256,38 @@ let getResourceFeed = async function (resource) {
 }
 
 let processResources = async function (languageGlob, resourceType, resourceGlob) {
+    try {
+        if (fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
+            const data = await fs.readFile('./.github/outputs/all_changed_files.json', 'utf-8')
+            const changedFiles = JSON.parse(data)
+
+            // if no changes detected then fallback
+            if (changedFiles && changedFiles.length) {
+                let sourceRelatedChanges = changedFiles.filter(
+                    (f) => {
+                        // check if the changed file is in src dir and its not audio.yml or video.yml
+                        return /^src\//.test(f) && !/audio.yml$/.test(f) && !/video.yml$/.test(f) && !/pdf.yml$/.test(f)
+                    }
+                ).map(
+                    (f) => {
+                        const p = parseResourcePath(f.replace(/\.?\/?src\//, ''))
+
+                        if (p.section === RESOURCE_ASSETS_DIRNAME || (!p.section && !p.segment && !p.document.length)) {
+                            invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/index.json`)
+                            invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/sections/index.json`)
+                        } else {
+                            invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/*`)
+                        }
+
+                        return f
+                    }
+                )
+            }
+        }
+    } catch (e) {
+        console.log(e)
+    }
+
     const languages = new fdir()
         .withBasePath()
         .withRelativePaths()
@@ -594,6 +629,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     delete feedGroupAllFinal.seeAll
                     delete feedGroupAllFinal.fromOther
 
+                    invalidationList.add(`/api/v3/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`)
                     fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`, JSON.stringify(feedGroupAllFinal))
 
                     if (resourceFeed.groups.length > 1 && feedGroup[key].length > 10) {
@@ -631,6 +667,9 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                 }
 
                 delete resourceFeed.fromOther
+                invalidationList.add(`/api/v3/${language}/${resourceFeedForType}/index.json`)
+                invalidationList.add(`/api/v3/${language}/authors/*`)
+                invalidationList.add(`/api/v3/${language}/categories/*`)
                 fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
             }
         }
@@ -638,11 +677,26 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
 }
 
 if (isMainModule(import.meta)) {
-    Object.keys(arg).map(async (argLanguage) => {
-        Object.keys(arg[argLanguage]).map(async (argType) => {
-            await processResources(argLanguage, argType, arg[argLanguage][argType].resources)
-        })
-    })
+    await Promise.all(
+        Object.keys(arg).flatMap((argLanguage) =>
+            Object.keys(arg[argLanguage]).map((argType) =>
+                processResources(argLanguage, argType, arg[argLanguage][argType].resources)
+            )
+        )
+    )
+
+    let invalidationArray = Array.from(invalidationList)
+    let invalidationJSON = {
+        "Paths": {
+            "Quantity": invalidationArray.length < 1000 ? invalidationArray.length : 1,
+            "Items": invalidationArray.length < 1000 ? invalidationArray : ["/*"]
+        },
+        "CallerReference": `deploy-resources.js (${Date.now()})`
+    }
+
+    if (invalidationArray.length > 0) {
+        fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
+    }
 }
 
 export {

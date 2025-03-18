@@ -32,6 +32,47 @@ const mode = args.mode
 let videoAPI = async function (mode) {
     console.log('Deploying video API');
 
+    let invalidationList = new Set()
+
+    try {
+        if (fs.pathExistsSync('./.github/outputs/all_changed_files.json')) {
+            const data = await fs.readFile('./.github/outputs/all_changed_files.json', 'utf-8')
+            const changedFiles = JSON.parse(data)
+
+            // if no changes detected then fallback
+            if (changedFiles && changedFiles.length) {
+                let sourceRelatedChanges = changedFiles.filter(
+                    (f) => {
+                        // check if the changed file is in src dir and its not audio.yml or video.yml
+                        return /video.yml$/.test(f)
+                    }
+                ).map(
+                    (f) => {
+                        const p = parseResourcePath(f.replace(/\.?\/?src\//, ''))
+                        invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/video.json`)
+                        invalidationList.add(`/api/v3/${p.language}/video/latest.json`)
+                        return f
+                    }
+                )
+
+                let invalidationArray = Array.from(invalidationList)
+                let invalidationJSON = {
+                    "Paths": {
+                        "Quantity": invalidationArray.length,
+                        "Items": invalidationArray
+                    },
+                    "CallerReference": `deploy-video.js (${Date.now()})`
+                }
+
+                if (invalidationArray.length > 0) {
+                    fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
+                }
+            }
+        }
+    } catch (e) {
+        console.log(e)
+    }
+
     const allowedVideoItemKeys = ['title', 'src', 'thumbnail', 'target']
     let availableLanguages = []
     let curlConfig = []
