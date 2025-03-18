@@ -44,7 +44,7 @@ let videoAPI = async function (mode) {
                 let sourceRelatedChanges = changedFiles.filter(
                     (f) => {
                         // check if the changed file is in src dir and its not audio.yml or video.yml
-                        return /video.yml$/.test(f)
+                        return /^src\//.test(f) && /video.yml$/.test(f)
                     }
                 ).map(
                     (f) => {

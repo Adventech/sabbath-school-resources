@@ -42,7 +42,7 @@ let deployPdf = async function () {
                 let sourceRelatedChanges = changedFiles.filter(
                     (f) => {
                         // check if the changed file is in src dir and its not audio.yml or video.yml
-                        return /pdf.yml$/.test(f)
+                        return /^src\//.test(f) && /pdf.yml$/.test(f)
                     }
                 ).map(
                     (f) => {
