@@ -52,6 +52,7 @@ let videoAPI = async function (mode) {
                     (f) => {
                         const p = parseResourcePath(f.replace(/\.?\/?src\//, ''))
                         invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/audio.json`)
+                        invalidationList.add(`/api/v3/${p.language}%2F${p.type}%2F${p.title}/audio.json`)
                         return f
                     }
                 )

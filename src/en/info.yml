@@ -45,3 +45,6 @@ features:
     description: Enhance your study of the lesson using original print layout with numerous annotation tools
     image: images/features/feature_original_layout.png
 feedSeeAll: See All
+deploymentReplacements:
+  collapse:
+    - '\n#{2,}\s*Additional Reading[\s\S]*'

@@ -37,3 +37,6 @@ features:
     description: Подобрете го вашето проучување на лекцијата користејќи оригинален распоред за печатење со бројни алатки за прибелешки
     image: images/features/feature_original_layout.png
 feedSeeAll: Види се
+deploymentReplacements:
+  collapse:
+    - '\n#{2,}\s*Додаток: Утрински стих[\s\S]*'

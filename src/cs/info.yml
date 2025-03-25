@@ -42,3 +42,6 @@ features:
     description: Vylepšete si studium lekce pomocí originálního rozvržení tisku s mnoha anotačními nástroji
     image: images/features/feature_original_layout.png
 feedSeeAll: Vidět vše
+deploymentReplacements:
+  collapse:
+    - '\n#{2,}\s*Dodatečné otázky k diskuzi[\s\S]*'

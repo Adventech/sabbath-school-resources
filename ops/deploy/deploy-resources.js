@@ -275,8 +275,11 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                         if (p.section === RESOURCE_ASSETS_DIRNAME || (!p.section && !p.segment && !p.document.length)) {
                             invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/index.json`)
                             invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/sections/index.json`)
+                            invalidationList.add(`/api/v3/${p.language}%2F${p.type}%2F${p.title}/index.json`)
+                            invalidationList.add(`/api/v3/${p.language}%2F${p.type}%2F${p.title}/sections/index.json`)
                         } else {
                             invalidationList.add(`/api/v3/${p.language}/${p.type}/${p.title}/*`)
+                            invalidationList.add(`/api/v3/${p.language}%2F${p.type}%2F${p.title}*`)
                         }
 
                         return f
@@ -630,6 +633,7 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                     delete feedGroupAllFinal.fromOther
 
                     invalidationList.add(`/api/v3/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`)
+                    invalidationList.add(`/api/v3/${language}%2F${resourceFeedForType}%2Ffeeds%2F${feedGroup.id}/index.json`)
                     fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/feeds/${feedGroup.id}/index.json`, JSON.stringify(feedGroupAllFinal))
 
                     if (resourceFeed.groups.length > 1 && feedGroup[key].length > 10) {

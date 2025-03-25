@@ -28,3 +28,6 @@ features:
     description: Vylepšite si štúdium lekcie pomocou originálneho rozloženia tlače s množstvom nástrojov na anotáciu
     image: images/features/feature_original_layout.png
 feedSeeAll: Vidieť všetko
+deploymentReplacements:
+  collapse:
+    - '\n#{2,}\s*Dodatečné otázky k diskuzi[\s\S]*'
