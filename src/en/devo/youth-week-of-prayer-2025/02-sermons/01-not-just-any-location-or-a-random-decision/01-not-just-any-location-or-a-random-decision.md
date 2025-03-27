@@ -1,5 +1,6 @@
 ---
 title: Not Just Any Location Or A Random Decision
+date: 15/03/2025
 ---
 
 _Kleyton Fietosa, D.Min._

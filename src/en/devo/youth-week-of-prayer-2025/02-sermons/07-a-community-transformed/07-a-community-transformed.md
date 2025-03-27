@@ -1,5 +1,6 @@
 ---
 title: A Community Transformed
+date: 21/03/2025
 ---
 
 _Dr. Brendan Pratt_

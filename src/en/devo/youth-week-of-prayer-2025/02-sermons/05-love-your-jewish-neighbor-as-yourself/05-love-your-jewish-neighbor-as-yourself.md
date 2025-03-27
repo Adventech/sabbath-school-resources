@@ -1,5 +1,6 @@
 ---
 title: Love Your Jewish Neighbor as Yourself
+date: 19/03/2025
 ---
 
 _Reinaldo W. Siqueira, Ph.D._

@@ -1,5 +1,6 @@
 ---
 title: "The Unfinished Mission: Reaching Buddhists With The Gospel"
+date: 16/03/2025
 ---
 
 _Dr. Khamsay Phetchareun_

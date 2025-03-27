@@ -55,7 +55,7 @@ let getDocumentInfoYml = async function (document) {
         delete documentInfo.chips
     }
 
-    let documentTitleForSplash = documentPathInfo.title.replace(/-er$/, '').replace(/-(ay|inv)$/, '-cq')
+    let documentTitleForSplash = documentPathInfo.title.replace(/(-er|-pt|-iad)$/, '').replace(/-(ay|inv)$/, '-cq')
 
     if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentTitleForSplash}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`)) {
         documentInfo.cover = `${ASSETS_URL}/assets/images/${documentPathInfo.type}/${documentTitleForSplash}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`

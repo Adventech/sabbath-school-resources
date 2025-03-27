@@ -134,7 +134,7 @@ let getResourceInfo = async function (resource, depth = 0) {
         }
     }
 
-    let resourceTitleForSplash = resourcePathInfo.title.replace(/-er$/, '').replace(/-(ay|inv|iad)$/, '-cq')
+    let resourceTitleForSplash = resourcePathInfo.title.replace(/(-er|-pt|-iad)$/, '').replace(/-(ay|inv)$/, '-cq')
 
     if (!resourceInfo.covers.splash && resourceInfo.splash && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${resourcePathInfo.type}/${resourceTitleForSplash}/splash.png`)) {
         resourceInfo.covers.splash = `${ASSETS_URL}/assets/images/${resourcePathInfo.type}/${resourceTitleForSplash}/splash.png`
