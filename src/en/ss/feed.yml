@@ -32,3 +32,22 @@ groups:
     view: folio
     resources:
       - '*[0-9-]+-kd'
+  - group: Beginner
+    view: folio
+    resources:
+      - en-aij-*-04-bg
+      - en-aij-*-04-bg*
+      - en-aij-*-03-bg
+      - en-aij-*-03-bg*
+      - en-aij-*-02-bg
+      - en-aij-*-02-bg*
+      - en-aij-*-01-bg
+      - en-aij-*-01-bg*
+  - group: Babies
+    resources:
+      - en-aij-2025-00-bb-pb
+      - en-aij-2025-00-bb-tg
+      - en-aij-2025-01-bb-pth
+      - en-aij-2025-02-bb-pth
+      - en-aij-2025-03-bb-pth
+      - en-aij-2025-04-bb-pth
