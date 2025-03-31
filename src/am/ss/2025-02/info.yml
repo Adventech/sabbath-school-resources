@@ -8,8 +8,9 @@ description: >-
 human_date: ሚያዝያ · ግንቦት · ሰኔ 2017 ዓ.ም.
 start_date: 29/03/2025
 end_date: 27/06/2025
-color_primary: '#7D7D7D'
-color_primary_dark: '#333333'
+color_primary: '#0A454E'
+color_primary_dark: '#01373F'
+splash: true
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/am/ss/2025-02/assets/cover-landscape.png
