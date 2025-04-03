@@ -81,7 +81,7 @@ let getSegmentInfo = async function (segment, processBlocks = false, append = ""
 
         if (collapseReplacementMatch) {
             const foundLines = collapseReplacementMatch[0]
-            const replacement = `\n\`\`\`=${foundLines.replace(/\n#{2,}\s*/, '').trim()}\n\`\`\``
+            const replacement = `\n\`\`\`=${foundLines.replace(/\n?#{2,}\s*/, '').trim()}\n\`\`\``
             segmentInfoFrontMatter.body = segmentInfoFrontMatter.body.replace(collapseReplacementRegExp, replacement)
         }
     }
@@ -282,6 +282,10 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
                 appended.push(`{#[${documentInfo.index}/teacher-comments.md]}`)
             }
 
+            if (fs.pathExistsSync(`${SOURCE_DIR}/${document.replace('/info.yml', '')}/hope-ss.md`)) {
+                appended.push(`{#[${documentInfo.index}/hope-ss.md]}`)
+            }
+
             if (fs.pathExistsSync(`${SOURCE_DIR}/${document.replace('/info.yml', '')}/_talking-points.md`)) {
                 appended.push(`{#[${documentInfo.index}/_talking-points.md]}`)
             }
@@ -301,11 +305,11 @@ let processDocuments = async function (language, resourceType, resourceGlob) {
                 .sync();
 
             for (let segment of segments) {
-                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^(teacher-comments|_talking-points)\.md/.test(segment) ? "" : append)
+                let segmentInfo = await getSegmentInfo(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`, true, /^(teacher-comments|hope-ss|_talking-points)\.md/.test(segment) ? "" : append)
                 let segmentPathInfo = parseResourcePath(`${SOURCE_DIR}/${document.replace(/info.yml/g, '')}${segment}`)
 
                 // skipping hidden segments
-                if (!/^_/.test(segment) && !/teacher-comments.md$/.test(segment)) {
+                if (!/^_/.test(segment) && !/teacher-comments.md$/.test(segment) && !/hope-ss.md$/.test(segment)) {
                     documentInfo.segments.push(segmentInfo)
                 }
                 fs.outputFileSync(`${API_DIST}/${segmentPathInfo.language}/${segmentPathInfo.type}/${segmentPathInfo.title}/${segmentPathInfo.section ? segmentPathInfo.section + "-" : ""}${segmentPathInfo.document}/${segmentPathInfo.segment}/index.json`, JSON.stringify(segmentInfo))
