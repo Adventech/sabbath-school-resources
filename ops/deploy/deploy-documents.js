@@ -76,7 +76,7 @@ let getSegmentInfo = async function (segment, processBlocks = false, append = ""
     }
 
     for (let collapseReplacement of replacements[segmentPathInfo.language]) {
-        const collapseReplacementRegExp = new RegExp(collapseReplacement, "g")
+        const collapseReplacementRegExp = new RegExp(collapseReplacement, "img")
         const collapseReplacementMatch = segmentInfoFrontMatter.body.match(collapseReplacementRegExp)
 
         if (collapseReplacementMatch) {
