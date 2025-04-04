@@ -8,7 +8,6 @@
   - group: Family Ministries
     view: folio
     resources:
-      - en-explore-family-wop-*
       - en-explore-family-wop-2024
       - en-explore-family-wop-2023
       - en-explore-family-wop-2022
