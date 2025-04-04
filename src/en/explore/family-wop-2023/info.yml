@@ -2,11 +2,12 @@ title: 'Keys to Healthy Minds: Flourishing Families'
 kind: devotional
 subtitle: Family Togetherness Week of Prayer 2023
 description: 2023 Resource Book
-primaryColor: '#EFAE42'
-primaryColorDark: '#BD7F19'
+primaryColor: '#203B9F'
+primaryColorDark: '#0C278D'
 startDate: 03/09/2023
 endDate: 09/09/2023
 author: afm
+preferredCover: landscape
 credits:
   - name: Authors
     value: Willie and Elaine Oliver

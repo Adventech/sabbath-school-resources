@@ -9,6 +9,10 @@
     view: folio
     resources:
       - en-explore-family-wop-*
+      - en-explore-family-wop-2024
+      - en-explore-family-wop-2023
+      - en-explore-family-wop-2022
+      - en-explore-family-wop-2021
       - en-explore-family-resource-book-2025
       - en-explore-hope-for-todays-families
       - en-explore-family-to-family-church-guide

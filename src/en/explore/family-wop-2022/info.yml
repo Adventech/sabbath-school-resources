@@ -2,11 +2,12 @@ title: Rebuilding the Family Altar
 kind: devotional
 subtitle: Family Togetherness Week of Prayer 2022
 description: 2022 Resource Book
-primaryColor: '#8CA804'
-primaryColorDark: '#6A8000'
+primaryColor: '#2C6DE6'
+primaryColorDark: '#0E4CBF'
 startDate: 05/09/2022
 endDate: 11/09/2022
 author: afm
+preferredCover: landscape
 credits:
   - name: Authors
     value: Willie and Elaine Oliver
