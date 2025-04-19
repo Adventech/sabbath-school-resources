@@ -3,7 +3,8 @@ title: Teach Them Young
 date: 08/02/2025
 ---
 
-“But you must continue in the things which you have learned and been assured of, knowing from whom you have learned them, and that from childhood you have known the Holy Scriptures, which are able to make you wise for salvation through faith which is in Christ Jesus.”–2 Timothy 3:14, 15
+> <p></p>
+> “But you must continue in the things which you have learned and been assured of, knowing from whom you have learned them, and that from childhood you have known the Holy Scriptures, which are able to make you wise for salvation through faith which is in Christ Jesus.”–2 Timothy 3:14, 15
 
 Paul encouraged Timothy to continue “in the things” he had learned, emphasizing that he knew from whom he learned. Paul further stressed the importance of family training by reminding the young man how he had known the Holy Scriptures from childhood.
 

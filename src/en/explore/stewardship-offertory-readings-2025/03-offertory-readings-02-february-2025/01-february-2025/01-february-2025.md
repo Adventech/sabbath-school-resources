@@ -3,8 +3,6 @@ title: God Blesses In His Own Way
 date: 01/02/2025
 ---
 
-### Sabbath 5
-
 > <p></p>
 > “And we know that all things work together for good to those who love God, to those who are the called according to His purpose.” –Romans 8:28
 
