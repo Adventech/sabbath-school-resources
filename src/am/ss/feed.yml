@@ -1,5 +1,9 @@
 title: Sabbath School
 groups:
-  - scope: resource
-    direction: vertical
-    noSeeAll: true
+  - group: መደበኛ አዋቂ
+    view: folio
+    scope: resource
+  - group: InVerse
+    view: folio
+    resources:
+      - '*[0-9-]+-cq'
