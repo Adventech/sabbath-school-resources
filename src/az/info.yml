@@ -1,0 +1,8 @@
+name: Azerbaijani
+native: Azərbaycan dili
+code: az
+sections:
+  default: Main
+bible:
+  - azj08
+feedSeeAll: Hamısına baxın
