@@ -20,3 +20,5 @@ Dianu to šokovalo a znepokojilo. Spomenula si, že kedysi sa učila, že Božie
 _Tento misijný príbeh rozpráva o tom, ako Boh zázračne pôsobil v živote Diany Fish, manažérky na škole Holbrook Seventh-day Adventist Indian School. Tejto škole boli venované dary trinástej soboty v roku 2021. Ďakujeme vám za podporu šírenia evanjelia prostredníctvom darov trinástej soboty v tomto štvrťroku. Zbierka sa uskutoční 28. júna._
 
 _Pokračovanie nabudúce._
+
+![Diana Fish](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-02/05/picture5.jpg)
