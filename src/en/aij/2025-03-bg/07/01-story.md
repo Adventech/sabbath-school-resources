@@ -21,7 +21,6 @@ _Clink, clink_ went the silver coins into a basket. The little girl clapped her 
 God’s new home would sparkle. God’s new home would shine. But best of all, God’s new home would be right in the middle of camp! God had told Moses to build Him a home called a tabernacle. He wanted to be with His people, right there in the middle of them all.
 ^^^
 ^^^
-{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/07/02.png)
 {"style":{"text":{"color": "#3A2F2A"}, "block":{"backgroundColor": "#9BDBEAad"}}}
 The baskets of coins filled up . . . up . . . up. _Clink, clink._ The people kept giving. The piles of pots grew higher . . . and higher . . . and higher. Until . . . stop! Moses held up his hands. He counted the baskets. There was more than enough! He was so happy. The people had worked together to give lots and lots of precious things to God. Now they could make God’s beautiful home.\

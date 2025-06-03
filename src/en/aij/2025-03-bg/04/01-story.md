@@ -8,7 +8,7 @@ type: story
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/04/00.png)
 {"style":{"text":{"color": "#48426C", "typeface": "Omnes-BoldItalic", "align": "center"}}}
-The/
+The \
 ^[Red Sea]({"style":{"text":{"color": "#BB3F66", "typeface": "Omnes-BoldItalic"}}})
 ^^^
 ^^^

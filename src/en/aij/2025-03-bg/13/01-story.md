@@ -5,6 +5,7 @@ type: story
 
 ;;;
 ^^^
+{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/13/00.png)
 {"style":{"text":{"color": "#77954D", "typeface": "Omnes-Bold", "align": "center"}}}
 A New\
@@ -26,7 +27,6 @@ What does your home look like? Some people live in houses made of bricks, wood, 
 Some people live in homes on top of tall sticks, way up high. When it’s rainy or muddy, their homes stay dry. Some live in caravans with wheels that move. Some live in homes made of ice, called igloos. A round tent or a floating boat can be a wonderful home too. Wherever you live, God is with you.
 ^^^
 ^^^
-{"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/13/03.png)
 {"style":{"text":{"color": "#3E5D92"}, "block":{"backgroundColor": "#AFE0FAad"}}}
 Jesus wants to be with you forever. He promises, “I am with you always” (Matthew 28:20). When you are happy, sad, afraid, or mad, you can talk to Jesus. He loves you. He is right beside you, and He will always help you. When Jesus comes back from heaven soon, you will be able to see Him right next to you. And He has a big surprise to give you—a new forever home with Him. What will your home look like? It will be perfect!\

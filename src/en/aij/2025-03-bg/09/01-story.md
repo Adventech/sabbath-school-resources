@@ -9,7 +9,7 @@ type: story
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/09/00.png)
 {"style":{"text":{"color": "#006180", "typeface": "Omnes-BoldItalic", "align": "center"}}}
 Joshua\
-^[and] ({"style":{"text":{"typeface": "Omnes-Bold"}}}) Caleb’s\
+^[and]({"style":{"text":{"typeface": "Omnes-Bold"}}}) Caleb’s\
 ^[Adventure]({"style":{"text":{"color": "#702414", "typeface": "Omnes-BoldItalic"}}})
 ^^^
 ^^^

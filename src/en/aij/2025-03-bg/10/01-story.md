@@ -7,7 +7,7 @@ type: story
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/10/00.png)
-{"style":{"text":{"color": "#D7B9CE", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#A5DEF8ad"}}}
+{"style":{"text":{"color": "#B2739F", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#A5DEF8ad"}}}
 Kind\
 ^[Rahab]({"style":{"text":{"color": "#382D55", "typeface": "Omnes-BoldItalic"}}})
 ^^^

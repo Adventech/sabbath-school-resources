@@ -36,5 +36,6 @@ Decorate a piece of paper with crayons, paint, or glitter. Roll the paper to mak
 Pray
 
 Act out the story of the Israelites marching around the city of Jericho for worship. After the “walls come down,” kneel together as a family and thank God for always being with us.
+
 {"style": {"text": {"color": "#D83B7C", "typeface": "Omnes-Regular"}}}
 **Extension weekly memory verse**: Extend last week’s extension memory verse. “Do not be afraid . . . for the Lord your God is with you wherever you go” (Joshua 1:9).
