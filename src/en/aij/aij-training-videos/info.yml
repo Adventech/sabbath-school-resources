@@ -19,5 +19,6 @@ featuredResources:
   - en/aij/aij-training-videos-babies
   - en/aij/aij-training-videos-beginner
 featuredResourcesView: tile
+displayCoversInTableOfContents: true
 cta:
   text: WATCH

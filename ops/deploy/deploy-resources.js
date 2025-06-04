@@ -57,6 +57,8 @@ let getResourceInfo = async function (resource, depth = 0) {
     resourceInfo.primaryColor = resourceInfo.primaryColor ?? (resourceInfo.color_primary ?? RESOURCE_COLOR_PRIMARY)
     resourceInfo.primaryColorDark = resourceInfo.primaryColorDark ?? (resourceInfo.color_primary_dark ?? RESOURCE_COLOR_PRIMARY_DARK)
 
+    resourceInfo.displayCoversInTableOfContents = resourceInfo.displayCoversInTableOfContents ?? (resourceInfo.kind === RESOURCE_KIND.BLOG || resourceInfo.kind === RESOURCE_KIND.MAGAZINE)
+
     if (resourceInfo.start_date) {
         resourceInfo.startDate = resourceInfo.start_date
         delete resourceInfo.start_date
