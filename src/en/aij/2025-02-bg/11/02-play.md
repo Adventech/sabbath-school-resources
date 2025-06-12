@@ -13,7 +13,6 @@ style:
 ---
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
-
 Create
 
 Help your child create a love gift for a father in their life: their father (this may be you), grandfather, uncle, or caregiver. Draw a big heart and help your child to color and decorate it. Talk about how special fathers are to us. They are special to Jesus too! Pray for this father. Then have your child give them their love gift.
