@@ -4,7 +4,7 @@ subtitle: Giving Light to Our World
 description: >-
   The phone call—the call everyone hoped for, and everyone dreaded—came at 2:00
   a.m. “We have a heart for Jacob,” the voice said. Everyone hoped for the call
-  because twelve-year-old Jacob<sup>1</sup> had been on the heart transplant
+  because twelve-year-old Jacob had been on the heart transplant
   list for many days, and soon his condition would deteriorate to the point
   where he would no longer be considered a good candidate for a heart
   transplant. Then his name would be removed from the list, taking with it his
@@ -19,3 +19,17 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/cover.png
+share:
+  shareGroups:
+    - type: file
+      title: "PDF"
+      files:
+        - src: https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/glow-13.pdf
+          title: "English"
+        - src: https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/glow-13.pdf
+          title: "Spanish"
+    - type: file
+      title: "EPUB"
+      files:
+        - src: https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/glow-13.pdf
+          title: "English"

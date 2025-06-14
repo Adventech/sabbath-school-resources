@@ -158,3 +158,9 @@ export const OPS_SYNC_ASSET_EXTENSIONS = [
 
 export const BIBLES_LOCATION = `./node_modules/@Adventech/bible-tools/bibles`
 
+export const API_URL_AIJ_BABIES = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.babies.aliveinjesus.info` }
+export const API_URL_AIJ_BEGINNER = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.beginner.aliveinjesus.info` }
+export const API_URL_AIJ_KINDERGARTEN = function () { return`https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.kindergarten.aliveinjesus.info` }
+export const API_URL_AIJ_PRIMARY = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.primary.aliveinjesus.info` }
+export const API_URL_AIJ_JUNIOR = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.junior.aliveinjesus.info` }
+export const API_URL_AIJ_TEEN = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.teen.aliveinjesus.info` }

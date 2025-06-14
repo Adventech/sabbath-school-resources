@@ -10,7 +10,13 @@ import { fdir } from "fdir"
 import { database } from "../helpers/firebase.js"
 import { getDocumentInfoYml } from "./deploy-documents.js"
 import { getLanguageInfo } from "./deploy-languages.js"
-import { arg, isMainModule, parseResourcePath, sortResourcesByPattern } from "../helpers/helpers.js"
+import {
+    arg,
+    getCurrentQuarterGlob,
+    isMainModule,
+    parseResourcePath,
+    sortResourcesByPattern
+} from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
     API_DIST,
@@ -25,6 +31,8 @@ import {
     FEED_DIRECTION,
     FIREBASE_DATABASE_RESOURCES,
     API_URL,
+    API_URL_AIJ_BABIES,
+    API_URL_AIJ_BEGINNER,
     API_PREFIX,
     ASSETS_URL,
     DOCUMENT_INFO_FILENAME,
@@ -37,6 +45,7 @@ import {
 } from "../helpers/constants.js"
 import { getAuthorInfo } from "./deploy-authors.js"
 import { getCategoryInfo } from "./deploy-categories.js"
+import frontMatter from "front-matter"
 
 let invalidationList = new Set()
 
@@ -248,6 +257,110 @@ let getResourceInfo = async function (resource, depth = 0) {
             console.log(`Error processing ${resourceInfo.title} ${resourceInfo.author} ${e}`)
         }
         delete resourceInfo.author
+    }
+
+    let getShareLink = function () {
+        let linkPath = `/resources/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`
+
+        if (resourcePathInfo.type === RESOURCE_TYPE.AIJ) {
+            if (/-bb$/.test(resourcePathInfo.title)) {
+                linkPath = `${API_URL_AIJ_BABIES()}${linkPath}`
+            } else if (/-bg$/.test(resourcePathInfo.title)) {
+                linkPath = `${API_URL_AIJ_BEGINNER()}${linkPath}`
+            } else {
+                linkPath = `${API_URL()}${linkPath}`
+            }
+        } else {
+            linkPath = `${API_URL()}${linkPath}`
+        }
+        return linkPath
+    }
+
+    if (!resourceInfo.share) {
+        // todo: check for AIJ to use the domains
+
+        resourceInfo.share = {
+            shareGroups: [
+                {
+                    type: "link",
+                    title: languageInfo.share.shareLink ?? "Link",
+                    links: [
+                        {
+                            title: "",
+                            src: getShareLink()
+                        }
+                    ],
+                }
+            ]
+        }
+
+        if (resourcePathInfo.type === RESOURCE_TYPE.PM || resourcePathInfo.type === RESOURCE_TYPE.EXPLORE || resourcePathInfo.type === RESOURCE_TYPE.DEVO) {
+            const originalPDFFiles = new fdir()
+                .withBasePath()
+                .withRelativePaths()
+                .withMaxDepth(1)
+                .glob(`*original-pdf*/*original-pdf.md`)
+                .crawl(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}`)
+                .sync()
+
+            for (let originalPDF of originalPDFFiles) {
+                let originalPDFMarkdown = fs.readFileSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${resourcePathInfo.type}/${resourcePathInfo.title}/${originalPDF}`, "utf8")
+
+                const segmentInfoFrontMatter = frontMatter(originalPDFMarkdown)
+
+                if (segmentInfoFrontMatter.attributes.pdf && segmentInfoFrontMatter.attributes.pdf.length > 0) {
+                    let files = []
+                    for (let pdf of segmentInfoFrontMatter.attributes.pdf) {
+                        files.push(
+                            {
+                                title: pdf.title ?? "",
+                                src: pdf.src
+                            }
+                        )
+                    }
+                    if (files.length > 0) {
+                        resourceInfo.share.shareGroups.push({
+                            type: "file",
+                            title: "PDF",
+                            files: files,
+                        })
+                    }
+                }
+            }
+        }
+    } else {
+        if (!resourceInfo.share.nolink) {
+            if (!resourceInfo.share.shareGroups || !Array.isArray(resourceInfo.share.shareGroups)) {
+                resourceInfo.share.shareGroups = []
+            }
+
+            resourceInfo.share.shareGroups.unshift(
+                {
+                    type: "link",
+                    title: languageInfo.share.shareLink ?? "Link",
+                    links: [
+                        {
+                            title: "",
+                            src: getShareLink()
+                        }
+                    ],
+                }
+            )
+        } else {
+            delete resourceInfo.share.nolink
+        }
+    }
+
+    if (!resourceInfo.share.shareText) {
+        resourceInfo.share.shareText = languageInfo.share.shareText ?? "Share"
+    }
+
+    if (!resourceInfo.share.personalize) {
+        resourceInfo.share.personalize = true
+    }
+
+    if (!resourceInfo.share.shareGroups) {
+        delete resourceInfo.share
     }
 
     return resourceInfo

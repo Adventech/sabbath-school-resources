@@ -48,3 +48,6 @@ feedSeeAll: See All
 deploymentReplacements:
   collapse:
     - '\n#{2,}\s*Additional Reading[\s\S]*'
+share:
+  shareText: "Share"
+  shareLink: "Link"
