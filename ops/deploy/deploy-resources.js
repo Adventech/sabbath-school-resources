@@ -283,7 +283,7 @@ let getResourceInfo = async function (resource, depth = 0) {
             shareGroups: [
                 {
                     type: "link",
-                    title: languageInfo.share.shareLink ?? "Link",
+                    title: languageInfo.share?.shareLink ?? "Link",
                     links: [
                         {
                             title: "",
@@ -337,7 +337,7 @@ let getResourceInfo = async function (resource, depth = 0) {
             resourceInfo.share.shareGroups.unshift(
                 {
                     type: "link",
-                    title: languageInfo.share.shareLink ?? "Link",
+                    title: languageInfo.share?.shareLink ?? "Link",
                     links: [
                         {
                             title: "",
@@ -352,7 +352,7 @@ let getResourceInfo = async function (resource, depth = 0) {
     }
 
     if (!resourceInfo.share.shareText) {
-        resourceInfo.share.shareText = languageInfo.share.shareText ?? "Share"
+        resourceInfo.share.shareText = languageInfo.share?.shareText ?? "Share"
     }
 
     if (!resourceInfo.share.personalize) {
