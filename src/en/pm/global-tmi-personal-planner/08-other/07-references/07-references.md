@@ -2,11 +2,11 @@
 title: References
 ---
 
-###Bible References
+### Bible References
 
 New King James Version. Nashville: Thomas Nelson, 1982.
 
-###Ellen G. White References
+### Ellen G. White References
 
 {"style": {"text": {"size": "sm"}}}
 _The Acts of the Apostles._ Mountain View, Calif.: Pacific Press Publishing Association, 1911.
@@ -44,7 +44,7 @@ _Prophets and Kings._ Mountain View, Calif.: Pacific Press Publishing Associatio
 {"style": {"text": {"size": "sm"}}}
 _Steps to Christ._ Mountain View, Calif.: Pacific Press Publishing Association, 1956.
 
-###Other References<sup>*</sup>
+### Other References<sup>*</sup>
 
 {"style": {"text": {"size": "sm"}}}
 _Discipleship Handbook._ Silver Spring, Md.: Review and Herald Publishing Association, 2018.

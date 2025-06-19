@@ -8,7 +8,7 @@ subtitle: Cultivate/Harvest
 {"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/03-plan-and-do-08-cultivate-harvest-study-log-form/image.png)
 
-###BIBLE STUDIES
+### BIBLE STUDIES
 
 | ^[NAME OF SERIES]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[STUDY FORMAT]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[START DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[END DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ subtitle: Cultivate/Harvest
 
 `KEY DECISIONS:`
 
-###BAPTISMAL PREPARATION STUDIES
+### BAPTISMAL PREPARATION STUDIES
 
 | ^[NAME OF SERIES]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[STUDY FORMAT]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[START DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[END DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- | --- | --- |

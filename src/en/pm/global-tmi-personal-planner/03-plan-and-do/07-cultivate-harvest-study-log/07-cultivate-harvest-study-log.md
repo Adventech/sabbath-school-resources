@@ -12,7 +12,7 @@ Use one of these ^[cultivate]({"style":{"text":{"color": "#3C8249", "typeface": 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/03-plan-and-do-07-cultivate-harvest-study-log/image.png)
 
-###BIBLE STUDIES
+### BIBLE STUDIES
 
 | ^[NAME OF SERIES]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[STUDY FORMAT]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[START DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[END DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- | --- | --- |
@@ -20,7 +20,7 @@ Use one of these ^[cultivate]({"style":{"text":{"color": "#3C8249", "typeface": 
 
 ^[KEY DECISIONS:]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) ^[Salvation (4), Sabbath (7), Baptism (14), Remnant (20)]({"style":{"text":{"typeface": "BradleyHandITC"}}})
 
-###EVANGELISTIC SERIES
+### EVANGELISTIC SERIES
 
 | ^[NAME OF SERIES]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[STUDY FORMAT]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[START DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[END DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Use one of these ^[cultivate]({"style":{"text":{"color": "#3C8249", "typeface": 
 
 ^[KEY DECISIONS:]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) ^[Salvation (4), Sabbath (7)]({"style":{"text":{"typeface": "BradleyHandITC"}}})
 
-###BAPTISMAL PREPARATION STUDIES
+### BAPTISMAL PREPARATION STUDIES
 
 | ^[NAME OF SERIES]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[STUDY FORMAT]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[START DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) | ^[END DATE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) |
 | --- | --- | --- | --- |

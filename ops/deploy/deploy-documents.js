@@ -17,12 +17,19 @@ import {
     GLOBAL_ASSETS_DIR,
     ASSETS_URL,
     RESOURCE_PDF_FILENAME,
-    DOCUMENT_INFO_FILENAME, MEDIA_URL, SEGMENT_FILENAME_EXTENSION, RESOURCE_ASSETS_DIRNAME, MEDIA_PDF_URL_LEGACY
+    DOCUMENT_INFO_FILENAME,
+    MEDIA_URL,
+    SEGMENT_FILENAME_EXTENSION,
+    RESOURCE_ASSETS_DIRNAME,
+    MEDIA_PDF_URL_LEGACY,
+    RESOURCE_TYPE, API_URL_AIJ_BABIES, API_URL_AIJ_BEGINNER, API_URL
 } from "../helpers/constants.js"
 import { SEGMENT_DEFAULT_BLOCK_STYLES } from "../helpers/styles.js"
 import { getLanguageInfo } from "./deploy-languages.js"
 
 let replacements = {}
+
+let languageInfoMatrix = {}
 
 let getDocumentInfoYml = async function (document) {
     const documentInfo = yaml.load(fs.readFileSync(document, "utf8"));
@@ -59,6 +66,79 @@ let getDocumentInfoYml = async function (document) {
 
     if (!documentInfo.cover && fs.pathExistsSync(`${GLOBAL_ASSETS_DIR}/images/${documentPathInfo.type}/${documentTitleForSplash}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`)) {
         documentInfo.cover = `${ASSETS_URL}/assets/images/${documentPathInfo.type}/${documentTitleForSplash}/${documentPathInfo.section ? documentPathInfo.section + "/" : ""}${documentPathInfo.document}/cover.png`
+    }
+
+    if (!languageInfoMatrix[documentPathInfo.language]) {
+        languageInfoMatrix[documentPathInfo.language] = await getLanguageInfo(documentPathInfo.language)
+    }
+    let languageInfo = languageInfoMatrix[documentPathInfo.language]
+
+
+    let getShareLink = function () {
+        let linkPath = `/resources/${documentPathInfo.language}/${documentPathInfo.type}/${documentPathInfo.title}/${documentPathInfo.section ? documentPathInfo.section + "-" : ""}${documentPathInfo.document}`
+
+        if (documentPathInfo.type === RESOURCE_TYPE.AIJ) {
+            if (/-bb$/.test(documentPathInfo.title)) {
+                linkPath = `${API_URL_AIJ_BABIES()}${linkPath}`
+            } else if (/-bg$/.test(documentPathInfo.title)) {
+                linkPath = `${API_URL_AIJ_BEGINNER()}${linkPath}`
+            } else {
+                linkPath = `${API_URL()}${linkPath}`
+            }
+        } else {
+            linkPath = `${API_URL()}${linkPath}`
+        }
+        return linkPath
+    }
+
+    if (!documentInfo.share) {
+        documentInfo.share = {
+            shareGroups: [
+                {
+                    type: "link",
+                    title: languageInfo.share?.shareLink ?? "Link",
+                    links: [
+                        {
+                            title: "",
+                            src: getShareLink()
+                        }
+                    ],
+                }
+            ]
+        }
+    } else {
+        if (!documentInfo.share.nolink) {
+            if (!documentInfo.share.shareGroups || !Array.isArray(documentInfo.share.shareGroups)) {
+                documentInfo.share.shareGroups = []
+            }
+
+            documentInfo.share.shareGroups.unshift(
+                {
+                    type: "link",
+                    title: languageInfo.share?.shareLink ?? "Link",
+                    links: [
+                        {
+                            title: "",
+                            src: getShareLink()
+                        }
+                    ],
+                }
+            )
+        } else {
+            delete documentInfo.share.nolink
+        }
+    }
+
+    if (!documentInfo.share.shareText) {
+        documentInfo.share.shareText = languageInfo.share?.shareText ?? "Share"
+    }
+
+    if (!documentInfo.share.personalize) {
+        documentInfo.share.personalize = true
+    }
+
+    if (!documentInfo.share.shareGroups) {
+        delete documentInfo.share
     }
 
     return documentInfo
