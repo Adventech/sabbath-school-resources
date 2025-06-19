@@ -2,7 +2,7 @@
   title: Personal Ministries
   groups:
   - group: Global TMI
-    view: tile
+    view: folio
     resources:
       - en-pm-global-tmi*
       - en-pm-global-tmi-church*

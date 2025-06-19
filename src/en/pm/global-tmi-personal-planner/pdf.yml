@@ -1,0 +1,58 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-01.pdf
+      target: en/pm/global-tmi-personal-planner/00-how-to-use-this-book
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-02.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/01-read-and-learn
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-03.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/02-whose-job-is-it-to-make-disciples
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-04.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/03-how-to-make-disciples
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-05.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/04-how-to-make-disciples-prepare
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-06.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/05-how-to-make-disciples-plant
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-07.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/06-how-to-make-disciples-cultivate
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-08.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/07-how-to-make-disciples-harvest
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-09.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/08-how-to-make-disciples-preserve
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-10.pdf
+      target: en/pm/global-tmi-personal-planner/01-read-and-learn/09-seek-and-save-the-lost
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-11.pdf
+      target: en/pm/global-tmi-personal-planner/02-think-and-pray/01-think-and-pray
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-12.pdf
+      target: en/pm/global-tmi-personal-planner/02-think-and-pray-02-interest-list
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-13.pdf
+      target: en/pm/global-tmi-personal-planner/02-think-and-pray-03-interest-list-form
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-14.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/01-plan-and-do
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-15.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/02-disciple-making-action-plans
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-16.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/03-prepare-friendship-and-compassion
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-17.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/04-prepare-friendship-and-compassion-form
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-18.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/05-plant-literature-media-and-spiritual-invitation-log
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-19.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/06-plant-literature-media-and-spiritual-invitation-log-form
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-20.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/07-cultivate-harvest-study-log
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-21.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/08-cultivate-harvest-study-log-form
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-22.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/09-preserve-nurture-and-training-log
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-23.pdf
+      target: en/pm/global-tmi-personal-planner/03-plan-and-do/10-preserve-nurture-and-training-log-form
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-24.pdf
+      target: en/pm/global-tmi-personal-planner/04-reflect/01-reflect
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-26.pdf
+      target: en/pm/global-tmi-personal-planner/04-reflect/02-testimonies-and-reflections-form
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-27.pdf
+      target: en/pm/global-tmi-personal-planner/08-other/05-be-of-good-courage
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-28.pdf
+      target: en/pm/global-tmi-personal-planner/08-other/06-global-tmi-in-every-local-church
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-pp/gtmi-pp-29.pdf
+      target: en/pm/global-tmi-personal-planner/08-other/07-references

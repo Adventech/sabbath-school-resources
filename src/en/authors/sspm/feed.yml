@@ -2,8 +2,9 @@
 title: Personal Ministries
 groups:
   - group: Global TMI
-    view: tile
+    view: folio
     resources:
+      - en-pm-global-tmi-personal*
       - en-pm-making-disciples-101
       - en-pm-global-tmi-church*
       - en-pm-global-tmi*

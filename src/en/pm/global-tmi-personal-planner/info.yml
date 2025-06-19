@@ -8,7 +8,6 @@ description: >-
 primaryColor: '#62879B'
 primaryColorDark: '#2A6585'
 author: sspm
-preferredCover: landscape
 featuredResources:
   - en/pm/global-tmi-church-planner
   - en/pm/global-tmi-disciple-making-evangelism-plan
@@ -80,3 +79,11 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/assets/fonts/gibson-semibold.ttf
     attributes: semiBold
+share:
+  shareCTA: true
+  shareGroups:
+    - type: file
+      title: "PDF"
+      files:
+        - src: https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/08-original-pdf/gtmi-pp.pdf
+          title: ""
