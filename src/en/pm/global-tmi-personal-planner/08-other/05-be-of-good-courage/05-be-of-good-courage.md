@@ -1,0 +1,9 @@
+---
+title: Be of Good Courage
+---
+
+As you engage in disciple-making, you may be tempted to become discouraged. Some people you try to reach with the gospel may never advance beyond the friendship stage, or never decide to be baptized. If people get “stuck” in the disciple-making process, it doesn’t mean you did anything wrong. Remember that in the parable of the sower, most of the seeds sown never yielded a crop. We can never fully know whether our efforts are falling on good ground or not (see Mark 4:3-8). For this reason we must simply trust God with the results, and keep sowing:
+
+“In the morning sow your seed, and in the evening do not withhold your hand; for you do not know which will prosper, either this or that, or whether both alike will be good” (Eccl. 11:6).
+
+The key is to ^[stay positive]({"style":{"text":{"color": "#36659F", "typeface": "Gibson-SemiBold"}}}) and ^[don't give up]({"style":{"text":{"color": "#36659F", "typeface": "Gibson-SemiBold"}}}): “In proportion to the enthusiasm and perseverance with which the work is carried forward will be the success given” (_Prophets and Kings_, p. 263). Sometimes you will need to give people space, pray for them, and then try again later. But keep mingling with new people and inviting them to know and follow the truth. As Paul said: “He who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully” (2 Cor. 9:6). Remember, ^[Jesus is with you]({"style":{"text":{"color": "#36659F", "typeface": "Gibson-SemiBold"}}}) (see Matt. 28:20), and your labors are not in vain. So be of good courage!

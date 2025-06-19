@@ -4,8 +4,8 @@
   - group: Global TMI
     view: tile
     resources:
-      - en-pm-global-tmi-church*
       - en-pm-global-tmi*
+      - en-pm-global-tmi-church*
   - group: GROW Series
     view: folio
     resources:

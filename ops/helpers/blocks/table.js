@@ -7,14 +7,14 @@ export const table = {
         let header = []
         let rows = []
 
-        let processRows = async function(_rows) {
+        let processRows = async function(_rows, rowIndex) {
             let r = []
-            for (let [rowIndex, row] of _rows.entries()) {
-                let items = await parseSegment(row.text, resourcePath, `${block.id}-${JSON.stringify(_rows)}-${rowIndex}`)
+            for (let [columnIndex, row] of _rows.entries()) {
+                let items = await parseSegment(row.text, resourcePath, `${block.id}-${JSON.stringify(_rows)}-${rowIndex}-${columnIndex}`)
 
                 for (let [index, item] of items.entries()) {
                     items[index].id = crypto.createHash("sha256").update(
-                        `${block.id}-${JSON.stringify(_rows)}-${rowIndex}-${index}`
+                        `${block.id}-${JSON.stringify(_rows)}-${rowIndex}-${columnIndex}-${index}`
                     ).digest("hex")
                     items[index].nested = false
                 }
@@ -29,8 +29,8 @@ export const table = {
         }
 
         if (block.rows) {
-            for (let row of block.rows) {
-                rows.push({ items: await processRows(row) })
+            for (let [rowIndex, row] of block.rows.entries()) {
+                rows.push({ items: await processRows(row, rowIndex) })
             }
         }
 
