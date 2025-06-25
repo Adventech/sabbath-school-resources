@@ -1,0 +1,32 @@
+---
+  pdf:
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-01.pdf
+      target: en/pm/global-tmi-church-planner-revised/00-how-to-use-this-book
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-02.pdf
+      target: en/pm/global-tmi-church-planner-revised/01-disciple-making-culture
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-03.pdf
+      target: en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy/00-disciple-making-strategy
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-04.pdf
+      target: en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy/01-how-to-get-started
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-05.pdf
+      target: en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy/02-prepare-making-friends
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-06.pdf
+      target: en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy/03-plant-generating-interests
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-07.pdf
+      target: en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy/04-cultivate-developing-interests
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-08.pdf
+      target: en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy/05-harvest-gaining-decisions
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-09.pdf
+      target: en/pm/global-tmi-church-planner-revised/02-disciple-making-strategy/06-preserve-training-workers
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-10.pdf
+      target: en/pm/global-tmi-church-planner-revised/03-other-03-how-to-create-a-disciple-making-plan
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-11.pdf
+      target: en/pm/global-tmi-church-planner-revised/03-other-04-disciple-making-evangelism-planning-form
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-12.pdf
+      target: en/pm/global-tmi-church-planner-revised/03-other-05-common-questions
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-13.pdf
+      target: en/pm/global-tmi-church-planner-revised/03-other-06-inspired-insights
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-14.pdf
+      target: en/pm/global-tmi-church-planner-revised/03-other-07-resources
+    - src: https://sabbath-school-media-tmp.s3.amazonaws.com/pdf/en/pm/gtmi-cp/gtmi-cp-15.pdf
+      target: en/pm/global-tmi-church-planner-revised/03-other-08-references

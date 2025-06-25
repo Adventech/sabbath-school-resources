@@ -13,8 +13,8 @@ After the joy of the harvest, we must not relax our disciple-making efforts. Jes
 
 ### ^[ESTABLISH A NEW MEMBER DISCIPLESHIP MINISTRY:]({"style":{"text":{"color": "#BE353A", "typeface": "Gibson-SemiBold"}}})
 
-- [ELECT]({"style":{"text":{typeface": "Gibson-SemiBold"}}}) a personal ministries assistant to serve as discipleship ministry leader (Church Manual, p. 107).
-- [BUDGET]({"style":{"text":{typeface": "Gibson-SemiBold"}}}) annually for new member discipleship resources and related expenses.
-- [ASSIGN]({"style":{"text":{typeface": "Gibson-SemiBold"}}}) one or two members to serve as mentors to every newly baptized member, following a systematic plan to nurture spiritual habits, train in personal evangelism, and integrate into the life, message, and mission of the church.
-- [PLAN]({"style":{"text":{typeface": "Gibson-SemiBold"}}}) ways to inspire, equip, and involve members in mentoring newly baptized members, while identifying and scheduling programs and events that can aid in the nurture of new members.
-- [PROVIDE]({"style":{"text":{typeface": "Gibson-SemiBold"}}}) leadership support—prayer, promotion, financial support, and participation.
+- ^[ELECT]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) a personal ministries assistant to serve as discipleship ministry leader (Church Manual, p. 107).
+- ^[BUDGET]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) annually for new member discipleship resources and related expenses.
+- ^[ASSIGN]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) one or two members to serve as mentors to every newly baptized member, following a systematic plan to nurture spiritual habits, train in personal evangelism, and integrate into the life, message, and mission of the church.
+- ^[PLAN]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) ways to inspire, equip, and involve members in mentoring newly baptized members, while identifying and scheduling programs and events that can aid in the nurture of new members.
+- ^[PROVIDE]({"style":{"text":{"typeface": "Gibson-SemiBold"}}}) leadership support—prayer, promotion, financial support, and participation.
