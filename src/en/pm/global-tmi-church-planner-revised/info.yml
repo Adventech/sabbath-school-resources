@@ -1,0 +1,82 @@
+title: Global Total Member Involvement
+kind: book
+subtitle: Church Planner
+description: >-
+  Global Total Member Involvement (Global TMI) is an initiative of the General
+  Conference of Seventh-day Adventists. It calls on every church and every
+  member to become actively involved in making disciples using Christ's method.
+primaryColor: '#62879B'
+primaryColorDark: '#2A6585'
+author: sspm
+preferredCover: landscape
+featuredResources:
+  - en/pm/global-tmi-personal-planner
+  - en/pm/global-tmi-disciple-making-evangelism-plan
+featuredResourcesView: tile
+credits:
+  - name: Copyright
+    value: >-
+      Copyright © 2025 by the General Conference Corporation of Seventh-day
+      Adventists®
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: Gibson-Regular
+      blocks:
+        - type: heading
+          style:
+            text:
+              typeface: Gibson-SemiBold
+    nested:
+      all:
+        text:
+          typeface: Gibson-Regular
+  resource:
+    title:
+      text:
+        typeface: Gibson-SemiBold
+    subtitle:
+      text:
+        typeface: Gibson-Regular
+    description:
+      text:
+        typeface: Gibson-Regular
+  segment:
+    title:
+      text:
+        typeface: Gibson-SemiBold
+fonts:
+  - name: BradleyHandITC
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/assets/fonts/bradley-hand-itc.ttf
+    attributes: regular
+  - name: Gibson-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/assets/fonts/gibson-regular-italic.ttf
+    attributes: regular-italic
+  - name: Gibson-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/assets/fonts/gibson-regular.ttf
+    attributes: regular
+  - name: Gibson-SemiBoldItalic
+    weight: 600
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/assets/fonts/gibson-semibold-italic.ttf
+    attributes: semiBold-italic
+  - name: Gibson-SemiBold
+    weight: 600
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-personal-planner/assets/fonts/gibson-semibold.ttf
+    attributes: semiBold
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner-revised/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner-revised/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/global-tmi-church-planner-revised/assets/cover.png
