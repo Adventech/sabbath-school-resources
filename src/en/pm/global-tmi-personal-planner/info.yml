@@ -9,8 +9,7 @@ primaryColor: '#62879B'
 primaryColorDark: '#2A6585'
 author: sspm
 featuredResources:
-  - en/pm/global-tmi-church-planner
-  - en/pm/global-tmi-disciple-making-evangelism-plan
+  - en/pm/global-tmi-church-planner-revised
 featuredResourcesView: tile
 credits:
   - name: Copyright

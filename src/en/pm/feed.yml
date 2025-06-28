@@ -4,7 +4,7 @@
   - group: Global TMI
     view: folio
     resources:
-      - en-pm-global-tmi*
+      - en-pm-global-tmi-personal-planner
       - en-pm-global-tmi-church-planner-revised*
   - group: GROW Series
     view: folio
@@ -48,4 +48,5 @@
       - en-devo-start-into-life
   - group: Other Resources
     view: folio
-    scope: resource
+    resources:
+      - en-pm-discipling-nurturing-retention

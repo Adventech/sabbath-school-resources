@@ -4,20 +4,21 @@ groups:
   - group: Global TMI
     view: folio
     resources:
-      - en-pm-global-tmi-personal*
-      - en-pm-making-disciples-101
-      - en-pm-global-tmi-church*
-      - en-pm-global-tmi*
+      - en-pm-global-tmi-personal-planner
+      - en-pm-global-tmi-church-planner-revised*
   - group: GROW Series
     view: folio
     resources:
       - en-pm-discipleship-handbook
+      - en-pm-discipleship-handbook-appendix-a
       - en-pm-spread-the-word
       - en-pm-fundamentals-of-faith
+      - en-pm-making-disciples-101
   - group: Keys Series
     view: folio
     resources:
       - en-pm-keys-*
   - group: Other Resources
     view: square
-    scope: resource
+    resources:
+      - en-pm-discipling-nurturing-retention
