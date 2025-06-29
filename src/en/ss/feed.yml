@@ -8,6 +8,17 @@ groups:
     view: folio
     resources:
       - '*[0-9-]+-cq|*-iv'
+  - group: Mission Quarterly
+    view: folio
+    resources:
+      - en-explore-mission-story-*-04
+      - en-explore-mission-story-*-04-*
+      - en-explore-mission-story-*-03
+      - en-explore-mission-story-*-03-*
+      - en-explore-mission-story-*-02
+      - en-explore-mission-story-*-02-*
+      - en-explore-mission-story-*-01
+      - en-explore-mission-story-*-01-*
   - group: Easy Reading
     view: folio
     resources:

@@ -23,17 +23,3 @@
     resources:
       - en-explore-stewardship-offertory-readings-2025
       - en-explore-steps-to-discipleship-*
-  - group: Mission Quarterly
-    view: folio
-    resources:
-      - en-explore-mission-story-readings-*-04
-      - en-explore-mission-story-readings-*-04-children
-      - en-explore-mission-story-readings-*-03
-      - en-explore-mission-story-readings-*-03-children
-      - en-explore-mission-story-readings-*-02
-      - en-explore-mission-story-readings-*-02-children
-      - en-explore-mission-story-readings-*-01
-      - en-explore-mission-story-readings-*-01-children
-  - group: Other Resources
-    view: folio
-    scope: resource
