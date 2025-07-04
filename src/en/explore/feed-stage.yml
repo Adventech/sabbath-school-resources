@@ -1,6 +1,11 @@
 ---
   title: Explore
   groups:
+  - group: I Will Go
+    view: folio
+    direction: horizontal
+    resources:
+      - en-explore-i-will-go
   - group: Adventist Review
     view: folio
     resources:
