@@ -27,10 +27,3 @@ share:
       files:
         - src: https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/glow-13.pdf
           title: "English"
-        - src: https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/glow-13.pdf
-          title: "Spanish"
-    - type: file
-      title: "EPUB"
-      files:
-        - src: https://sabbath-school-resources-assets.adventech.io/en/pm/glow-13-a-gift-for-you/assets/glow-13.pdf
-          title: "English"
