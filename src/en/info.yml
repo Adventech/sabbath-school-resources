@@ -51,3 +51,6 @@ deploymentReplacements:
 share:
   shareText: "Share"
   shareLink: "Link"
+  autoCTAPatterns:
+    - 'glow*'
+    - '(final-hope|hope-beyond-tomorrow|hope-for-troubled-times|hope-for-todays-families|power-of-hope|health-and-wellness|story-of-hope|beyond-imagination|when-god-said-remember|signs-of-hope|ten-commandments)'

@@ -295,6 +295,16 @@ let getResourceInfo = async function (resource, depth = 0) {
         }
 
         if (resourcePathInfo.type === RESOURCE_TYPE.PM || resourcePathInfo.type === RESOURCE_TYPE.EXPLORE || resourcePathInfo.type === RESOURCE_TYPE.DEVO) {
+            if (languageInfo.share?.autoCTAPatterns && languageInfo.share?.autoCTAPatterns.length > 0) {
+                for (let pattern of languageInfo.share?.autoCTAPatterns) {
+                    let patternRegExp = new RegExp(pattern)
+                    if (patternRegExp.test(resourceInfo.name)) {
+                        resourceInfo.share.shareCTA = true
+                        break
+                    }
+                }
+            }
+
             const originalPDFFiles = new fdir()
                 .withBasePath()
                 .withRelativePaths()
