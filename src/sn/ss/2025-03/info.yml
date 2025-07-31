@@ -11,6 +11,7 @@ start_date: 28/06/2025
 end_date: 26/09/2025
 color_primary: '#605045'
 color_primary_dark: '#4B3C32'
+splash: true
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/sn/ss/2025-03/assets/cover-landscape.png

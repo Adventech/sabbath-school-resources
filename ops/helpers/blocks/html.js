@@ -17,6 +17,25 @@ export const html = {
                 console.info(`Error occurred parsing HTML table, skipping`, e)
             }
         }
+
+        if (/^<video/g.test(block.raw)) {
+            try {
+                const match = block.raw.match(/<video[^>]*\s+src=["']([^"']+)["']/i)
+
+                const src = match ? match[1] : null
+
+                if (!src) {
+                    throw new Error('empty src attribute')
+                }
+
+                let ret = (await parseSegment(`!v[${src}]`, resourcePath))[0] ?? null
+
+                return { ...ret, id: block.id }
+            } catch (e) {
+                console.info(`Error occurred parsing HTML table, skipping`, e)
+            }
+        }
+
         return false
     },
 }
