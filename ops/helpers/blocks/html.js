@@ -20,7 +20,7 @@ export const html = {
 
         if (/^<video/g.test(block.raw)) {
             try {
-                const match = block.raw.match(/<video[^>]*\s+src=["']([^"']+)["']/i)
+                const match = block.raw.match(/<source[^>]*\s+src=["']([^"']+)["']/i)
 
                 const src = match ? match[1] : null
 
