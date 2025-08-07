@@ -18,3 +18,5 @@ Dmitrij sa v nemocnici stretol aj s mladým mužom z Iránu, ktorý trpel nezná
 Počas dvoch týždňov v nemocnici rozdal Dmitrij 20 výtlačkov knihy Veľký spor vekov a aj ďalšie knihy, rozdal mnoho vizitiek s QR kódmi na stiahnutie knihy a doplnil asi 10 nemocničných verejných knižníc duchovnou literatúrou.
 
 „Zasialo sa mnoho semien a modlím sa, aby priniesli ovocie,“ povedal. „Pracujeme pod Božím vedením a výsledky nechávame na Neho.“
+
+![Dmitrij Bagal](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-03/06/picture6.jpg)
