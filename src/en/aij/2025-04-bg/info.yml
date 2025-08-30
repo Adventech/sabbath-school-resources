@@ -1,0 +1,90 @@
+title: 'Student YAQ4: I Can Be God’s Helper'
+markdownTitle: 'Student YAQ4: I Can Be God’s Helper'
+subtitle: Year A, Quarter 4
+primaryColor: '#54505A'
+primaryColorDark: '#423C4B'
+credits:
+  - name: Principal Contributors
+    value: Racquel Markwell, Rosanne Peach
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard and Daniel Ebenezer
+  - name: Biblical Research Institute Advisors
+    value: Clinton Wahlen, Frank Hasel
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrator
+    value: Lisa Papp
+  - name: Designer
+    value: Types & Symbols
+  - name: Copy Editors
+    value: James and Ida Cavil
+featuredResources:
+  - en/aij/aij-training-videos
+  - en/aij/aij-training-videos-beginner
+displaySequence: true
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: Omnes-Regular
+    nested:
+      all:
+        text:
+          typeface: Omnes-Regular
+  resource:
+    title:
+      text:
+        typeface: Omnes-Bold
+    subtitle:
+      text:
+        typeface: Omnes-Regular
+fonts:
+  - name: BaskervilleBT-Roman
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/BaskervilleBT-Roman.ttf
+    attributes: regular
+  - name: Omnes-BlackItalic
+    weight: 900
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Black%20Italic.ttf
+    attributes: black-italic
+  - name: Omnes-Black
+    weight: 900
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Black.ttf
+    attributes: black
+  - name: Omnes-BoldItalic
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Bold%20Italic.ttf
+    attributes: bold-italic
+  - name: Omnes-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Bold.ttf
+    attributes: bold
+  - name: Omnes-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Italic.ttf
+    attributes: regular-italic
+  - name: Omnes-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Regular.ttf
+    attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/cover.png
