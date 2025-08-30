@@ -9,7 +9,7 @@ audio:
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/10/00.png)
-{"style":{"text":{"color": "#3E5680", "typeface": "Omnes-BoldItalic", "align": "center"}, "block":{"backgroundColor": "#181818ad"}}}
+{"style":{"text":{"color": "#3E5680", "typeface": "Omnes-BoldItalic", "align": "center"}, "block":{"backgroundColor": "#808080ad"}}}
 The Journey\
 ^[to Bethlehem]({"style":{"text":{"color": "#2D2821"}}})
 ^^^

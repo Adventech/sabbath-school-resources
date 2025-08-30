@@ -30,7 +30,7 @@ Ruth walked slowly through the field. She looked carefully for grain. _Looking, 
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/05/03.png)
-{"style":{"block": {"backgroundColor": "#ffffffad"},"text":{"color": "#000000"}}}
+{"style":{"block": {"backgroundColor": "#7C7C7Cad"},"text":{"color": "#000000"}}}
 Ruth ran home to Naomi. She held her basket tightly. When she saw it, Naomi’s mouth opened wide in surprise! _(Surprised face.)_ Ruth’s basket was full of grain! God had taken care of them. They had a home to live in. Their water jug was full—_glug, glug, glug._ They had food to eat—yum! And they had friends to help them. Kind Boaz married Ruth and looked after Ruth and Naomi.\
 _(Say together)_ Thank You, God, for taking care of Ruth and Naomi, and thank You for taking care of me too!
 ^^^

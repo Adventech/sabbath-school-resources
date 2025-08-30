@@ -9,7 +9,7 @@ audio:
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/00.png)
-{"style":{"text":{"color": "#31362B", "typeface": "Omnes-BoldItalic", "align": "center"}, "block":{"backgroundColor": "#ffffffad"}}}
+{"style":{"text":{"color": "#31362B", "typeface": "Omnes-BoldItalic", "align": "center"}, "block":{"backgroundColor": "#7C7C7Cad"}}}
 I Can Help\
 ^[My Family]({"style":{"text":{"color": "#ffffff", "typeface": "Omnes-Bold"}}}) Man 
 ^^^
@@ -36,8 +36,8 @@ Do you know the sound a lion makes? _(Roar!)_ God made lions to live in big fami
 God made penguins to help their families in special ways too! The mommy penguin lays an egg and then carefully gives it to the daddy penguin. The egg needs to stay warm in the snow, so the daddy puts the egg on his feet and covers it with his tummy. _(Can you see the daddy penguins with the eggs?)_ He looks after the egg for a long time while the mommy is away catching fish. All the daddy penguins help each other stay warm by huddling close together. When the chicks are born, the mommies come back from the sea and feed the chicks while the daddies go and eat. How kind and helpful they are to each other! _Thank You, God, for penguins!_
 ^^^
 ^^^
-![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/05.png)
 {"style":{"image":{"storyTextAlign": "top"}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/06/05.png)
 God created so many amazing animal families that help each other. Your family loves to help you too. They want to protect you and make sure you are safe and loved. If someone in your family ever tries to hurt you, you should say, “Stop” or “No,” even if they are bigger than you.\
 But when your mommy or daddy asks you kindly to help, you can smile and say ,“Yes, Mommy” or “Yes, Daddy.” Jesus loves to see our families helping each other with a smile.\
 _(Say together)_ Thank You, God, for all the animals that help their families. Help me to think of ways I can help my family too!
