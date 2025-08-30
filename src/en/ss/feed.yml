@@ -8,6 +8,10 @@ groups:
     view: folio
     resources:
       - '*[0-9-]+-cq|*-iv'
+  - group: Easy Reading
+    view: folio
+    resources:
+      - '*[0-9-]+-er'
   - group: Mission Quarterly
     view: folio
     resources:
@@ -19,10 +23,6 @@ groups:
       - en-explore-mission-story-*-02-*
       - en-explore-mission-story-*-01
       - en-explore-mission-story-*-01-*
-  - group: Easy Reading
-    view: folio
-    resources:
-      - '*[0-9-]+-er'
   - group: Cornerstone Connections
     view: folio
     resources:
