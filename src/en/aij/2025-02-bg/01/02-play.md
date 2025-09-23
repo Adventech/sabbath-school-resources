@@ -20,17 +20,17 @@ Use paint or ink to stamp your child’s footprints on a blank piece of paper. W
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Play
 
-Use a magnet, a string, and a stick to make a simple fishing rod. Put paper clips on some cut-out paper fish. Take turns catching fish. 
+Use a magnet, a string, and a stick to make a simple fishing rod. Put paper clips on some cut-out paper fish. Take turns catching fish.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Explore
 
-If there is snow, sand, or dirt nearby, go for a walk with your child. Go ahead of them and make footprints, encouraging your child to follow you by stepping in your footprints. Tell your child that Jesus wants us to follow Him. 
+If there is snow, sand, or dirt nearby, go for a walk with your child. Go ahead of them and make footprints, encouraging your child to follow you by stepping in your footprints. Tell your child that Jesus wants us to follow Him.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Connect
 
-Set up an obstacle course. Let your child watch you complete the course, and then say, “Follow me.” Complete the course together. Share how Jesus is there to help us with every hard or happy thing we face. 
+Set up an obstacle course. Let your child watch you complete the course, and then say, “Follow me.” Complete the course together. Share how Jesus is there to help us with every hard or happy thing we face.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Pray

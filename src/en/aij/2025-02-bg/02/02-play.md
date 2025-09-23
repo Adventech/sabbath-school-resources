@@ -15,12 +15,12 @@ style:
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#b2ce6a"}}}
 Create
 
-Create a collage using colorful paper or crepe paper to make a fish. Glue scales on to the shape of a fish. Cut out a coin and place it in the fish’s mouth. Place it where your child can see it throughout the week.  
+Create a collage using colorful paper or crepe paper to make a fish. Glue scales on to the shape of a fish. Cut out a coin and place it in the fish’s mouth. Place it where your child can see it throughout the week.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#b2ce6a"}}}
 Play
 
-Use your fishing magnets from last week (paper clips attached to fish; a magnet on a string) to play a fishing game. Hide a little coin behind one of the fish’s heads and mix them all up. Take turns trying to catch the fish with the hidden coin. 
+Use your fishing magnets from last week (paper clips attached to fish; a magnet on a string) to play a fishing game. Hide a little coin behind one of the fish’s heads and mix them all up. Take turns trying to catch the fish with the hidden coin.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#b2ce6a"}}}
 Learn
@@ -35,7 +35,7 @@ Draw simple pictures of some of the things God has provided for you (for example
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#b2ce6a"}}}
 Pray
 
-Talk about some of the pictures you drew of things God has given you. Ask your child to choose one of the pictures, then pray a “Thank You” prayer to God. Have others in the family choose one too, each thanking God for giving us what we need. 
+Talk about some of the pictures you drew of things God has given you. Ask your child to choose one of the pictures, then pray a “Thank You” prayer to God. Have others in the family choose one too, each thanking God for giving us what we need.
 
 {"style": {"text": {"color": "#b2ce6a", "typeface": "Omnes-Regular"}}}
 **Extension weekly memory verse**: “Follow Me, and I will make you fishers of men” (Matthew 4:19).

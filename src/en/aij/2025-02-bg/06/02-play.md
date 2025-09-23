@@ -20,7 +20,7 @@ Use flour to make white marks on your child’s arms and hands, then wrap with a
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#6ecbd6"}}}
 Create
 
-Create “Thankful” place mats together. Use a large blank 11” x 17” (A3) piece of paper to draw things for which you are thankful. Laminate, if possible, and use at your table for meals this week. As you say grace, thank God for some of the things drawn on the place mats. Alternatively, add a new drawing each day about something you are thankful for and display it as a picture in your home. 
+Create “Thankful” place mats together. Use a large blank 11” x 17” (A3) piece of paper to draw things for which you are thankful. Laminate, if possible, and use at your table for meals this week. As you say grace, thank God for some of the things drawn on the place mats. Alternatively, add a new drawing each day about something you are thankful for and display it as a picture in your home.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#6ecbd6"}}}
 Explore
@@ -35,7 +35,7 @@ Create a little cue as a visual reminder for times when your child could say “
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#6ecbd6"}}}
 Connect
 
-Spend time making thank-you cards for people who serve the community (for example, Sabbath School teachers, pastors, firefighters, nurses, or doctors). Deliver them during the week. 
+Spend time making thank-you cards for people who serve the community (for example, Sabbath School teachers, pastors, firefighters, nurses, or doctors). Deliver them during the week.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#6ecbd6"}}}
 Pray

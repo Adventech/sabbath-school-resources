@@ -15,7 +15,7 @@ style:
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#61b69e"}}}
 Create
 
-Work on Day 2 of your child’s Creation Book. Use blue watercolor or crayons to create the sky. Separate cotton balls and glue them on for the clouds. Write, “On Day 2 God Made the Sky.” 
+Work on Day 2 of your child’s Creation Book. Use blue watercolor or crayons to create the sky. Separate cotton balls and glue them on for the clouds. Write, “On Day 2 God Made the Sky.”
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#61b69e"}}}
 Discover

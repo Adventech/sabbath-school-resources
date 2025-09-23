@@ -8,15 +8,6 @@ title: Simple Program Outline
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 **PRAISE TIME**
 
-“Tick-tock Song” (sticks)
-“Happy All the Time” (actions)
-“Praise Him, Praise Him” (musical instruments)
-“Bubbles” (bubbles)
-“All Our Needs” (toy fruits and vegetables)
-“God Is With Me” (small pillows)
-“God Sees Me” (toy binoculars)
-“Into My Heart” (hearts on Popsicle sticks)
-
 - {"style": {"block": {"backgroundColor": "#FEF8F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 - **^[“Tick-tock Song”]({"style": {"text": {"color":"#d34d5e"}}})** (sticks)
 - **^[“Happy All the Time”]({"style": {"text": {"color":"#d34d5e"}}})** (actions)

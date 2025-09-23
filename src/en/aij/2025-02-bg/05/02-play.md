@@ -25,7 +25,7 @@ Set up a “Caring Center” with dolls or stuffed animals, bandages, child-safe
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Give
 
-Write a list of things we can do to help others. Let your child think of as many ideas as possible. Choose an idea from the list each day to complete together. Pack bags with nonperishable food, socks and warm clothing items, toothbrushes and toothpaste, soap, and other personal-care items. Make and decorate small cards for each bag and write 1 Peter 5:7: “Give all your worries to him, because he cares for you” (ICB). Talk with your child about how Jesus can use their gift to help others who are in need and to show each person that He cares for them. Donate bags to a homeless shelter or other community organization. 
+Write a list of things we can do to help others. Let your child think of as many ideas as possible. Choose an idea from the list each day to complete together. Pack bags with nonperishable food, socks and warm clothing items, toothbrushes and toothpaste, soap, and other personal-care items. Make and decorate small cards for each bag and write 1 Peter 5:7: “Give all your worries to him, because he cares for you” (ICB). Talk with your child about how Jesus can use their gift to help others who are in need and to show each person that He cares for them. Donate bags to a homeless shelter or other community organization.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Share
@@ -35,7 +35,7 @@ Bake small loaves of bread with your child. Help them measure and pour each ingr
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Connect
 
-Sit outside and talk about what it would have been like to be part of the crowd that day on the mountainside. Imagine the people’s faces as they saw the little lunch grow bigger before their eyes! 
+Sit outside and talk about what it would have been like to be part of the crowd that day on the mountainside. Imagine the people’s faces as they saw the little lunch grow bigger before their eyes!
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Pray

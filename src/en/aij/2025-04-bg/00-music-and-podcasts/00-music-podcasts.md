@@ -2,11 +2,11 @@
 title: Music and Podcasts
 ---
 
-### Scripture songs
+### Scripture Songs
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-heb-13-16.mp3] “Hebrews 13:16”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-heb-13-16.mp3] Hebrews 13:16 {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Noah Jovinov, David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Bassist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-mt-1-21.mp3] “Matthew 1:21”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/scripture-song-mt-1-21.mp3] Matthew 1:21 {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Moses, David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Bassist","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 ### Week 1 Podcast
 

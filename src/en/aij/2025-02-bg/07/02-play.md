@@ -25,17 +25,17 @@ Set up a water play table outside. Use a big plastic tub and fill it with water.
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#c6896b"}}}
 Celebrate
 
-Host a little celebration picnic outside in the backyard or a park. You could dress up, pick some flowers, decorate your picnic nicely, and invite friends over to celebrate. Set a place for Jesus and share what you love about Him. Invite others to share too. Explain that He is always with us. He loves to make us happy. 
+Host a little celebration picnic outside in the backyard or a park. You could dress up, pick some flowers, decorate your picnic nicely, and invite friends over to celebrate. Set a place for Jesus and share what you love about Him. Invite others to share too. Explain that He is always with us. He loves to make us happy.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#c6896b"}}}
 Create
 
-Draw a “happy” picture together. Ask your child which colors make them feel happy. Ask them what things make them happy. Use these suggestions to create your “happy” picture. Talk about how Jesus loves to make us happy. 
+Draw a “happy” picture together. Ask your child which colors make them feel happy. Ask them what things make them happy. Use these suggestions to create your “happy” picture. Talk about how Jesus loves to make us happy.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#c6896b"}}}
 Pray
 
-On a piece of paper, write down some problems your child might face. Talk about how Jesus can help them through those problems. Say this quarter’s memory verse: “He cares for you” (1 Peter 5:7). Say a special prayer, thanking Jesus for caring for us and helping us with our problems. 
+On a piece of paper, write down some problems your child might face. Talk about how Jesus can help them through those problems. Say this quarter’s memory verse: “He cares for you” (1 Peter 5:7). Say a special prayer, thanking Jesus for caring for us and helping us with our problems.
 
 {"style": {"text": {"color": "#c6896b", "typeface": "Omnes-Regular"}}}
 **Extension weekly memory verse**:  . . . casting all your care upon Him, for He cares for you” (1 Peter 5:7).

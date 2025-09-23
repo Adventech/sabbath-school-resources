@@ -11,7 +11,7 @@ audio:
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/09-00.png)
 {"style":{"text":{"color": "#2a418f", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#e1e1e1ad"}}}
 God Made the\
-^[Birds]({"style":{"text":{"color": "#d5428b", "typeface": "Omnes-BoldItalic"}}}) of the ^[Sky]({"style":{"text":{"color": "#d5428b", "typeface": "Omnes-BoldItalic"}}}) 
+^[Birds]({"style":{"text":{"color": "#d5428b", "typeface": "Omnes-BoldItalic"}}}) of the ^[Sky]({"style":{"text":{"color": "#d5428b", "typeface": "Omnes-BoldItalic"}}})
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
@@ -22,7 +22,7 @@ In the beginning, before there were seals that play and slide or pretty butterfl
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/09-02.png)
 {"style":{"text":{"color": "#ffffff"}, "block":{"backgroundColor": "#181818ad"}}}
-God’s strong, kind voice echoed across the hills. As He spoke, the air came alive with birds of every color and size, tiny hummingbirds and giant ostriches (show size with hands), pink flamingos and purple finches. Birds tweeted and chattered in the trees, and pelicans soared above the sea. A pair of yellow meadowlarks had a lovely song to sing, and geese flew high above in a V. The earth and sky were alive with the birds God made on Day 5. As the sun set low, an owl called, “Hoo, hoo.” A hawk soared from a tall pine tree. A mama duck waddled along the shore. “Quack, quack,” she called to her ducklings in a row. Parrots chattered in a banana tree as Day 5 came to an end. God saw (hand above eyes; look about) all He had made, and it was good.    
+God’s strong, kind voice echoed across the hills. As He spoke, the air came alive with birds of every color and size, tiny hummingbirds and giant ostriches (show size with hands), pink flamingos and purple finches. Birds tweeted and chattered in the trees, and pelicans soared above the sea. A pair of yellow meadowlarks had a lovely song to sing, and geese flew high above in a V. The earth and sky were alive with the birds God made on Day 5. As the sun set low, an owl called, “Hoo, hoo.” A hawk soared from a tall pine tree. A mama duck waddled along the shore. “Quack, quack,” she called to her ducklings in a row. Parrots chattered in a banana tree as Day 5 came to an end. God saw (hand above eyes; look about) all He had made, and it was good.
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}

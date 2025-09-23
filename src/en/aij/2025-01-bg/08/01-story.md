@@ -11,7 +11,7 @@ audio:
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/08-00.png)
 {"style":{"text":{"color": "#fbe000", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#7aadc0ad"}}}
 God Made the\
-^[Fish of the Sea]({"style":{"text":{"color": "#def2f8", "typeface": "Omnes-BoldItalic"}}}) 
+^[Fish of the Sea]({"style":{"text":{"color": "#def2f8", "typeface": "Omnes-BoldItalic"}}})
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/08-01.png)
@@ -21,7 +21,7 @@ In the beginning, before there were lions in a pride or glowing fireflies, there
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/08-02.png)
 {"style":{"text":{"color": "#ffffff"}, "block":{"backgroundColor": "#181818ad"}}}
-God’s strong, kind voice echoed across the hills. As He spoke, the sea came alive with creatures of every color and size. Bright blue and yellow fish began swimming to and fro (hand swim like a fish), and an octopus crawled along deep below. A starfish found its place on the rocks while manatees munched on leafy stalks. The water was alive with the creatures of the sea God made on Day 5.  
+God’s strong, kind voice echoed across the hills. As He spoke, the sea came alive with creatures of every color and size. Bright blue and yellow fish began swimming to and fro (hand swim like a fish), and an octopus crawled along deep below. A starfish found its place on the rocks while manatees munched on leafy stalks. The water was alive with the creatures of the sea God made on Day 5.
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}

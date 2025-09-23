@@ -2,7 +2,7 @@
 title: Crafts
 ---
 
-```=Week 1: Baby Moses 
+```=Week 1: Baby Moses
 
 Cut a letter-size (A4) paper in half lengthwise and fold in half two times. (If the child has more than four members in their family, you can tape two halves together to make one long strip of paper, and fold in half three times.) Draw and cut out the shape of a person and unfold to make a paper-chain family. Adjust the number of people to suit. Cut triangles and rectangles (for girls and boys) out of different-colored paper or fabric. Children can create their own family by sticking on the clothes, drawing on faces, and decorating with stickers and googly eyes (optional).
 
@@ -20,7 +20,7 @@ Cut a letter-size (A4) paper in half lengthwise and fold in half two times. (If 
 
 ```
 
-```=Week 2: A Special Basket Boat 
+```=Week 2: A Special Basket Boat
 
 Cut a letter-size (A4) sheet of paper in half lengthwise. Fold the ends 2 inches (5 centimeters) inward, flip over, and repeat. Glue green paper or real grass onto the front. Open it out and glue the basket along the bottom edges only. Cut and glue a circle face onto an oval shape for the baby and slide into basket. Draw water lines with a blue crayon. Children can play peekaboo with baby Moses.
 
@@ -40,7 +40,7 @@ Cut a letter-size (A4) sheet of paper in half lengthwise. Fold the ends 2 inches
 
 ```
 
-```=Week 3: The Fire in the Bush 
+```=Week 3: The Fire in the Bush
 
 Cut out a cardboard frame 8 x 5 inches (20 x 13 centimeters). Stick the front of the frame onto clear contact paper. Children can put a brown tree shape onto the sticky backing and then add pieces of green, yellow, and orange/red tissue paper. Display on a window to see the burning bush!
 
@@ -60,7 +60,7 @@ Cut out a cardboard frame 8 x 5 inches (20 x 13 centimeters). Stick the front of
 
 ```
 
-```=Week 4: The Red Sea 
+```=Week 4: The Red Sea
 
 Fold the ends of a blue piece of cardstock so they meet in the middle. Open it out and cut each side in a wavy line. Children can glue a strip of orange paper in the middle section. Along the edge of each blue section, they can stick pieces of cotton balls (like ocean spray) and add curved lines with a crayon, as well as some sea animal stickers. As an optional extra, you can cut and glue the printable to make a Moses figurine so children can reenact the story of God parting the Red Sea.
 
@@ -76,7 +76,7 @@ Fold the ends of a blue piece of cardstock so they meet in the middle. Open it o
 
 ```
 
-```=Week 5: The Food and Water Surprise 
+```=Week 5: The Food and Water Surprise
 
 Using a permanent marker, trace around a bowl and cup onto a colored piece of paper. Children can then decorate their own placemat with markers and stickers. Write their name on the placemat, then cover with clear contact paper or laminate. If time allows, children can put pretend manna (such as cotton balls or cereal) and pretend water (such as blue ribbon or cellophane) in their own bowls and cups. Tell them that every time they use their placemat, they can remember how God provides food and water!
 
@@ -96,7 +96,7 @@ Using a permanent marker, trace around a bowl and cup onto a colored piece of pa
 
 ```
 
-```=Week 6: Cloud and Fire 
+```=Week 6: Cloud and Fire
 
 Glue pieces of blue and black paper together, back-to-back. Starting with the black side, stick a moon shape in the corner. Then spread glue in a tall pillar shape and stick pieces of yellow and orange/red tissue paper. At the bottom, stick the words “God is with me through the night.”
 
@@ -116,7 +116,7 @@ On the blue side, stick a yellow sun in the corner. Then spread glue in a tall p
 
 ```
 
-```=Week 7: God’s Special Home 
+```=Week 7: God’s Special Home
 
 Print or draw a simple frame with the words “My Helping Hands” at the top. Children can decorate the frame with cotton tips and colored paint. Once they are finished, paint their hands with a paintbrush and help them create handprints in the middle of the page. Talk about some of the ways they can use their helping hands for God!
 
@@ -130,7 +130,7 @@ Print or draw a simple frame with the words “My Helping Hands” at the top. C
 
 ```
 
-```=Week 8: God’s Home Is Finished 
+```=Week 8: God’s Home Is Finished
 
 Fold the ends of a red piece of paper so they meet in the middle. Draw a large love heart shape. Then cut around it, being careful to leave the top sides connected. Children can open the “doors” and glue a picture of Jesus and two windows inside. Cut and glue curtains onto the windows out of scraps of fabric. Talk about how Jesus wants to make His home in their heart so that He can be with them always.
 
@@ -148,7 +148,7 @@ Fold the ends of a red piece of paper so they meet in the middle. Draw a large l
 
 ```
 
-```=Week 9: Joshua and Caleb’s Adventure 
+```=Week 9: Joshua and Caleb’s Adventure
 
 Cut out a strip of colored paper to measure 12 x 4 inches (30 x 10 centimeters) and cover with glue. Starting at one end, wrap a cardboard cylinder from the outside to the middle, then do the same at the other end. Decorate with stickers. Hole-punch or poke a hole on the top outer edge of each cardboard cylinder, and tie on a piece of string. Children can hang their “binoculars” around their necks and spy out some of the good things God has given!
 
@@ -164,9 +164,9 @@ Cut out a strip of colored paper to measure 12 x 4 inches (30 x 10 centimeters) 
 
 ```
 
-```=Week 10: Kind Rahab 
+```=Week 10: Kind Rahab
 
-Place two sheets of red paper together and fold into four equal sections. Cut along the folded lines to make strips of red paper. If age-appropriate, brainstorm some “acts of kindness” and write them on seven strips of paper. Help the child glue the ends of one strip to make a circle. Then help them loop another strip through the circle and glue the ends together. Continue until you have a “rope of kindness.” For morning worship this week, an adult can read the act of kindness for the day. Once each is completed, the child can tear it off, until the “rope of kindness” is finished. 
+Place two sheets of red paper together and fold into four equal sections. Cut along the folded lines to make strips of red paper. If age-appropriate, brainstorm some “acts of kindness” and write them on seven strips of paper. Help the child glue the ends of one strip to make a circle. Then help them loop another strip through the circle and glue the ends together. Continue until you have a “rope of kindness.” For morning worship this week, an adult can read the act of kindness for the day. Once each is completed, the child can tear it off, until the “rope of kindness” is finished.
 
 [Download Craft file](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/craft-files/2025-03-bg-craft-file-10.pdf)
 
@@ -184,7 +184,7 @@ Place two sheets of red paper together and fold into four equal sections. Cut al
 
 ```
 
-```=Week 11: The Big, Big River 
+```=Week 11: The Big, Big River
 
 Cut circles out of brown paper and glue them in the center of an orange piece of cardstock. Glue or tape strips of blue crepe paper or streamers to the top center. Color and cut around the printable of God’s helpers carrying the ark. Tape a Popsicle stick to the back. Retell the story; lift the streamers back to reveal dry land underneath as God’s helpers walk to the other side of the river.
 
@@ -204,7 +204,7 @@ Cut circles out of brown paper and glue them in the center of an orange piece of
 
 ```
 
-```=Week 12: The Walls of Jericho 
+```=Week 12: The Walls of Jericho
 
 Cut around the inner circle of a paper plate. Cut out the printable of marching Israelites and Jericho. Children can color in the pictures and then glue Jericho onto the small circle, and the Israelites onto the outer edge of the other paper plate. Adults can assist by poking a hole through the center of both paper plates and using a split pin to join them together. Alternatively, use a sandwich tie to thread and loop in the middle. Children can rotate the marching Israelites around the city while you retell the story.
 
@@ -222,7 +222,7 @@ Cut around the inner circle of a paper plate. Cut out the printable of marching 
 
 ```
 
-```=Week 13: A New Home 
+```=Week 13: A New Home
 
 (Note: for this craft you will need to precut the shapes for the children to glue.)
 

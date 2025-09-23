@@ -37,21 +37,21 @@ The Alive in Jesus Beginner Sabbath School curriculum is a three- year curriculu
 - Learning to express their needs with words, but may still be using crying.
 
 {"style": {"text": {"color": "#f4793b"}}}
-**Spiritually, Beginner children are**: 
+**Spiritually, Beginner children are**:
 
-- Making sense of and learning about the world through their senses. 
-- Learning about God’s love through their parents’ love. 
-- Learning to trust God by learning to trust their parents. 
+- Making sense of and learning about the world through their senses.
+- Learning about God’s love through their parents’ love.
+- Learning to trust God by learning to trust their parents.
 - Learning to obey.
-- Learning simple religious rituals, such as prayer before meals, bedtime, worship. 
-- Developing a conscience through dos and don’ts of home and church. 
-- Forming attitudes toward church, Sabbath School, prayer, and worship. 
+- Learning simple religious rituals, such as prayer before meals, bedtime, worship.
+- Developing a conscience through dos and don’ts of home and church.
+- Forming attitudes toward church, Sabbath School, prayer, and worship.
 - “Catching” religion from the home and the church.
 - Very sensitive—a feeling person more than a thinking person.
 - Very impressionable. Bible stories should not be frightening.
 - Capable of understanding simple religious concepts.
-- Developing character in foundational ways. 
-- Learning to separate what is real from what is imaginary. 
+- Developing character in foundational ways.
+- Learning to separate what is real from what is imaginary.
 - Able to sense attitudes of respect, joy, and anticipation in connection with church, the Bible, and Jesus.
 - Able to briefly fold their hands and kneel for prayer.
 

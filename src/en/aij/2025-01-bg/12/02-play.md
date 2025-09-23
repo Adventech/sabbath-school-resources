@@ -20,12 +20,12 @@ Make a life-size outline of your child’s body with chalk on the pavement outsi
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#38af4a"}}}
 Explore
 
-Share how God made you to move. Set up an obstacle course with items to crawl, jump, and walk over, under, and through using pillows, blankets, tables, chairs, and stuffed animals. Thank God for the amazing way He made our bodies to move.  
+Share how God made you to move. Set up an obstacle course with items to crawl, jump, and walk over, under, and through using pillows, blankets, tables, chairs, and stuffed animals. Thank God for the amazing way He made our bodies to move.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#38af4a"}}}
 Learn
 
-Mark your child’s growth on a wall or growth chart. Repeat regularly to watch growth. Share with your child how God made their bodies grow through eating healthy food, sleeping, playing, and drinking lots of water. 
+Mark your child’s growth on a wall or growth chart. Repeat regularly to watch growth. Share with your child how God made their bodies grow through eating healthy food, sleeping, playing, and drinking lots of water.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#38af4a"}}}
 Discover
@@ -43,10 +43,10 @@ Share with your child the five senses and explain how they help us explore the w
 ^[See]({"style" : {"text": {"color": "#38af4a", "typeface": "Omnes-Bold"}}}): Cover the bottom of a shallow pan with high-fat milk. Dot with food coloring. Dip a cotton swab into dish soap, then touch a dot of color. Watch as the color swirls. Thank You, God, for eyes to see!
 
 {"style": {"block": {"padding": {"start": "xl"}}}}
-^[Feel]({"style" : {"text": {"color": "#38af4a", "typeface": "Omnes-Bold"}}}): Search for a few items from outside to put in a feely bag for your child. Get them to close their eyes and pull out an object. Ask them to guess what it is before they open their eyes. Thank You, God, for hands to feel! 
+^[Feel]({"style" : {"text": {"color": "#38af4a", "typeface": "Omnes-Bold"}}}): Search for a few items from outside to put in a feely bag for your child. Get them to close their eyes and pull out an object. Ask them to guess what it is before they open their eyes. Thank You, God, for hands to feel!
 
 {"style": {"block": {"padding": {"start": "xl"}}}}
-^[Taste]({"style" : {"text": {"color": "#38af4a", "typeface": "Omnes-Bold"}}}): Make a taste platter with lots of different things to taste. Get your child to close their eyes and guess what it is they are eating. Talk about the different flavors: sweet, sour, salty. Thank You, God, that I can taste the good things You have made! 
+^[Taste]({"style" : {"text": {"color": "#38af4a", "typeface": "Omnes-Bold"}}}): Make a taste platter with lots of different things to taste. Get your child to close their eyes and guess what it is they are eating. Talk about the different flavors: sweet, sour, salty. Thank You, God, that I can taste the good things You have made!
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#38af4a"}}}
 Sing and Pray

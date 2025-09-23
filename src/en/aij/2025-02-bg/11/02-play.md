@@ -20,7 +20,7 @@ Help your child create a love gift for a father in their life: their father (thi
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Retell
 
-Use an old shoe box or tissue box to make a model of Jairus’ little girl’s bedroom and use this to retell the story. Use toy furniture if you have some, or little cloths for a bed. Place a doll or simple cardboard cut-out of the little girl on the bed. When Jesus says, “Get up,” have her wake up. 
+Use an old shoe box or tissue box to make a model of Jairus’ little girl’s bedroom and use this to retell the story. Use toy furniture if you have some, or little cloths for a bed. Place a doll or simple cardboard cut-out of the little girl on the bed. When Jesus says, “Get up,” have her wake up.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Explore
@@ -30,7 +30,7 @@ Spend time outside with your child, encouraging them to use their energy. The li
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Pray
 
-Ask your child during prayer time for things they would like Jesus’ help with this week. We can know, like Father Jairus, that Jesus will help us. Model this by asking Jesus for specific help for yourself, then thank Him for what He will do. Ask your child if they would like to pray too. 
+Ask your child during prayer time for things they would like Jesus’ help with this week. We can know, like Father Jairus, that Jesus will help us. Model this by asking Jesus for specific help for yourself, then thank Him for what He will do. Ask your child if they would like to pray too.
 
 {"style": {"text": {"color": "#3379be", "typeface": "Omnes-Regular"}}}
 **Extension weekly memory verse**: “Do not be afraid; only believe” (Mark 5:36).

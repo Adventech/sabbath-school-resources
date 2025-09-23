@@ -11,7 +11,7 @@ audio:
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/06/00.png)
 {"style":{"text":{"color": "#3e5d92", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#ffffffad"}}}
 One\
-^[Thankful]({"style":{"text":{"color": "#ffffff", "typeface": "Omnes-BoldItalic"}}}) Man 
+^[Thankful]({"style":{"text":{"color": "#ffffff", "typeface": "Omnes-BoldItalic"}}}) Man
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
@@ -23,7 +23,7 @@ Pat, pat went their sandals on the grass. Jesus and His friends smiled and talke
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/06/02.png)
 {"style":{"text":{"color": "#ffffff"},"block":{"backgroundColor": "#181818ad"}}}
-Jesus loved the 10 men. He was glad they asked for His help. Jesus came close to them. He wasn’t afraid of their sickness. Jesus told them to go see the leaders of the temple. Yes, they would! The 10 men turned and rushed to the temple. As they walked, their white spots disappeared! Jesus had made them well! Ten happy men cheered and clapped with joy (clap). Then 1, 2, 3, 4, 5, 6, 7, 8, 9 men (count on child’s fingers) kept walking. But one (one finger) man stopped. What did he do? (Pause.) He turned around and ran back to Jesus. All 10 men were happy, but only one man remembered who had made him well. He hurried to tell Jesus, “Thank You!” Jesus was glad for this man’s thanks. Ten men were healed. But only one came back to say, “Thank You!” 
+Jesus loved the 10 men. He was glad they asked for His help. Jesus came close to them. He wasn’t afraid of their sickness. Jesus told them to go see the leaders of the temple. Yes, they would! The 10 men turned and rushed to the temple. As they walked, their white spots disappeared! Jesus had made them well! Ten happy men cheered and clapped with joy (clap). Then 1, 2, 3, 4, 5, 6, 7, 8, 9 men (count on child’s fingers) kept walking. But one (one finger) man stopped. What did he do? (Pause.) He turned around and ran back to Jesus. All 10 men were happy, but only one man remembered who had made him well. He hurried to tell Jesus, “Thank You!” Jesus was glad for this man’s thanks. Ten men were healed. But only one came back to say, “Thank You!”
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/06/03.png)

@@ -11,7 +11,7 @@ audio:
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/08/00.png)
 {"style":{"text":{"color": "#ffffff", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#181818ad"}}}
 Jesus Heals\
-^[a Mother]({"style":{"text":{"color": "#f04f56", "typeface": "Omnes-BoldItalic"}}}) 
+^[a Mother]({"style":{"text":{"color": "#f04f56", "typeface": "Omnes-BoldItalic"}}})
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/08/01.png)
@@ -21,7 +21,7 @@ Mother liked to hum happy songs as she worked in her home by the Sea of Galilee.
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/08/02.png)
 {"style":{"text":{"color": "#ffffff"}, "block":{"backgroundColor": "#181818ad"}}}
-One Sabbath morning Peter’s mother-in-law woke up, ready to love and help others. But she couldn’t get out of bed. Her skin was hot. Her eyes were sleepy. Her head was very sore. She was sick. Very sick. Poor Mother! Who could help her? Knock, knock. Mother’s helper ran to the door. There was Jesus! He had come to her house for Sabbath lunch. Maybe He could help! Jesus smiled at her. Yes, He would love to help Mother. He went straight to Mother’s bed. She was too sick to get up. Jesus gently took her by the hand. He lifted her up. And just like that, Jesus made her all better!    
+One Sabbath morning Peter’s mother-in-law woke up, ready to love and help others. But she couldn’t get out of bed. Her skin was hot. Her eyes were sleepy. Her head was very sore. She was sick. Very sick. Poor Mother! Who could help her? Knock, knock. Mother’s helper ran to the door. There was Jesus! He had come to her house for Sabbath lunch. Maybe He could help! Jesus smiled at her. Yes, He would love to help Mother. He went straight to Mother’s bed. She was too sick to get up. Jesus gently took her by the hand. He lifted her up. And just like that, Jesus made her all better! 
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/08/03.png)

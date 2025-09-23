@@ -11,18 +11,18 @@ audio:
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/07-00.png)
 {"style":{"text":{"color": "#159b48", "typeface": "Omnes-Bold", "align": "center"}, "block":{"backgroundColor": "#e1e1e1ad"}}}
 God Made\
-^[Earth]({"style":{"text":{"color": "#006393", "typeface": "Omnes-BoldItalic"}}}) 
+^[Earth]({"style":{"text":{"color": "#006393", "typeface": "Omnes-BoldItalic"}}})
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/07-01.png)
 {"style":{"text":{"color": "#ffffff"}}}
-In the beginning, before there were pandas in the bamboo or hopping kangaroos, God made the earth. So much had been made since He had first begun. One . . . two . . . three . . . four . . . days (count to four with fingers) of Creation were done. God had more to do as He created a beautiful world for you. Each new day of Creation began with God’s wonderful plan. The earth was almost ready; each piece was in its place. Days 5, 6, and 7 (count with fingers) were still to come. God knew what we need before Creation was done. 
+In the beginning, before there were pandas in the bamboo or hopping kangaroos, God made the earth. So much had been made since He had first begun. One . . . two . . . three . . . four . . . days (count to four with fingers) of Creation were done. God had more to do as He created a beautiful world for you. Each new day of Creation began with God’s wonderful plan. The earth was almost ready; each piece was in its place. Days 5, 6, and 7 (count with fingers) were still to come. God knew what we need before Creation was done.
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/07-02.png)
 {"style":{"text":{"color": "#ffffff"}, "block":{"backgroundColor": "#181818ad"}}}
-God’s strong, kind voice echoed across the water each day. On Day 1 the earth filled with His light, making everything bright. On Day 2 He made the sky so brilliant and blue. On Day 3 there was so much to see as God gathered the dry land and the sea. He made the tall trees and the grass, the plants and the seeds. God created more on Day 4: the light of the sun, the moon, and the stars (count each day with fingers). God made the earth for you and for me. The air smelled of roses and pine trees. The rolling green hills were dotted with white daisies. The tall grasses rustled in the breeze, and waves rolled onto the shore of the sea. Seeds blew through the air, swirling to the ground. What would be found where they grew, a graceful willow or pansies in yellow? The branches of trees soared high above tender shoots in the garden of carrots and peas. All this God saw (hand above eyes; look about), and it was good. 
+God’s strong, kind voice echoed across the water each day. On Day 1 the earth filled with His light, making everything bright. On Day 2 He made the sky so brilliant and blue. On Day 3 there was so much to see as God gathered the dry land and the sea. He made the tall trees and the grass, the plants and the seeds. God created more on Day 4: the light of the sun, the moon, and the stars (count each day with fingers). God made the earth for you and for me. The air smelled of roses and pine trees. The rolling green hills were dotted with white daisies. The tall grasses rustled in the breeze, and waves rolled onto the shore of the sea. Seeds blew through the air, swirling to the ground. What would be found where they grew, a graceful willow or pansies in yellow? The branches of trees soared high above tender shoots in the garden of carrots and peas. All this God saw (hand above eyes; look about), and it was good.
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}

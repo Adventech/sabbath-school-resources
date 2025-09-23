@@ -41,7 +41,7 @@ Babies are especially sensitive to music. Singing and playing music to babies ca
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/part-03-03-01-baby-time/watering-can.png)
-  
+ 
 {"style":{"text":{"color": "#bf9648", "typeface": "BaskervilleBT-Bold", "size": "lg"}}}
 Volunteer and Parent Involvement
 

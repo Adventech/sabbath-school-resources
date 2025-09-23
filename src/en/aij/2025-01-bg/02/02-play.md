@@ -15,7 +15,7 @@ style:
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Create
 
-Work on Day 1 in your child’s Creation Book (from last week). Cut black and yellow cardstock into strips and glue these down to show the difference between light and dark. Write, “On Day 1 God Made the Light,” at the bottom of the page. 
+Work on Day 1 in your child’s Creation Book (from last week). Cut black and yellow cardstock into strips and glue these down to show the difference between light and dark. Write, “On Day 1 God Made the Light,” at the bottom of the page.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#3379be"}}}
 Explore

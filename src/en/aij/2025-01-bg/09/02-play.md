@@ -15,8 +15,8 @@ style:
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#4969b2"}}}
 Create
 
-Help your child finish the Day 5 page in their Creation Book. Cut out small circles of different colored paper and small yellow triangle beaks. Have your child glue the circles down. Stick on googly eyes and beaks. Glue on craft feathers for the wings. Write at the bottom of the page, “On Day 5 God created the fish in the sea and the birds of the air.” 
- 
+Help your child finish the Day 5 page in their Creation Book. Cut out small circles of different colored paper and small yellow triangle beaks. Have your child glue the circles down. Stick on googly eyes and beaks. Glue on craft feathers for the wings. Write at the bottom of the page, “On Day 5 God created the fish in the sea and the birds of the air.”
+
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#4969b2"}}}
 Explore
 
@@ -25,12 +25,12 @@ Share how birds build nests to keep their babies safe. Go outside and use sticks
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#4969b2"}}}
 Learn
 
-Show your child pictures of birds with large colorful tail feathers, such as peacocks and turkeys. Develop coordination and hand skills by making a tail plumage by pushing craft feathers into the holes of a colander placed upside down. 
- 
+Show your child pictures of birds with large colorful tail feathers, such as peacocks and turkeys. Develop coordination and hand skills by making a tail plumage by pushing craft feathers into the holes of a colander placed upside down.
+
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#4969b2"}}}
 Care
 
-Make a birdseed feeder. Mix two spoonfuls of coconut oil with birdseed. Add peanut butter or sunflower butter. Firm up in the fridge for 30 minutes, then form into a cookie cutter or muffin pan. Poke a hole in the top for a loop of string. Place in the freezer for two hours to harden. Remove, and hang outside. Share how God loves and cares for your child, just as He cares for the birds. 
+Make a birdseed feeder. Mix two spoonfuls of coconut oil with birdseed. Add peanut butter or sunflower butter. Firm up in the fridge for 30 minutes, then form into a cookie cutter or muffin pan. Poke a hole in the top for a loop of string. Place in the freezer for two hours to harden. Remove, and hang outside. Share how God loves and cares for your child, just as He cares for the birds.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#4969b2"}}}
 Prayer and Praise

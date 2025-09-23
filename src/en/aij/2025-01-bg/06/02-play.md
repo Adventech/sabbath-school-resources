@@ -20,17 +20,17 @@ On Day 4 of your child’s Creation Book, cut out light-blue cardstock to fill h
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#2a459c"}}}
 Explore
 
-On a sunny day, take your child outside for a few minutes to feel the heat of the sun on the grass, dirt, or pavement, then go inside to feel the cool of the shade. Talk to your child about putting sunscreen on and wearing a hat and sunglasses to help get the right amount of sun but not too much. Thank God for the sun, which helps keep us warm. 
-  
+On a sunny day, take your child outside for a few minutes to feel the heat of the sun on the grass, dirt, or pavement, then go inside to feel the cool of the shade. Talk to your child about putting sunscreen on and wearing a hat and sunglasses to help get the right amount of sun but not too much. Thank God for the sun, which helps keep us warm.
+
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#2a459c"}}}
 Learn
 
-Collect some books from your local library about the sun, moon, and stars. Learn about the stars in the sky and show your child which planet Earth is in the line-up of planets. Research some pictures of stars up close. Cut out the different phases of the moon and glue them together in a line to show what the moon does during the month. What an amazing God to create such a huge universe! 
+Collect some books from your local library about the sun, moon, and stars. Learn about the stars in the sky and show your child which planet Earth is in the line-up of planets. Research some pictures of stars up close. Cut out the different phases of the moon and glue them together in a line to show what the moon does during the month. What an amazing God to create such a huge universe!
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#2a459c"}}}
 Watch
 
-Plant some flower seeds (like daisies) in a pot and place it on a sunny window. As they grow and bloom, thank God for making the sun to help things grow. 
+Plant some flower seeds (like daisies) in a pot and place it on a sunny window. As they grow and bloom, thank God for making the sun to help things grow.
 
 {"style": {"text": {"typeface": "Omnes-BlackItalic", "size": "lg", "color": "#2a459c"}}}
 Pray

@@ -26,4 +26,4 @@ Take a moment to consider these verses that express God’s love for you and you
 
 “The Lord your God in your midst, the Mighty One, will save; He will rejoice over you with gladness, He will quiet you with His love, He will rejoice over you with singing” (Zephaniah 3:17).
 
-The Creator of the universe, who is capable of amazing miracles, cares for _**you**_ as a loving Father. He knows _**your**_ name, He knows _**your**_ children, and He loves _**you**_ with His great, enormous love! May you “be able to comprehend with all the saints what is the width and length and depth and height—to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God” (Ephesians 3:18, 19). 
+The Creator of the universe, who is capable of amazing miracles, cares for _**you**_ as a loving Father. He knows _**your**_ name, He knows _**your**_ children, and He loves _**you**_ with His great, enormous love! May you “be able to comprehend with all the saints what is the width and length and depth and height—to know the love of Christ which passes knowledge; that you may be filled with all the fullness of God” (Ephesians 3:18, 19).
