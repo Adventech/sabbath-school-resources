@@ -37,7 +37,7 @@ title: Simple Program Outline
 - {"style": {"block": {"backgroundColor": "#FBFCFA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 - “God shall supply all your [needs]” (**Philippians 4:19**).
 
-{"style": {"block": {"backgroundColor": "#FFFAF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#FBEFE5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 **OFFERING**
 
 - {"style": {"block": {"backgroundColor": "#FEF8F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}

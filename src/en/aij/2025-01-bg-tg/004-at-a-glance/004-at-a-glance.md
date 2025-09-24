@@ -12,7 +12,7 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 **SAND FILL**
 
-- {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "xl", "end":"sm", "bottom": "sm"}},"wrapper": {"padding": {"start": "none"}}}}
+- {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "xl", "end":"sm", "bottom": "sm"}}}}
 - Sticks, leaf branches, pinecones, or flowers
 - Small plastic animals and insects
 - Toy birds, feathers, and plastic eggs
@@ -25,7 +25,7 @@ A sensory box is filled with sand or water, depending on the Creation day you ar
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **WATER FILL**
 
-- {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "xl", "end":"sm", "bottom": "sm"}},"wrapper": {"padding": {"start": "none"}}}}
+- {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "xl", "end":"sm", "bottom": "sm"}}}}
 - Large smooth stones
 - Natural colored leaves to float
 - Plastic colorful fish or shapes

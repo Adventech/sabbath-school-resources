@@ -38,7 +38,7 @@ title: Simple Program Outline
 - {"style": {"block": {"backgroundColor": "#FBFCFA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 - Hold Bible, sing **^[“Scripture Song”]({"style": {"text": {"color":"#00b7aa"}}})**, and say memory verse together. “In the beginning God created the heavens and the earth” (**Genesis 1:1**).
 
-{"style": {"block": {"backgroundColor": "#FFFAF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#FBEFE5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 **OFFERING**
 
 - {"style": {"block": {"backgroundColor": "#FEF8F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
