@@ -45,7 +45,7 @@ Weeks 9-13:
 **MEMORY VERSE**
 
 - {"style": {"block": {"backgroundColor": "#FBFCFA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
-- Hold Bible, sing **^[Scripture Song]({"style": {"text": {"color":"#00AD9B"}}})**, and say memory verse together. Weeks 1-8: “Do not forget to do good and to share” (**^[Hebrews 13:16]({"style": {"text": {"color":"#00AD9B"}}})**). Weeks 9-13: “You shall call His name Jesus, for He will save His people” (**^[Matthew 1:21]({"style": {"text": {"color":"#00AD9B"}}})**).
+- Hold Bible, sing **^[Scripture Song]({"style": {"text": {"color":"#00AD9B"}}})**, and say memory verse together. **Weeks 1-8:** “Do not forget to do good and to share” (Hebrews 13:16). **Weeks 9-13:** “You shall call His name Jesus, for He will save His people” (Matthew 1:21).
 
 {"style": {"block": {"backgroundColor": "#FBEFE5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 **OFFERING**
