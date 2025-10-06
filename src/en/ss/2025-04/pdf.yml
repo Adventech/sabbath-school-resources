@@ -1,8 +1,5 @@
 ---
   pdf:
-    - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-Intro.pdf
-      title: Introduction
-      target: en/ss/2025-04/01
     - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-01.pdf
       target: en/ss/2025-04/01
     - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2025-04/ABSG-2025-04-EN-02.pdf
