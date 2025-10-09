@@ -30,3 +30,5 @@ Edileuza bola pokrstená. Neskôr nasledoval jej príklad aj zvyšok rodiny.
 Inácio, dnes 68-ročný, už 36 rokov vedie každý rok ku krstu štyroch až jedenásť ľudí. Kamkoľvek ide, nosí so sebou biblické lekcie. Jeho večerná modlitba znie: „Pane, daj mi do cesty niekoho, s kým môžem zdieľať Tvoju lásku.“
 
 „Môžem žiť bez čohokoľvek na svete, ale nie bez štúdia Biblie,“ povedal.
+
+![Inácio Manoel](https://sabbath-school-resources-assets.adventech.io/sk/ss/2025-04/02/picture2.jpg)
