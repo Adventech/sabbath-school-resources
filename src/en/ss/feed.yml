@@ -23,6 +23,13 @@ groups:
       - en-explore-mission-story-*-02-*
       - en-explore-mission-story-*-01
       - en-explore-mission-story-*-01-*
+  - group: Mission Spotlight
+    view: tile
+    resources:
+      - en-explore-mission-spotlight-*-04*
+      - en-explore-mission-spotlight-*-03*
+      - en-explore-mission-spotlight-*-02*
+      - en-explore-mission-spotlight-*-01*
   - group: Cornerstone Connections
     view: folio
     resources:

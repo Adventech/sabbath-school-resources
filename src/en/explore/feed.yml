@@ -5,13 +5,6 @@
     view: folio
     resources:
       - en-explore-adventist-review-*
-  - group: Mission Spotlight
-    view: tile
-    resources:
-      - en-explore-mission-spotlight-*-04*
-      - en-explore-mission-spotlight-*-03*
-      - en-explore-mission-spotlight-*-02*
-      - en-explore-mission-spotlight-*-01*
   - group: I Will Go
     view: folio
     direction: horizontal
