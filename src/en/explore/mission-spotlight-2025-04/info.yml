@@ -1,0 +1,17 @@
+title: Quarter 4, 2025
+kind: blog
+subtitle: 'Mission Spotlight: Quarter 4, 2025'
+primaryColor: '#5E4939'
+primaryColorDark: '#453427'
+featuredResourcesView: tile
+displayCoversInTableOfContents: true
+preferredCover: landscape
+cta:
+  text: WATCH
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/mission-spotlight-2025-04/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/mission-spotlight-2025-04/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/mission-spotlight-2025-04/assets/cover.png

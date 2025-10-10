@@ -1,15 +1,23 @@
 ---
   title: Explore
   groups:
+  - group: Adventist Review
+    view: folio
+    resources:
+      - en-explore-adventist-review-*
+  - group: Mission Spotlight
+    view: tile
+    reverse: true
+    resources:
+      - en-explore-mission-spotlight-*-04*
+      - en-explore-mission-spotlight-*-03*
+      - en-explore-mission-spotlight-*-02*
+      - en-explore-mission-spotlight-*-01*
   - group: I Will Go
     view: folio
     direction: horizontal
     resources:
       - en-explore-i-will-go
-  - group: Adventist Review
-    view: folio
-    resources:
-      - en-explore-adventist-review-*
   - group: Family Ministries
     view: folio
     resources:
