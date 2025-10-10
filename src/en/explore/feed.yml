@@ -7,7 +7,6 @@
       - en-explore-adventist-review-*
   - group: Mission Spotlight
     view: tile
-    reverse: true
     resources:
       - en-explore-mission-spotlight-*-04*
       - en-explore-mission-spotlight-*-03*
