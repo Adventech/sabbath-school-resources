@@ -11,7 +11,7 @@ audio:
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/08/00.png)
 {"style":{"text":{"color": "#A86DCD", "typeface": "Omnes-BoldItalic", "align": "center"}, "block":{"backgroundColor": "#181818ad"}}}
 I Can Help\
-^[God]({"style":{"text":{"color": "#ffffff", "typeface": "Omnes-Bold"}}}) 
+^[God]({"style":{"text":{"color": "#ffffff", "typeface": "Omnes-Bold"}}})
 ^^^
 ^^^
 {"style":{"image":{"storyTextAlign": "top"}}}

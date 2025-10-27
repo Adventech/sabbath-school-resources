@@ -26,4 +26,5 @@ Imagine the joy, amazement, and wonder!
 
 As you go throughout this week, intentionally invest in friendship. Ask God to help you to find time and create opportunities for meaningful connections. That’s not always easy in this phase of life. We need His help! Saturate your friendship in prayer. You may even consider boldly having a short prayer to begin a conversation. Your children will watch how you do friendship and model your ways. Make Jesus your best Friend and ask Him to help you as you grow friendships for Him.
 
-“This is My commandment, that you love one another as I have loved you” (John 15:12).   
+> <callout>John 15:12</callout>
+> “This is My commandment, that you love one another as I have loved you.”

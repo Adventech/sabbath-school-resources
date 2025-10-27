@@ -24,4 +24,5 @@ It does us well to remember this at the end of a long day, when hands, head, and
 
 Like Samuel’s, your helpful hands matter. Your faithfulness, joy, and kindness in the little deeds you do this week make a difference. As you go about your work this week, remember that you are working for the Lord.
 
-“And whatever you do, do it heartily, as to the Lord and not to men, knowing that from the Lord you will receive the reward of the inheritance; for you serve the Lord Christ” (Colossians 3:23, 24).
+> <callout>Colossians 3:23, 24</callout>
+> “And whatever you do, do it heartily, as to the Lord and not to men, knowing that from the Lord you will receive the reward of the inheritance; for you serve the Lord Christ.”

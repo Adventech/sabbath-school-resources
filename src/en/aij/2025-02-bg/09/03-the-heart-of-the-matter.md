@@ -24,9 +24,5 @@ Just as you care for the needs of your child when they are afraid, God cares for
 
 Think back on the ways God has blessed you in your past. Can you see a storm He has dissolved, a relationship He has calmed, a rough season He has brought you through? He wants you to trust Him with every storm. His word is your guarantee. Claim the beautiful promise of God’s peace Isaiah 41:10 for yourself and your family and think about whom you might share this encouragement with today.
 
-“Fear not, for I am with you;\
-Be not dismayed, for I am your God.\
-I will strengthen you,\
-Yes, I will help you,\
-I will uphold you with My righteous\
-right hand” (Isaiah 41:10).  
+> <callout>Isaiah 41:10</callout>
+> “Fear not, for I am with you; Be not dismayed, for I am your God. I will strengthen you, Yes, I will help you, I will uphold you with My righteous right hand.”

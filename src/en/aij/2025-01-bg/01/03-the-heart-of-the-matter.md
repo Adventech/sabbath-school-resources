@@ -20,8 +20,8 @@ God really is so good, and everything God made is good. God took an empty, dark 
 
 Ask God to reveal His goodness to you throughout your busy days. The more you seek Him in each moment, the more your eyes will be open to discover Him. Even when your day may seem dark or empty, you will begin to see that His goodness is there ready to fill the emptiness. Whether in a call from a friend or the sunrise each morning, God’s goodness is all around you. Look for Him, and He promises you will find Him (Proverbs 8:17). Share His goodness with those around you, and they too will discover that He truly is good!
 
-> <cite>1 Chronicles 16:34</cite>
+> <callout>1 Chronicles 16:34</callout>
 > “Oh, give thanks to the Lord, for He is good! For His mercy endures forever”
 
-> <cite>Psalm 145:9</cite>
+> <callout>Psalm 145:9</callout>
 > “The Lord is good to all, and His tender mercies are over all His works”.

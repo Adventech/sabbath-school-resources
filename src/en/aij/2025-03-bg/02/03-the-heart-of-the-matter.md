@@ -28,4 +28,5 @@ As you approach this week, with all the overwhelming tasks and to-do lists, pond
 - How am I praying specifically for my child’s character, their love and obedience to God, and their future?
 - What reminders can I set in place to keep my eyes on eternal realities?
 
-“Train up a child in the way he should go, and when he is old he will not depart from it” (Proverbs 22:6).
+> <callout>Proverbs 22:6</callout>
+> “Train up a child in the way he should go, and when he is old he will not depart from it.”

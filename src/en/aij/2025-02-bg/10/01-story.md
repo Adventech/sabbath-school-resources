@@ -20,7 +20,7 @@ It had been a good day. Now it was time to go home. Jesus’ friends waved goodb
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/10/02.png)
 {"style":{"text":{"color": "#ffffff"}, "block":{"backgroundColor": "#181818ad"}}}
-Jesus saw the big storm. He saw His friends from far away. He saw how tired and scared they were. Then Jesus went right to them. He didn’t swim. He didn’t take a boat. Jesus walked on top of the waves! (Walk fingers across picture.) The men in the boat were very surprised. Who was walking on the water? Jesus said, “Have courage! It is I! Don’t be afraid” (Matthew 14:27, ICB). Peter asked Jesus if he could walk on the water to meet Jesus. “Come,” Jesus said with a smile (Matthew 14:29). Peter stepped out of the boat . . . and onto the water. He didn’t sink! He looked at Jesus’ kind face as he walked closer to Him. Step, step, step. Peter came closer. He was walking on water!   
+Jesus saw the big storm. He saw His friends from far away. He saw how tired and scared they were. Then Jesus went right to them. He didn’t swim. He didn’t take a boat. Jesus walked on top of the waves! (Walk fingers across picture.) The men in the boat were very surprised. Who was walking on the water? Jesus said, “Have courage! It is I! Don’t be afraid” (Matthew 14:27, ICB). Peter asked Jesus if he could walk on the water to meet Jesus. “Come,” Jesus said with a smile (Matthew 14:29). Peter stepped out of the boat . . . and onto the water. He didn’t sink! He looked at Jesus’ kind face as he walked closer to Him. Step, step, step. Peter came closer. He was walking on water!
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/10/03.png)

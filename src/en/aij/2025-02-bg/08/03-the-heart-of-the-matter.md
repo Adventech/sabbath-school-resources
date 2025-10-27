@@ -22,17 +22,5 @@ Family is an important aspect of God’s plan to show His love to the world. He 
 
 Spend time this week reflecting on this promise. Highlight different words that encourage or challenge you differently each day. Pray them out loud and personalize them. May you come to appreciate more deeply the beautiful Helper we have in Jesus.
 
-“The Lord is the God who lives forever.\
-He created all the world.\
-He does not become tired or need to rest.\
-No one can understand how great his wisdom is.\
-The Lord gives strength to those who are tired.\
-He gives more power to those who are weak.\
-Even boys become tired and need to rest.\
-Even young men trip and fall.\
-But the people who trust the Lord will become strong again.\
-They will be able to rise up as an eagle in the sky.\
-They will run without needing rest.\
-They will walk without becoming tired”\
-(Isaiah 40:28-31, ICB).
- 
+> <callout>Isaiah 40:28-31, ICB</callout>
+> “The Lord is the God who lives forever. He created all the world. He does not become tired or need to rest. No one can understand how great his wisdom is. The Lord gives strength to those who are tired. He gives more power to those who are weak. Even boys become tired and need to rest. Even young men trip and fall. But the people who trust the Lord will become strong again. They will be able to rise up as an eagle in the sky. They will run without needing rest. They will walk without becoming tired.”

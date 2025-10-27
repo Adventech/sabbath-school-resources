@@ -24,4 +24,5 @@ Our Father loves to parent us as we parent our children. Just as Jochebed wrappe
 
 As you read this story to your little one this week, be on the lookout for the many ways God is wrapping you up in His love. May you be inspired by the faith of Jochebed and Amram as they took their problems to the God of the universe. May you see glimpses of the Father’s unending love in the way you love your own little one.
 
-“Behold what manner of love the Father has bestowed on us, that we should be called children of God!” (1 John 3:1).
+> <callout>1 John 3:1</callout>
+> “Behold what manner of love the Father has bestowed on us, that we should be called children of God!”

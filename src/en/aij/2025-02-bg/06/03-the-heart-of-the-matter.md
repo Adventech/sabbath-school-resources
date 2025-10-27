@@ -29,4 +29,5 @@ As you reflect on giving thanks, think about how you can create a culture of gra
 
 Jesus wants us to have an abundant, flourishing, whole life. When we give thanks to Him, we open our eyes to the many blessings He has poured into our lives.
 
-“Rejoice always, pray without ceasing, in everything give thanks; for this is the will of God in Christ Jesus for you” (1 Thessalonians 5:16-18).
+> <callout>1 Thessalonians 5:16-18</callout>
+> “Rejoice always, pray without ceasing, in everything give thanks; for this is the will of God in Christ Jesus for you.”

@@ -21,7 +21,7 @@ It was the end of a big day. The sky turned orange, then pink. Soon it would be 
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/09/02.png)
 {"style":{"text":{"color": "#ffffff"}, "block":{"backgroundColor": "#181818ad"}}}
-Suddenly big clouds covered the moon. The gentle breeze began to blow stronger (blow, making sound of the wind). The waves rose higher. Still, Jesus slept. The boat began rocking faster and faster (rock quickly). Then big waves crashed into the boat (clap). Jesus’ friends got very wet and very worried! Was Jesus worried? (Shake head side to side.) No, Jesus wasn’t worried. He slept peacefully. The waves crashed (clap hands), and the wind howled. The disciples felt scared! Would the boat sink? “Teacher!” they cried. Jesus opened His eyes. He saw they were scared. He saw that they had forgotten to trust in God. He stood up and spoke to the wind and the waves, “Peace, be still!” (Mark 4:35) 
+Suddenly big clouds covered the moon. The gentle breeze began to blow stronger (blow, making sound of the wind). The waves rose higher. Still, Jesus slept. The boat began rocking faster and faster (rock quickly). Then big waves crashed into the boat (clap). Jesus’ friends got very wet and very worried! Was Jesus worried? (Shake head side to side.) No, Jesus wasn’t worried. He slept peacefully. The waves crashed (clap hands), and the wind howled. The disciples felt scared! Would the boat sink? “Teacher!” they cried. Jesus opened His eyes. He saw they were scared. He saw that they had forgotten to trust in God. He stood up and spoke to the wind and the waves, “Peace, be still!” (Mark 4:35)
 ^^^
 ^^^
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/09/03.png)

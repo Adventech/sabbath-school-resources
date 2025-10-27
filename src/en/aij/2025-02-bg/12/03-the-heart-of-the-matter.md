@@ -24,4 +24,4 @@ More than that—she encountered the Savior. Her Savior. “It is not enough to 
 
 Jesus didn’t want her to walk away unnoticed. He wanted her to know that she was loved, and that she belonged. Jesus said to her, “Be of good cheer, daughter; your faith has made you well” (Matthew 9:22). Yes, Jesus calls you His daughter, His son.
 
-Jesus sees you in the trenches of parenthood. He sees you when you come to Him at the end of those long days and hold out your hand with the last of your strength in trust and hope. He acknowledges your faith. He encourages you, His son, His daughter.   
+Jesus sees you in the trenches of parenthood. He sees you when you come to Him at the end of those long days and hold out your hand with the last of your strength in trust and hope. He acknowledges your faith. He encourages you, His son, His daughter.

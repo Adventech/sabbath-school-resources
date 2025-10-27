@@ -22,4 +22,5 @@ The thing about worry though, is that it is based on our own self-reliance. When
 
 Jesus is so wonderfully able to take our worries away and provide the things we need in amazing ways (even a coin in a fish!). He desires for you to live a free life, and He wants to take the load of your burdens from you. Prayerfully give your worries to Him this week and watch the miraculous ways He will provide.
 
-“Therefore I say to you, do not worry about your life, what you will eat or what you will drink; nor about your body, what you will put on. . . . Look at the birds of the air, for they neither sow nor reap nor gather into barns; yet your heavenly Father feeds them. Are you not of more value than they? Which of you by worrying can add one cubit to his stature?” (Matthew 6:25-27).
+> <callout>Matthew 6:25-27</callout>
+> “Therefore I say to you, do not worry about your life, what you will eat or what you will drink; nor about your body, what you will put on. . . . Look at the birds of the air, for they neither sow nor reap nor gather into barns; yet your heavenly Father feeds them. Are you not of more value than they? Which of you by worrying can add one cubit to his stature?”

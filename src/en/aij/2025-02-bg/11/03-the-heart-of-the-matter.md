@@ -20,4 +20,5 @@ Jairus was just like you—a loving and dedicated parent who wanted the best for
 
 We too can entrust our children to our Father in heaven. He is a good, good Father. When you have those gray days—when parenting feels like a heavy load, or when the worst imaginable thing happens—trust your child to Jesus. We can fall at His feet and ask for protection, healing, and grace. Jesus is the one with whom we can leave our problems. And even if the miracle does not come this side of heaven, He offers indescribable peace, and hope for an eternal new beginning to come.
 
-_“Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God” (2 Corinthians 1:3-5)._ 
+> <callout>2 Corinthians 1:3-5</callout>
+> “Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God.”

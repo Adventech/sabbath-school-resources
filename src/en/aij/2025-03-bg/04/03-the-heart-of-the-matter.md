@@ -24,4 +24,5 @@ They had just seen God show His might and power in Egypt. He had delivered them 
 
 Impress these words from God on your heart, and think of them throughout your day and week ahead. Problems, both big and small, will come at you—sometimes in front and sometimes behind. The way forward may seem impossible. But not with God! Trust Him to lead you forward.
 
-“The great lesson here taught is for all time. Often the Christian life is beset by dangers, and duty seems hard to perform. The imagination pictures impending ruin before and bondage or death behind. Yet the voice of God speaks clearly, ‘Go forward.’ . . . Unbelief whispers, ‘Let us wait till the obstructions are removed, and we can see our way clearly;’ but faith courageously urges an advance, hoping all things, believing all things” (Ellen. G. White, _Patriarchs and Prophets_, p. 290).
+> <callout>Ellen. G. White, Patriarchs and Prophets, p. 290</callout>
+> “The great lesson here taught is for all time. Often the Christian life is beset by dangers, and duty seems hard to perform. The imagination pictures impending ruin before and bondage or death behind. Yet the voice of God speaks clearly, ‘Go forward.’ . . . Unbelief whispers, ‘Let us wait till the obstructions are removed, and we can see our way clearly;’ but faith courageously urges an advance, hoping all things, believing all things.”

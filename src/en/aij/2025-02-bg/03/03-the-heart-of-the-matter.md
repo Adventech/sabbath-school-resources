@@ -24,4 +24,5 @@ Make today a new day to become a “Bartimaeus.” Jesus longs to hear your cry 
 
 May you be blessed this week as your eyes are opened to the myriad of ways God loves and cares for you. May you be earnest and determined to know Christ and follow Him too.
 
-“And you shall know the truth, and the truth shall make you free” (John 8:32). 
+> <callout>John 8:32</callout>
+> “And you shall know the truth, and the truth shall make you free.”

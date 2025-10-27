@@ -22,4 +22,5 @@ Have you ever been completely and utterly overwhelmed? Maybe it was finding out 
 
 Jesus wants us to see the needs of those around us. When we are overwhelmed with the situations we face, Jesus offers to be our strength and support. He has given you special gifts and talents. However small they may seem, they have the potential to nurture others and lead them to Jesus. An act of kindness, a word of encouragement, the giving of time, or a listening ear are all things we can give—and God will multiply them and bless abundantly. How encouraging to know that we have access to the same power that fed the multitude that day.
 
-For truly, “I can do all things through Christ who strengthens me” (Philippians 4:13).
+> <callout>Philippians 4:13</callout>
+> For truly, “I can do all things through Christ who strengthens me.”

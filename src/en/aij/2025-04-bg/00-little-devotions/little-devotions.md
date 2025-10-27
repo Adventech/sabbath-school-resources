@@ -10,10 +10,10 @@ style:
         color: "#B990AE"
 ---
 
-One of the most important life skills you can teach your child is to seek God every day in personal devotion. Although your child is now only 1, 2, or 3 years old, it’s not too early to begin teaching them how to do this in simple ways. 
+One of the most important life skills you can teach your child is to seek God every day in personal devotion. Although your child is now only 1, 2, or 3 years old, it’s not too early to begin teaching them how to do this in simple ways.
 
 **How can I begin to teach my Beginner child to turn his or her heart to Jesus?**
- 
+
 1. **PRAY**: Every day, pray for your child’s heart to be opened to Jesus.
 2. **IN THE EVERYDAY MOMENTS**: Look for opportunities to talk about Jesus and how much you love Him. Sing simple songs about this and teach your child to sing along with you. Spontaneous, authentic praise at this age is an important part of building faith.
 3. **YOUR DEVOTIONAL PLACE**: Choose a chair, windowsill, or regular place where you will daily read your Bible and pray. Do this in a visible part of your home, such as the living area, so your child sees you spending time with Jesus.

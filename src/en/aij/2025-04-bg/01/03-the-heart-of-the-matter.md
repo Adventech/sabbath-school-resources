@@ -20,8 +20,10 @@ Hannah’s example of seeking God earnestly in prayer is a great witness to the 
 
 Hannah’s faithfulness didn’t stop when her prayer was answered. She committed Samuel to the Lord and gave him up to serve God in the tabernacle.
 
-“From the earliest dawn of intellect she had taught her son to love and reverence God and to regard himself as the Lord’s. . . . When separated from her child, the faithful mother’s solicitude [attentive care] did not cease. Every day he was the subject of her prayers. . . . She did not ask for her son worldly greatness, but she earnestly pleaded that he might attain that greatness which Heaven values—that he might honor God and bless his fellow men” (Ellen G. White, _Patriarchs and Prophets_, p. 572).
+> <callout>Ellen G. White, Patriarchs and Prophets, p. 572</callout>
+> “From the earliest dawn of intellect she had taught her son to love and reverence God and to regard himself as the Lord’s. . . . When separated from her child, the faithful mother’s solicitude [attentive care] did not cease. Every day he was the subject of her prayers. . . . She did not ask for her son worldly greatness, but she earnestly pleaded that he might attain that greatness which Heaven values—that he might honor God and bless his fellow men.”
 
 In your busy days, don’t forget to pray for your child. Like Hannah, you can give your child to the Lord in prayer. Tell your child that they are an answer from God, and that God has a special plan for their life, just as He did for Samuel. May your heart’s desire be that your child develops the greatness that Heaven values, just as Hannah did.
 
-“Lord, You have heard the desire of the humble; You will prepare their heart; You will cause Your ear to hear” (Psalm 10:17).
+> <callout>Psalm 10:17</callout>
+> “Lord, You have heard the desire of the humble; You will prepare their heart; You will cause Your ear to hear.”

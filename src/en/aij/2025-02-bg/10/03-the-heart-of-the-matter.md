@@ -24,4 +24,5 @@ How great is the love you feel for your child? Your love just explodes when you 
 
 In the burdens and trials you face this week, remember the compassionate and tender love that God has for you. Picture His hand reaching out for yours as you walk through the waves of life this week. Surrender your worries and fears to Him and experience His unexplainable peace.
 
-“Fear not, for I have redeemed you; I have called you by your name; You are Mine. When you pass through the waters, I will be with you; and through the rivers, they shall not overflow you. . . . For I am the Lord your God” (Isaiah 43:1-3). 
+> <callout>Isaiah 43:1-3</callout>
+> “Fear not, for I have redeemed you; I have called you by your name; You are Mine. When you pass through the waters, I will be with you; and through the rivers, they shall not overflow you. . . . For I am the Lord your God.”

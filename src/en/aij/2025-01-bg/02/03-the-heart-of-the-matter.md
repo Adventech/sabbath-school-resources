@@ -26,5 +26,5 @@ Take a breath, exhale a prayer, or sing a praise to God. “Song has wonderful p
 
 His light will shine in your heart. It cannot be contained. The glorious light of God will radiate through your life, renewing your spirit and filling your home with His goodness.
 
-> <cite>2 Corinthians 4:6, 7, ICB</cite>
+> <callout>2 Corinthians 4:6, 7, ICB</callout>
 > “God once said, ‘Let the light shine out of the darkness!’ And this is the same God who made his light shine in our hearts. He gave us light by letting us know the glory of God that is in the face of Christ. We have this treasure from God. But we are only like clay jars that hold the treasure. This shows that this great power is from God, not from us”
