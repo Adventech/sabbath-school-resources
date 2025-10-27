@@ -9,6 +9,17 @@
       - en-aij-2025-02-bb-pth
       - en-aij-2025-03-bb-pth
       - en-aij-2025-04-bb-pth
+  - group: Kindergarten
+    view: folio
+    resources:
+      - en-aij-*-04-kd
+      - en-aij-*-04-kd*
+      - en-aij-*-03-kd
+      - en-aij-*-03-kd*
+      - en-aij-*-02-kd
+      - en-aij-*-02-kd*
+      - en-aij-*-01-kd
+      - en-aij-*-01-kd*
   - group: Beginner
     view: folio
     resources:

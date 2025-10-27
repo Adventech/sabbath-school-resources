@@ -1,0 +1,99 @@
+title: 'Student YAQ1: My God Is Loving'
+markdownTitle: 'Student YAQ1: My God Is Loving'
+subtitle: Year A, Quarter 1
+primaryColor: '#6FAACD'
+primaryColorDark: '#4A83A6'
+credits:
+  - name: Principal Contributors
+    value: Lanelle Cobbin, Amy Cherry
+  - name: Other Contributors
+    value: Nina Atcheson, Celia Moncrieff
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard, Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Clinton Wahlen
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrators
+    value: Carlos Seribelli and Paula Lobo
+  - name: Designer
+    value: Megan Betteridge
+  - name: Copy Editors
+    value: James and Ida Cavil
+displaySequence: true
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+    nested:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+  resource:
+    title:
+      text:
+        typeface: DKWhaleSong-Regular
+    subtitle:
+      text:
+        typeface: MyriadPro-Regular
+fonts:
+  - name: Angello
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/Angello.ttf
+    attributes: regular
+  - name: DKWhaleSong-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/DK-Whale-Song.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCn
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCn.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCnObl
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCnObl.ttf
+    attributes: regular-italic
+  - name: ITCAvantGardeStd-BoldCn
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BoldCn.ttf
+    attributes: bold
+  - name: MyriadPro-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Bold.ttf
+    attributes: bold
+  - name: MyriadPro-BoldIt
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-BoldIt.ttf
+    attributes: bold-italic
+  - name: MyriadPro-It
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-It.ttf
+    attributes: regular-italic
+  - name: MyriadPro-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
+    attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/cover.png
