@@ -12,5 +12,5 @@ So in the rush of life, when the urgent pulls you away from the important, may y
 
 I know He’ll give you strength,
 
-^[Nina]({"style": {"text": {"color": "#9C84A0", "typeface": "Angello", "size": "sm"}}})\
+^[Nina]({"style": {"text": {"color": "#9C84A0", "typeface": "Angello", "size": "xl"}}})\
 and your General Conference Sabbath School Team

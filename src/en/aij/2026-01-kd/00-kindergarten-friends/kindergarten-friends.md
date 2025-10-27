@@ -15,5 +15,5 @@ God loves you SO much. I pray that you’ll know and feel this as you hear these
 
 Your Friend,
 
-^[Mrs. Nina]({"style": {"text": {"color": "#9C84A0", "typeface": "Angello", "size": "sm"}}})\
+^[Mrs. Nina]({"style": {"text": {"color": "#9C84A0", "typeface": "Angello", "size": "xl"}}})\
 and your General Conference Sabbath School Team

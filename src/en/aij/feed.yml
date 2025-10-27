@@ -1,14 +1,17 @@
 ---
   title: Alive in Jesus
   groups:
-  - group: Babies
+  - group: Primary
+    view: folio
     resources:
-      - en-aij-2025-00-bb-pb
-      - en-aij-2025-00-bb-tg
-      - en-aij-2025-01-bb-pth
-      - en-aij-2025-02-bb-pth
-      - en-aij-2025-03-bb-pth
-      - en-aij-2025-04-bb-pth
+      - en-aij-*-04-pr
+      - en-aij-*-04-pr*
+      - en-aij-*-03-pr
+      - en-aij-*-03-pr*
+      - en-aij-*-02-pr
+      - en-aij-*-02-pr*
+      - en-aij-*-01-pr
+      - en-aij-*-01-pr*
   - group: Kindergarten
     view: folio
     resources:
@@ -31,6 +34,14 @@
       - en-aij-*-02-bg*
       - en-aij-*-01-bg
       - en-aij-*-01-bg*
+  - group: Babies
+    resources:
+      - en-aij-2025-00-bb-pb
+      - en-aij-2025-00-bb-tg
+      - en-aij-2025-01-bb-pth
+      - en-aij-2025-02-bb-pth
+      - en-aij-2025-03-bb-pth
+      - en-aij-2025-04-bb-pth
   - group: Training Videos
     view: tile
     reverse: true
