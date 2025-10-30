@@ -2,7 +2,7 @@
 title: "Creation: Day 6"
 markdownTitle: '^[Creation: Day 6]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -26,7 +26,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - On DAY 6 God spoke and created animals, big and small! ^[(Toy animals.)]({"style": {"text": {"color":"#d34d5e"}}})
@@ -40,7 +40,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - Adam woke up to meet Eve. He loved her. God united them in marriage ^[(stand the two peg people together).]({"style": {"text": {"color":"#d34d5e"}}})
 - God’s creation work was now done. “Then God saw everything that He had made, and indeed it was very good” (Genesis 1:31). Repeat **Big Idea** together: **God is loving. He created me!**
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 Five whole days had come and gone since God began creating the beautiful new world. God could see that it was good ^[(look through the binoculars)]({"style": {"text": {"color":"#d34d5e"}}}), but He wasn’t finished yet!

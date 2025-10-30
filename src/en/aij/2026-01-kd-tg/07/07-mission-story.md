@@ -1,12 +1,11 @@
 ---
-title: Mission Story
-markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
+title: Sharing God’s Words
+markdownTitle: '^[Sharing God’s Words]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Mission Story
+markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
-**Focus:**  Zhuen memorizes the Bible and shares with his friends.
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Sharing God’s Words**
+**Focus:** Zhuen memorizes the Bible and shares with his friends.
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![Zhuen](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/07/mission-story.png)
@@ -31,4 +30,7 @@ Zhuen is faithful.
 
 Repeat the **Big Idea: God is loving. I can be faithful to Him.**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from “A Good Memory” by Andrew McChesney, Children’s Mission, copyright © 2021 General Conference of Seventh-day Adventists. Used and adapted by permission._

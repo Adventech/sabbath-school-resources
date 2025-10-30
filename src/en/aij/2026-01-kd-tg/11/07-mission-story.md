@@ -1,13 +1,12 @@
 ---
-title: Mission Story
-markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
+title: Bread for Trash
+markdownTitle: '^[Bread for Trash]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Mission Story
+markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:**  Mary continues to honor and be kind to Adna, and because of her witness, Adna becomes Jesus’ friend.
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Bread for Trash**
 
 **Location:** Help a child locate **Angola** on your **globe** or world **map**.
 
@@ -33,4 +32,7 @@ Today Adna and her family are happy Seventh-day Adventists. She no longer likes 
 
 Showing kindness through our actions even when someone is unkind to us is honoring them and sharing God’s love.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from a story of the same name by Andrew McChesney, Children’s Mission, copyright © 2022 General Conference of Seventh-day Adventists. Used and adapted by permission._

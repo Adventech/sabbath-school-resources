@@ -2,7 +2,7 @@
 title: "Lucifer’s Sad Choice"
 markdownTitle: '^[Lucifer’s Sad Choice]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -26,7 +26,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - Long before God created our world, He created powerful, shining angels ^[(paper angels, shine light on angels)]({"style": {"text": {"color":"#d34d5e"}}}).
@@ -40,7 +40,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - Many angels believed his lies—they thought God was unfair and unkind. These angels were willing to fight against God.
 - Only love could be in heaven. God had to send Lucifer—now called Satan, “the enemy”—and the angels who believed Satan, away from heaven ^[(pop the blown-up balloon and lay some paper angels aside)]({"style": {"text": {"color":"#d34d5e"}}}).
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Long before God created our world, He created some very special helpers: angels! ^[(Have children hold their angels up.)]({"style": {"text": {"color":"#d34d5e"}}}) God made thousands and thousands of angels. They were wonderful, with powerful wings and a bright light that made them shine wherever they went ^[(shine your light on the children’s angels)]({"style": {"text": {"color":"#d34d5e"}}}).

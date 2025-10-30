@@ -2,7 +2,7 @@
 title: "Cain and Abel"
 markdownTitle: '^[Cain and Abel]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -27,7 +27,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - Adam and Eve were so happy—they had baby Cain, then baby Abel ^[(point to facial expressions, baby doll)]({"style": {"text": {"color":"#d34d5e"}}}).
@@ -41,7 +41,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - God asked Cain where Abel was. Cain lied. God told Cain he would have to live far, far away.
 - Adam and Eve were so sad to lose Abel and Cain. God gave them baby Seth, who loved and obeyed God ^[(point to expressions)]({"style": {"text": {"color":"#d34d5e"}}}).
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Adam and Eve were so happy ^[(point to expression)]({"style": {"text": {"color":"#d34d5e"}}}). God had given them a sweet little baby ^[(rock doll)]({"style": {"text": {"color":"#d34d5e"}}}). They named him Cain. He grew and grew, until he was a little boy who could run and jump. One exciting day Cain became a big brother to a tiny baby boy named Abel! ^[(Point to expression.)]({"style": {"text": {"color":"#d34d5e"}}})

@@ -19,7 +19,7 @@ Although your child may be a confident reader, these lessons were written to fac
 
 May God bless you and your child. You’re in our prayers, wherever you are in the world,
 
-^[Nina]({"style": {"text": {"color": "#E5723F", "typeface": "Trashbone-Regular", "size": "lg"}}})\
+^[Nina]({"style": {"text": {"color": "#E5723F", "typeface": "Trashbone-Regular", "size": "xl"}}})\
 and your General Conference Sabbath School Team
 
 P.S. When your child wants to listen to their Sabbath School lesson or weekly Scripture Song, they can do so by scanning this QR code.

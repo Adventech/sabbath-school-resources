@@ -5,7 +5,7 @@ subtitle: Week 12
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 14
+**Bible Reference:** Genesis 14
 
 ---
 
@@ -35,12 +35,12 @@ _Patriarchs and Prophets_, pp. 134-136
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-7\. The Nature of Humanity
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
-11\. Growing in Christ
-21\. Stewardship
+3\. The Father\
+7\. The Nature of Humanity\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
+11\. Growing in Christ\
+21\. Stewardship\
 22\. Christian Behavior
 
 ---

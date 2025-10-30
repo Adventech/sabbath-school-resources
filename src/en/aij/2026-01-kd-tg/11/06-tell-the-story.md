@@ -2,7 +2,7 @@
 title: "Abram Lets Lot Choose"
 markdownTitle: '^[Abram Lets Lot Choose]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -24,7 +24,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - Abram had lots and lots of animals and riches. He always remembered His blessings came from God and thanked Him. (Felt or peg man. Toy animals on green fabric. Coins in bag.)
@@ -38,7 +38,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - God promised to give Abram all the land, forever, and a big, big family! (Point to “landscapes” again.)
 - Abram and Sarai made friends, honored others, and built altars to God. (Smiling peg people in sandbox. Heart craft sticks.)
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[► (Use a peg or felt man for Abram.)]({"style": {"text": {"color":"#d34d5e"}}}) Abram looked left, then right. He looked ahead and behind. Everywhere he turned there were wandering sheep, skipping goats, clip-clopping donkeys, grunting camels, and bellowing oxen. He owned so many animals. ^[(Give toy animals to children to place on green fabric.)]({"style": {"text": {"color":"#d34d5e"}}}) There were too many to count! God had already blessed Abram with so much—and it wasn’t just animals. God had blessed him with silver and gold too! ^[(Jingle coins in a bag.)]({"style": {"text": {"color":"#d34d5e"}}})

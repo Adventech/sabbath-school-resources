@@ -1,13 +1,12 @@
 ---
-title: Nature Lesson
-markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
+title: The Belding’s Ground Squirrel
+markdownTitle: '^[The Belding’s Ground Squirrel]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Nature Lesson
+markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:** Ground squirrels are loyal to their families. They keep them safe by making loud noises to alert them of danger.
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**The Belding’s Ground Squirrel**
 
 Show the children a whistle and invite a child to blow it to make a sound.
 
@@ -15,11 +14,8 @@ Show the children a whistle and invite a child to blow it to make a sound.
 
 Show the photo of the ground squirrel.
 
-```=Ground Squirrel
-
+{"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/12/nature-lesson.png)
-
-```
 
 These little whistling creatures are very loyal friends.
 

@@ -36,7 +36,7 @@ Source **paper plates, large craft sticks or cardboard tubes, yellow and green p
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Music:
 	- “It’s About Love”
 	- “Pack It Up”
@@ -60,7 +60,7 @@ Source **paper plates, large craft sticks or cardboard tubes, yellow and green p
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Additional Resources to Source**
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Offering container
 - Craft sticks, markers, pens, pencils, and other resources of your choice to decorate the angels.
 - Secret Surprise Box: God’s Creatures Photo Cards.

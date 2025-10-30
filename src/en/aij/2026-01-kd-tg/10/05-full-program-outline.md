@@ -126,7 +126,7 @@ Say the **Big Idea** together: **God is loving. I will follow Him.**
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Do some secret acts of kindness for your family at home this week. Leave a heart in the place where you did the kind act. The person who finds a heart can do something kind for someone else!**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about kind Abram and his nephew Lot.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about kind Abram and his nephew Lot.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 

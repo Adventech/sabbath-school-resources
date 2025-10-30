@@ -133,10 +133,10 @@ God is amazing to have created such faithful little penguin families that love a
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) This week in family worship, explain to your family what you love about God.**
 
-**^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Let the children take their collection of nature cards home. Affirm all they’ve learned this quarter, and give each a high-five or shake their hand. Tell them you’re proud of them!
+**^[GIVE:]({"style": {"text": {"color":"#F4793B"}}})** Let the children take their collection of nature cards home. Affirm all they’ve learned this quarter, and give each a high-five or shake their hand. Tell them you’re proud of them!
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about Isaac’s own sons—two twins who were very different.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about Isaac’s own sons—two twins who were very different.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
-**^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Pray, thanking God for faithfully keeping His promises. Ask Him to help the children remember that He can do impossible things for us.
+**^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God for faithfully keeping His promises. Ask Him to help the children remember that He can do impossible things for us.

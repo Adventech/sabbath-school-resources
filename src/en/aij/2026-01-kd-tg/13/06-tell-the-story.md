@@ -2,7 +2,7 @@
 title: "Baby Isaac"
 markdownTitle: '^[Baby Isaac]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -26,7 +26,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - Abram and Sarah were very old. God had promised them a big family, but it seemed impossible! ^[(Gray fabric on head, walking stick.)]({"style": {"text": {"color":"#d34d5e"}}})
@@ -40,7 +40,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - Baby Isaac was born. God had done the impossible! ^[(Baby doll.)]({"style": {"text": {"color":"#d34d5e"}}})
 - One day Jesus would be a descendant of this family. God always keeps His promises.
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Abram was now an old, old man, and Sarai was a wrinkly old woman. ^[(Place gray-colored fabric over your head, use a walking stick.)]({"style": {"text": {"color":"#d34d5e"}}}) It was a long time since God had said to Abram, “I will make you a great nation; I will bless you” (Genesis 12:2). Poor Abram and Sarai still didn’t have a child of their own. It seemed impossible! ^[(Use facial expressions.)]({"style": {"text": {"color":"#d34d5e"}}})

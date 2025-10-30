@@ -130,10 +130,10 @@ Repeat the **Big Idea: God is loving. He can help me to be a loyal friend.**
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Plan to invite someone over for a meal next Sabbath. Plan the menu together. Think of ways you can make your guest feel special and loved by God.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about kind baby Isaac.
-
-**^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Invite the children to link arms if they’d like to invite God to help them to be a loyal friend.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about kind baby Isaac.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
+
+**^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Invite the children to link arms if they’d like to invite God to help them to be a loyal friend.
 
 Invite a child to pray. Pray also and ask God to help the children to be loyal friends. Thank Him for always being their special loyal friend no matter what.

@@ -1,13 +1,12 @@
 ---
-title: Mission Story
-markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
+title: William’s Hard Lesson
+markdownTitle: '^[William’s Hard Lesson]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Mission Story
+markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:**  Disobedience has consequences.
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**William’s Hard Lesson**
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![William](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/05/mission-story.png)
@@ -40,4 +39,7 @@ Ask: **What choice should William have made?**
 
 **Teaching Point:** When we do not obey, it can have consequences that cause pain and make us sad. Our big loving God can help us to make good choices.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from a story of the same name by Charlotte Ishkanian, Children’s Magazine: Adventist Mission, copyright © 2012 General Conference of Seventh-day Adventists. Used and adapted by permission._

@@ -1,22 +1,18 @@
 ---
-title: Nature Lesson
-markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
+title: A Lion’s Pride
+markdownTitle: '^[A Lion’s Pride]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Nature Lesson
+markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:** When we love others, we choose peace.
 
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**A Lion’s Pride**
-
 - **Can you roar like a lion?**
 - **How can you tell which lion is the male lion?** (Show picture of lion.)
 
-```=Lion
-
+{"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/nature-lesson.png)
-
-```
 
 Growing up, male lion cubs have things pretty easy. They are much bigger and stronger than the lioness cubs, so they get what they want by pushing their sisters around. They are especially bossy at mealtimes, making sure that they eat first. When they reach the age of 2, they begin picking fights and become so mean that the lionesses often stay away from their food and sometimes stop eating altogether, even though they were the ones who caught the dinner.
 

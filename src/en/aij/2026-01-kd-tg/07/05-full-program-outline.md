@@ -139,8 +139,8 @@ Invite the children to repeat the **Big Idea** with you: **God is loving. I can 
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Sing your Scripture Song to your family every day this week.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about the Flood and God’s rainbow promise.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about the Flood and God’s rainbow promise.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
-**^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Pray, thanking God for the story of Noah. Ask Him to help us to become more faithful every day.
+**^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God for the story of Noah. Ask Him to help us to become more faithful every day.

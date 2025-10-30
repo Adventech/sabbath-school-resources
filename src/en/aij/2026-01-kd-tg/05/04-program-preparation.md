@@ -39,7 +39,7 @@ Print **^[Two Standing Trees]({"style": {"text": {"color": "#58B0E3"}}})** pictu
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Music:
 	- “Pack It Up”
 	- “Good Morning, Jesus”
@@ -63,7 +63,7 @@ Print **^[Two Standing Trees]({"style": {"text": {"color": "#58B0E3"}}})** pictu
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Additional Resources to Source**
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Mirror
 - Offering container
 - Bell or sound maker

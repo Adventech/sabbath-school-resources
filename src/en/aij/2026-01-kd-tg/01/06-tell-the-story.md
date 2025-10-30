@@ -2,7 +2,7 @@
 title: "Creation: Days 1-5"
 markdownTitle: '^[Creation: Days 1-5]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -29,7 +29,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - God loves to create! He created the heavens and the earth.
@@ -41,8 +41,8 @@ As you prepare to share this story, please read the student guide for the full, 
 - DAY 5: God spoke and created the fish of the sea and birds of the air ^[(blue fabric, toy sea creatures, feathers to throw in the air)]({"style": {"text": {"color":"#d34d5e"}}}).
 - God saw that it was good.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
-TELL THE STORY
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
+**TELL THE STORY**
 
 Do you like making new things? God loves creating! The Bible tells us that “In the beginning God created the heavens and the earth” (Genesis 1:1).
 

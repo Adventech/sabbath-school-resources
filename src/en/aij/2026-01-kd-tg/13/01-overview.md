@@ -5,7 +5,7 @@ subtitle: Week 13
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible References: Genesis 15; 17:1-22; 18:1-15; 21:106
+**Bible References:** Genesis 15; 17:1-22; 18:1-15; 21:106
 
 ---
 
@@ -35,12 +35,12 @@ _Patriarchs and Prophets_, pp. 138, 139
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-1\. The Scriptures
-3\. The Father
-4\. The Son
-7\. The Nature of Humanity
-11\. Growing in Christ
-22\. Christian Behavior
+1\. The Scriptures\
+3\. The Father\
+4\. The Son\
+7\. The Nature of Humanity\
+11\. Growing in Christ\
+22\. Christian Behavior\
 28\. The New Earth
 
 ---

@@ -99,18 +99,18 @@ As the sun sets each day, we can remember how our loving God created everything 
 {"style": {"block": {"backgroundColor": "#FEEDDE", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **CRAFT** (15 MINUTES)
 
-**^[CRAFT and MISSION CHALLENGE:]({"style": {"text": {"color":"#215E9E"}}})** Repeat the **Big Idea: God is loving. He created our world.**
+**^[CRAFT and MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}})** Repeat the **Big Idea: God is loving. He created our world.**
 
 **Hanging Heart Nature Mobile.** Children can use nature items to glue or weave onto their cardboard hearts. As they work, talk with them about some of the most amazing things they have ever seen in God’s creation. You may want to play this quarter’s **Scripture Song playlist** quietly in the background.
 
 **Give your craft to a younger child at church. Tell them what you love about God and His creation.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week you will find out how God finished creating everything in our big, beautiful world!
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week you will find out how God finished creating everything in our big, beautiful world!
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
-**^[APPLY:]({"style": {"text": {"color":"#215E9E"}}})** Hold your **Bible** and invite the children to share what they’d like to thank God for from this beautiful, true **Creation story** in the Bible. Children can say, **“I’d love to thank God for ______. It is very _______.”**
+**^[APPLY:]({"style": {"text": {"color":"#F4793B"}}})** Hold your **Bible** and invite the children to share what they’d like to thank God for from this beautiful, true **Creation story** in the Bible. Children can say, **“I’d love to thank God for ______. It is very _______.”**
 
 The rest of the children can respond by saying, **“Our God created the heavens and the earth.”**
 
-**^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Pray, thanking God for making the world so perfectly. Tell the children how wonderful it was to see them all in Sabbath School and that you can’t wait to see them again next week!
+**^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God for making the world so perfectly. Tell the children how wonderful it was to see them all in Sabbath School and that you can’t wait to see them again next week!

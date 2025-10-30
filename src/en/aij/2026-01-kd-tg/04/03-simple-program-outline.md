@@ -53,7 +53,7 @@ subtitle: Week 4
 **STORY EXPLORER BOX** (UNPACK THE STORY)
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
-- **^[Activity:Choices. ]({"style": {"text": {"color":"#A771B0"}}})** Read out scenarios and have children step closer or away from the “God” sign. Explain that God allows all of us to choose.
+- **^[Activity: Choices.]({"style": {"text": {"color":"#A771B0"}}})** Read out scenarios and have children step closer or away from the “God” sign. Explain that God allows all of us to choose.
 
 {"style": {"block": {"backgroundColor": "#E0E4EB", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **NATURE/MISSION**

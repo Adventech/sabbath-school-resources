@@ -1,10 +1,9 @@
 ---
-title: Nature Lesson
-markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
+title: My Body
+markdownTitle: '^[My Body]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Nature Lesson
+markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 ---
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**My Body**
 
 **Ask the children the following questions and invite them to do the matching action.** (Please be sensitive and adapt the following questions if you have special needs children in your class.)
 

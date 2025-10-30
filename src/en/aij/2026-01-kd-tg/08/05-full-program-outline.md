@@ -130,8 +130,8 @@ Repeat the **Big Idea: God is loving. He is always with me.**
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Tell this week’s Bible story (in your own words) to someone in your family using toys or blocks.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about some proud people who built a tall tower.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will be learning about some proud people who built a tall tower.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 
-**^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Invite a child to pray from their heart in response to what has been learned this week. As the children leave, **blow colorful bubbles over them** as a reminder to trust God’s promises.
+**^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Invite a child to pray from their heart in response to what has been learned this week. As the children leave, **blow colorful bubbles over them** as a reminder to trust God’s promises.

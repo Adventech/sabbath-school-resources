@@ -1,22 +1,18 @@
 ---
-title: Nature Lesson
-markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
+title: The Globe Skimmer
+markdownTitle: '^[The Globe Skimmer]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Nature Lesson
+markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:** The globe skimmer shows us how we can trust God, even though we cannot see Him.
 
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**The Globe Skimmer**
-
 - **Can you name an insect that flies?** (Bee, moth, mosquito, etc.)
 - **Do you know what type of creature this is?** (Show picture.)
 
-```=Globe Skimmer
-
+{"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/10/nature-lesson.png)
-
-```
 
 The wind is an amazing thing; you can’t see where it is coming from or where it is going, and you can’t hold it in your hand, but you can feel it on your face. ^[(Wave a paper fan over the children to feel the “wind.”)]({"style": {"text": {"color":"#d34d5e"}}}) Sometimes it blows so softly you can barely feel it, and at other times it can blow so hard that it can almost push you over!
 

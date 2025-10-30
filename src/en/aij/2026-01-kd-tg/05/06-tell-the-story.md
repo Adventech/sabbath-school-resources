@@ -2,7 +2,7 @@
 title: "Adam and Eve Choose"
 markdownTitle: '^[Adam and Eve Choose]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -25,7 +25,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - Life with God in the garden was good. God warned Adam and Eve about Satan, his lies, and tricks ^[(Face Emotions, sparkling angel).]({"style": {"text": {"color":"#d34d5e"}}})
@@ -39,7 +39,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - Adam and Eve left the garden forever. Life was hard. ^[(Invite two children to stand up and “guard” the two trees.)]({"style": {"text": {"color":"#d34d5e"}}})
 - God and Jesus had a rescue plan! Jesus would come as a baby, then die to save us. He’s coming back soon!
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Adam and Eve loved their Garden of Eden home, and they loved their Creator God. ^[(Invite a child to choose Face Emotions and place them on the face outline, to show how they felt.) ►]({"style": {"text": {"color":"#d34d5e"}}}) One evening God told Adam and Eve about the angel Lucifer, now called Satan. ^[(Show the sparkling angel from previous week.)]({"style": {"text": {"color":"#d34d5e"}}}) He had tricked other angels in heaven with his lies about God—he would try to trick them too.

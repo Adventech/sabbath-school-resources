@@ -12,5 +12,5 @@ I pray these lessons help you to be even more creative and grow closer to God th
 
 With love,
 
-^[Mrs. Nina]({"style": {"text": {"color": "#496934", "typeface": "Trashbone-Regular", "size": "lg"}}})\
+^[Mrs. Nina]({"style": {"text": {"color": "#496934", "typeface": "Trashbone-Regular", "size": "xl"}}})\
 and your General Conference Sabbath School Team

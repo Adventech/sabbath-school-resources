@@ -131,7 +131,7 @@ Invite children to say what makes them happy about the Sabbath. After each sugge
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Look for ways to give others the biggest and the best this week. Think about mealtime, playtime, and helping around the home. This is God’s loving way.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Lucifer’s sad choice.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Lucifer’s sad choice.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 

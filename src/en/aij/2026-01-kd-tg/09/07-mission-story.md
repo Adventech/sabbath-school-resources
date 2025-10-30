@@ -1,13 +1,12 @@
 ---
-title: Mission Story
-markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
+title: Shanker’s New Life
+markdownTitle: '^[Shanker’s New Life]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Mission Story
+markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:**  God changes Shanker’s life because He loves him.
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Shanker’s New Life**
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![Shanker](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/09/mission-story.png)
@@ -32,4 +31,7 @@ Sometimes members of the other team try to make Shanker’s team angry. They use
 
 Repeat the **Big Idea: God is loving. He is never proud.**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from a story of the same name by Andrew McChesney, Children’s Mission, copyright © 2017 General Conference of Seventh-day Adventists. Used and adapted by permission._

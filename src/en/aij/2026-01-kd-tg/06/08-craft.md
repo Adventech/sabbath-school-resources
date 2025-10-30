@@ -1,14 +1,16 @@
 ---
-title: Craft
-markdownTitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
+title: Card
+markdownTitle: '^[Card]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Craft
+markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 ---
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Card**
 
 **What you need:**
 
-Lettersize (A4) cardstock, watercolor paints or markers, paper towel or napkin squares, and paintbrush (1).
+Lettersize (A4) cardstock, watercolor paints or markers, paper towel or napkin squares, and paintbrush.
+
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6a.png)
 
 **Preparation Instructions:**
 
@@ -18,16 +20,15 @@ Lettersize (A4) cardstock, watercolor paints or markers, paper towel or napkin s
 
 **Create it together:**
 
-- Glue the paper towel shape onto the front of the card (2).
-- Use a brush to dot different colored paints onto the paper towel shape (3).
+- Glue the paper towel shape onto the front of the card.
+
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6b.png)
+
+- Use a brush to dot different colored paints onto the paper towel shape.
+
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6c.png)
+
 - While the children are painting, talk about things that can help to keep us calm, pointing to Jesus as our helper.
 - Alternatively, if you do not want to use paints, use colored markers, and other decorative craft items.
-
-{"style":{"image":{"aspectRatio":1.778}}}
-![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6a.png)
-
-{"style":{"image":{"aspectRatio":1.778}}}
-![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6b.png)
-
-{"style":{"image":{"aspectRatio":1.778}}}
-![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/06/6c.png)

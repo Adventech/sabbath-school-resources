@@ -128,7 +128,7 @@ Give each child **Nature Card 11** to place in their Nature Collector Bag.
 
 Repeat the **Big Idea: God is loving. I will put others first.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn more about Abram.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will learn more about Abram.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 

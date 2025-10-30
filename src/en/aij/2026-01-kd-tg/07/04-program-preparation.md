@@ -37,9 +37,9 @@ Source **cardboard tubes, colored fabric, rubber bands, ribbon or string, scisso
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Music:
-	- **“It’s About Love”**
+	- “It’s About Love”
 	- “Pack It Up”
 	- “A Big Hello”
 	- “God’s Big Family”
@@ -59,7 +59,7 @@ Source **cardboard tubes, colored fabric, rubber bands, ribbon or string, scisso
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Additional Resources to Source**
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Building blocks or cardboard box and crayons or markers
 - Offering container
 - Bell or sound maker

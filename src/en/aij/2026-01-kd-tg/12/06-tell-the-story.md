@@ -2,7 +2,7 @@
 title: "A Brave Rescue"
 markdownTitle: '^[A Brave Rescue]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -25,7 +25,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - Abram’s home in the hills was happy and peaceful—with an altar to God, His loyal friend ^[(cardboard altar).]({"style": {"text": {"color":"#d34d5e"}}})
@@ -39,7 +39,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - Abram wanted to give a thank You back to God. He gave Melchizedek a tenth of everything ^[(show 10 small objects; take one).]({"style": {"text": {"color":"#d34d5e"}}})
 - The king of Sodom told Abram he could keep all the rest of the goods, but Abram said no. His loyal God would look after him—He will provide for us too ^[(peg person).]({"style": {"text": {"color":"#d34d5e"}}})
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Abram’s home in the hills was a happy and peaceful one. Abram could talk with God under the shady trees. He could offer sacrifices to God on the altar, right near his tent ^[(cardboard altar)]({"style": {"text": {"color":"#d34d5e"}}}). He knew God was his loyal friend, and that was all he needed.

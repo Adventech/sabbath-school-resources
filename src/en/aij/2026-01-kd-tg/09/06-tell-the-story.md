@@ -2,7 +2,7 @@
 title: "The Tall Tower"
 markdownTitle: '^[The Tall Tower]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -27,7 +27,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - God told Noah’s family to have many children and to live around the world. Ham’s family turned away from God. They built a city near a river ^[(brown and blue fabric)]({"style": {"text": {"color":"#d34d5e"}}}) and decided to build a tall tower ^[(wooden blocks on brown fabric)]({"style": {"text": {"color":"#d34d5e"}}}).
@@ -37,7 +37,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - People soon found others who spoke the same words, and they moved all over the world ^[(world map or globe)]({"style": {"text": {"color":"#d34d5e"}}}).
 - God’s plan for people to fill the whole world happened ^[(paper hearts on map)]({"style": {"text": {"color":"#d34d5e"}}}).
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Noah and his family began their new life in the freshly cleaned world. They planted new farms and grew new food ^[(place vegetables and fruit on green fabric)]({"style": {"text": {"color":"#d34d5e"}}}). God told them: “Have many children. Grow in number and fill the earth” (Genesis 9:1, ICB). Yes, that’s just what they would do!

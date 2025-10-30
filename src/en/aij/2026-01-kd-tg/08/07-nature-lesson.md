@@ -1,22 +1,18 @@
 ---
-title: Nature Lesson
-markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
+title: Better Together
+markdownTitle: '^[Better Together]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Nature Lesson
+markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:** The emperor shrimp feels safe with the sea slug—they are always together.
 
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Better Together**
-
 - **Can you name some creatures that live under the sea?**
 - **Have you ever seen these two sea creatures?** (Show picture.)
 
-```=Sea Creatures
-
+{"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/08/nature-lesson.png)
-
-```
 
 There are lots of things in nature that are better together. The emperor shrimp and the nudibranch (pronounced new-di-brank), otherwise known as a sea slug, are great on their own, but even better together.
 

@@ -1,13 +1,12 @@
 ---
-title: Mission Story
-markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
+title: Anita’s Sabbath Adventure
+markdownTitle: '^[Anita’s Sabbath Adventure]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Mission Story
+markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:** The Sabbath is a special day with God.
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Anita’s Sabbath Adventure**
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![Anita](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/03/mission-story.png)
@@ -34,4 +33,7 @@ Anita loved being a missionary kid!
 
 - **What things did Anita do to help show that Sabbath is a special day?**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from a story of the same name by Andrew McChesney, Children’s Mission, copyright © 2022 General Conference of Seventh-day Adventists. Used and adapted by permission._

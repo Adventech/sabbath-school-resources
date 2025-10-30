@@ -3,8 +3,6 @@ title: Resources
 markdownTitle: '^[Resources]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
-Resources
-
 ```=Animal Footprints
 
 Print the template from the Alive in Jesus website, www.aliveinjesus.info.

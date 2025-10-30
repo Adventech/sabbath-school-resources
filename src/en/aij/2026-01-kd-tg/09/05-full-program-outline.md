@@ -134,8 +134,6 @@ Even the tiniest of creatures can build incredible things, reminding us of how l
 {"style": {"block": {"backgroundColor": "#FEEDDE", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **CRAFT**
 
-- {"style": {"block": {"backgroundColor": "#FFFAF4", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
-
 **^[CRAFT:]({"style": {"text": {"color":"#F4793B"}}}) Paper People From Different Countries.** Reinforce how God loves ALL the people of the world. When we choose God’s way as my way, we will love all people too.
 
 **^[REVIEW:]({"style": {"text": {"color":"#F4793B"}}})** Invite the children to place their paper people on the floor (on the world map, if possible) and connect their hands in a circle to show how we are in a big circle of friendship. Sing **“Jesus Loves the Little Children”** as you look at the paper people. Then give a little time of prayer for children to pray for the people in these countries.
@@ -152,7 +150,7 @@ Repeat **Big Idea: God is loving. He is never proud.**
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Wrap up a good surprise and give it to a family member. You might wrap up something you’ve made, found, or saved. Thank God that we can trust Him to give us good surprises.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about a friend of God named Abram.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about a friend of God named Abram.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song”
 

@@ -5,7 +5,7 @@ subtitle: Week 1
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 1
+**Bible Reference:** Genesis 1
 
 ---
 
@@ -35,8 +35,8 @@ _Patriarchs and Prophets_, pp. 44-51
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-5\. The Holy Spirit
+3\. The Father\
+5\. The Holy Spirit\
 6\. Creation
 
 ---

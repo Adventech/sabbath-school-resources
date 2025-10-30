@@ -5,7 +5,7 @@ subtitle: Week 9
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 11
+**Bible Reference:** Genesis 11
 
 ---
 
@@ -35,10 +35,10 @@ _Patriarchs and Prophets_, pp. 117-124
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-7\. The Nature of Humanity
-8\. The Great Controversy
-11\. Growing in Christ
+3\. The Father\
+7\. The Nature of Humanity\
+8\. The Great Controversy\
+11\. Growing in Christ\
 22\. Christian Behavior
 
 ---

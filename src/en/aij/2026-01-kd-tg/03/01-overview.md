@@ -5,7 +5,7 @@ subtitle: Week 3
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 2
+**Bible Reference:** Genesis 2
 
 ---
 
@@ -35,8 +35,8 @@ _Patriarchs and Prophets_, pp. 47, 48
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-6\. Creation
+3\. The Father\
+6\. Creation\
 20\. The Sabbath
 
 ---

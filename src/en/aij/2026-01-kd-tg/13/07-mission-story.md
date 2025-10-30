@@ -1,13 +1,12 @@
 ---
-title: Mission Story
-markdownTitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
+title: Mother and the King Cobra
+markdownTitle: '^[Mother and the King Cobra]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Mission Story
+markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:**  God makes the impossible possible for a mommy from India.
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Mother and the King Cobra**
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![Lakshmi](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/mission-story-01.png)
@@ -38,4 +37,7 @@ Lakshmi taught her mommy to pray and read the Bible. Today she is God’s good f
 
 Repeat **Big Idea: God is loving. He is always faithful.**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from a story of the same name by Andrew McChesney, Children’s Mission, copyright © 2017 General Conference of Seventh-day Adventists. Used and adapted by permission._

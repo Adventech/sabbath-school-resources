@@ -38,7 +38,7 @@ Source a bubble wand and bubble mixture.
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Music:
 	- “It’s About Love”
 	- “Pack It Up”
@@ -61,7 +61,7 @@ Source a bubble wand and bubble mixture.
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Additional Resources to Source**
 
-- {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Colored crepe paper or rectangular pieces of paper, paper, or ribbon. Crayons, tape, and sticks.
 - Offering container
 - Bell or sound maker

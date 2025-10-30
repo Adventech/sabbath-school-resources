@@ -1,18 +1,14 @@
 ---
-title: Nature Lesson
-markdownTitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
+title: Little Things Grow
+markdownTitle: '^[Little Things Grow]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Nature Lesson
+markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 ---
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Little Things Grow**
 
 **Show the children a variety of seeds.**
 
-```=Seeds
-
+{"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/04/nature-lesson.png)
-
-```
 
 - Look at the shape and color of each one.
 - Comment on how unique each one is.

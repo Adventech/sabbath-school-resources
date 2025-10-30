@@ -1,14 +1,16 @@
 ---
-title: Craft
-markdownTitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
+title: Starry Sky Picture
+markdownTitle: '^[Starry Sky Picture]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Craft
+markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 ---
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-**Starry Sky Picture**
 
 **What you need:**
 
-Black paper, chalk, colored paper, silver star stickers (if available), week 13 templates, scissors, crayons or colored pencils, and glue (1).
+Black paper, chalk, colored paper, silver star stickers (if available), week 13 templates, scissors, crayons or colored pencils, and glue.
+
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13a.png)
 
 **Preparation Instructions:**
 
@@ -19,17 +21,15 @@ Black paper, chalk, colored paper, silver star stickers (if available), week 13 
 
 **Create it together:**
 
-- Glue “tent” onto the black paper and fold out the opening (2).
-- Dot the page with chalk to make stars (3).
-- Color in the Abraham and Sarah pictures, and glue onto the page (3).
-- Color in memory verse star and glue onto page (3).
-- Add silver star stickers (if using) (3).
+- Glue “tent” onto the black paper and fold out the opening.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13b.png)
+
+- Dot the page with chalk to make stars.
+- Color in the Abraham and Sarah pictures, and glue onto the page.
+- Color in memory verse star and glue onto page.
+- Add silver star stickers (if using).
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13b.png)
-
-{"style":{"image":{"aspectRatio":1.778}}}
-![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13c.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/13/13c.png)

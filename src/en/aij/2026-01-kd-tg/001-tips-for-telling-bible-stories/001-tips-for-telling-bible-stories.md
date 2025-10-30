@@ -3,7 +3,7 @@ title: Tips for Telling Bible Stories in Sabbath School
 markdownTitle: '^[Tips for Telling Bible Stories in Sabbath School]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
-**^[“_Teach me what I do not see_” (Job 34:32).]({"style": {"text": {"color": "#58B0E3"}}})**
+**^[“_Teach me what I do not see_”]({"style": {"text": {"color": "#58B0E3"}}})** (Job 34:32).
 
 **^[1. Practice telling the Bible story as you would any other story.]({"style": {"text": {"color": "#58B0E3"}}})** We want to show children that the Bible is living, powerful, true, and trustworthy, and that God has a special message for them personally in each story. Invest time into how you will communicate this most effectively to the children in your class. Remember:
 
@@ -27,4 +27,4 @@ markdownTitle: '^[Tips for Telling Bible Stories in Sabbath School]({"style": {"
 
 **^[5. Pray that God will help you to communicate His stories effectively]({"style": {"text": {"color": "#58B0E3"}}})** for the specific age to whom you’re speaking. You’re dealing with God’s Word and eternal implications.
 
-**^[“_Show me Your ways, O Lord; Teach me Your paths. Lead me in Your truth and teach me, For You are the God of my salvation; On You I wait all the day._” Psalm 25:4, 5]({"style": {"text": {"color": "#58B0E3"}}})**
+**^[“_Show me Your ways, O Lord; Teach me Your paths. Lead me in Your truth and teach me, For You are the God of my salvation; On You I wait all the day._”]({"style": {"text": {"color": "#58B0E3"}}})** (Psalm 25:4, 5)

@@ -5,7 +5,7 @@ subtitle: Week 11
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 13
+**Bible Reference:** Genesis 13
 
 ---
 
@@ -35,10 +35,10 @@ _Patriarchs and Prophets_, pp. 132-134
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-7\. The Nature of Humanity
-11\. Growing in Christ
-21\. Stewardship
+3\. The Father\
+7\. The Nature of Humanity\
+11\. Growing in Christ\
+21\. Stewardship\
 22\. Christian Behavior
 
 ---

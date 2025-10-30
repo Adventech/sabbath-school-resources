@@ -5,7 +5,7 @@ subtitle: Week 4
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible References: Isaiah 14:13, 14; Ezekiel 28:12-17
+**Bible References:** Isaiah 14:13, 14; Ezekiel 28:12-17
 
 ---
 
@@ -36,11 +36,11 @@ _Forever Stories_, vol. 1, pp. 7-23
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-2\. The Trinity
-3\. The Father
-4\. The Son
-8\. The Great Controversy
-11\. Growing in Christ
+2\. The Trinity\
+3\. The Father\
+4\. The Son\
+8\. The Great Controversy\
+11\. Growing in Christ\
 19\. The Law of God
 
 ---

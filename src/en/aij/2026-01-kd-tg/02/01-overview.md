@@ -5,7 +5,7 @@ subtitle: Week 2
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 1
+**Bible Reference:** Genesis 1
 
 ---
 
@@ -35,11 +35,11 @@ _Patriarchs and Prophets_, pp. 44-47
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-6\. Creation
-7\. The Nature of Humanity
-11\. Growing in Christ
-22\. Christian Behavior
+3\. The Father\
+6\. Creation\
+7\. The Nature of Humanity\
+11\. Growing in Christ\
+22\. Christian Behavior\
 23\. Marriage and Family
 
 ---

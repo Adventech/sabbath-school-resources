@@ -2,7 +2,7 @@
 title: "Noah Builds a Boat"
 markdownTitle: '^[Noah Builds a Boat]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -25,7 +25,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - Seth and his children loved God. They were His faithful followers ^[(happy peg people in sandbox).]({"style": {"text": {"color":"#d34d5e"}}})
@@ -39,7 +39,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - Noah faithfully built the ark and preached for 120 years. But nobody believed Noah. They laughed at him ^[(peg “Noah”).]({"style": {"text": {"color":"#d34d5e"}}})
 - The ark was finished! Only Noah and his family went into the ark. God would save Noah and his family, just as He had promised ^[(toy boat, sand box).]({"style": {"text": {"color":"#d34d5e"}}})
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Adam and Eve’s son Seth and his children loved God. They were His faithful followers. ^[(Place the happy peg people into one side of a sandbox.)]({"style": {"text": {"color":"#d34d5e"}}}) But not everyone loved and followed God’s ways. Cain’s family lived far away and had become very selfish. ^[(Place the sad peg people into the sandbox on the opposite side.)]({"style": {"text": {"color":"#d34d5e"}}}) They stopped following God and instead did things their own way.

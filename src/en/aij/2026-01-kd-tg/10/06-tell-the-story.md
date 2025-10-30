@@ -2,7 +2,7 @@
 title: "Abram, Man of Faith"
 markdownTitle: '^[Abram, Man of Faith]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -26,7 +26,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - New homes, farms, and big cities popped up around the world—but most people had forgotten about God again. ^[(Place colored blocks onto a world map on the floor.)]({"style": {"text": {"color":"#d34d5e"}}})
@@ -40,7 +40,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - Abram led his family to Egypt to find food when there was no rain. When he lied instead of trusting God, God didn’t stop being his friend—He forgave and helped Abram ^[(Egypt sign).]({"style": {"text": {"color":"#d34d5e"}}})
 - In good times and bad, Abram learned to trust God. He knew that God is loving. He would follow Him.
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) New homes, new farms, and even big cities popped up around the world. ^[(Place colored blocks onto a world map on the floor.)]({"style": {"text": {"color":"#d34d5e"}}}) God’s plan to fill the world with people was happening! But sadly, most people had forgotten about God again.

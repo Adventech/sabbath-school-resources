@@ -2,7 +2,7 @@
 title: "Sabbath Rest"
 markdownTitle: '^[Sabbath Rest]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -25,7 +25,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - At the end of Day 6 the sun set, and the first Sabbath began ^[(cardboard sun).]({"style": {"text": {"color":"#d34d5e"}}})
@@ -39,7 +39,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - For six days Adam and Eve worked. They did all their work before Sabbath, so they could be ready for it ^[(props to pretend to get ready for Sabbath). What things could you do to help be ready for Sabbath at home?]({"style": {"text": {"color":"#d34d5e"}}})
 - The Sabbath begins at sunset every week—it’s a gift for everyone. God is loving. He gave us the Sabbath. Thank You, God!
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Adam and Eve watched the golden sun begin to set. When it dipped out of sight, the Sabbath would begin ^[(hold up cardboard sun and make it disappear behind a chair).]({"style": {"text": {"color":"#d34d5e"}}}) Their smiles grew big and bright. What a beautiful world!

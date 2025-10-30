@@ -5,7 +5,7 @@ subtitle: Week 8
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 7
+**Bible Reference:** Genesis 7
 
 ---
 
@@ -35,9 +35,9 @@ _Patriarchs and Prophets_, pp. 95-103, 105, 106
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-8\. The Great Controversy
-10\. The Experience of Salvation
+3\. The Father\
+8\. The Great Controversy\
+10\. The Experience of Salvation\
 11\. Growing in Christ
 
 ---

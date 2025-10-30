@@ -5,7 +5,7 @@ subtitle: Week 5
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible References: Genesis 2:16; 3:17
+**Bible References:** Genesis 2:16; 3:17
 
 ---
 
@@ -35,11 +35,11 @@ _Patriarchs and Prophets_, pp. 52-70
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-4\. The Son
-7\. The Nature of Humanity
-8\. The Great Controversy
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
+4\. The Son\
+7\. The Nature of Humanity\
+8\. The Great Controversy\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
 25\. Second Coming
 
 ---

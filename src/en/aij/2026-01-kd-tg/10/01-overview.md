@@ -5,7 +5,7 @@ subtitle: Week 10
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 11
+**Bible Reference:** Genesis 11
 
 ---
 
@@ -35,8 +35,8 @@ _Patriarchs and Prophets_, pp. 125-128
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-11\. Growing in Christ
+3\. The Father\
+11\. Growing in Christ\
 19\. The Law of God
 
 ---

@@ -5,7 +5,7 @@ subtitle: Week 7
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 5:18-6:22
+**Bible Reference:** Genesis 5:18-6:22
 
 ---
 
@@ -35,12 +35,12 @@ _Patriarchs and Prophets_, pp. 80-116
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-7\. The Nature of Humanity
-8\. The Great Controversy
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
-11\. Growing in Christ
+3\. The Father\
+7\. The Nature of Humanity\
+8\. The Great Controversy\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
+11\. Growing in Christ\
 25\. The Second Coming
 
 ---

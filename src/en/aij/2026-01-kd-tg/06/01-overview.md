@@ -5,7 +5,7 @@ subtitle: Week 6
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 4:1-15
+**Bible Reference:** Genesis 4:1-15
 
 ---
 
@@ -35,13 +35,13 @@ _Patriarchs and Prophets_, pp. 71-79
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-4\. The Son
-7\. The Nature of Humanity
-8\. The Great Controversy
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
-19\. The Law of God
-22\. Christian Behavior
+4\. The Son\
+7\. The Nature of Humanity\
+8\. The Great Controversy\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
+19\. The Law of God\
+22\. Christian Behavior\
 23\. Marriage and Family
 
 ---

@@ -2,7 +2,7 @@
 title: "A Rainbow Promise"
 markdownTitle: '^[A Rainbow Promise]({"style": {"text": {"color": "#F4793B"}}})'
 subtitle: Tell the Story
-markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#00b7aa"}}})'
+markdownSubtitle: '^[Tell the Story]({"style": {"text": {"color": "#649b7c"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B"}}}
@@ -27,7 +27,7 @@ As you prepare to share this story, please read the student guide for the full, 
 
 **Pray:** Before you begin, pray. Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
-{"style": {"text": {"color": "#00b7aa", "size": "lg"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY: QUICK CUES**
 
 - God told Noah, “Come into the ark.” People made fun of Noah and his family.
@@ -41,7 +41,7 @@ As you prepare to share this story, please read the student guide for the full, 
 - God opened the big ark door. Noah and his family went outside and made a thank-You altar to God. ^[(Green fabric, “walk” all the animals out of the ark, stones/blocks to make an altar.)]({"style": {"text": {"color":"#d34d5e"}}})
 - God made a rainbow—a promise and reminder that He would never flood the whole earth again. ^[(Children wave rainbow sticks.)]({"style": {"text": {"color":"#d34d5e"}}})
 
-{"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
+{"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) God said to His friend Noah, “You and your family go into the boat” (Genesis 7:1, ICB). It was time! The ark was well-made and ready to float. God was ready to wash the world clean from evil. Sadly, the people didn’t believe God would send a flood. They made fun of Noah.
