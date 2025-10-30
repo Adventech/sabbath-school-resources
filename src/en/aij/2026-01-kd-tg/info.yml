@@ -1,0 +1,83 @@
+title: 'Teacher YAQ1: My God is Loving'
+markdownTitle: 'Teacher YAQ1: My God is Loving'
+subtitle: Year A, Quarter 1
+primaryColor: '#5C7981'
+primaryColorDark: '#40585F'
+credits:
+  - name: Principal Contributor
+    value: Lanelle Cobbin
+  - name: Contributors
+    value: Jenny Paddison, Carolin Schmitz, Nina Atcheson
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard and Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Daniel Bediako
+  - name: Designer
+    value: Megan Betteridge
+  - name: Copy Editors
+    value: James and Ida Cavil
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: CenturyGothic
+    nested:
+      all:
+        text:
+          typeface: CenturyGothic
+  segment:
+    title:
+      text:
+        typeface: CenturyGothic
+        color: '#f4793b'
+  resource:
+    title:
+      text:
+        typeface: Omnes-Bold
+    subtitle:
+      text:
+        typeface: Omnes-Regular
+displaySequence: true
+fonts:
+  - name: CenturyGothic-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Bold.ttf
+    attributes: bold
+  - name: CenturyGothic-BoldItalic
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-BoldItalic.ttf
+    attributes: bold-italic
+  - name: CenturyGothic-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Italic.ttf
+    attributes: regular-italic
+  - name: CenturyGothic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Regular.ttf
+    attributes: regular
+  - name: Omnes-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Bold.ttf
+    attributes: bold
+  - name: Omnes-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Regular.ttf
+    attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/cover.png
