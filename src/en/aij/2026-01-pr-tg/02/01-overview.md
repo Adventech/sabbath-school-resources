@@ -5,7 +5,7 @@ subtitle: Week 2
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible References: Genesis 1:24-31; 2:7-25
+**Bible References:** Genesis 1:24-31; 2:7-25
 
 ---
 
@@ -37,11 +37,11 @@ _The Bible Story_, vol. 1, pp. 35-56
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-6\. Creation
-7\. The Nature of Humanity
-11\. Growing in Christ
-21\. Stewardship
+3\. The Father\
+6\. Creation\
+7\. The Nature of Humanity\
+11\. Growing in Christ\
+21\. Stewardship\
 23\. Marriage and the Family
 
 ---

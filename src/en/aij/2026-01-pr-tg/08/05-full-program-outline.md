@@ -159,4 +159,4 @@ Play the quarterly **Scripture Song playlist** quietly in the background as the 
 
 **^[PRAY:]({"style": {"text": {"color":"#a771b0"}}})** Thank God for the ways He protects us. Thank Him for His promises, especially the promise that we will one day see Him and the rainbow around His throne in heaven.
 
-^[TAKE HOME:]({"style": {"text": {"color":"#a771b0"}}})** You might like to give the children an extra **Character Card 8: Rainbow Promise** to take home as a reminder to claim their memory verse and trust God’s promises.
+**^[TAKE HOME:]({"style": {"text": {"color":"#a771b0"}}})** You might like to give the children an extra **Character Card 8: Rainbow Promise** to take home as a reminder to claim their memory verse and trust God’s promises.

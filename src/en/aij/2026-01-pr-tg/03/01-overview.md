@@ -5,7 +5,7 @@ subtitle: Week 3
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible References: Genesis 2:1-3; Exodus 20:1-10
+**Bible References:** Genesis 2:1-3; Exodus 20:1-10
 
 ---
 
@@ -37,12 +37,12 @@ _The Bible Story_, vol. 1, pp. 57-60
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-6\. Creation
-9\. The Life, Death, and Resurrection of Christ
-11\. Growing in Christ
-19\. The Law of God
-20\. The Sabbath
+3\. The Father\
+6\. Creation\
+9\. The Life, Death, and Resurrection of Christ\
+11\. Growing in Christ\
+19\. The Law of God\
+20\. The Sabbath\
 28\. The New Earth
 
 ---

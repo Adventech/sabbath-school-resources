@@ -11,11 +11,8 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 - **Have you ever seen a frog jump?**
 - **Let’s find out what frogs can teach us about making wise choices.** ^[(Show picture.)]({"style": {"text": {"color":"#d34d5e"}}})
 
-```=
-
+{"style":{"image":{"aspectRatio":1.501}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/12/nature-lesson.png)
-
-```
 
 There are more than 6,000 different species of frogs in the world, and new ones are still being discovered. Frogs are amphibians, which means they can live on both land and in the water. Frogs come in many different sizes and are found all over the world—except in Antarctica.
 

@@ -38,7 +38,7 @@ subtitle: Week 9
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Object lesson and discussion: **^[“Staying afloat”]({"style": {"text": {"color":"#649b7c"}}})**/dependence on God (soda and raisins)
 Apply: Choosing to depend on God
 
@@ -53,7 +53,7 @@ Apply: Choosing to depend on God
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Character Card 9: The Tower of Babel]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Psalm 71:1”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Psalm 71:1”
 - **^[Mission Story:]({"style": {"text": {"color":"#a771b0"}}})** “Learning French”
 - **^[Mission Challenge:]({"style": {"text": {"color":"#a771b0"}}})** Learn “Hello, God loves you” in the language of someone who is new to your country and share it with them this week.
 - **^[Craft:]({"style": {"text": {"color":"#a771b0"}}})** Tower of Babel

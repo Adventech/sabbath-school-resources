@@ -11,11 +11,8 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 - **Have you ever seen a full moon in the night sky?**
 - **Let’s find out what an eclipse of the moon is and what it can teach us.** ^[(Show picture.)]({"style": {"text": {"color":"#d34d5e"}}})
 
-```=Eclipse of the Moon
-
+{"style":{"image":{"aspectRatio":1.272}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/06/nature-lesson.png)
-
-```
 
 Elaine Egbert stepped outside to check the full moon. This is what she saw.
 
@@ -33,4 +30,7 @@ When we find ourselves in this position, it’s important to make things right w
 
 **When sin and selfishness get between you and God, what can you do?** (Pray. Say you’re sorry. Ask for His forgiveness.)
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from a story by the same name by Elaine Egbert, Nature in a Nutshell, copyright © 2003 Review and Herald ® Publishing Association. Used and adapted by permission._

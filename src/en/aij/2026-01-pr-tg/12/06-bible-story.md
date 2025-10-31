@@ -31,7 +31,7 @@ Poor Lot! He had not made wise choices. Now he was in real trouble.
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) A messenger ran to the hills to tell Abram the terrible news.
 
-Abram decided immediately that Lot had to be rescued. He could have done nothing and let Lot suffer for his unwise choices, but he didn’t. ^[**Abram prayed first, and then what did he do? Read Genesis 14:14.** (Called his 318 trained men to go rescue Lot.)]({"style": {"text": {"color":"#58B0E3"}}})
+Abram decided immediately that Lot had to be rescued. He could have done nothing and let Lot suffer for his unwise choices, but he didn’t. **^[Abram prayed first, and then what did he do? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 14:14.** ^[(Called his 318 trained men to go rescue Lot.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 These men were Abram’s loyal servants who loved God and knew how to defend themselves. Three neighboring rulers joined in with their armed servants. Together they raced after the enemy army. Lot’s captors far outnumbered them, but Abram’s men were brave because they had God on their side, and He is very wise and powerful.
 
@@ -44,7 +44,7 @@ Let’s pause our story for a moment to think about an important Bible message. 
 - **What made it so easy for Lot to move into Sodom?** (He had already chosen to move close to Sodom, so life in a sinful city had come to look normal to him. He had become so used to sin that he could no longer wisely judge what was good or bad.)
 
 {"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-OBJECT LESSON
+**OBJECT LESSON**
 
 {"style": {"text": {"color":"#58B0E3"}}}
 To illustrate this, fill **bowls** with **chilled water** and **ice cubes**. Have the children hold their hand in the water.

@@ -121,12 +121,12 @@ our attention in interesting ways to help us depend on Him.
 
 **^[CRAFT:]({"style": {"text": {"color":"#a771b0"}}})** Show the children your completed **Tower of Babel craft** and share instructions for making it.
 
-**[SHARE:]({"style": {"text": {"color":"#a771b0"}}})** While the children do their craft, invite your foreign language speakers from different generations (ages) to share how they have chosen to depend on God. They may like to share a specific experience, or the many things they depend on Him for each day—things we tend to take for granted such as shelter, food, and clean water. Encourage them to be brief and simple. Thank them together as a class.
+**^[SHARE:]({"style": {"text": {"color":"#a771b0"}}})** While the children do their craft, invite your foreign language speakers from different generations (ages) to share how they have chosen to depend on God. They may like to share a specific experience, or the many things they depend on Him for each day—things we tend to take for granted such as shelter, food, and clean water. Encourage them to be brief and simple. Thank them together as a class.
 
-**[PEER SHARE and COMMIT:]({"style": {"text": {"color":"#a771b0"}}})** If time allows, play **music** and invite the children to **walk around**. When the music stops, they can find a partner nearby and **share** something they’ve learned or enjoyed in today’s lesson. Do this a couple of times. On the last stop, invite them to pray on their own, and commit to depending on God more in the coming week.
+**^[PEER SHARE and COMMIT:]({"style": {"text": {"color":"#a771b0"}}})** If time allows, play **music** and invite the children to **walk around**. When the music stops, they can find a partner nearby and **share** something they’ve learned or enjoyed in today’s lesson. Do this a couple of times. On the last stop, invite them to pray on their own, and commit to depending on God more in the coming week.
 
-**[SING:]({"style": {"text": {"color":"#a771b0"}}})** Bring children back together to sing your closing song, **“God Bless You.”**
+**^[SING:]({"style": {"text": {"color":"#a771b0"}}})** Bring children back together to sing your closing song, **“God Bless You.”**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3] “God Bless You”
 
-**[PRAY:]({"style": {"text": {"color":"#a771b0"}}})** Ask God to be with the children and their families. Thank God for being dependable and ask Him to help the children choose to depend on Him this week.
+**^[PRAY:]({"style": {"text": {"color":"#a771b0"}}})** Ask God to be with the children and their families. Thank God for being dependable and ask Him to help the children choose to depend on Him this week.

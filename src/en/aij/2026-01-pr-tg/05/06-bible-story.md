@@ -28,7 +28,7 @@ God told them they would die if they ate from this tree. He also sent His angels
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) One day Eve found herself at the forbidden tree, face-to-face with a beautiful, winged serpent. Suddenly it began talking in the sweetest voice! It was Satan! ^[(Clay creations.)]({"style": {"text": {"color":"#d34d5e"}}})
 
-^[**What lies did the serpent tell her? Read Genesis 3:4, 5.** (You won’t die. You will be like God.)]({"style": {"text": {"color":"#58B0E3"}}})
+**^[What lies did the serpent tell her? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 3:4, 5.** ^[(You won’t die. You will be like God.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 The lies confused Eve, but they sounded good. She chose to believe them. She took the fruit he offered her and bit into it. It was juicy and sweet. She picked some more for Adam and gave it to him to eat. He took a bite too.
 
@@ -79,6 +79,6 @@ But God would never leave them.
 
 And God would not let sin win! He promised to send someone to save them and destroy all evil forever. Adam and Eve needed to know that though they’d made a big mistake, God had a way to fix it. They couldn’t see that up in heaven, Jesus had said to His Father, “Let the punishment fall on Me. I will stand in man’s place. He shall have another chance” (Ellen G. White, _The Faith I Live By_, p. 75).
 
-^[►]({"style": {"text": {"color":"#d34d5e"}}}) God the Father would let His Son come to earth to stand in place of all people and die for their sins. This became the plan and the promise. ^[**Read John 3:16.** (God gave up His Son so that we can have eternal life.)]({"style": {"text": {"color": "#58B0E3"}}})
+^[►]({"style": {"text": {"color":"#d34d5e"}}}) God the Father would let His Son come to earth to stand in place of all people and die for their sins. This became the plan and the promise. **Read John 3:16.** ^[(God gave up His Son so that we can have eternal life.)]({"style": {"text": {"color": "#58B0E3"}}})
 
 When Adam and Eve sinned, they passed the consequences on to everyone, so we all need God’s plan. Because of His death, we can have forgiveness of our sins and the promise that we can someday live with Him forever!

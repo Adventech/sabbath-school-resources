@@ -39,7 +39,7 @@ subtitle: Week 2
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Activity: Sort **^[animal pictures]({"style": {"text": {"color":"#649b7c"}}})** (animal roles/blessing to people).
 - Discuss: What is the importance of animals to people and our world.
 
@@ -55,11 +55,11 @@ subtitle: Week 2
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Character Card 2: Adam and Eve]({"style": {"text": {"color":"#a771b0"}}})**
-- Memory Verse and Scripture Song: “Genesis 1:27” (Answer questions in pairs.)
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Genesis 1:27” (Answer questions in pairs.)
 - Option: Memory verse in pairs
-- Nature Lesson: “Eye See”
+- **^[Nature Lesson:]({"style": {"text": {"color":"#a771b0"}}})** “Eye See”
 - Sticky note “Thank You” to God beside Creation poster
-- Craft: Creation bookmark
+- **^[Craft:]({"style": {"text": {"color":"#a771b0"}}})** Creation bookmark
 - - Sing **^[“God Bless You.”]({"style": {"text": {"color":"#a771b0"}}})**
-- Mission Challenge: Share God’s special gift of the Sabbath with someone new. Spend a moment talking and praying together about whom the children could invite to Sabbath School, on a Sabbath walk in nature, or to family worship next Sabbath. The gift of Sabbath shouldn’t be kept to ourselves!
+- **^[Mission Challenge:]({"style": {"text": {"color":"#a771b0"}}})** Share God’s special gift of the Sabbath with someone new. Spend a moment talking and praying together about whom the children could invite to Sabbath School, on a Sabbath walk in nature, or to family worship next Sabbath. The gift of Sabbath shouldn’t be kept to ourselves!
 - Pray: Children thank God for Creation, final prayer.

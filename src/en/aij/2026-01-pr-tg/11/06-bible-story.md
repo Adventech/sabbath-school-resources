@@ -29,7 +29,7 @@ Over time, altars dotted the land. Each one silently told other travelers that G
 
 Abram soon became “very rich in livestock, in silver, and in gold” (Genesis 13:2). Now their households were huge! Life was good for everyone.
 
-^[►]({"style": {"text": {"color":"#d34d5e"}}}) But after a while angry shouts erupted from the shepherds in the hills, and grumpy words were spoken around the evening campfires. ^[**What was the problem? Read Genesis 13:6.** (There wasn’t enough land to support them all.)]({"style": {"text": {"color":"#58B0E3"}}})
+^[►]({"style": {"text": {"color":"#d34d5e"}}}) But after a while angry shouts erupted from the shepherds in the hills, and grumpy words were spoken around the evening campfires. **^[What was the problem? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 13:6.** ^[(There wasn’t enough land to support them all.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 There simply wasn’t enough grass to feed so many animals and support so many people. Tempers raged, and fights broke out.
 
@@ -43,9 +43,9 @@ Lot looked at the lush, green Jordan Valley. Yes, his herds would grow fat there
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Abram sadly waved goodbye. He would miss Lot. But he also felt at peace, knowing he had put Lot first and let him choose. Anywhere with God was the right place to live!
 
-God loved Abram’s unselfish heart. ^[**What did God say to Abram? Read Genesis 13:14, 15.** (All the wonderful land he could see in every direction was his.)]({"style": {"text": {"color":"#58B0E3"}}})
+God loved Abram’s unselfish heart. **^[What did God say to Abram? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 13:14, 15.** ^[(All the wonderful land he could see in every direction was his.)]({"style": {"text": {"color":"#58B0E3"}}})
 
-Then God reminded Abram of the many descendants he had been promised. God had already said they would be like the stars in the night sky. ^[**What did God now say Abram’s descendants would be like? Read Genesis 13:16.** (Dust—unable to be counted.)]({"style": {"text": {"color":"#58B0E3"}}})
+Then God reminded Abram of the many descendants he had been promised. God had already said they would be like the stars in the night sky. **^[What did God now say Abram’s descendants would be like? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 13:16.** ^[(Dust—unable to be counted.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Many, many people would know and love God because of Abram’s faithfulness.
 

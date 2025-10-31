@@ -27,7 +27,7 @@ For a time they stayed in the mountains near the ark. The world around them look
 
 Noah and his family got to work right away. ^[(Imagine what this would have been like. Children use tools as they imagine the scene.)]({"style": {"text": {"color":"#d34d5e"}}}) Rocks and rubble needed to be carried away with a big heave-ho! Land needed clearing for a farm. Wells needed digging. Forests and trees needed to be replanted. Fruit and vegetable gardens needed to be dug and then sown with seeds.
 
-It was hot, hard work! But Noah and his family were happy and content. ^[**Why do you think they were happy even though their lives were hard? Read Psalm 144:15.** (People are happy when the Lord is their God.)]({"style": {"text": {"color":"#58B0E3"}}}) God was pleased that they were happy and content as they depended on Him for everything.
+It was hot, hard work! But Noah and his family were happy and content. **^[Why do you think they were happy even though their lives were hard? Read]({"style": {"text": {"color":"#58B0E3"}}}) Psalm 144:15.** ^[(People are happy when the Lord is their God.)]({"style": {"text": {"color":"#58B0E3"}}}) God was pleased that they were happy and content as they depended on Him for everything.
 
 Let’s pause the story for just a moment to look at something. _(Note: Take no longer than five minutes to do the following activity.)_
 
@@ -37,8 +37,8 @@ Let’s pause the story for just a moment to look at something. _(Note: Take no 
 {"style": {"text": {"color":"#58B0E3"}}}
 Place a see-through **glass** filled with clear, **bubbly lemonade/soda**, at the front of the room. Give each child a **raisin** to drop into the glass (it will float).
 
-({"style": {"text": {"color":"#58B0E3", "size": "lg"}}})
-DISCUSS
+{"style": {"text": {"color":"#58B0E3", "size": "lg"}}}
+**DISCUSS**
 
 {"style": {"text": {"color":"#58B0E3"}}}
 Discuss with a buddy, then lead a whole-class discussion:
@@ -60,7 +60,7 @@ Noah and his family were able to “stay afloat” by depending on God when they
 
 Let’s continue with our story. Time went by, and Noah’s family grew and grew. Granddad Noah loved to gather everyone together to worship God. He told them wonderful stories about the beautiful world before the flood, life on the ark, and God’s rainbow promise. But sadly, some people got tired of listening to his stories. They got angry at those who chose to trust and obey God. They wanted to do things their own way. They depended on themselves and their own opinions, not on God.
 
-Noah shook his head in sadness. He tried to draw them back to their loving Creator. God and Noah both knew that if everyone remembered how much God loved them, they would be happy and love God in return. ^[**What else did God want them to remember? Read Deuteronomy 7:9.** (God is faithful and merciful, and keeps His promises.)]({"style": {"text": {"color":"#58B0E3"}}})
+Noah shook his head in sadness. He tried to draw them back to their loving Creator. God and Noah both knew that if everyone remembered how much God loved them, they would be happy and love God in return. **^[What else did God want them to remember? Read]({"style": {"text": {"color":"#58B0E3"}}}) Deuteronomy 7:9.** ^[(God is faithful and merciful, and keeps His promises.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) But some of Noah’s family just didn’t want to listen. They didn’t want to trust and obey God. With God’s faithful people far behind them, the bold unbelievers left the mountains and moved down to the grassy plains. ^[►]({"style": {"text": {"color":"#d34d5e"}}}) The soil was great for growing gardens, and plenty of fresh water flowed in a nearby river. Searching around, they found clay to make sun-baked bricks and sticky tar to hold them together. They thought they were very clever to have found the perfect building materials. Pretty soon grand houses, smooth roads, stores, and barns rose up from the ground.
 
@@ -72,7 +72,7 @@ It was God’s plan for people to spread all over the earth, but they wanted to 
 
 Sand was shoveled. Bricks were formed and dried in the sun, then stuck into place with sticky tar. A big tower began to take shape. Higher and higher it went. The people now felt very, very proud. Some believed they were more powerful than God. Others believed that He didn’t even exist!
 
-God loved His people. He didn’t want these lies to spread. He wanted His love to spread, so the Savior (Jesus) could one day come and save His children from sin. ^[**What did God do? Read Genesis 11:7.** (Confused their languages.)]({"style": {"text": {"color":"#58B0E3"}}})
+God loved His people. He didn’t want these lies to spread. He wanted His love to spread, so the Savior (Jesus) could one day come and save His children from sin. **^[What did God do? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 11:7.** ^[(Confused their languages.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Everything was mixed up and messed up! When someone asked for bricks, they may have been handed sticky tar. Another builder asking for a hammer might have been offered a shovel! Soon there were angry fights up and down the tower. Just like that, work on the tower stopped.
 

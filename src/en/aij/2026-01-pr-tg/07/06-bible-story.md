@@ -27,7 +27,7 @@ Show the pictures from this week’s story in the **Program PowerPoint**. Ask a 
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Enoch preached to the people about God’s love. He also pleaded with them to follow God and stop doing wrong. Then one day, when Enoch was old, his best friend God took him to heaven!
 
-Hundreds of years went by. ^[**What were the people like, and how did God feel about them? Read Genesis 6:5, 6.** (They were very wicked; they did evil continually. God was very sad.)]]({"style": {"text": {"color":"#58B0E3"}}})
+Hundreds of years went by. **^[What were the people like, and how did God feel about them? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 6:5, 6.** ^[(They were very wicked; they did evil continually. God was very sad.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 God knew that if He didn’t do something, there would be no one left through whom the Savior could be born. God tried to turn people’s hearts back to Him again and again, but only a few listened.
 
@@ -53,7 +53,7 @@ But only eight people trusted God and came into the ark: Noah, his wife, their s
 
 Then God closed the door. Not even the strongest man in the world could open it.
 
-For seven days Noah and his family patiently waited inside the ark, trusting that the flood would come just as God had said. ^[**What happened after seven days? Read Genesis 7:10, 11.** (It began to rain.)]]({"style": {"text": {"color":"#58B0E3"}}})
+For seven days Noah and his family patiently waited inside the ark, trusting that the flood would come just as God had said. **^[What happened after seven days? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 7:10, 11.** ^[(It began to rain.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Lightning flashed, and thunder roared. Huge raindrops began to fall, and water exploded out of the ground. ^[(Spray water bottle lightly over children.)]({"style": {"text": {"color":"#d34d5e"}}}) What a huge storm!
 

@@ -5,7 +5,7 @@ subtitle: Week 4
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible References: Isaiah 14:12-15; Ezekiel 28:2-19
+**Bible References:** Isaiah 14:12-15; Ezekiel 28:2-19
 
 ---
 
@@ -36,10 +36,11 @@ _The Great Controversy_, pp. 492-504
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-4\. The Son
-8\. The Great Controversy
+3\. The Father\
+4\. The Son\
+8\. The Great Controversy\
 19\. The Law of God
+
 ---
 
 {"style": {"text": {"size": "lg"}}}

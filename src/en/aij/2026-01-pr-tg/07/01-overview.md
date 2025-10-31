@@ -5,7 +5,7 @@ subtitle: Week 7
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 5-7
+**Bible Reference:** Genesis 5-7
 
 ---
 
@@ -37,13 +37,13 @@ _The Bible Story_, vol. 1, pp. 91-115
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-4\. The Son
-7\. The Nature of Humanity
-8\. The Great Controversy
-11\. Growing in Christ
-19\. The Law of God
-20\. The Sabbath
+3\. The Father\
+4\. The Son\
+7\. The Nature of Humanity\
+8\. The Great Controversy\
+11\. Growing in Christ\
+19\. The Law of God\
+20\. The Sabbath\
 28\. The New Earth
 
 ---

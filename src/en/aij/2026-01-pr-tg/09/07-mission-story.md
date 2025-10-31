@@ -30,4 +30,7 @@ Linda and her mother were grateful that God was helping Linda learn French quick
 
 - **What could you depend on God to help you with this week?**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _The story is adapted from “Linda’s Surprising Discovery” by Charlotte Ishkanian, Adventist Mission Children’s Magazine, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission._

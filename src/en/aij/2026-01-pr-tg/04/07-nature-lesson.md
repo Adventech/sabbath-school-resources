@@ -11,11 +11,8 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58b0e3"}}})'
 - **Have you ever seen a wild goat? What did it look like?**
 - **Let’s find out what wild sheep and wild goats can teach us about making good choices.** ^[(Show picture.)]({"style": {"text": {"color":"#d34d5e"}}})
 
-```=Wild Goat
-
+{"style":{"image":{"aspectRatio":1.501}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/04/nature-lesson.png)
-
-```
 
 How can you tell the difference between a wild sheep and a wild goat? Both animals live in mountainous, rocky places. Both are good runners and jumpers. Both chew their cuds and are covered with warm fur.
 
@@ -32,4 +29,7 @@ Let’s give our hearts to Jesus right now, so when that exciting day comes, we�
 - **Who in today’s lesson were like goats?**
 - **Who were like sheep?**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from a story of the same name by Elaine Egbert, Nature in a Nutshell, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission._

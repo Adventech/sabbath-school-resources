@@ -5,7 +5,7 @@ subtitle: Week 5
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 3
+**Bible Reference:** Genesis 3
 
 ---
 
@@ -39,12 +39,12 @@ Carolyn Byers, _Forever Stories_, vol. 1, chap. 4
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-4\. The Son
-7\. The Nature of Humanity
-8\. The Great Controversy
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
+3\. The Father\
+4\. The Son\
+7\. The Nature of Humanity\
+8\. The Great Controversy\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
 25\. The Second Coming of Christ
 
 ---

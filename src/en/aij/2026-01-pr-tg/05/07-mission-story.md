@@ -26,4 +26,7 @@ Let’s pray for children like Hadassah who have made the choice to follow Jesus
 
 - **How is Hadassah different from Adam and Eve in this week’s lesson story?**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from “Hadassah’s Discovery” by Charlotte Ishkanian, Adventist Mission Children’s Magazine, copyright © 2011 General Conference of Seventh-day Adventists®. Used and adapted by permission._

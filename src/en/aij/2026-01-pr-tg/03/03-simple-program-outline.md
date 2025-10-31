@@ -39,7 +39,7 @@ subtitle: Week 3
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Activity and Discussion: **^[Doughnut sharing circle]({"style": {"text": {"color":"#649b7c"}}})** about Adam and Eve’s first Sabbath
 
 {"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}

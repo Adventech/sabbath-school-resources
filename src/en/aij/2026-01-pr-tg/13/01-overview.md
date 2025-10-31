@@ -5,7 +5,7 @@ subtitle: Week 13
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 15:1-6, 17; 18:1-16; 21:1-7
+**Bible Reference:** Genesis 15:1-6, 17; 18:1-16; 21:1-7
 
 ---
 
@@ -37,11 +37,11 @@ _The Bible Story_, vol. 1, pp. 156-161
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-7\. The Nature of Humanity
-10\. The Experience of Salvation
-11\. Growing in Christ
-22\. Christian Behavior
+3\. The Father\
+7\. The Nature of Humanity\
+10\. The Experience of Salvation\
+11\. Growing in Christ\
+22\. Christian Behavior\
 25\. The Second Coming of Christ
 
 ---

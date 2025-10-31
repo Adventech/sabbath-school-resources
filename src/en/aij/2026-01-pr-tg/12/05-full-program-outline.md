@@ -139,4 +139,4 @@ Read the **Nature Lesson**, “Boiling a Frog,” while the children work.
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#a771b0"}}}) Look for a way you could bless or help someone from another country.** You may have Christian books you could send; goods or monies you could give to missionaries; some extra coins to bring for 13th Sabbath mission offering; prayer.
 
-**^[PRAY:]({"style": {"text": {"color":"#a771b0"}}})** As you pray the closing prayer, ask God to be with the children and their families and to guide them to make wise choices that will help others this week. Thank God for His help and for His great love for us. Alive in Jesus Sabbath School Curriculum–PYAQ1L12
+**^[PRAY:]({"style": {"text": {"color":"#a771b0"}}})** As you pray the closing prayer, ask God to be with the children and their families and to guide them to make wise choices that will help others this week. Thank God for His help and for His great love for us.

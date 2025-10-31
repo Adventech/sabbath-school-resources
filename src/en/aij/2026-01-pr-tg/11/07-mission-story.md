@@ -35,4 +35,7 @@ And when he grows up, he wants to be a doctor so he can care for others the way 
 - **Which people showed unselfish care in this story?**
 - **How did God lead and protect in this story?**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from “Out of the Ashes” by Charlotte Ishkanian, Adventist Mission Children’s Magazine, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission._

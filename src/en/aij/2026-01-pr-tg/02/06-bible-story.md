@@ -25,13 +25,13 @@ Source and show a few pictures of unusual animals (e.g., manatee, platypus, axol
 
 At God’s command, horses galloped, snakes slithered, and lions roared. All of God’s animals were different, but they lived together happily.
 
-^[**What did God mean when He said the animals were made “according to its kind”? Read Genesis 1:25.** (They were designed to have babies just like themselves. God made monkeys to always be monkeys; they can’t turn into people!)]({"style": {"text": {"color": "#58B0E3"}}}) ^[(Show Animal Cards you have set aside—mothers with their young.)]({"style": {"text": {"color":"#d34d5e"}}})
+**^[What did God mean when He said the animals were made “according to its kind”? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 1:25.** ^[(They were designed to have babies just like themselves. God made monkeys to always be monkeys; they can’t turn into people!)]({"style": {"text": {"color": "#58B0E3"}}}) ^[(Show Animal Cards you have set aside—mothers with their young.)]({"style": {"text": {"color":"#d34d5e"}}})
 
 When God created animals, He knew they would be very important to all people and to the world. ^[(Children to look at Animal Cards that were under their seats. How are these animals important?)]({"style": {"text": {"color":"#d34d5e"}}})
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) He created some animals to help us, such as horses to ride and oxen to pull heavy loads. Others, such as squirrels and monkeys, help the planet. They spread seeds so that more trees grow in forests. Forests create the oxygen we all need to breathe and live.
 
-People should care for the animals. Animals can teach us a lot! ^[**What does Proverbs 6:6 tell us?** (That lazy people should watch how hard ants work and learn from them.)]({"style": {"text": {"color": "#58B0E3"}}})
+People should care for the animals. Animals can teach us a lot! **^[What does]({"style": {"text": {"color":"#58B0E3"}}}) Proverbs 6:6** ^[**tell us?** (That lazy people should watch how hard ants work and learn from them.)]({"style": {"text": {"color": "#58B0E3"}}})
 
 Other animals bring us joy because of how they look and the things they do. Think about mischievous monkeys, playful otters, and parrots that learn to talk.
 

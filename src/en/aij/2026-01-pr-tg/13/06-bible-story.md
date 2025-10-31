@@ -70,7 +70,7 @@ Let’s continue our story . . . Abraham and Sarah would have a son!
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Sarah heard the stranger’s words of promise and laughed to herself. She thought it sounded crazy! How could a nearly 90-year-old woman have a baby? Impossible!
 
-No one heard Sarah laugh, no one saw her laugh, but God did. ^[**What did God say about Sarah’s laugh? Read Genesis 18:13, 14.** (He said to Abraham, “Why did Sarah laugh . . . ? Is anything too hard for the Lord?”)]({"style": {"text": {"color":"#58B0E3"}}})
+No one heard Sarah laugh, no one saw her laugh, but God did. **^[What did God say about Sarah’s laugh? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 18:13, 14.** ^[(He said to Abraham, “Why did Sarah laugh . . . ? Is anything too hard for the Lord?”)]({"style": {"text": {"color":"#58B0E3"}}})
 
 Filled with fear and shame at being found out, Sarah lied, saying, “I did not laugh” (Genesis 18:15). The Lord responded kindly but seriously, “No, but you did laugh!” (Genesis 18:15).
 

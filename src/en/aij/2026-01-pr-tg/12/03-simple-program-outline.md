@@ -37,7 +37,7 @@ subtitle: Week 12
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Discussion: How wrong choices lead to more wrong choices
 Object lesson: **^[Hand in ice water]({"style": {"text": {"color":"#649b7c"}}})**
 
@@ -55,7 +55,7 @@ Object lesson: **^[Hand in ice water]({"style": {"text": {"color":"#649b7c"}}})*
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 
 - **^[Character Card 12: Brave Abram]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Galatians 6:9”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Galatians 6:9”
 - Discuss: Apply memory verse to story.
 - Craft and nature lesson combined: **^[“Boiling a Frog”]({"style": {"text": {"color":"#a771b0"}}})**
 - Commit: Craft as reminder to ask for God’s wisdom

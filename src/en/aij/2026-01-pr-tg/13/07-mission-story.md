@@ -30,4 +30,7 @@ Ruchi gave birth to a baby girl named Cash. A year later she had another baby. T
 
 - **How does this story help you believe that God can do the impossible?**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from “A Sarah in India” by Andrew McChesney, Children’s Mission, copyright © 2020 General Conference of Seventh-day Adventists®. Used and adapted by permission._

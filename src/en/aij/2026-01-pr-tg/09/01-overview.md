@@ -5,7 +5,7 @@ subtitle: Week 9
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 11:1-9
+**Bible Reference:** Genesis 11:1-9
 
 ---
 
@@ -38,11 +38,11 @@ _The Bible Story_, vol. 1, pp. 124-130
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-1\. The Holy Scriptures
-3\. The Father
-4\. The Son
-7\. The Nature of Humanity
-8\. The Great Controversy
+1\. The Holy Scriptures\
+3\. The Father\
+4\. The Son\
+7\. The Nature of Humanity\
+8\. The Great Controversy\
 11\. Growing in Christ
 
 ---

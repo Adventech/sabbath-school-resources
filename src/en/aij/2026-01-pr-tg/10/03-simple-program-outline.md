@@ -38,7 +38,7 @@ subtitle: Week 10
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Activity: **^[God’s friends]({"style": {"text": {"color":"#649b7c"}}})**, paper strips
 - Discussion: Abram’s feelings when leaving home, trusting God
 
@@ -55,7 +55,7 @@ subtitle: Week 10
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 
 - **^[Character Card 10: Faithful Abram]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Isaiah 30:21”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Isaiah 30:21”
 - Whisper memory verse.
 - Read: You are a star descendant.
 - **^[Nature Lesson:]({"style": {"text": {"color":"#a771b0"}}})** “Sugar Gliders”

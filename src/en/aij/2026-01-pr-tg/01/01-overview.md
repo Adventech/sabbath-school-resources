@@ -5,7 +5,7 @@ subtitle: Week 1
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 1:1-23
+**Bible Reference:** Genesis 1:1-23
 
 ---
 
@@ -37,11 +37,11 @@ _The Bible Story_, vol. 1, pp. 21-34
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-1\. The Holy Scriptures
-2\. The Trinity
-3\. The Father
-4\. The Son
-5\. The Holy Spirit
+1\. The Holy Scriptures\
+2\. The Trinity\
+3\. The Father\
+4\. The Son\
+5\. The Holy Spirit\
 6\. Creation
 
 ---

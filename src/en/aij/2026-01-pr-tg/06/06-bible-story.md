@@ -29,7 +29,7 @@ Adam taught his children about God, in the same way that God wants your family t
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Adam took Cain and Abel out to find a perfect little lamb—the best one in the flock. Adam shared how this lamb was a reminder of God’s Son, Jesus, who would one day come to the earth to die for their sins.
 
-^[**How do we know the lamb is a reminder of Jesus? Read John 1:29.** (John called Jesus the Lamb of God.)]({"style": {"text": {"color":"#58B0E3"}}})
+**^[How do we know the lamb is a reminder of Jesus? Read]({"style": {"text": {"color":"#58B0E3"}}}) John 1:29.** ^[(John called Jesus the Lamb of God.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 Then the lamb was sacrificed on a stone altar. The family said they were sorry for their sins and asked God to show His mercy. It was a sad reminder that they were sinners who needed a Savior to die in their place ^[(lamb, box altar, fire).]({"style": {"text": {"color":"#d34d5e"}}})
 
@@ -37,7 +37,7 @@ Fire flashed down from heaven to burn up the little lamb offering. God was sayin
 
 Abel grew up to be a strong young man who loved God very much. He happily chose to follow God’s instructions to sacrifice a lamb. God accepted Abel’s offering.
 
-Cain grew up angry and selfish. He was even angry with God. Then one day he stubbornly disobeyed by not bringing a lamb as an offering. **^[What did Cain bring to God instead? Read Genesis 4:3.]({"style": {"text": {"color":"#58B0E3"}}})** ^[►]({"style": {"text": {"color":"#d34d5e"}}}) ^[(Fruit and vegetables he had grown.)]({"style": {"text": {"color":"#58B0E3"}}})
+Cain grew up angry and selfish. He was even angry with God. Then one day he stubbornly disobeyed by not bringing a lamb as an offering. **^[What did Cain bring to God instead? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 4:3.** ^[►]({"style": {"text": {"color":"#d34d5e"}}}) ^[(Fruit and vegetables he had grown.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 Cain thought he could do things his own way. This was the fruit he had grown! ^[(Show fruit and vegetables on altar.)]({"style": {"text": {"color":"#d34d5e"}}})
 
@@ -67,7 +67,7 @@ God wanted the lamb sacrifice to remind His children of these important things. 
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Let’s continue the story! Cain was angry. God’s fire had burned up Abel’s lamb sacrifice, but it didn’t burn Cain’s fruit. Abel tried to encourage his brother to choose to do what was right. But Cain would not listen.
 
-God tried to talk to Cain too. He warned him that sin would really hurt him—and others! But Cain still didn’t listen. ^[**What did Cain do? Read Genesis 4:8.** (He killed his brother, Abel.)]({"style": {"text": {"color":"#58B0E3"}}})
+God tried to talk to Cain too. He warned him that sin would really hurt him—and others! But Cain still didn’t listen. **^[What did Cain do? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 4:8.** ^[(He killed his brother, Abel.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Adam and Eve sobbed with sadness. They had lost their beautiful boy! God was close to them as they cried.
 

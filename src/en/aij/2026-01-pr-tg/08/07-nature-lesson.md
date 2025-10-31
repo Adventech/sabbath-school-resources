@@ -31,4 +31,5 @@ God protects and cares for us, just as a mother cheetah cares for her cute littl
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 www.Cheetah.org

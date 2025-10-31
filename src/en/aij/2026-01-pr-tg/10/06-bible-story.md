@@ -27,7 +27,7 @@ Abram wanted to be faithful, good, and kind, like God, and like his family in th
 
 While many people in the city (and even his own home) worshipped idols, Abram didn’t. What good was an idol? No, he would stay close to God and obey Him.
 
-Abram talked with God, and listened to God, and thought about God. He believed God. ^[**What does the Bible say Abram was called? Read James 2:23.** (Friend of God.)]({"style": {"text": {"color":"#58B0E3"}}})
+Abram talked with God, and listened to God, and thought about God. He believed God. **^[What does the Bible say Abram was called? Read]({"style": {"text": {"color":"#58B0E3"}}}) James 2:23.** ^[(Friend of God.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 What a beautiful thing it is to be known as God’s friend!
 

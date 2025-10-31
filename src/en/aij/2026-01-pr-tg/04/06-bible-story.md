@@ -25,13 +25,13 @@ Show the pictures from this week’s story in the **Program PowerPoint**. Ask a 
 
 Lucifer was the leader of the angels. He was the loved and respected angel who led the heavenly choir. He was also strong, swift, smart, and wise. Lucifer happily thanked God for all these abilities he had been given.
 
-^[►]({"style": {"text": {"color":"#d34d5e"}}}) One day, for a reason no one can understand, Lucifer looked at himself and felt very proud. He didn’t praise God for his abilities or talents. ^[**What started to happen in Lucifer’s heart when he admired himself?** Read the first half of Ezekiel 28:17. (He became proud of his good looks.)]({"style": {"text": {"color":"#58B0E3"}}})
+^[►]({"style": {"text": {"color":"#d34d5e"}}}) One day, for a reason no one can understand, Lucifer looked at himself and felt very proud. He didn’t praise God for his abilities or talents. ^[**What started to happen in Lucifer’s heart when he admired himself?** Read the first half of]({"style": {"text": {"color":"#58B0E3"}}}) Ezekiel 28:17. ^[(He became proud of his good looks.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 Something was hatching in Lucifer’s heart—something selfish and proud. It was the seed of sin. God was very sad that His beautiful angel was beginning to love himself more than anyone else—even more than God.
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Lucifer became jealous of Jesus. Why was Jesus invited to talk with God and he wasn’t? The more he thought about it, the more jealous and poisonous his thoughts became.
 
-^[**What does God say about jealousy in the Ten Commandments, His laws of love? Read Exodus 20:17.** (Don’t be jealous of what others have.)]({"style": {"text": {"color":"#58B0E3"}}}) When we are jealous our hearts will fill up with a poison that will never let us be happy. ^[(Illustrate by putting dirt in your glass of water.)]({"style": {"text": {"color":"#d34d5e"}}})
+**^[What does God say about jealousy in the Ten Commandments, His laws of love? Read]({"style": {"text": {"color":"#58B0E3"}}}) Exodus 20:17.** ^[(Don’t be jealous of what others have.)]({"style": {"text": {"color":"#58B0E3"}}}) When we are jealous our hearts will fill up with a poison that will never let us be happy. ^[(Illustrate by putting dirt in your glass of water.)]({"style": {"text": {"color":"#d34d5e"}}})
 
 No one had ever been jealous in heaven before. Every angel was happy that their angel friends had special gifts. No one even knew what jealousy was! How sad that Lucifer was inventing stinking thinking.
 
@@ -54,12 +54,12 @@ _(Note: take no longer than five minutes to do the following activity.)_
 God has given each of us special abilities too. Hold up Strength Cards one at a time and ask:
 
 - ^[**Who in our class has this special ability?**]({"style": {"text": {"color": "#58B0E3"}}})
-- ^[**How can we guard against becoming proud of ourselves and our abilities like Lucifer did? Read John 5:30.** (Remember that our strengths are gifts from God.)]({"style": {"text": {"color": "#58B0E3"}}})
+- **^[How can we guard against becoming proud of ourselves and our abilities like Lucifer did? Read]({"style": {"text": {"color":"#58B0E3"}}}) John 5:30.** ^[(Remember that our strengths are gifts from God.)]({"style": {"text": {"color": "#58B0E3"}}})
 
 {"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
 **TEACHING POINT**
 
-({"style": {"text": {"color": "#58B0E3"}}})
+{"style": {"text": {"color": "#58B0E3"}}}
 We should be grateful for the abilities God gives us and use them to bless others. Then there is no room for pride in our hearts.
 
 Some angels started to believe Lucifer’s whispered gossip and clever lies. Other angels were upset to hear what he was saying about God. The angels had always been best friends, but Lucifer’s lies were hurting their friendships.
@@ -76,6 +76,6 @@ All of heaven took sides. Lucifer’s sneaky words and actions tricked a third o
 
 A war began in heaven. We don’t know exactly what kind of war it was, but the Bible tells us what happened because of this war.
 
-^[►]({"style": {"text": {"color":"#d34d5e"}}}) ^[**What happened to Lucifer? Read Isaiah 14:12.** (He couldn’t stay in heaven; he was cast out.)]({"style": {"text": {"color": "#58B0E3"}}})
+^[►]({"style": {"text": {"color":"#d34d5e"}}}) **^[What happened to Lucifer? Read]({"style": {"text": {"color":"#58B0E3"}}}) Isaiah 14:12.** ^[(He couldn’t stay in heaven; he was cast out.)]({"style": {"text": {"color": "#58B0E3"}}})
 
 Lucifer had become Satan, which means “enemy.” That was a sad, sad day for all of heaven. God had done everything possible to save Lucifer, but he just didn’t want to be rescued and forgiven. Today the war is not yet over. But one day when Satan and death are destroyed the war will be forever over, because Jesus paid our penalty on the cross and showed the universe God’s true character of unchanging love.

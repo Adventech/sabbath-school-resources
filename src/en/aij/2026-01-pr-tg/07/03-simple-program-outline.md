@@ -40,7 +40,7 @@ subtitle: Week 7
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Creatively share the Bible story.
 
 {"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
@@ -55,7 +55,7 @@ subtitle: Week 7
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Character Card 7: Noah]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Deuteronomy 7:9”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Deuteronomy 7:9”
 - **^[Mission Story:]({"style": {"text": {"color":"#a771b0"}}})** “No School on Sabbath”
 - **^[Mission Challenge:]({"style": {"text": {"color":"#a771b0"}}})** Share your memory verse (say, write, sing) with someone who might not know God well.
 - Review: Faithful story characters

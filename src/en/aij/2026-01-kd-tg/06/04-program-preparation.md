@@ -7,36 +7,36 @@ subtitle: What Do I Need?
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Opening Activities**
 
-{"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Source a small ball of **play-dough** for each child to use to create a face.\
-Source items for **Secret Surprise Box**: print a set of Children’s Faces.\
+Source a small ball of **play-dough** for each child to use to create a face.
+
+Source items for **Secret Surprise Box**: print a set of Children’s Faces.
+
 Source a birthday gift of your choice to give to a child with a birthday this past week.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Tell the Story**
 
-{"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Source suggested **Storytelling Props**: yellow, red, and orange scrunched cellophane or colored fabric to represent fire, baby doll, altar (use a cardboard box with drawn lines), toy lamb, real or toy fruit and vegetables, Children’s Faces, and peg people (optional).\
-**Note**: Consider purchasing a set of inexpensive plastic tablecloths in different colors. These will be used often as **Storytelling Props** in future lessons.\
-Source a **felt set** or the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.\
+Source suggested **Storytelling Props**: yellow, red, and orange scrunched cellophane or colored fabric to represent fire, baby doll, altar (use a cardboard box with drawn lines), toy lamb, real or toy fruit and vegetables, Children’s Faces, and peg people (optional).
+
+**Note**: Consider purchasing a set of inexpensive plastic tablecloths in different colors. These will be used often as **Storytelling Props** in future lessons.
+
+Source a **felt set** or the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
+
 Source items for **Story Explorer Box**: child’s hat and adult’s shirt.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Nature/Mission**
 
-{"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 Print **^[Nature Card 6: Lions]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Craft Materials**
 
-{"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 Source **letter-size (A4) cardstock, watercolor paints or markers, paper towel or napkin squares, paintbrushes.**
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
-- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Music:
 	- “It’s About Love”
 	- “Pack It Up”
@@ -60,7 +60,6 @@ Source **letter-size (A4) cardstock, watercolor paints or markers, paper towel o
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Additional Resources to Source**
 
-- {"style": {"block": {"backgroundColor": "#FBFBFC", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 - Play-dough
 - Offering container
 - Bell or sound maker

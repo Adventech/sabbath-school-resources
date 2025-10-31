@@ -1,14 +1,16 @@
 ---
-title: Craft
-markdownTitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
+title: Sunset-to-Sunset Spinner
+markdownTitle: '^[Sunset-to-Sunset Spinner]({"style": {"text": {"color": "#58B0E3"}}})'
+subtitle: Craft
+markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 ---
-
-{"style": {"text": {"color": "#58B0E3", "size": "lg"}}}
-Sunset-to-Sunset Spinner
 
 **What you need:**
 
-Week 3 craft template on white cardstock, colored pencils, split pin, scissors (1).
+Week 3 craft template on white cardstock, colored pencils, split pin, scissors.
+
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3a.png)
 
 ```=Craft Template
 
@@ -20,24 +22,24 @@ Week 3 craft template on white cardstock, colored pencils, split pin, scissors (
 
 **Instructions:**
 
-- Color in your circles (2).
-- Cut out each circle (3).
-- Place the Sabbath circle over the full circle and push a split pin through the center (3).
-- Rotate them to show the passing of time—from sunset to sunset (4).
+- Color in your circles.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![1](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3a.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3b.png)
+
+- Cut out each circle.
+- Place the Sabbath circle over the full circle and push a split pin through the center.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![2](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3c.png)
+
+- Rotate them to show the passing of time—from sunset to sunset.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![3](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3c.png)
-
-{"style":{"image":{"aspectRatio":1.778}}}
-![4](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3d.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3d.png)
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/03/3e.png)
 
+{"style": {"text": {"size": "sm"}}}
 _Craft by Kimanh le Roux, A Sketch of Faith. www.asketchoffaith.com. Used by permission._

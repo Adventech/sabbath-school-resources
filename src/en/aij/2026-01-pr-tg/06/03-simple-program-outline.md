@@ -39,7 +39,7 @@ subtitle: Week 6
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Activity: **^[Hunt for lamb cards]({"style": {"text": {"color":"#649b7c"}}})**
 Discussion: Jesus, the perfect lamb
 
@@ -47,7 +47,7 @@ Discussion: Jesus, the perfect lamb
 **UNPACK THE STORY** (5 MINUTES)
 
 - {"style": {"block": {"backgroundColor": "#FBFCFA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
-- Object lesson: **^[Herb scatter]]({"style": {"text": {"color":"#00b7aa"}}})**
+- Object lesson: **^[Herb scatter]({"style": {"text": {"color":"#00b7aa"}}})**
 
 {"style": {"block": {"backgroundColor": "#F2ECF0", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **TIE IT ALL TOGETHER** (20 MINUTES)
@@ -55,7 +55,7 @@ Discussion: Jesus, the perfect lamb
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 
 - **^[Character Card 6: Cain and Abel]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “John 14:23”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “John 14:23”
 - **^[Nature Lesson:]({"style": {"text": {"color":"#a771b0"}}})** “Eclipse of the Moon”
 - **^[Craft:]({"style": {"text": {"color":"#a771b0"}}})** Lamb Sacrifice
 - Apply: Personal prayer

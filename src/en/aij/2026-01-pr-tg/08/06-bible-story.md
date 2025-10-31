@@ -27,7 +27,7 @@ Right on time, just as God had promised, He stopped the rain! In its place, He s
 
 They continued to care for all the beautiful, slimy, fluffy, squawky, growly animals in the ark. The family threw grain to the birds and bananas to the monkeys. They swept out the lions’ area and shoveled out elephant poo. Some jobs were fun, and others weren’t, but they faithfully did them all.
 
-They waited and wondered how long it would be until they could leave the ark. ^[**How long did the water cover the earth? Read Genesis 7:24.** (150 days, which equals five months!)]({"style": {"text": {"color":"#58B0E3"}}})
+They waited and wondered how long it would be until they could leave the ark. **^[How long did the water cover the earth? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 7:24.** ^[(150 days, which equals five months!)]({"style": {"text": {"color":"#58B0E3"}}})
 
 Then one day Noah let a raven go to test if the earth was dry or not (toy/picture). It returned—there was too much water around for it to land. A week later he let a white dove fly away, but it returned too.
 
@@ -57,7 +57,7 @@ Lay the numbers 1 to 10 on the ground to create a rating scale. Invite children 
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Let’s continue our story. One day it happened! God opened the heavy door to the ark. Eight happy people leaped to their feet and set the animals free. The waiting was finally over!
 
-How wonderful it was to stand upon dry ground. ^[**What did Noah do first? Read Genesis 8:20.** (Built an altar and offered animal sacrifices to thank God.)]({"style": {"text": {"color":"#58B0E3"}}})
+How wonderful it was to stand upon dry ground. **^[What did Noah do first? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 8:20.** ^[(Built an altar and offered animal sacrifices to thank God.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Noah and his family had so much to thank God for! ^[(Use altar of building blocks; toy lamb.)]({"style": {"text": {"color":"#d34d5e"}}}) When an altar was built and the animals placed on top, the little family knelt together and began to worship God. They thanked Him for protecting and saving them through the roughest seas and the wildest storm. God accepted the gift of their praise and thanks; He loved His faithful children.
 
@@ -69,6 +69,6 @@ With a sudden burst of color, a beautiful rainbow blazed in a big arch across th
 
 Even more beautiful than the rainbow was the message of love it sent. It was God’s way of telling them that He would never flood the whole earth again.
 
-^[**Did you know there’s a rainbow in heaven? Where is it? Read Revelation 4:2, 3.** (There is a rainbow around His throne in heaven. God was sharing a very special piece of heaven with His children.)]({"style": {"text": {"color":"#58B0E3"}}}) ^[► (Show the picture of God’s throne in the Picture PowerPoint.)]({"style": {"text": {"color":"#d34d5e"}}})
+**^[Did you know there’s a rainbow in heaven? Where is it? Read]({"style": {"text": {"color":"#58B0E3"}}}) Revelation 4:2, 3.** ^[(There is a rainbow around His throne in heaven. God was sharing a very special piece of heaven with His children.)]({"style": {"text": {"color":"#58B0E3"}}}) ^[► (Show the picture of God’s throne in the Picture PowerPoint.)]({"style": {"text": {"color":"#d34d5e"}}})
 
 A rainbow would always remind people that God keeps His promise to love and care for His children.

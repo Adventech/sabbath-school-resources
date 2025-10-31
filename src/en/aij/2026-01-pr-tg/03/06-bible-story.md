@@ -21,7 +21,7 @@ Show the pictures from this week’s story in the **Program PowerPoint**. Ask a 
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) The sun set on the sixth day of Creation. Everything was just as God planned it would be—beautiful and perfect. His final act of Creation, the seventh day, would be like placing a diamond on top of a sparkling crown.
 
-^[**How did God create the Sabbath? Read Genesis 2:2.** (He stopped working and rested.)]({"style": {"text": {"color":"#58B0E3"}}})
+**^[How did God create the Sabbath? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 2:2.** ^[(He stopped working and rested.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 God never sleeps, so He wasn’t feeling tired. When God rested “from all His work” (Genesis 2:2), it was a different kind of rest. This rest meant that God made an extra-special time to just be with Adam and Eve: the Sabbath. It was a whole day for them to spend together and with God—what a gift!
 
@@ -35,7 +35,7 @@ This is what Genesis 2:3 means when it says, “God blessed the seventh day” (
 
 God gave this Sabbath blessing to everyone—from Adam right down to you. God invites us to spend every Sabbath resting with Him and enjoying His blessings.
 
-^[**What else did God do on the first Sabbath? Read Genesis 2:3.** (Made it holy.)]({"style": {"text": {"color":"#58B0E3"}}})
+**^[What else did God do on the first Sabbath? Read]({"style": {"text": {"color":"#58B0E3"}}}) Genesis 2:3.** ^[(Made it holy.)]({"style": {"text": {"color":"#58B0E3"}}})
 
 Our God is so good and holy. When He made the Sabbath holy, He was making it different and special, just like Himself. God was setting apart the whole seventh day to share His perfect love with His children. The seventh day is the most special day! _(Note: take no longer than five minutes to do the following activity.)_
 
@@ -59,13 +59,13 @@ If you had been in the Garden of Eden that first Sabbath . . .
 {"style": {"text": {"color": "#58B0E3"}}}
 The first Sabbath ever was very special. Our Sabbaths are special too because God blesses them.
 
-^[►]({"style": {"text": {"color":"#d34d5e"}}}) The Sabbath is God’s most special gift to us. ^[**What did He tell us to do with the Sabbath?** Read the first word of Exodus 20:8. (Remember.)]({"style": {"text": {"color": "#58B0E3"}}})
+^[►]({"style": {"text": {"color":"#d34d5e"}}}) The Sabbath is God’s most special gift to us. ^[**What did He tell us to do with the Sabbath?** Read the first word of]({"style": {"text": {"color":"#58B0E3"}}}) Exodus 20:8. ^[(Remember.)]({"style": {"text": {"color": "#58B0E3"}}})
 
 To help people remember the gift of the Sabbath, God wrote the Sabbath commandment on stone with His finger when He wrote the Ten Commandments. He sent prophets, Jesus Himself, and other teachers in the Bible. God also created a seven-day week to remind us.
 
 The Sabbath is so special that we will be remembering and enjoying it with God forever in the new earth (Isaiah 66:23).
 
-^[**Because it’s so important to remember the Sabbath, what does God ask us to do? Read Exodus 20:9–10.** (Stop working.)]({"style": {"text": {"color": "#58B0E3"}}})
+**^[Because it’s so important to remember the Sabbath, what does God ask us to do? Read]({"style": {"text": {"color":"#58B0E3"}}}) Exodus 20:9–10.** ^[(Stop working.)]({"style": {"text": {"color": "#58B0E3"}}})
 
 God gives us six days to work hard, then on the Sabbath we can stop being busy. He knows we need a break from learning, working, planning, choosing, and worrying. On Sabbath we can do different things to be close to God.
 

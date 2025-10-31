@@ -5,7 +5,7 @@ subtitle: Week 12
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible Reference: Genesis 14
+**Bible Reference:** Genesis 14
 
 ---
 
@@ -36,10 +36,10 @@ _The Bible Story_, vol. 1, pp. 152-155
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-7\. The Nature of Humanity
-11\. Growing in Christ
-21\. Stewardship
+3\. The Father\
+7\. The Nature of Humanity\
+11\. Growing in Christ\
+21\. Stewardship\
 22\. Christian Behavior
 
 ---

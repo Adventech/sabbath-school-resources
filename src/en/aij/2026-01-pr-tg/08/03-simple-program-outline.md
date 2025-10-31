@@ -39,7 +39,7 @@ subtitle: Week 8
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Discussion: Protection
 - Activity: **^[Patience rating scale (1-10)]({"style": {"text": {"color":"#649b7c"}}})**
 
@@ -55,7 +55,7 @@ subtitle: Week 8
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Character Card 8: Rainbow Promise]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Psalm 57:1”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Psalm 57:1”
 - **^[Nature Lesson:]({"style": {"text": {"color":"#a771b0"}}})** “Cheetah Protects Her Cubs”
 - **^[Craft:]({"style": {"text": {"color":"#a771b0"}}})** Promise and Protection Spinner
 - Sing **^[“God Bless You.”]({"style": {"text": {"color":"#a771b0"}}})**

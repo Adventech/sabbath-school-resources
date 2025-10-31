@@ -5,7 +5,7 @@ subtitle: Week 10
 ---
 
 {"style": {"text": {"color": "#58B0E3"}}}
-Bible References: Genesis 11:26-32; 12:1-9
+**Bible References:** Genesis 11:26-32; 12:1-9
 
 ---
 
@@ -37,10 +37,10 @@ _The Bible Story_, vol. 1, pp. 133-141
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-4\. The Son
-8\. The Great Controversy
-11\. Growing in Christ
+3\. The Father\
+4\. The Son\
+8\. The Great Controversy\
+11\. Growing in Christ\
 22\. Christian Behavior
 
 ---

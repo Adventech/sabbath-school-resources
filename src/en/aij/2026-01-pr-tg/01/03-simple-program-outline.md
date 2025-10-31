@@ -51,9 +51,9 @@ subtitle: Week 1
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Character Card 1: Creator God]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Romans 1:20”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Romans 1:20”
 - Review: Personal responses to learning
-- Mission Story: “Our Living God”
+- **^[Mission Story:]({"style": {"text": {"color":"#a771b0"}}})** “Our Living God”
 - **^[Craft:]({"style": {"text": {"color":"#a771b0"}}})** Color Wheel
 - Sing: Closing song: **^[“God Bless You.”]({"style": {"text": {"color":"#a771b0"}}})**
 - **^[Mission Challenge:]({"style": {"text": {"color":"#a771b0"}}})** Use the color wheel spinner you made at Sabbath School to tell your parents/caregivers about what you’ve learned about Creation.

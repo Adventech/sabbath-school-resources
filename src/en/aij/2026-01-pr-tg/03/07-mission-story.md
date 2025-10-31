@@ -26,4 +26,7 @@ Kristina invited the girls, but their parents thought the church was too far awa
 
 - **What made the Sabbath enjoyable for Kristina, Alona, and Nadia?**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _This story is adapted from “A Really Little Sabbath School” by Charlotte Ishkanian, Adventist Mission Children’s Quarterly, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission._

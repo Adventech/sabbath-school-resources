@@ -38,7 +38,7 @@ subtitle: Week 13
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Discussion: Reason for reminders
 - Activity: **^[Promise rotation]({"style": {"text": {"color":"#649b7c"}}})**
 - Apply: Promise box
@@ -54,7 +54,7 @@ subtitle: Week 13
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Character Card 13: Baby Isaac]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Hebrews 10:23”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Hebrews 10:23”
 - Option: Find/order memory verse words.
 - **^[Mission Story:]({"style": {"text": {"color":"#a771b0"}}})** “Praying for a Baby”
 - Review: Partner sharing with music

@@ -40,7 +40,7 @@ subtitle: Week 4
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "#FFFCF6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Object lesson: **^[Dirt in water—sin pollutes]({"style": {"text": {"color":"#649b7c"}}})**
 - Discussion and activity: Identify abilities using **^[Strength Cards]({"style": {"text": {"color":"#649b7c"}}})**. God gives abilities.
 - Read: John 5:30.
@@ -57,7 +57,7 @@ subtitle: Week 4
 
 - {"style": {"block": {"backgroundColor": "#FDF9FA", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - **^[Character Card 4: Fallen From Heaven]({"style": {"text": {"color":"#a771b0"}}})**
-- **^[Memory Verse and Scripture Song: “Job 34:4”]({"style": {"text": {"color":"#a771b0"}}})**
+- **^[Memory Verse and Scripture Song:]({"style": {"text": {"color":"#a771b0"}}})** “Job 34:4”
 - Apply memory verse.
 - **^[Nature Lesson:]({"style": {"text": {"color":"#a771b0"}}})** “Wild Sheep or Wild Goat”
 - **^[Craft:]({"style": {"text": {"color":"#a771b0"}}})** Good Choices Chatterbox
