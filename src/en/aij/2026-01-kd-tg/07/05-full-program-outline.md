@@ -65,7 +65,7 @@ The Bible tells us the answer. Show the children how to find the memory verse, *
 
 Listen to, and sing, the **Matthew 25:21 Scripture Song.** Share that Jesus loves to see our faithful choices. He will say these beautiful words to us when we get to heaven.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/7-matthew-25-21.mp3] “Matthew 25:21”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/7-matthew-25-21-updated.mp3] “Matthew 25:21”
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)

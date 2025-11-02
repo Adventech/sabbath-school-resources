@@ -51,7 +51,7 @@ subtitle: Week 1
 - **Does anyone know how our loving God created the heavens and the earth? How did our world come to be?** Explain that the Bible answers this question in the very first verse. Show the children how to find the **memory verse, Genesis 1:1. Say it together:** “In the beginning, God created the heavens and the earth” (Genesis 1:1). Listen to, and sing, the **Genesis 1:1 Scripture Song.**
 - **What was our earth like to begin with?**
 
-!a[1-genesis-1-1.mp3] “Genesis 1:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/1-genesis-1-1.mp3] “Genesis 1:1”
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)

@@ -34,7 +34,7 @@ title: Music
 
 ```=Scripture Songs
 
-!a[1-genesis-1-1.mp3] “Genesis 1:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/1-genesis-1-1.mp3] “Genesis 1:1”
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/2-genesis-1-31.mp3] “Genesis 1:31”
 
@@ -46,7 +46,7 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/6-john-14-23.mp3] “John 14:23”
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/7-matthew-25-21.mp3] “Matthew 25:21”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/7-matthew-25-21-updated.mp3] “Matthew 25:21”
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/8-hebrews-13-5b.mp3] “Hebrews 13:5b”
 
