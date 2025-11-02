@@ -40,7 +40,7 @@ subtitle: Week 4
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-- {"style": {"block": {"backgroundColor": "##fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
+- {"style": {"block": {"backgroundColor": "#fafaf7", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Object lesson: **^[Dirt in water—sin pollutes]({"style": {"text": {"color":"#649b7c"}}})**
 - Discussion and activity: Identify abilities using **^[Strength Cards]({"style": {"text": {"color":"#649b7c"}}})**. God gives abilities.
 - Read: John 5:30.

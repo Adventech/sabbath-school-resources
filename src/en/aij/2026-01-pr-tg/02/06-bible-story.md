@@ -69,7 +69,7 @@ Adam opened his eyes to see God’s kind, smiling face. Adam was made in the ima
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) God had the best new job for him! He could name all the animals. “Giraffe” popped into his head for a tall creature, and “rabbit” for a little ball of fur. What amazing creatures there were to meet and name. ^[(Show unusual animal pictures for the children to quickly guess the names of each.)]({"style": {"text": {"color":"#d34d5e"}}})
 
-All the animals had mates. Adam needed one too. ^[**What did God do? Read Genesis 2:21, 22.** (God created Eve from one of Adam’s ribs while he slept.)]({"style": {"text": {"color": "#58B0E3"}}})
+All the animals had mates. Adam needed one too. ^[What did God do? (God created Eve from one of Adam’s ribs while he slept.)]({"style": {"text": {"color": "#58B0E3"}}}) Read Genesis 2:21, 22.
 
 ^[►]({"style": {"text": {"color":"#d34d5e"}}}) Adam and Eve were created for each other as the very first male and female. Children would come from their special love for each other. Our families all come from this very first family. We’re all God’s precious children.
 

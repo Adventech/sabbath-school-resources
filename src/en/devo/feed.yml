@@ -20,6 +20,8 @@
   - group: Prayer initiatives
     view: folio
     resources:
+      - en-devo-2025-wop-2025
+      - en-devo-2025-wop-2025-childrens-resource
       - en-devo-2025-quarterly-days-of-prayer-and-fasting
       - en-devo-ten-days-of-prayer-2025
       - en-devo-ten-days-of-prayer-2025-childrens-resource
