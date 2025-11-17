@@ -12,7 +12,7 @@ subtitle: Week 2
 
 **^[LISTEN:]({"style": {"text": {"color":"#4d4d4f"}}})** Play the song **“When God Speaks”** or another worship song of your choice quietly in the background.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3] “When God Speaks”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3] “When God Speaks” {"credits":[{"key":"Writer","value":"Braedan Entermann"},{"key":"Singers","value":"Alise Entermann, Braedan Entermann"},{"key":"Pianist","value":"Braedan Entermann"},{"key":"Guitarist","value":"Braedan Entermann"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[CONNECT:]({"style": {"text": {"color":"#4d4d4f"}}})** Take time to talk to each child individually as they arrive. Let them know that you care about them and that you are glad they have come.
 
@@ -25,19 +25,19 @@ subtitle: Week 2
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“God Is Our Creator.”** Ask the children if they have anything special they would like the group to pray about. Sing the prayer song, **“Be Still, Be Silent.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3] “God Is Our Creator”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3] “God Is Our Creator” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3] “Be Still, Be Silent”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3] “Be Still, Be Silent” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Cello","value":"Jared Chung"},{"key":"Bass","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[PRAY:]({"style": {"text": {"color":"#d34d5e"}}})** Invite several children to pray, remembering to pray for the special requests.
 
 **^[BIBLE FOCUS:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“The Books of the Bible”** song while referring to the list of the books in order. Tell the children that if they’d like to, they can also listen to this song at home. Share a **Bible Fast Fact:** There are 66 books of the Bible. The Old Testament has 39 books, and the New Testament has 27 books.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3] “The Books of the Bible”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3] “The Books of the Bible” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering as you all sing **“Thank You, Jesus.”** Later, after the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Then share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer for God to bless and take the offering to where it’s most needed.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
@@ -80,7 +80,7 @@ subtitle: Week 2
 **^[MEMORY VERSE:]({"style": {"text": {"color":"#a771b0"}}})** Give each child **Character Card 2: Adam and Eve** to place in their container. Discuss the picture
 and recite the memory verse together. Then sing the **Scripture Song, “Genesis 1:27.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3] “Genesis 1:27”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3] “Genesis 1:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 Invite the children to discuss the following questions in pairs:
 
@@ -97,13 +97,13 @@ If time allows, have the children say the **memory verse** in pairs, saying one 
 
 While children complete their craft, play the song **“When God Speaks.”** Invite the children to sing along.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3] “When God Speaks”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3] “When God Speaks” {"credits":[{"key":"Writer","value":"Braedan Entermann"},{"key":"Singers","value":"Alise Entermann, Braedan Entermann"},{"key":"Pianist","value":"Braedan Entermann"},{"key":"Guitarist","value":"Braedan Entermann"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 Alternatively have the children use **play-dough** or **modeling clay** to **sculpt** something (object or scene) to represent each of the six days of Creation.
 
 **^[SING:]({"style": {"text": {"color":"#a771b0"}}})** Bring children back together to sing the closing song, **“God Bless You.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3] “God Bless You”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3] “God Bless You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Clicks","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#a771b0"}}}) Share God’s special gift of the Sabbath with someone new.** Spend a moment talking and praying together about whom the children could invite to Sabbath School, on a Sabbath walk in nature, or to family worship next Sabbath. The gift of Sabbath shouldn’t be kept to ourselves!
 
