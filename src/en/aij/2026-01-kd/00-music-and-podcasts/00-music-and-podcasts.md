@@ -2,7 +2,7 @@
 title: Music and Podcasts
 ---
 
-### Scripture Songs
+**Scripture Songs**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/1-genesis-1-1.mp3] “Genesis 1:1” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
@@ -30,54 +30,58 @@ title: Music and Podcasts
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/13-deuteronomy-7-9.mp3] “Deuteronomy 7:9” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Eden Nebblett, Heaven Nebblett, Sean Nebblett, Vanessa Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 1 Podcast
+```=Weekly Podcasts
+
+**Week 1 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3] A Brand New World {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 2 Podcast
+**Week 2 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3] Life in God’s Garden {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 3 Podcast
+**Week 3 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3] The Sabbath {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 4 Podcast
+**Week 4 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3] Lucifer’s Sad Choice {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 5 Podcast
+**Week 5 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3] Adam and Eve Choose {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 6 Podcast
+**Week 6 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3] Cain and Abel {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 7 Podcast
+**Week 7 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3] Noah Builds an Ark {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 8 Podcast
+**Week 8 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3] A Rainbow Promise {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 9 Podcast
+**Week 9 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3] The Tall Tower {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 10 Podcast
+**Week 10 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3] Abram, Man of Faith {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 11 Podcast
+**Week 11 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3] Abram Lets Lot Choose {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 12 Podcast
+**Week 12 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3] A Brave Rescue {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-### Week 13 Podcast
+**Week 13 Podcast**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3] Baby Isaac {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+
+```

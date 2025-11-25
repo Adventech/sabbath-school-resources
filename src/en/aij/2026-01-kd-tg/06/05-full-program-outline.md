@@ -41,6 +41,10 @@ subtitle: Week 6
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/god-is-our-loving-father.mp3] “God is Our Loving Father” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/birthday-song.mp3] “Birthday Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+
 ```
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
@@ -114,7 +118,7 @@ Ask the children to stand and repeat the **Big Idea** together: **God is loving.
 
 (Messages could include one of the following: When I love God, I will want to obey Him. Jesus can help me with my feelings, so I don’t hurt others. God’s way is my way.)
 
-**^[REVIEW:]({"style": {"text": {"color":"#F4793B"}}}) Show the children the following objects from today’s lesson: **children’s faces, altar and cross picture, male lion**. Then ask:
+**^[REVIEW:]({"style": {"text": {"color":"#F4793B"}}})** Show the children the following objects from today’s lesson: **children’s faces, altar and cross picture, male lion**. Then ask:
 
 - **What big, important lesson from today’s story does each object remind you of?**
 
@@ -128,8 +132,8 @@ Ask the children to repeat the **Big Idea** with you: Today we’ve learned that
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Choose a helpful job to do every day for a week to practice doing something faithfully (e.g., water the plants, make your bed, set the table). You may like to mark a calendar square every day you do this.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Noah building a big boat.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Noah building a big boat.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-**^[PRAY:]({"style": {"text": {"color":"#215E9E"}}})** Pray, thanking God for helping us to obey with love in our hearts. Ask God to help us to ask for His help to be strong and learn from our mistakes when we disobey.
+**^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Pray, thanking God for helping us to obey with love in our hearts. Ask God to help us to ask for His help to be strong and learn from our mistakes when we disobey.

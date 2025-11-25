@@ -39,6 +39,10 @@ As they do this, encourage discussion about the process. For example: Do you lik
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/missionary-missionary.mp3] “Missionary, Missionary” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/birthday-song.mp3] “Birthday Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+
 ```
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}

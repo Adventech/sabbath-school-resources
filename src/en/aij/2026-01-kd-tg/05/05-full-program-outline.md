@@ -39,6 +39,10 @@ subtitle: Week 5
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/god-is-our-loving-father.mp3] “God is Our Loving Father” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/birthday-song.mp3] “Birthday Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+
 ```
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
@@ -139,7 +143,7 @@ Say the **Big Idea** together: **God is loving. He took my consequences. Ask Jes
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#F4793B"}}}) Show or tell a young friend the story of Creation, sin, and how Jesus died to save us.**
 
-**^[SING:]({"style": {"text": {"color":"#215E9E"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Adam and Eve’s family.
+**^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing **“Goodbye Song.”** Share that next week we will learn about Adam and Eve’s family.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 

@@ -73,6 +73,10 @@ subtitle: Week 5
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3] “Birthday Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Guitarist","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **FOCUS ACTIVITIES** (5 MINUTES)
 
