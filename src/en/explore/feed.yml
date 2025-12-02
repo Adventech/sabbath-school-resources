@@ -27,5 +27,5 @@
   - group: Stewardship
     view: folio
     resources:
-      - en-explore-stewardship-offertory-readings-2025
+      - en-explore-stewardship-offertory-readings-*
       - en-explore-steps-to-discipleship-*
