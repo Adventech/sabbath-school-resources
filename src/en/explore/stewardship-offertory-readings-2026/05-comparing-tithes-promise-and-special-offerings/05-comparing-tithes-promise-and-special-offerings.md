@@ -11,7 +11,7 @@ Ellen G. White also agrees that tithes and offerings are under the same system. 
 
 In another quotation, Ellen G. White says that this offering, along with tithe, is not spontaneous or voluntary but is part “of our obligation.” She writes: “This matter of giving is not left to impulse. God has given us definite instruction in regard to it. He has specified tithes and offerings as the measure of our obligation. And He desires us to give regularly and systematically (Counsels on Stewardship, p. 80).
 
-![](image.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/stewardship-offertory-readings-2026/05-comparing-tithes-promise-and-special-offerings/image.png)
 
 | Features/Offerings | Tithe | Promise | Special (Spontaneous) Offering |
 | --- | --- | --- | --- |
