@@ -1,0 +1,23 @@
+title: Primary Training Videos
+kind: blog
+subtitle: >-
+  For information about how to implement the Alive in Jesus Primary Curriculum,
+  take a look at these training videos.
+primaryColor: '#7D665F'
+primaryColorDark: '#6A4842'
+featuredResources:
+  - en/aij/aij-training-videos
+  - en/aij/aij-training-videos-beginner
+  - en/aij/aij-training-videos-babies
+featuredResourcesView: tile
+cta:
+  text: WATCH
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-primary/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-primary/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-primary/assets/cover.png
+  splash: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/aij-training-videos-primary/assets/splash.png
