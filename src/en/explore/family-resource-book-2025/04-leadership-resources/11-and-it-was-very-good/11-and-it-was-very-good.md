@@ -28,7 +28,7 @@ Regarding physical resemblance, he writes, “many expressions of divine and hum
 
 ### “Male and Female”
 
-in addition to being made “in the image of God,” God created human beings “male and female” (Genesis 1:26). Clearly, God made two separate beings with unique bodies, roles, and purposes. While other creatures were made male and female, the purpose for this distinction in human beings was far greater than mere copulation and procreation.
+In addition to being made “in the image of God,” God created human beings “male and female” (Genesis 1:26). Clearly, God made two separate beings with unique bodies, roles, and purposes. While other creatures were made male and female, the purpose for this distinction in human beings was far greater than mere copulation and procreation.
 
 God Himself created human sexuality to be a source of intimacy, joy, and pleasure between a man and woman, a husband and wife. Again, we can learn much from these foundational chapters in Genesis, which provide a theology of sexuality that is assumed and developed throughout the rest of Scripture.
 
@@ -46,13 +46,13 @@ This self-centered outlook on life, encouraging one to follow their heart and be
 
 ### Clear Direction
 
-in a world where we are continually bombarded with messages claiming that everyone can determine their own “truth” regarding sexuality as well as everything else, God has given us His Word—the Bible—to be a lamp to our feet and a light to our path (see Psalm 119:105).
+In a world where we are continually bombarded with messages claiming that everyone can determine their own “truth” regarding sexuality as well as everything else, God has given us His Word—the Bible—to be a lamp to our feet and a light to our path (see Psalm 119:105).
 
 While the Bible clearly explains the foundational concepts set out at Creation, it also recognizes the Fall and acknowledges the state of living within a fallen world. “All have sinned and come short of the glory of God,” we read in Romans 3:23. But God’s Word also gives us the assurance, “If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness” (1 John 1:9).
 
 Not only that, but the Bible is replete with instructions on how to live our lives in a godly way. The book of Proverbs especially gives wise counsel on how to conduct oneself. The Ten Commandments address the issue of sexual morality, stating, “You shall not commit adultery,” clearly indicating that sexual intimacy outside of marriage is a sin. Jesus took this to an even deeper level when He explained, “But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart” (Matthew 5:28).
 
-in 1 Corinthians 6:9-10, we are given a list of those who practice unrighteousness and will not inherit the kingdom of God, including “fornicators [those who have sex outside of marriage], nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God.”
+In 1 Corinthians 6:9-10, we are given a list of those who practice unrighteousness and will not inherit the kingdom of God, including “fornicators [those who have sex outside of marriage], nor idolaters, nor adulterers, nor homosexuals, nor sodomites, nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners will inherit the kingdom of God.”
 
 God’s plan for human sexuality is affirmed in Hebrews 13:4, while a warning is given for those who practice sex outside the divine plan: “Marriage is honorable among all, and the bed undefiled; but fornicators and adulterers God will judge.”
 

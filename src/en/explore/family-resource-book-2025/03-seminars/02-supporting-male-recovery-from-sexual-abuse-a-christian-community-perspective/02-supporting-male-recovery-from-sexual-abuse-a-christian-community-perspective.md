@@ -12,7 +12,7 @@ This seminar will take about 60 minutes. The anticipated audience is church lead
 
 ### Introduction
 
-in the Greco-Roman culture that Jesus was born into, children were seen as property to be disposed of as their parents wished. in contrast, the Bible presented children as a treasured gift from God (Ps. 127:3). But in the time of Jesus, children were often pushed to the background in Jewish culture.
+In the Greco-Roman culture that Jesus was born into, children were seen as property to be disposed of as their parents wished. in contrast, the Bible presented children as a treasured gift from God (Ps. 127:3). But in the time of Jesus, children were often pushed to the background in Jewish culture.
 
 Jesus dramatically changed how we view children. He indicated that children have great value and may have spiritual insights that adults lack. Most importantly, Jesus made it very clear that children were not property, had great value, and should never be harmed or exploited! in Luke 17:2, Jesus noted that a severe punishment awaits those who harm or exploit children.
 
@@ -32,7 +32,7 @@ There is often an assumption that males are not negatively affected by sexual ab
 
 Men experience unique challenges speaking out about these harmful experiences due to the sexual cultural expectations of men (Alaggia, 2010). Like females, they may be afraid they won’t be believed (Rapsey, Campbell, Clearwater, & Patterson, 2020). Those who have been abused as boys by other males may be concerned what others could think of their sexuality. They may wonder about their sexuality themselves. This is particularly difficult within the conservative Christian church context, where marriage is expected to be between a man and a woman. When male minors experience unwanted sexual activity from older females, they may be hesitant to reach out for help because the culture appears to support sexually aggressive females with younger males. As a result, adulthood is the time when men are more likely to disclose their past abuse (Gagnier et al., 2016). Married men who feel pressured into unwanted or harmful sexual activities by their wives experience some distress as well. Men may feel shamed for saying no to any sexual act, even if it is harmful.
 
-in the U.S. and other patriarchal cultures, men are expected to be the main providers and physically strong. This is thought to be especially important in cultures where resources are limited. Men often don’t want to admit women took advantage of them sexually due to being perceived as weak. If individuals experiencing sexual abuse don’t reach out for help, they are at risk of being victimized again, which can worsen their outcomes and ability to recover.
+In the U.S. and other patriarchal cultures, men are expected to be the main providers and physically strong. This is thought to be especially important in cultures where resources are limited. Men often don’t want to admit women took advantage of them sexually due to being perceived as weak. If individuals experiencing sexual abuse don’t reach out for help, they are at risk of being victimized again, which can worsen their outcomes and ability to recover.
 
 ### Impact on The Family
 

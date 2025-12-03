@@ -75,7 +75,7 @@ Unfortunately, during this time, adolescents are also expected to make significa
 
 ### God’s Instruction to Parents
 
-in Deuteronomy 6: 4-9, 20-25, God instructed Israelites to teach their children diligently in order to preserve their faith. He insisted that even when they were among the gentiles, they would not lose sight of who they were as His people. They were supposed to tell their children about the goodness of the Lord.
+In Deuteronomy 6: 4-9, 20-25, God instructed Israelites to teach their children diligently in order to preserve their faith. He insisted that even when they were among the gentiles, they would not lose sight of who they were as His people. They were supposed to tell their children about the goodness of the Lord.
 
 Unfortunately, the word of God in Joshua 24: 31 and Judges 2: 7, 11-16 suggests that the Israelites failed to follow God’s instruction; they did not pass on the faith of their fathers to their offspring.
 
@@ -93,7 +93,7 @@ Ellen White wrote:
 
 “While here on earth, children need to have their physical needs attended to, they need education and successful life. Although these are good gifts for our children let us remind them not to lose focus and be trapped in the things of this life at the cost of eternal life. Eternal interests depend upon the course our children take in this life, and parents should be in earnest in giving them correct lessons from their babyhood up. This is a work that has been greatly neglected by many parents, and it is one in which the Lord would have decided reforms made. He desires that our children shall be trained to render obedience to all His requirements” (Manuscript Releases vol.10, p. 101).
 
-in this journey, parents must model Christian character to their Adolescent children. Children may argue with what their parents tell them, but they will never argue with their parents’ noble character because actions speak louder than words of the mouth.
+In this journey, parents must model Christian character to their Adolescent children. Children may argue with what their parents tell them, but they will never argue with their parents’ noble character because actions speak louder than words of the mouth.
 
 #### Group Activity
 

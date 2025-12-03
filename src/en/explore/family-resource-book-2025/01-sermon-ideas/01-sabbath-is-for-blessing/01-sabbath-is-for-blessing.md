@@ -14,7 +14,7 @@ Today, we gather to explore a profound and philosophical truth that lies at the 
 
 Imagine a day designed by God Himself—a day of rest, rejuvenation, and blessing. A day set apart from the hustle and bustle of our busy lives, a time to reconnect with our Creator and with our loved ones. This day—brothers and sisters—is the Sabbath, a gift from God to humanity. Yet, throughout history, this divine gift has often been misunderstood, misused, misheard, and even rejected.
 
-in Luke 6:1-11, we find Jesus confronting the religious leaders of His time about their misconceptions and misconstructions regarding the Sabbath. Through His words and actions, Christ exposes, reveals, and uncovers the true purpose of this holy day as a time for blessing, not for burden. Today, we’ll explore, investigate, and study this passage and determine and discover how we can experience the fullness of God’s Sabbath blessing in our lives and the lives of our families.
+In Luke 6:1-11, we find Jesus confronting the religious leaders of His time about their misconceptions and misconstructions regarding the Sabbath. Through His words and actions, Christ exposes, reveals, and uncovers the true purpose of this holy day as a time for blessing, not for burden. Today, we’ll explore, investigate, and study this passage and determine and discover how we can experience the fullness of God’s Sabbath blessing in our lives and the lives of our families.
 
 As we take a deep dive into this text, we’ll see how Jesus—as the Lord of the Sabbath— teaches us to prioritize compassion, healing, and doing good on this sacred day. We’ll also examine Ellen White’s insights on the Sabbath and consider how we can apply her relevant counsel in our contemporary context.
 
@@ -26,7 +26,7 @@ to fully appreciate, grasp, and value the significance of this passage, we need 
 
 The Sabbath was a central institution in Jewish life, rooted in the Creation account (Genesis 2:2-3) and codified in the Ten Commandments (Exodus 20:8-11). By the time of Jesus, however, the original purpose of the Sabbath had become concealed, disguised, and obscured by a complex system of rules and regulations developed by the religious leaders of that day.
 
-in their zeal to protect the sanctity of the Sabbath, the Pharisees had created 39 categories of prohibited work, including activities like reaping, threshing, and healing. These man-made restrictions often placed heavy burdens on people, turning the Sabbath from a day of delight into a day of legalistic observance.
+In their zeal to protect the sanctity of the Sabbath, the Pharisees had created 39 categories of prohibited work, including activities like reaping, threshing, and healing. These man-made restrictions often placed heavy burdens on people, turning the Sabbath from a day of delight into a day of legalistic observance.
 
 It’s in this context that Jesus challenges the prevailing understanding of the Sabbath. His actions and teachings, to be sure, serve to reinstate, restore, and reestablish the true meaning and purpose of this holy day.
 
@@ -38,7 +38,7 @@ Let’s now examine the text in detail.
 
 “on a Sabbath, while he was going through the grainfields, his disciples plucked and ate some heads of grain, rubbing them in their hands. But some of the Pharisees said, ‘Why are you doing what is not lawful to do on the Sabbath?’ and Jesus answered them, ‘Have you not read what David did when he was hungry, he and those who were with him: how he entered the house of God and took and ate the bread of the Presence, which is not lawful for any but the priests to eat, and also gave it to those with him?’ and he said to them, ‘The Son of Man is lord of the Sabbath’” (Luke 6:1-5, ESV).
 
-in this scene, Jesus and His disciples are walking through grainfields on the Sabbath. The disciples—being hungry—begin to pick heads of grain, rub them in their hands to remove the chaff, and eat the kernels. This action—though seemingly innocent—draws the attention and criticism of the Pharisees.
+In this scene, Jesus and His disciples are walking through grainfields on the Sabbath. The disciples—being hungry—begin to pick heads of grain, rub them in their hands to remove the chaff, and eat the kernels. This action—though seemingly innocent—draws the attention and criticism of the Pharisees.
 
 From the Pharisees’ perspective, the disciples were violating Sabbath laws by engaging in activities that could be classified as reaping and threshing. However, Jesus defends His disciples by referring to a historical precedent—the actions of David and his companions when they were in need (1 Samuel 21:1-6).
 
@@ -52,7 +52,7 @@ Jesus’ response highlights several important points:
 
 “on another Sabbath, he entered the synagogue and was teaching, and a man was there whose right hand was withered. and the scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, so that they might find a reason to accuse him. But he knew their thoughts, and he said to the man with the withered hand, ‘Come and stand here.’ and he rose and stood there. and Jesus said to them, ‘I ask you, is it lawful on the Sabbath to do good or to do harm, to save life or to destroy it?’ and after looking around at them all he said to him, ‘Stretch out your hand.’ and he did so, and his hand was restored. But they were filled with fury and discussed with one another what they might do to Jesus” (Luke 6:6-11, ESV).
 
-in this second Sabbath incident, Jesus is teaching in the synagogue when He encounters a man with a withered hand. The Pharisees and teachers of the law are watching Jesus closely, hoping to catch Him breaking their Sabbath regulations.
+In this second Sabbath incident, Jesus is teaching in the synagogue when He encounters a man with a withered hand. The Pharisees and teachers of the law are watching Jesus closely, hoping to catch Him breaking their Sabbath regulations.
 
 Jesus, aware of their thoughts, brings the man to the center of attention and poses a crucial question: “Which is lawful on the Sabbath: to do good or to do harm, to save life or to destroy it?” This question cuts to the heart of the matter, challenging the religious leaders’ understanding of the purpose of the Sabbath.
 
@@ -140,9 +140,9 @@ As we think about applying these principles in our own lives, it’s important t
 
 For some, Sabbath rest might mean spending more time in worship and Bible study. For others, it might mean engaging in active service to others and leading people to Jesus. The important thing is that we use this time to step away from our regular routines and focus on our relationship with God and others. After all, the Sabbath is holy time. Remember that “So God blessed the seventh day and made it holy, because on it God rested from all his work that He had done in creation” (Genesis 2:3, ESV). As God rested on the Sabbath, so we should also rest and be intentional about being a blessing to others.
 
-in our modern world, keeping the Sabbath can be challenging. We’re often pulled in many directions by work—even ministry work—social obligations and the constant connectivity of our digital devices. But by intentionally remembering it is holy time set aside by God for us to rest from our daily concerns, we create a space for God to work in our lives, refresh our spirits, and give us an opportunity to be a blessing to others.
+In our modern world, keeping the Sabbath can be challenging. We’re often pulled in many directions by work—even ministry work—social obligations and the constant connectivity of our digital devices. But by intentionally remembering it is holy time set aside by God for us to rest from our daily concerns, we create a space for God to work in our lives, refresh our spirits, and give us an opportunity to be a blessing to others.
 
-in addition, our Sabbath-keeping can be a powerful witness to those around us. in a world that often values constant productivity and busyness, our choice to rest and focus on spiritual matters can be a compelling testimony to the values of our faith.
+In addition, our Sabbath-keeping can be a powerful witness to those around us. in a world that often values constant productivity and busyness, our choice to rest and focus on spiritual matters can be a compelling testimony to the values of our faith.
 
 As we seek to apply these Sabbath principles in our lives, we might face challenges or questions. How do we balance rest with the desire to serve others? How do we handle work—especially ministry work—or family obligations that seem to intrude on Sabbath time? These are questions we must wrestle with prayerfully, seeking God’s guidance, wisdom, and strength to live as He lived.
 

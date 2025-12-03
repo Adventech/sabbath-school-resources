@@ -6,7 +6,7 @@ The increasing awareness of the needs and challenges that transgender men and wo
 
 ### The Transgender Phenomenon
 
-in modern society, gender identity typically denotes “the public (and usually legally recognized) lived role as boy or girl, man or woman,” while sex refers “to the biological indicators of male and female.”<sup>1</sup> Gender identification usually aligns with a person’s biological sex at birth. However, misalignment may happen at the physical and/or mental-emotional levels.
+In modern society, gender identity typically denotes “the public (and usually legally recognized) lived role as boy or girl, man or woman,” while sex refers “to the biological indicators of male and female.”<sup>1</sup> Gender identification usually aligns with a person’s biological sex at birth. However, misalignment may happen at the physical and/or mental-emotional levels.
 
 on the physical level ambiguity in genitalia may result from anatomical and physiological abnormalities so that it cannot be clearly established whether a child is male or female. This ambiguity of anatomical sexual differentiation is often called hermaphroditism or intersexualism.<sup>2</sup>
 

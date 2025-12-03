@@ -30,7 +30,7 @@ Ephesians 5:22-33 has two different dimensions. on the one hand, the passage spe
 
 **2. The Christian Family Circle**
 
-in addition, Paul is also concerned with the family in a broader sense. That is why he does not only speak of husbands and wives, but immediately afterward our passage also of parents and children and of slaves and their masters (Eph 6:1-9). He has something to say to everyone on God’s behalf. Harmony should reign at all levels of relationships. That is why everyone is addressed. When Paul speaks to women, he also sets the men straight. When he demands obedience from children, he also warns fathers against overstepping boundaries.
+In addition, Paul is also concerned with the family in a broader sense. That is why he does not only speak of husbands and wives, but immediately afterward our passage also of parents and children and of slaves and their masters (Eph 6:1-9). He has something to say to everyone on God’s behalf. Harmony should reign at all levels of relationships. That is why everyone is addressed. When Paul speaks to women, he also sets the men straight. When he demands obedience from children, he also warns fathers against overstepping boundaries.
 
 ### II. Remarks on the Text and Application
 
@@ -47,7 +47,7 @@ What does the passage tell us about Jesus and His church?
 3. Jesus gave himself up for the church by dying on the cross for her (Eph 5:25).<sup>2</sup> He saved His followers (Eph 5:23) and cleansed them (Eph 5:26-27).
 4. Jesus nourishes the church and cares for her (Eph 5:29).
 
-in this way, Paul draws a line from creation to redemption to completion. Jesus created the church and called her into existence. He redeemed His followers through His death on the cross. He provides for them and brings them home to be with Him forever.
+In this way, Paul draws a line from creation to redemption to completion. Jesus created the church and called her into existence. He redeemed His followers through His death on the cross. He provides for them and brings them home to be with Him forever.
 
 This also applies to each one of us. Jesus called us into existence. He has guided and kept us. There are many positive things in our lives. But our lives are also marked by guilt and failure, fear and brokenness, hardship and burdens. Jesus wants to give us forgiveness, peace, salvation, and eternal life. He cares for us every day. He gives us meaning and purpose in life. He keeps hope alive beyond the grave. He seeks the closest fellowship with you and me.
 
@@ -103,9 +103,9 @@ If a man loves his wife as described here, then he provides for her in every con
 
 God loved the world with His love and gave His Son for its salvation. Paul says of this love that it is patient and kind, that it is not jealous, that it does not seek its own, that it does not allow itself to be provoked and that it does not rejoice at wrongdoing. This love bears everything, believes everything, hopes all things, and endures everything. This love never ceases (1Cor 13:4-8).
 
-in Ephesians 5 men are called to this love three times: “Husbands, love your wives” (verse 25), “in the same way, husbands should love their wives” (verse 28), “Let each one love his wife” (verse 33).
+In Ephesians 5 men are called to this love three times: “Husbands, love your wives” (verse 25), “in the same way, husbands should love their wives” (verse 28), “Let each one love his wife” (verse 33).
 
-in some marriages, the spouses behave like the tick on the dog. David Seamands writes:
+In some marriages, the spouses behave like the tick on the dog. David Seamands writes:
 
 “The tick is not at all interested in the dog having a good time, it just sucks it dry. The tragedy in some marriages is that both partners only take. Such a marriage is like two ticks and no dog. Two collectors and nothing to collect! A couple visited me years ago. They had been married for 15 years. It was 15 years of marital ping-pong. When he got aggressive or angry, she responded the same way and vice versa...They both suffered from emotional wounds and real bitterness...She had married him because he seemed to be a spiritual leader, studious, determined, and ambitious. One can imagine her horror when it turned out that he was indecisive and lacking in discipline, lazy, and careless. in her anger she choked him like the servant in the parable and said, ‘You have betrayed me. You owe me everything I expected from you when I married you.’ . . . For fifteen years she nagged him, ‘Pay me what you owe me.’ He had married her because she was good-looking, pretty and neat. You can imagine his terrible disappointment when he discovered that she did her housework sloppily, that she neglected her hair, her clothes, and her whole appearance. He thought she had tricked him. ‘You owe me those things that made you stand out when I courted you. and so he choked her, saying with mockery and biting remarks: ‘Pay what you owe me...” Both had been waiting for 15 years for the other to change.”<sup>7</sup>
 
@@ -113,7 +113,7 @@ We desperately need divine love that gives instead of demanding, that offers the
 
 **_c. Summary_**
 
-in Eph 5, the wife is urged to submit to her husband in verse 22. Again, to submit to her husband in verse 24. to honor her husband in verse 33. As with wives, there are three imperatives for Husbands: the husband is to love his wife.
+In Eph 5, the wife is urged to submit to her husband in verse 22. Again, to submit to her husband in verse 24. to honor her husband in verse 33. As with wives, there are three imperatives for Husbands: the husband is to love his wife.
 
 When the passage speaks about the subordination of wives, this does not mean that they are inferior. The text implies a wife is free to accept equality with her husband in marriage and family and—metaphorically speaking—to let him chair the committee while both have the same voting rights. The text never says: “Let the man subjugate his wife.” It seems that verse 33 defines what submitting means, namely respect and honor. The more the husband loves his wife as Christ loved the church, the easier it will be for his wife to respect him.
 

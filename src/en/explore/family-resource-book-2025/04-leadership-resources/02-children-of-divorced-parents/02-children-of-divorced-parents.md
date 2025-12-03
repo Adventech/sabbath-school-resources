@@ -16,7 +16,7 @@ After a brief overview of the biblical perspective and some general observations
 
 ### Biblical Perspective
 
-in His discussion with the Pharisees, Jesus made very clear God’s expectation for marriage to be permanent. Matthew’s record offers:
+In His discussion with the Pharisees, Jesus made very clear God’s expectation for marriage to be permanent. Matthew’s record offers:
 
 The Pharisees also came to Him, testing Him, and saying to Him, “Is it lawful for a man, to divorce his wife for just any reason?” and He answered and said to them, “Have you not read that He who made them at the beginning ‘made them male and female,’ and said, ‘For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh’? So then, they are no longer two but one flesh. Therefore, what God has joined together, let not man separate.” They said to Him, “Why then did Moses command to give her a certificate of divorce, and to put her away?” He said to them, “Moses, because of the hardness of your hearts, permitted you to divorce your wives, but from the beginning it was not so. and I say to you, whoever divorces his wife, except for sexual immorality, and marries another, commits adultery; and whoever marries her who is divorced commits adultery.” (Matt 19:3–9)<sup>4</sup>
 
@@ -48,7 +48,7 @@ Yet, couples continue to divorce for many reasons that have nothing to do with e
 
 ### The Children
 
-in this part of the chapter, the short- and long-term effects of divorce on children will be discussed, as well as the needs of children.
+In this part of the chapter, the short- and long-term effects of divorce on children will be discussed, as well as the needs of children.
 
 #### The Short-term Effects on Children
 
@@ -60,13 +60,13 @@ Jann Gumbiner, a licensed psychologist and clinical professor at the University 
 
 Another way children are adversely affected by the divorce of their parents is that invariably they take on the role of caregiver to the parent they live with, overly identifying with the pain of the ostensibly abandoned parent and being unable to break away emotionally. This is especially true for daughters in relationship to their mothers. As they become adults, these daughters are frequently incapable of establishing separate lives of their own, even if they live hundreds of miles away.<sup>15</sup>
 
-in her article about severe stress and mental disturbance in children, Cynthia R. Pfeffer, a professor of psychiatry, offers that family transitions can be stressors on children and adolescents, mainly because they have to adapt to shifting parenting styles and house environments. These children often live with their mothers during the week and with their fathers during the weekend, or vice versa, making it difficult to experience continuity and the security it provides.<sup>16</sup>
+In her article about severe stress and mental disturbance in children, Cynthia R. Pfeffer, a professor of psychiatry, offers that family transitions can be stressors on children and adolescents, mainly because they have to adapt to shifting parenting styles and house environments. These children often live with their mothers during the week and with their fathers during the weekend, or vice versa, making it difficult to experience continuity and the security it provides.<sup>16</sup>
 
-in order to better assist these teenagers, it is important to be aware of the typical process of mourning that almost every child of divorce goes through. The steps are denial, anger, negotiation, depression, and finally acceptance.
+In order to better assist these teenagers, it is important to be aware of the typical process of mourning that almost every child of divorce goes through. The steps are denial, anger, negotiation, depression, and finally acceptance.
 
 Children mourn differently from adults. Like everything else, they do it very intensely. The grief phases in children are often not linear. Invariably, they skip or repeat phases, or their mood may fluctuate in what can be called “mourning puddles.” Some adults misunderstand what is taking place and may believe children have already completed their grief, but it is not always the case. in some situations, children can only judge and mourn later. For example, if the father of a five-year-old boy leaves the family, the child may be sad. in this case, however, grief can come back at puberty once this boy becomes aware that he lacks a father figure in his life. Hence, it is very important to take a child’s grief seriously. Even if the other parent lives nearby, this may be the first time they experience someone being gone. That might unsettle and scare them, but at the same time they learn and grow through the grieving process. The best way to support children in these kinds of situations is to signal understanding and enable them to speak—in their language— about their feelings. Saying something like “You are sad that Mommy does not live with us anymore” might help convey to a child that you are listening to his/her grief and expressing empathy for his/her loss.
 
-in the first grieving phase there is denial, which is when the separation is not accepted or noticed. Then comes anger at the parent who stayed—for not being able to keep the parent who left, or for sending that parent away—and also anger for being left behind by the parent who left the home.
+In the first grieving phase there is denial, which is when the separation is not accepted or noticed. Then comes anger at the parent who stayed—for not being able to keep the parent who left, or for sending that parent away—and also anger for being left behind by the parent who left the home.
 
 During the third phase children begin to negotiate, which is usually a shorter period. It may be negotiating with either parent by promising to be a better son or daughter, in order for the parent who left to come back and make the family whole again. A child might say to himself or to herself, “If I clean up my room, or if I get better grades in school, then my parents will surely reconcile.”
 
@@ -84,7 +84,7 @@ Furthermore, Wallerstein’s research also found that as children of divorce bec
 
 Antagonistic parent relationships, derogatory statements, and rejection of the other parent contribute in the long run to negative consequences. Children suffer when parents argue, and they feel guilty for negative feelings between their parents. A lack of civility and coordination between parents may also lead to loyalty conflicts among the children.<sup>21</sup>
 
-in a quantitative review of literature, sociologist Paul R. Amato examined the possible effects on children several years after a divorce. The studies compared children of married parents with those who experienced divorce at different ages. The investigators followed these children into later childhood and adolescence, assessing their academic achievement as well as their emotions and behavior, such as delinquency, self-concept, and social relationships. on average, the studies found only very small differences on all these measures between children of divorced parents and those from intact families, suggesting that the variance between these two groups may not always be as statistically significant as we may think.<sup>22</sup>
+In a quantitative review of literature, sociologist Paul R. Amato examined the possible effects on children several years after a divorce. The studies compared children of married parents with those who experienced divorce at different ages. The investigators followed these children into later childhood and adolescence, assessing their academic achievement as well as their emotions and behavior, such as delinquency, self-concept, and social relationships. on average, the studies found only very small differences on all these measures between children of divorced parents and those from intact families, suggesting that the variance between these two groups may not always be as statistically significant as we may think.<sup>22</sup>
 
 It is worthy of note, however, that while many studies demonstrate that divorce is devastating to everyone involved, especially to children, other studies indicate that divorce must be viewed as a process of transitions and perspectives for the entire family. E. Mavis Hetherington discovered that familial interactions will affect the outcomes of divorce and remarriage and variations of outcomes must be acknowledged. If one does not believe that there is hope for children of divorce, then one fails to take into account God’s ability to heal and to help individuals overcome their past. Another perspective of hope is that in many cases young adults who experienced their parents’ divorce often develop strengths and resiliencies that others without that familiarity do not have. There are also indications that in certain instances the current generation of young adults, having suffered through their parents’ divorce, may work to find ways to avoid a similar fate.<sup>23</sup>
 
@@ -106,7 +106,7 @@ Between the ages of four and six, children are more likely to suffer from stress
 
 For children, happiness presents itself in different ways, depending on the age and individual disposition of the child. in general, they have fundamental needs such as unconditional love from their family, self-confidence and high self-esteem, the opportunity to play with other children, encouraging teachers and supportive caretakers, safe and secure surroundings, and appropriate guidance and discipline.
 
-in the midst of the chaos produced by divorce, we go back to the message found in Malachi 2:14–16, where God shares with Israel His disappointment about the way husbands dealt with their wives:
+In the midst of the chaos produced by divorce, we go back to the message found in Malachi 2:14–16, where God shares with Israel His disappointment about the way husbands dealt with their wives:
 
 Because the Lord has been witnessing between you and the wife of your youth, with whom you have dealt treacherously; yet she is your companion and your wife by covenant. But did He not make them one, having a remnant of the Spirit? and why one? He seeks godly offspring. Therefore, take heed to your spirit, and let none deal treacherously with the wife of his youth. “For the Lord God of Israel says that He hates divorce, for it covers one’s garment with violence,” says the Lord of hosts. “Therefore, take heed to your spirit, that you do not deal treacherously.”
 
@@ -114,7 +114,7 @@ Here, God clearly spells out His displeasure with the men of Israel who had deal
 
 While it is clear that God hating divorce does not mean He hates those who are divorced, He outlines several reasons He intended marriage to be for life. One of these has to do with the fact that God wants children to have a place of safety, security, and unconditional love. While divorce does not always lead to children walking away from God, it certainly makes their journey more difficult in most cases.<sup>31</sup>
 
-in the time of Malachi, a wife could hardly divorce her husband. So God addressed the males. in the New Testament it becomes clear that already in the Greco-Roman culture, women were able to initiate a divorce and follow through with it, as it is today (Mark 10:11–12). Joyce G. Baldwin states,
+In the time of Malachi, a wife could hardly divorce her husband. So God addressed the males. in the New Testament it becomes clear that already in the Greco-Roman culture, women were able to initiate a divorce and follow through with it, as it is today (Mark 10:11–12). Joyce G. Baldwin states,
 
 Only when both parents remain faithful to their marriage vows can the children be given the security which provides the basis for godly living. The family was intended to be the school in which God’s way of life was practiced and learned (Exod. 20:12; Deut. 11:19). Because a divine institution was being threatened Malachi urged that none be faithless to the wife of his youth.<sup>32</sup>
 
@@ -166,7 +166,7 @@ A divorce recovery group can be very helpful, as someone else in the group may b
 
 ### Suggestions For Healing
 
-in this section, some suggestions for healing are given—mainly for children, but also for parents going through a divorce.
+In this section, some suggestions for healing are given—mainly for children, but also for parents going through a divorce.
 
 #### Meeting The Needs of The Children
 
@@ -194,7 +194,7 @@ Encouraging children to grow together in a blended family is an important featur
 
 According to Karen L. Maudlin, an experienced licensed psychologist, some adult children of divorce (ACODs), wonder if their marriages are as ill-fated as their parents’. Although the answer is no, it is necessary to acknowledge some significant challenges, such as not having the opportunity to learn commitment and problem-solving strategies.
 
-in many ways, it is tougher for ACODs to succeed at marriage. Therefore, the author mentions three common fears to this age group, which is essential for them to confront: the fear of failure, the fear of betrayal, and the fear of abandonment. By taking a few practical steps, ACODs may prevent these fears from damaging their own marriage.
+In many ways, it is tougher for ACODs to succeed at marriage. Therefore, the author mentions three common fears to this age group, which is essential for them to confront: the fear of failure, the fear of betrayal, and the fear of abandonment. By taking a few practical steps, ACODs may prevent these fears from damaging their own marriage.
 
 **_Overcoming fear_**
 

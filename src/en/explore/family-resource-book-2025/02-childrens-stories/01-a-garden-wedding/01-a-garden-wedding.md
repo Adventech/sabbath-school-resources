@@ -18,7 +18,7 @@ Do you remember the story of Adam and Eve in the Garden of Eden?
 
 Respond positively to the children’s responses, being careful not to stop to take specific answers.
 
-in the beautiful garden of Eden, Adam and Eve lived happily **together** **(Note: please do not say ‘_happily ever after_’).** They cared for each other, shared their days exploring the wonders around them, and talked to God every day. God blessed their marriage, making it the first of many loving marriages in our world.
+In the beautiful garden of Eden, Adam and Eve lived happily **together** **(Note: please do not say ‘_happily ever after_’).** They cared for each other, shared their days exploring the wonders around them, and talked to God every day. God blessed their marriage, making it the first of many loving marriages in our world.
 
 Many, many years later, in a busy city with tall buildings and bustling streets [adapt to your own community] lived a young couple named Charlotte and Mateo. They had heard the story of Adam and Eve in Sabbath school and often wondered what it meant for their own lives and their new marriage.
 

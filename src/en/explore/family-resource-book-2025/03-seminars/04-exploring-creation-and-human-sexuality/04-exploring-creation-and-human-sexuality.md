@@ -10,7 +10,7 @@ Genesis 1:26-27
 
 ### Seminar Overview
 
-in this seminar, we will explore God’s design for human sexuality and how the Fall resulted in destructive consequences that have affected and shaped this experience through the centuries. We will discuss how God’s image can be reflected ontologically and vocationally through all aspects of our human relationships, including our sexuality.
+In this seminar, we will explore God’s design for human sexuality and how the Fall resulted in destructive consequences that have affected and shaped this experience through the centuries. We will discuss how God’s image can be reflected ontologically and vocationally through all aspects of our human relationships, including our sexuality.
 
 ### Introduction
 

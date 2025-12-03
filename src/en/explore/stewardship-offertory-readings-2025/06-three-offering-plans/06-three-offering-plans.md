@@ -4,9 +4,7 @@ title: Three Offering Plans
 
 ### Combined Offering Plan
 
-The Combined Offering Plan was voted as the General Conference promoted and recommended offering plan at the Annual Council of 2002 after a recommendation by the World Stewardship Summit of 2001. It supports all levels of the church by putting total funds collected into one pool. The funds are distributed according to a formula approved by each division, but within the following percentages: 50–60% for the local church; 20% to the General Conference for mission funds, and 20–30% for mission work in the local field. Divisions making use of this plan currently include: ECD, ESD,
-
-IAD, NSD, SAD, SID, SPD (Island Fields), SSD, SUD, WAD, MENAUM. Learn more about this plan here: https://stewardship.adventist.org/combined-offering.
+The Combined Offering Plan was voted as the General Conference promoted and recommended offering plan at the Annual Council of 2002 after a recommendation by the World Stewardship Summit of 2001. It supports all levels of the church by putting total funds collected into one pool. The funds are distributed according to a formula approved by each division, but within the following percentages: 50–60% for the local church; 20% to the General Conference for mission funds, and 20–30% for mission work in the local field. Divisions making use of this plan currently include: ECD, ESD, IAD, NSD, SAD, SID, SPD (Island Fields), SSD, SUD, WAD, MENAUM. Learn more about this plan here: https://stewardship.adventist.org/combined-offering.
 
 ### Calendar Of Offerings
 

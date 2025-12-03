@@ -38,7 +38,7 @@ So, after Abram had lived ten years in the land of Canaan, Sarai, Abram’s wife
 
 Abraham’s decision as the head of the family destroyed the happiness within his household. Ellen White states, “Abraham’s marriage with Hagar resulted in evil, not only to his own household, but to future generations” (Patriarchs and Prophets, 145). This was certainly the case with Elkanah’s family. Hannah, who was loved by Elkanah, suffered the most from this arrangement, and the happiness of the entire family was marred.
 
-in Hannah’s prayer, no mention was made of Elkanah, nor was there any reference to the polygamous relationship that caused her misery. Elkanah was a problem, but he was not Hannah’s problem. in Sarah’s protest against Abraham’s decision, she appealed to God to judge between her and Abraham, presenting him as the cause of her pain and frustration. This was not the case with Hannah. This brings us once more to the main question: What was Hannah’s problem if it was not her husband?
+In Hannah’s prayer, no mention was made of Elkanah, nor was there any reference to the polygamous relationship that caused her misery. Elkanah was a problem, but he was not Hannah’s problem. in Sarah’s protest against Abraham’s decision, she appealed to God to judge between her and Abraham, presenting him as the cause of her pain and frustration. This was not the case with Hannah. This brings us once more to the main question: What was Hannah’s problem if it was not her husband?
 
 ### Peninnah, Hannah’s Rival
 

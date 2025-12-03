@@ -18,7 +18,7 @@ This article examines the principles of teaching children about Creation. Howeve
 
 ### The Faith Formation of Children
 
-in their article entitled “Best Practices in Children’s Faith Formation,” John Roberto and Katie Pfiffner state that “effective faith formation with children respects the ways children learn today by offering learning activities that are experiential, image-rich, multi-sensory, interactive, engaging, and varied in learning” (Roberto & Pfiffner, 2021). There are lessons to be learned through doing everyday life.
+In their article entitled “Best Practices in Children’s Faith Formation,” John Roberto and Katie Pfiffner state that “effective faith formation with children respects the ways children learn today by offering learning activities that are experiential, image-rich, multi-sensory, interactive, engaging, and varied in learning” (Roberto & Pfiffner, 2021). There are lessons to be learned through doing everyday life.
 
 As events transpire, as your family experiences life together, see what connections to scripture you can find. What lessons of morality can be learned? What aspects of God’s character can be seen? Pray that God would open your eyes to see what lessons you can bring out of everyday life and then simply begin sharing them with your children. Ask them questions about what they see and experience. Ask them how it connects to what they know of God and the Bible. Point out Christian values and morals. As you practice having these conversations with your children, it will gradually become part of your daily routine, and your children will eagerly engage.
 
@@ -78,7 +78,7 @@ When teaching stories, lessons, and ideas from the Bible, it is wise to incorpor
 
 ### Conclusion
 
-in the account of the creation of the world, the explanation for why and how the world and humanity came to be is found. It explains our supreme Creator’s existence and tells who He is. in fact, all of nature testifies of His power and character. Ellen White writes of this beautiful phenomenon, saying,
+In the account of the creation of the world, the explanation for why and how the world and humanity came to be is found. It explains our supreme Creator’s existence and tells who He is. in fact, all of nature testifies of His power and character. Ellen White writes of this beautiful phenomenon, saying,
 
 “Nature and revelation alike testify of God’s love. Our Father in heaven is the source of life, of wisdom, and of joy. Look at the wonderful and beautiful things of nature. Think of their marvelous adaptation to the needs and happiness, not only of man, but of all living creatures. The sunshine and the rain, that gladden and refresh the earth, the hills and seas and plains, all speak to us of the Creator’s love” (White, 1892).
 
@@ -90,7 +90,7 @@ This is the beautiful work of God’s nature in our lives: it tells us of His lo
 
 The God of creation is a God of love, deserving our worship and praise. His heart of love and His vast power means we can trust Him to care for us. These are important ideas to begin teaching our children from a young age.
 
-in this article, we examined several ways to teach the story and lessons of Creation. You may find more methods that work well with your children. The most important way of teaching your children is simply to be intentional and seize every opportunity.
+In this article, we examined several ways to teach the story and lessons of Creation. You may find more methods that work well with your children. The most important way of teaching your children is simply to be intentional and seize every opportunity.
 
 #### References
 

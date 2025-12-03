@@ -2,7 +2,7 @@
 title: Statement on Sexual Behavior
 ---
 
-in His infinite love and wisdom God created mankind, both male and female, and in so doing based human society on the firm foundation of loving homes and families.
+In His infinite love and wisdom God created mankind, both male and female, and in so doing based human society on the firm foundation of loving homes and families.
 
 It is Satan’s purpose, however, to pervert every good thing; and the perversion of the best inevitably leads to that which is worst. Under the influence of passion unrestrained by moral and religious principle, the association of the sexes has, to a deeply disturbing extent, degenerated into license and abuse which results in bondage. With the aid of many films, television, video, radio programs, and printed materials, the world is being steered on a course to new depths of shame and depravity. Not only is the basic structure of society being greatly damaged but also the breakdown of the family fosters other gross evils. The results in distorted lives of children and youth are distressing and evoke our pity, and the effects are not only disastrous but also cumulative.
 
