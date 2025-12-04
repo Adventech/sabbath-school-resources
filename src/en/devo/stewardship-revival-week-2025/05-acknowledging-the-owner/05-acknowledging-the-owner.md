@@ -31,9 +31,7 @@ When King Saul asked David how he could be so brave, he answered: “The LORD wh
 
 Even when Goliath tried to intimidate David by calling him a puny little dog and threatening to kill him, David did not back down! Why? He trusted that God, the real Owner, would show up: “The battle is the LORD’s, and he will give all of you into our hands” (1 Samuel 17:47). David believed that if God owns the battle, God will fight the battle. The conviction of God’s ownership comes with the assurance of His intervention. He takes care of His own.
 
-The Bible tells us that God's protection, care, and intervention come with
-
-His ownership, kind of like a bundle. Zechariah 2:8 gives us a beautiful picture: “For whoever touches you touches the apple of his eye." When something passes by your eyes, it is hard not to blink. Your reaction is automatic, which is called a reflex. In the same way, when we are in danger, God intervenes right away as if it is His reflex because we are the apple of His eye. We are His precious property.
+The Bible tells us that God's protection, care, and intervention come with His ownership, kind of like a bundle. Zechariah 2:8 gives us a beautiful picture: “For whoever touches you touches the apple of his eye." When something passes by your eyes, it is hard not to blink. Your reaction is automatic, which is called a reflex. In the same way, when we are in danger, God intervenes right away as if it is His reflex because we are the apple of His eye. We are His precious property.
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/05-acknowledging-the-owner/image2.png)
