@@ -1,0 +1,510 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/01
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/02
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/03
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/04
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/05
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/06
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/07
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/08
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/09
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/10
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/11
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/12
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+        target: en/aij/2026-01-kd/13
+      - src: >-
+          https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+        target: en/aij/2026-01-kd/13
