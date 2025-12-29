@@ -4,507 +4,676 @@ audio:
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/01
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/01
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/01
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/01
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/01
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/01
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/01
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/01
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/01
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/01
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/01
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/01
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/01
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/02
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/02
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/02
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/02
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/02
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/02
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/02
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/02
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/02
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/02
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/02
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/02
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/02
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/03
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/03
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/03
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/03
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/03
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/03
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/03
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/03
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/03
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/03
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/03
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/03
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/03
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/04
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/04
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/04
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/04
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/04
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/04
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/04
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/04
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/04
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/04
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/04
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/04
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/04
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/05
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/05
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/05
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/05
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/05
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/05
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/05
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/05
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/05
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/05
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/05
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/05
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/05
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/06
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/06
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/06
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/06
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/06
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/06
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/06
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/06
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/06
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/06
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/06
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/06
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/06
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/07
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/07
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/07
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/07
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/07
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/07
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/07
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/07
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/07
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/07
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/07
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/07
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/07
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/08
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/08
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/08
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/08
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/08
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/08
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/08
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/08
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/08
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/08
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/08
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/08
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/08
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/09
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/09
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/09
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/09
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/09
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/09
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/09
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/09
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/09
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/09
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/09
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/09
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/09
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/10
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/10
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/10
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/10
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/10
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/10
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/10
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/10
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/10
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/10
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/10
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/10
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/10
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/11
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/11
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/11
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/11
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/11
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/11
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/11
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/11
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/11
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/11
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/11
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/11
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/11
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/12
+        title: 12. A Brave Rescue
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/12
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/12
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/12
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/12
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/12
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/12
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/12
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/12
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/12
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/12
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/12
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/12
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
         target: en/aij/2026-01-kd/13
+        title: 13. Baby Isaac
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
         target: en/aij/2026-01-kd/13
+        title: 1. A Brand-new World
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
         target: en/aij/2026-01-kd/13
+        title: 2. Life in God’s Garden
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
         target: en/aij/2026-01-kd/13
+        title: 3. The Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
         target: en/aij/2026-01-kd/13
+        title: 4. Lucifer’s Sad Choice
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
         target: en/aij/2026-01-kd/13
+        title: 5. Adam and Eve Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
         target: en/aij/2026-01-kd/13
+        title: 6. Cain and Abel
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
         target: en/aij/2026-01-kd/13
+        title: 7. Noah Builds an Ark
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/13
+        title: 8. A Rainbow Promise
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
         target: en/aij/2026-01-kd/13
+        title: 9. The Tall Tower
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
         target: en/aij/2026-01-kd/13
+        title: 10. Abram, Man of Faith
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
         target: en/aij/2026-01-kd/13
+        title: 11. Abram Lets Lot Choose
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
         target: en/aij/2026-01-kd/13
+        title: 12. A Brave Rescue

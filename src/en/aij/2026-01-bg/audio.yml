@@ -4,508 +4,677 @@ audio:
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/01
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/01
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/01
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/01
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/01
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/01
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/01
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/01
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/01
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/01
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/01
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/01
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/01
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/02
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/02
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/02
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/02
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/02
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/02
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/02
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/02
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/02
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/02
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/02
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/02
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/02
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/03
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/03
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/03
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/03
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/03
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/03
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/03
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/03
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/03
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/03
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/03
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/03
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/03
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/04
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/04
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/04
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/04
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/04
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/04
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/04
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/04
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/04
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/04
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/04
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/04
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/04
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/05
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/05
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/05
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/05
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/05
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/05
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/05
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/05
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/05
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/05
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/05
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/05
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/05
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/06
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/06
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/06
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/06
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/06
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/06
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/06
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/06
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/06
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/06
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/06
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/06
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/06
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/07
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/07
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/07
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/07
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/07
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/07
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/07
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/07
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/07
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/07
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/07
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/07
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/07
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/08
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/08
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/08
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/08
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/08
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/08
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/08
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/08
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/08
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/08
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/08
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/08
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/08
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/09
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/09
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/09
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/09
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/09
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/09
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/09
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/09
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/09
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/09
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/09
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/09
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/09
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/10
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/10
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/10
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/10
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/10
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/10
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/10
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/10
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/10
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/10
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/10
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/10
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/10
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/11
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/11
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/11
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/11
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/11
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/11
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/11
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/11
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/11
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/11
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/11
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/11
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/11
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/12
+        title: 12. God Made You
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/12
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/12
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/12
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/12
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/12
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/12
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/12
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/12
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/12
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/12
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/12
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/12
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-13.mp3
         target: en/aij/2026-01-bg/13
+        title: 13. God Made the Sabbath
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-01.mp3
         target: en/aij/2026-01-bg/13
+        title: 1. In the Beginning
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-02.mp3
         target: en/aij/2026-01-bg/13
+        title: 2. God Made the Light
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-03.mp3
         target: en/aij/2026-01-bg/13
+        title: 3. God Made the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-04.mp3
         target: en/aij/2026-01-bg/13
+        title: 4. God Made the Dry Land
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-05.mp3
         target: en/aij/2026-01-bg/13
+        title: 5. God Made the Plants
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-06.mp3
         target: en/aij/2026-01-bg/13
+        title: 6. God Made the Sun, Moon, and Stars
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-07.mp3
         target: en/aij/2026-01-bg/13
+        title: 7. God Made the Earth
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/13
+        title: 8. God Made the Fish of the Sea
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-09.mp3
         target: en/aij/2026-01-bg/13
+        title: 9. God Made the Birds of the Sky
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-10.mp3
         target: en/aij/2026-01-bg/13
+        title: 10. God Made the Animals
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-11.mp3
         target: en/aij/2026-01-bg/13
+        title: 11. God Made Adam and Eve
       - src: >-
           https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/ABSG-2025-01-BG-12.mp3
         target: en/aij/2026-01-bg/13
+        title: 12. God Made You
       
