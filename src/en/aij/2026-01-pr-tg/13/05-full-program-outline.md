@@ -38,7 +38,7 @@ subtitle: Week 13
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3] “Galatians 6:9” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Violin","value":"Tahlia Atcheson"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3] “Hebrews 10:23” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Noah Jovinov"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated] “Hebrews 10:23” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Noah Jovinov"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 ```
 
@@ -122,7 +122,7 @@ Invite a child to use a pin to pop the balloon without tape. At the same time, p
 
 Discuss the picture and recite the **memory verse** together. Then sing the **Scripture Song, “Hebrews 10:23.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3] “Hebrews 10:23” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Noah Jovinov"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated] “Hebrews 10:23” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Noah Jovinov"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 - **How well did Abraham and Sarah put this verse into practice?** (It was hard for them to believe at times, but God helped them to have faith and be hopeful). Give the children their collection of Character Cards from the quarter to take home.
 
