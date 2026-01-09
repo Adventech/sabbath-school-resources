@@ -4,5 +4,7 @@ code: lv
 sections:
   default: Main
 bible:
+  - LG8
+  - JTR2024
   - rt65
 feedSeeAll: See All

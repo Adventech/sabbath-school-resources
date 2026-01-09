@@ -4,5 +4,6 @@ code: vi
 sections:
   default: Main
 bible:
+  - VIE1925
   - bpt
 feedSeeAll: Nhìn thấy tất cả

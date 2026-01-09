@@ -4,8 +4,8 @@ code: ml
 sections:
   default: Main
 bible:
-  - malcl-bsi
   - mb1910
+  - malcl-bsi
 features:
   teacher-comments:
     name: teacher-comments
