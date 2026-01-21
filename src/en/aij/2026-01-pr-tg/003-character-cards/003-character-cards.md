@@ -33,7 +33,7 @@ You can print these collector cards for each child from the Alive in Jesus websi
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/003-character-cards/character-card-04a.png)
 
-![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/003-character-cards/character-card-04b.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/003-character-cards/character-card-04b.png?updated)
 
 ```
 
