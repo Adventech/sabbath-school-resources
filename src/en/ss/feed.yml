@@ -45,14 +45,34 @@ groups:
   - group: Primary
     view: folio
     resources:
-      - '*[0-9-]+-pr'
+      - en-aij-2026-01-pr
+      - en-aij-2026-01-pr-tg
+      - en-aij-*-04-pr
+      - en-aij-*-04-pr*
+      - en-aij-*-03-pr
+      - en-aij-*-03-pr*
+      - en-aij-*-02-pr
+      - en-aij-*-02-pr*
+      - en-aij-*-01-pr
+      - en-aij-*-01-pr*
   - group: Kindergarten
     view: folio
     resources:
-      - '*[0-9-]+-kd'
+      - en-aij-2026-01-kd
+      - en-aij-2026-01-kd-tg
+      - en-aij-*-04-kd
+      - en-aij-*-04-kd*
+      - en-aij-*-03-kd
+      - en-aij-*-03-kd*
+      - en-aij-*-02-kd
+      - en-aij-*-02-kd*
+      - en-aij-*-01-kd
+      - en-aij-*-01-kd*
   - group: Beginner
     view: folio
     resources:
+      - en-aij-2026-01-bg
+      - en-aij-2026-01-bg-tg
       - en-aij-*-04-bg
       - en-aij-*-04-bg*
       - en-aij-*-03-bg
