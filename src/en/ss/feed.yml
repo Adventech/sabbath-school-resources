@@ -15,6 +15,14 @@ groups:
   - group: Mission Quarterly
     view: folio
     resources:
+      - en-explore-mission-story-2026-04
+      - en-explore-mission-story-2026-04-*
+      - en-explore-mission-story-2026-03
+      - en-explore-mission-story-2026-03-*
+      - en-explore-mission-story-2026-02
+      - en-explore-mission-story-2026-02-*
+      - en-explore-mission-story-2026-01
+      - en-explore-mission-story-2026-01-*
       - en-explore-mission-story-*-04
       - en-explore-mission-story-*-04-*
       - en-explore-mission-story-*-03
