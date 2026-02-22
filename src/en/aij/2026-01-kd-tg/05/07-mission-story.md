@@ -42,4 +42,4 @@ Ask: **What choice should William have made?**
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from a story of the same name by Charlotte Ishkanian, Children’s Magazine: Adventist Mission, copyright © 2012 General Conference of Seventh-day Adventists. Used and adapted by permission._
+This story is adapted from a story of the same name by Charlotte Ishkanian, _Children’s Magazine: Adventist Mission_, copyright © 2012 General Conference of Seventh-day Adventists. Used and adapted by permission.

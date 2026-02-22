@@ -38,4 +38,4 @@ And when he grows up, he wants to be a doctor so he can care for others the way 
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from “Out of the Ashes” by Charlotte Ishkanian, Adventist Mission Children’s Magazine, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission._
+This story is adapted from “Out of the Ashes” by Charlotte Ishkanian, _Adventist Mission Children’s Magazine_, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission.

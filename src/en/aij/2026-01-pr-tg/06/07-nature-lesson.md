@@ -33,4 +33,4 @@ When we find ourselves in this position, it’s important to make things right w
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from a story by the same name by Elaine Egbert, Nature in a Nutshell, copyright © 2003 Review and Herald ® Publishing Association. Used and adapted by permission._
+This story is adapted from a story by the same name by Elaine Egbert, _Nature in a Nutshell_, copyright © 2003 Review and Herald ® Publishing Association. Used and adapted by permission.

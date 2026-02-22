@@ -33,4 +33,4 @@ The next Sabbath at church, the principal greeted her with a big smile. “God h
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from a story by the same name by Andrew McChesney, Children’s Mission, copyright © 2021 General Conference of Seventh-day Adventists®. Used and adapted by permission._
+This story is adapted from a story by the same name by Andrew McChesney, _Children’s Mission_, copyright © 2021 General Conference of Seventh-day Adventists®. Used and adapted by permission.

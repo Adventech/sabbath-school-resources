@@ -6,7 +6,6 @@ subtitle: Week 2
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Big Idea:** God is loving. He created me.
-Kindergarten, Year A, Quarter 1, Week 2
 
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **EARLY ARRIVALS**

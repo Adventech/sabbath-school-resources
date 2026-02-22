@@ -32,4 +32,4 @@ Let’s give our hearts to Jesus right now, so when that exciting day comes, we�
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from a story of the same name by Elaine Egbert, Nature in a Nutshell, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission._
+This story is adapted from a story of the same name by Elaine Egbert, _Nature in a Nutshell_, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission.

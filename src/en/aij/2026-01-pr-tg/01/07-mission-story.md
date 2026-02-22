@@ -31,4 +31,4 @@ After school that day some of Lin’s friends asked her why she had stood up in 
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from “Standing Up for Jesus” by Charlotte Ishkanian, _Adventist Mission Children’s Magazine_, copyright © 2012 General Conference of Seventh-day Adventists®. Used and adapted by permission._
+This story is adapted from “Standing Up for Jesus” by Charlotte Ishkanian, _Adventist Mission Children’s Magazine_, copyright © 2012 General Conference of Seventh-day Adventists®. Used and adapted by permission.

@@ -4,7 +4,7 @@ markdownTitle: '^[Bible Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B", "size": "lg"}}}
-Big Idea: Our loving God made earth to be our wonderful home.
+**Big Idea:** Our loving God made earth to be our wonderful home.
 
 As you prepare to share this story, please read the student guide for the full, detailed narrative. To maximize engagement, avoid reading the story to the children. See the storytelling suggestions at the front of this publication.
 
@@ -15,8 +15,7 @@ Props: a **flashlight**, **flower** or **branch**, **globe**, and **calendar**.
 
 ```
 
-**Pray**: Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray
-to invite God to teach us from His living Word before we read the Bible.
+**Pray**: Ask God to help everyone understand today’s Bible story. By doing this, you will model how important it is to pray to invite God to teach us from His living Word before we read the Bible.
 
 {"style": {"text": {"color": "#649b7c", "size": "lg"}}}
 **TELL THE STORY**

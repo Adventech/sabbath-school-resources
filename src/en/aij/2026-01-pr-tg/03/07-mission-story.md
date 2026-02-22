@@ -29,4 +29,4 @@ Kristina invited the girls, but their parents thought the church was too far awa
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from “A Really Little Sabbath School” by Charlotte Ishkanian, Adventist Mission Children’s Quarterly, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission._
+This story is adapted from “A Really Little Sabbath School” by Charlotte Ishkanian, _Adventist Mission Children’s Quarterly_, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission.

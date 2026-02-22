@@ -35,4 +35,4 @@ Showing kindness through our actions even when someone is unkind to us is honori
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from a story of the same name by Andrew McChesney, Children’s Mission, copyright © 2022 General Conference of Seventh-day Adventists. Used and adapted by permission._
+This story is adapted from a story of the same name by Andrew McChesney, _Children’s Mission_, copyright © 2022 General Conference of Seventh-day Adventists. Used and adapted by permission.

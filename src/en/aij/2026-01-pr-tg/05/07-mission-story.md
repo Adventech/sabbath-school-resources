@@ -29,4 +29,4 @@ Let’s pray for children like Hadassah who have made the choice to follow Jesus
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from “Hadassah’s Discovery” by Charlotte Ishkanian, Adventist Mission Children’s Magazine, copyright © 2011 General Conference of Seventh-day Adventists®. Used and adapted by permission._
+This story is adapted from “Hadassah’s Discovery” by Charlotte Ishkanian, _Adventist Mission Children’s Magazine_, copyright © 2011 General Conference of Seventh-day Adventists®. Used and adapted by permission.

@@ -33,4 +33,4 @@ Repeat the **Big Idea: God is loving. I can be faithful to Him.**
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_This story is adapted from “A Good Memory” by Andrew McChesney, Children’s Mission, copyright © 2021 General Conference of Seventh-day Adventists. Used and adapted by permission._
+This story is adapted from “A Good Memory” by Andrew McChesney, _Children’s Mission_, copyright © 2021 General Conference of Seventh-day Adventists. Used and adapted by permission.
