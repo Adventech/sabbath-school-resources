@@ -12,7 +12,7 @@ subtitle: Week 12
 
 - {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}}}
 - Assemble puzzle pieces to illustrate friendship.
-- Listen to **“It’s About Love”** or a worship song of your choice. Then listen to “Pack It Up” as you transition into the program.
+- Listen to **“It’s About Love”** or a worship song of your choice. Then listen to **“Pack It Up”** as you transition into the program.
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME AND SONGS**
