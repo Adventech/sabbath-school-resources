@@ -1,0 +1,17 @@
+title: Quarter 1, 2026
+kind: blog
+subtitle: 'Mission Spotlight: Quarter 1, 2026'
+primaryColor: '#32425D'
+primaryColorDark: '#1F2B3F'
+featuredResourcesView: tile
+displayCoversInTableOfContents: true
+preferredCover: landscape
+cta:
+  text: WATCH
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/mission-spotlight-2026-01/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/mission-spotlight-2026-01/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/explore/mission-spotlight-2026-01/assets/cover.png

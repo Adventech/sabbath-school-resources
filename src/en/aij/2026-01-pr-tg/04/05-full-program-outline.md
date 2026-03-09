@@ -105,7 +105,7 @@ props and PowerPoint pictures. Use the Strength Cards for a discussion partway t
 
 **^[SING:]({"style": {"text": {"color":"#00b7aa"}}})** The most important thing we can do is choose to invite Jesus into our hearts every day. Let’s do that together now. Sing **“Into My Heart”** or another worship song of your choice.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/into-my-heart.mp3] “Into My Heart” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, Noah Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/into-my-heart.mp3] “Into My Heart” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena and Noah Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 {"style": {"block": {"backgroundColor": "#F2ECF0", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **TIE IT ALL TOGETHER** (20 MINUTES)

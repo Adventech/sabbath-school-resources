@@ -4,7 +4,7 @@ title: Music
 
 ### Scripture Song
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/2025-01-bg-scripture-song.mp3] “Genesis 1:1”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/2025-01-bg-scripture-song.mp3] “Genesis 1:1” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena and Noah Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Praise Time Songs
 
@@ -22,8 +22,28 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3] “He’s Got the Whole World in His Hands” {"credits":[{"key":"Writer","value":"Traditional American Spiritual"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #135."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3] “1 . . . 2 . . . 3, God Loves Me” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Lead: Johanna McKay Chorus: Eli Atcheson, Indianna Bolt, Shontae Cobacoglo, Noah Jovinov, Riley Phipps, Elle and Indigo Stojanovic, Leah Teale"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Ukulelist: David Williams Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3] “1 . . . 2 . . . 3, God Loves Me” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singers","value":"Johanna McKay, Eli Atcheson, Indianna Bolt, Shontae Cobacoglo, Noah Jovinov, Riley Phipps, Elle and Indigo Stojanovic, Leah Teale"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3] “Sabbath Is a Happy Day” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3] “The Sabbath” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+
+```
+
+```=Program Songs
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3] “When It’s Time to Pray” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #17. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3] “I Open My Bible Carefully” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #28. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3] “Here Is My Money” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #32. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3] “Nature Box” {"credits":[{"key":"Writer","value":"Carolin Schmitz"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-bg-tg/assets/lets-go-exploring.mp3] “Let’s Go Exploring” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-bg-tg/assets/we-have-a-visitor.mp3] “We Have a Visitor” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #24. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-bg-tg/assets/happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission."}
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3] “Sabbath School Is Over” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #46."}
 
 ```
