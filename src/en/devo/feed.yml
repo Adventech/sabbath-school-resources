@@ -4,6 +4,8 @@
   - group: Believe His Prophets
     view: tile
     resources:
+      - en-devo-bhp-2026
+      - en-devo-bhp-sop-2026
       - en-devo-bhp-2025
       - en-devo-bhp-sop-2025
       - en-devo-bhp-*
