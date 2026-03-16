@@ -1,0 +1,110 @@
+title: 'Student YAQ2: God Is With Me'
+markdownTitle: 'Student YAQ2: God Is With Me'
+subtitle: Year A, Quarter 2
+description: >-
+  These 13 programs explore the stories of Isaac, Jacob, Joseph, and Naomi and
+  Ruth while teaching children that no matter what we face, God is with us.
+primaryColor: '#545088'
+primaryColorDark: '#36316D'
+credits:
+  - name: Principal Contributors
+    value: Jenny Paddison
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard, Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Frank Hasel
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrator
+    value: Jo Card
+  - name: Designer
+    value: Types and Symbols
+  - name: Copy Editors
+    value: James and Ida Cavil
+displaySequence: true
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+    nested:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+  resource:
+    title:
+      text:
+        typeface: Trashbone-Regular
+    subtitle:
+      text:
+        typeface: MyriadPro-Regular
+fonts:
+  - name: Angello
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/Angello.ttf
+    attributes: regular
+  - name: DKWhaleSong-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/DK-Whale-Song.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCn
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCn.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCnObl
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCnObl.ttf
+    attributes: regular-italic
+  - name: ITCAvantGardeStd-BoldCn
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BoldCn.ttf
+    attributes: bold
+  - name: MyriadPro-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Bold.ttf
+    attributes: bold
+  - name: MyriadPro-BoldIt
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-BoldIt.ttf
+    attributes: bold-italic
+  - name: MyriadPro-It
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-It.ttf
+    attributes: regular-italic
+  - name: MyriadPro-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
+    attributes: regular
+  - name: GoodlifeW00-SansCondensed
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Goodlife-SansCondensed.ttf
+    attributes: regular
+  - name: Trashbone-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Trashbone-Regular.ttf
+    attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/cover.png

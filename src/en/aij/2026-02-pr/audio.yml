@@ -1,0 +1,510 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/01
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/01
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/01
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/01
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/01
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/01
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/01
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/01
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/01
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/01
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/01
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/01
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/01
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/02
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/02
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/02
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/02
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/02
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/02
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/02
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/02
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/02
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/02
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/02
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/02
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/02
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/03
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/03
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/03
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/03
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/03
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/03
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/03
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/03
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/03
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/03
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/03
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/03
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/03
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/04
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/04
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/04
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/04
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/04
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/04
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/04
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/04
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/04
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/04
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/04
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/04
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/04
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/05
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/05
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/05
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/05
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/05
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/05
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/05
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/05
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/05
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/05
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/05
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/05
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/05
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/06
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/06
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/06
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/06
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/06
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/06
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/06
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/06
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/06
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/06
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/06
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/06
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/06
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/07
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/07
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/07
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/07
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/07
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/07
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/07
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/07
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/07
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/07
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/07
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/07
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/07
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/08
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/08
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/08
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/08
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/08
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/08
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/08
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/08
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/08
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/08
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/08
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/08
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/08
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/09
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/09
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/09
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/09
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/09
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/09
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/09
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/09
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/09
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/09
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/09
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/09
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/09
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/10
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/10
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/10
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/10
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/10
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/10
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/10
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/10
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/10
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/10
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/10
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/10
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/10
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/11
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/11
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/11
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/11
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/11
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/11
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/11
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/11
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/11
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/11
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/11
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/11
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/11
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/12
+        title: 12. Ruth and Naomi
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/12
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/12
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/12
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/12
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/12
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/12
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/12
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/12
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/12
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/12
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/12
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/12
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3
+        target: en/aij/2026-02-pr/13
+        title: 13. Ruth and Boaz
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3
+        target: en/aij/2026-02-pr/13
+        title: 1. The Birthright Stew
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3
+        target: en/aij/2026-02-pr/13
+        title: 2. Jacob Tricks Isaac
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3
+        target: en/aij/2026-02-pr/13
+        title: 3. The Ladder from Heaven
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3
+        target: en/aij/2026-02-pr/13
+        title: 4. Jacob Works for Uncle Laban
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3
+        target: en/aij/2026-02-pr/13
+        title: 5. Jacob and the Midnight Wrestle
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3
+        target: en/aij/2026-02-pr/13
+        title: 6. Joseph’s Coat and Dreams
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3
+        target: en/aij/2026-02-pr/13
+        title: 7. Joseph and His Brothers
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3
+        target: en/aij/2026-02-pr/13
+        title: '8. Joseph: A Slave in Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3
+        target: en/aij/2026-02-pr/13
+        title: '9. Joseph: From Prison to Palace'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3
+        target: en/aij/2026-02-pr/13
+        title: '10. Joseph: Governor of Egypt'
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3
+        target: en/aij/2026-02-pr/13
+        title: 11. A Family Reunited
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3
+        target: en/aij/2026-02-pr/13
+        title: 12. Ruth and Naomi
