@@ -1,0 +1,35 @@
+pdf:
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-PrimaryTeacher.pdf
+    target: en/aij/2026-02-pr-tg/000-primary-teacher
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-Tips.pdf
+    target: en/aij/2026-02-pr-tg/001-tips-for-telling-bible-stories
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-CraftResources.pdf
+    target: en/aij/2026-02-pr-tg/002-craft-resources
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-CharacterCards.pdf
+    target: en/aij/2026-02-pr-tg/003-character-cards
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-01.pdf
+    target: en/aij/2026-02-pr-tg/01
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-02.pdf
+    target: en/aij/2026-02-pr-tg/02
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-03.pdf
+    target: en/aij/2026-02-pr-tg/03
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-04.pdf
+    target: en/aij/2026-02-pr-tg/04
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-05.pdf
+    target: en/aij/2026-02-pr-tg/05
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-06.pdf
+    target: en/aij/2026-02-pr-tg/06
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-07.pdf
+    target: en/aij/2026-02-pr-tg/07
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-08.pdf
+    target: en/aij/2026-02-pr-tg/08
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-09.pdf
+    target: en/aij/2026-02-pr-tg/09
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-10.pdf
+    target: en/aij/2026-02-pr-tg/10
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-11.pdf
+    target: en/aij/2026-02-pr-tg/11
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-12.pdf
+    target: en/aij/2026-02-pr-tg/12
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-02/ABSG-2026-02-EN-PR-TE-13.pdf
+    target: en/aij/2026-02-pr-tg/13
