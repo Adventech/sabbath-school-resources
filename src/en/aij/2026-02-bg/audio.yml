@@ -1,0 +1,522 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-13.mp3
+        target: en/aij/2026-02-bg/13
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-01.mp3
+        target: en/aij/2026-02-bg/01
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-02.mp3
+        target: en/aij/2026-02-bg/02
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-03.mp3
+        target: en/aij/2026-02-bg/03
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-04.mp3
+        target: en/aij/2026-02-bg/04
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-05.mp3
+        target: en/aij/2026-02-bg/05
+      - title: "One Thankful Man"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-06.mp3
+        target: en/aij/2026-02-bg/06
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-07.mp3
+        target: en/aij/2026-02-bg/07
+      - title: "Jesus Heals a Mother"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/08
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-09.mp3
+        target: en/aij/2026-02-bg/09
+      - title: "Walking on Water"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-10.mp3
+        target: en/aij/2026-02-bg/10
+      - title: "\"Get Up, Little Girl\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-11.mp3
+        target: en/aij/2026-02-bg/11
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-02-bg/assets/ABSG-2025-02-BG-12.mp3
+        target: en/aij/2026-02-bg/12
