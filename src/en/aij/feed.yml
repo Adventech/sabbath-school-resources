@@ -26,6 +26,8 @@
   - group: Beginner
     view: folio
     resources:
+      - en-aij-2026-02-bg
+      - en-aij-2026-02-bg-tg
       - en-aij-2026-01-bg
       - en-aij-2026-01-bg-tg
       - en-aij-*-04-bg
