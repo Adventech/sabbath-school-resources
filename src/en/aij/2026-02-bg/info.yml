@@ -25,10 +25,6 @@ credits:
     value: Types & Symbols
   - name: Copy Editors
     value: James and Ida Cavil
-featuredResources:
-  - en/aij/2025-02-bg-tg
-  - en/aij/aij-training-videos
-  - en/aij/aij-training-videos-beginner
 displaySequence: true
 style:
   blocks:
