@@ -78,7 +78,7 @@ title: Music and Podcasts
 
 **Week 12 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3] Abram Rescues Lot {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated] Abram Rescues Lot {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 13 Podcast**
 

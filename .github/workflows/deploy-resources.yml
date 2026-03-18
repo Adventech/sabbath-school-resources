@@ -71,18 +71,32 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Invalidation
-        if: github.ref == 'refs/heads/stage' && hashFiles('invalidation.json') != ''
+        if: github.ref == 'refs/heads/stage' || github.ref == 'refs/heads/prod'
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SSPM_DIST_ID: ${{ github.ref == 'refs/heads/stage' && secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID_STAGE || secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID }}
+          AIJ_DIST_ID: ${{ github.ref == 'refs/heads/stage' && secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID_STAGE || secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID }}
         run: |
-          aws cloudfront create-invalidation --distribution-id ${{ secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID_STAGE }} --invalidation-batch file://invalidation.json | > /dev/null
-          aws cloudfront create-invalidation --distribution-id ${{ secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID_STAGE }} --invalidation-batch file://invalidation.json | > /dev/null
-      - name: Invalidation
-        if: github.ref == 'refs/heads/prod' && hashFiles('invalidation.json') != ''
-        env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        run: |
-          aws cloudfront create-invalidation --distribution-id ${{ secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID }} --invalidation-batch file://invalidation.json | > /dev/null
-          aws cloudfront create-invalidation --distribution-id ${{ secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID }} --invalidation-batch file://invalidation.json | > /dev/null
+          DISTRIBUTIONS=("$SSPM_DIST_ID" "$AIJ_DIST_ID")
+
+          FILES=()
+          [ -f invalidation.json ] && FILES+=(invalidation.json)
+          for f in $(ls invalidation-*.json 2>/dev/null | sort -V); do
+            FILES+=("$f")
+          done
+
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "No invalidation files found, skipping."
+            exit 0
+          fi
+
+          for DIST in "${DISTRIBUTIONS[@]}"; do
+            echo ">>> Distribution: $DIST"
+            for FILE in "${FILES[@]}"; do
+              echo "  Invalidating with $FILE..."
+              aws cloudfront create-invalidation \
+                --distribution-id "$DIST" \
+                --invalidation-batch file://"$FILE" > /dev/null
+            done
+          done

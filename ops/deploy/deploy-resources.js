@@ -12,10 +12,10 @@ import { getDocumentInfoYml } from "./deploy-documents.js"
 import { getLanguageInfo } from "./deploy-languages.js"
 import {
     arg,
-    getCurrentQuarterGlob,
     isMainModule,
     parseResourcePath,
-    sortResourcesByPattern
+    sortResourcesByPattern,
+    generateInvalidations
 } from "../helpers/helpers.js"
 import {
     SOURCE_DIR,
@@ -815,16 +815,11 @@ if (isMainModule(import.meta)) {
     )
 
     let invalidationArray = Array.from(invalidationList)
-    let invalidationJSON = {
-        "Paths": {
-            "Quantity": invalidationArray.length < 1000 ? invalidationArray.length : 1,
-            "Items": invalidationArray.length < 1000 ? invalidationArray : ["/*"]
-        },
-        "CallerReference": `deploy-resources.js (${Date.now()})`
-    }
 
-    if (invalidationArray.length > 0) {
-        fs.outputFileSync(`invalidation.json`, JSON.stringify(invalidationJSON));
+    const invalidationsJSONs = generateInvalidations(invalidationArray)
+
+    for (const [filename, content] of Object.entries(invalidationsJSONs)) {
+        fs.outputFileSync(filename, JSON.stringify(content))
     }
 }
 
