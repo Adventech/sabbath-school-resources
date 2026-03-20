@@ -134,7 +134,7 @@ jobs:
   call-deploy-resources:
     uses: ./.github/workflows/deploy-resources.yml
     needs: transfer-resource-assets
-    if: needs.transfer-resource-assets.result == 'success' || needs.transfer-resource-assets.result == 'skipped'
+    if: always() && (needs.transfer-resource-assets.result == 'success' || needs.transfer-resource-assets.result == 'skipped')
     with:
       branch: ${{ github.ref_name }}
     secrets: inherit
