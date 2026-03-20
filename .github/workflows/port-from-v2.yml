@@ -30,7 +30,19 @@ jobs:
       - name: Reset yarn.lock
         run: git restore yarn.lock
       - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          branch: stage
-          github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
+        env:
+          INPUT_GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
+        run: |
+          timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+          git config http.sslVerify false
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "chore: autopublish ${timestamp}" || exit 0
+          
+          for i in $(seq 1 5); do
+            git pull --no-rebase "${remote_repo}" stage && git push "${remote_repo}" HEAD:"stage" && break
+            echo "Retry $i..."
+            sleep $((RANDOM % 5 + 1))
+          done

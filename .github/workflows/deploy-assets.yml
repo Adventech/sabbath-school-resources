@@ -26,9 +26,11 @@ on:
       - '!src/**/pdf.yml'
 jobs:
   transfer-resource-assets:
-    if: (github.repository == 'Adventech/sabbath-school-resources')
+    if: (github.repository == 'Adventech/sabbath-school-resources' && github.ref_name == 'stage')
     runs-on: ubuntu-latest
     steps:
+      - name: Activate Globstar
+        run: shopt -s globstar
       - uses: actions/checkout@v4
         name: Fetch the repository files
       - name: Extract branch name
@@ -68,44 +70,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEPLOY_ENV: ${{ steps.extract_branch.outputs.branch }}
-      - name: Reset .npmrc
-        run: git restore .npmrc
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          branch: ${{ steps.extract_branch.outputs.branch }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-  download-and-transfer-document-assets:
-    needs: [transfer-resource-assets]
-    if: (github.repository == 'Adventech/sabbath-school-resources')
-    runs-on: ubuntu-latest
-    steps:
-      - name: Activate Globstar
-        run: shopt -s globstar
-      - name: Extract branch name
-        shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
-        id: extract_branch
-      - uses: actions/checkout@v4
-        name: Fetch the repository files
-        with:
-          ref: ${{ steps.extract_branch.outputs.branch }}
-      - uses: actions/setup-node@v3
-        name: Setup Node
-        with:
-          node-version: '16'
-      - name: Add token for private packages
-        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
-      - run: npm install --global yarn
-        name: Install Yarn
-      - run: yarn install
-        name: Installing dependencies
-      - run: gpg --quiet --batch --yes --decrypt --passphrase="$CREDS_PASSPHRASE" --output deploy-creds.tar deploy-creds.tar.gpg
-        env:
-          CREDS_PASSPHRASE: ${{ secrets.CREDS_PASSPHRASE }}
-        working-directory: ops/deploy/creds
-      - run: tar xvf deploy-creds.tar
-        working-directory: ops/deploy/creds
       - run: node ops/sync/set-aspect-ratios.js
         name: Set aspect ratios of images
         env:
@@ -150,13 +114,27 @@ jobs:
       - name: Reset .npmrc
         run: git restore .npmrc
       - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          branch: ${{ steps.extract_branch.outputs.branch }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          INPUT_GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
+          BRANCH: ${{ steps.extract_branch.outputs.branch }}
+        run: |
+          timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+          git config http.sslVerify false
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "chore: autopublish ${timestamp}" || exit 0
+          
+          for i in $(seq 1 5); do
+            git pull --no-rebase "${remote_repo}" ${BRANCH} && git push "${remote_repo}" HEAD:"${BRANCH}" && break
+            echo "Retry $i..."
+            sleep $((RANDOM % 5 + 1))
+          done
   call-deploy-resources:
     uses: ./.github/workflows/deploy-resources.yml
-    needs: [transfer-resource-assets, download-and-transfer-document-assets]
+    needs: transfer-resource-assets
+    if: needs.transfer-resource-assets.result == 'success' || needs.transfer-resource-assets.result == 'skipped'
     with:
       branch: ${{ github.ref_name }}
     secrets: inherit

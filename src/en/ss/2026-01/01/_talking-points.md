@@ -23,7 +23,6 @@ This week’s lesson looks at Paul’s commitment to missionary service even und
 - Paul raised up the church in Philippi in obedience to a vision directing him to “come to Macedonia” (Ac. 16:9).
 	- There were many other cities in Macedonia where Paul could have begun his work, but he chose Philippi on purpose.
 - “In his evangelistic activity, Paul always thought strategically. Philippi was ‘the chief city of that part of Macedonia’ (Ac. 16:12).… Establishing an important Christian presence there enabled them to bring the gospel to many other nearby cities, including Amphipolis, Apollonia, Thessalonica, and Berea (see Ac. 17:1, 10).” Qtly, Tue, par 2
-
 	- Furthermore, the conversion of influential people like Lydia, a prominent businesswoman (see Ac. 16:13-15), provided stability and support for the gospel work in that region (for more on Paul’s strategy, see Teachers Ed, pp. 15, 16).
 - Pastors and church leaders today should approach the work of evangelism with the same strategic mindset.
 
