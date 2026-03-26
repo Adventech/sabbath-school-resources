@@ -15,14 +15,6 @@ groups:
   - group: Mission Quarterly
     view: folio
     resources:
-      - en-explore-mission-story-readings-2026-04
-      - en-explore-mission-story-readings-2026-04-*
-      - en-explore-mission-story-readings-2026-03
-      - en-explore-mission-story-readings-2026-03-*
-      - en-explore-mission-story-readings-2026-02
-      - en-explore-mission-story-readings-2026-02-*
-      - en-explore-mission-story-readings-2026-01
-      - en-explore-mission-story-readings-2026-01-*
       - en-explore-mission-story-*-04
       - en-explore-mission-story-*-04-*
       - en-explore-mission-story-*-03
@@ -34,10 +26,6 @@ groups:
   - group: Mission Spotlight
     view: tile
     resources:
-      - en-explore-mission-spotlight-2026-04*
-      - en-explore-mission-spotlight-2026-03*
-      - en-explore-mission-spotlight-2026-02*
-      - en-explore-mission-spotlight-2026-01*
       - en-explore-mission-spotlight-*-04*
       - en-explore-mission-spotlight-*-03*
       - en-explore-mission-spotlight-*-02*
@@ -57,8 +45,6 @@ groups:
   - group: Primary
     view: folio
     resources:
-      - en-aij-2026-01-pr
-      - en-aij-2026-01-pr-tg
       - en-aij-*-04-pr
       - en-aij-*-04-pr*
       - en-aij-*-03-pr
@@ -70,8 +56,6 @@ groups:
   - group: Kindergarten
     view: folio
     resources:
-      - en-aij-2026-01-kd
-      - en-aij-2026-01-kd-tg
       - en-aij-*-04-kd
       - en-aij-*-04-kd*
       - en-aij-*-03-kd
@@ -83,8 +67,6 @@ groups:
   - group: Beginner
     view: folio
     resources:
-      - en-aij-2026-01-bg
-      - en-aij-2026-01-bg-tg
       - en-aij-*-04-bg
       - en-aij-*-04-bg*
       - en-aij-*-03-bg

@@ -390,16 +390,32 @@ if (!args.defaulted.lang
 }
 
 let sortResourcesByPattern = function (resources, resourceIds) {
+    const hasWildcard = (pattern) => /[*?{}\[\]!]/.test(pattern);
+    const getNumbers = (id) => id.match(/\d+/g)?.map(Number) ?? [];
+
     return resources.sort((a, b) => {
-        const indexA = resourceIds.findIndex((pattern) =>
-            picomatch(pattern)(a.id)
-        );
-        const indexB = resourceIds.findIndex((pattern) =>
-            picomatch(pattern)(b.id)
-        );
+        const matchedPatternA = resourceIds.find((p) => picomatch(p)(a.id));
+        const matchedPatternB = resourceIds.find((p) => picomatch(p)(b.id));
+
+        const aHasWildcard = matchedPatternA ? hasWildcard(matchedPatternA) : false;
+        const bHasWildcard = matchedPatternB ? hasWildcard(matchedPatternB) : false;
+
+        // Only apply numeric sorting if either matched pattern contains a wildcard
+        if (aHasWildcard || bHasWildcard) {
+            const numsA = getNumbers(a.id);
+            const numsB = getNumbers(b.id);
+
+            for (let i = 0; i < Math.max(numsA.length, numsB.length); i++) {
+                const diff = (numsB[i] ?? 0) - (numsA[i] ?? 0);
+                if (diff !== 0) return diff;
+            }
+        }
+
+        const indexA = resourceIds.findIndex((p) => picomatch(p)(a.id));
+        const indexB = resourceIds.findIndex((p) => picomatch(p)(b.id));
         return indexA - indexB;
     });
-}
+};
 
 const WILDCARD_BATCH_SIZE = 15
 
