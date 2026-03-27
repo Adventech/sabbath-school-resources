@@ -1,7 +1,6 @@
 ---
 title: Dear Primary Sabbath School Teacher,
 markdownTitle: '^[Dear Primary Sabbath School Teacher,]({"style": {"text": {"color": "#F4793B"}}})'
-titleBelowCover: true
 ---
 
 {"style":{"image":{"expandable":false,"aspectRatio":1.778},"block":{"rounded":false,"padding":{"start":"none","end":"none"}},"wrapper":{"padding":{"start":"none","end":"none"}}}}
