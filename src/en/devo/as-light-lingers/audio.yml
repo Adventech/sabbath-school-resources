@@ -1,0 +1,246 @@
+audio:
+  - artist: As Light Lingers
+    tracks:
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/01/01-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/02/02-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/03/03-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/04/04-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/05/05-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/06/06-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/07/07-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/08/08-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter09.mp3
+        title: "9. Into Eternity"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter01.mp3
+        title: "1. The Unwrapped Gift"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter02.mp3
+        title: "2. Enemy Lines"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter03.mp3
+        title: "3. The Power of the Word"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter04.mp3
+        title: "4. Approaching the Word"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter05.mp3
+        title: "5. Lingering Light: God and You"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter06.mp3
+        title: "6. Ways to Study Your Bible"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter07.mp3
+        title: "7. Digging in Together"
+      - target: en/devo/as-light-lingers/09/09-chapter
+        src: https://sabbath-school-resources-assets.adventech.io/en/devo/as-light-lingers/assets/Chapter08.mp3
+        title: "8. Sap, Growth, and Dead Branches"
