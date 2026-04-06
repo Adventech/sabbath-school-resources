@@ -22,6 +22,7 @@
   - group: Prayer initiatives
     view: folio
     resources:
+      - en-devo-2026-quarterly-days-of-prayer-and-fasting
       - en-devo-youth-week-of-prayer-2026
       - en-devo-stewardship-revival-week-2025
       - en-devo-wop-2025
