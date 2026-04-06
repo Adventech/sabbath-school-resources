@@ -5,11 +5,6 @@
     view: folio
     resources:
       - en-explore-adventist-review-*
-  - group: I Will Go
-    view: folio
-    direction: horizontal
-    resources:
-      - en-explore-i-will-go
   - group: Family Ministries
     view: folio
     resources:
@@ -30,3 +25,8 @@
     resources:
       - en-explore-stewardship-offertory-readings-*
       - en-explore-steps-to-discipleship-*
+  - group: I Will Go
+    view: folio
+    direction: horizontal
+    resources:
+      - en-explore-i-will-go
