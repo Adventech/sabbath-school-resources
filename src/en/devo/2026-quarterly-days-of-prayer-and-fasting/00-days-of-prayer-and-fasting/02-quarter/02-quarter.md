@@ -59,11 +59,8 @@ God’s Word carries us through our journey. “You shall walk in all the ways w
 **Sermon Illustrations:**
 
 - Martin Luther’s religious experience before his conversion (full of fear and trying to earn God’s salvation) as contrasted with his joyful realization that the just shall live by faith.
-
 - Fall of the Berlin Wall in 1989. Fear on both sides of the wall collapsed when the wall crumbled and the city was re-opened.
-
 - The Great Disappointment as compared to the joyful anticipation following Hiram Edson’s vision about the heavenly sanctuary.
-
 - Personal account of being caught in a time of waiting and preparation, perhaps disappointment, which you later recognized as God’s means of preparing you for a mountaintop experience.
 
 **Hymns:** Marching to Zion (Hymn 422), Redeemed! (Hymn 337), Near to the Heart of God (Hymn 495), God Will Take Care of You (Hymn 99)

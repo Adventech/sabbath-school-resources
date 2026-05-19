@@ -39,7 +39,7 @@ Make an example prior to the lesson so you can walk the children through the pro
 {"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/06/6e.png)
 
-- Glue rows of colored ribbon/pieces of colorful cloth on the front to make a colorful coat (6-8).
+- Glue rows of colored ribbon/pieces of colorful cloth on the front to make a colorful coat.
 
 {"style":{"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/06/6f.png)
