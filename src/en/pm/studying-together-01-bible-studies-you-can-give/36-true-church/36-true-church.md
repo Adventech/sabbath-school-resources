@@ -28,6 +28,6 @@ _Rev. 14:8_ — God's true church warns against the false doctrines and errors o
 
 _Rev. 14:9-11_ — God's true church teaches the truth about death (see also Jn. 11:11-14, Eccl. 9:5, Ps. 146:3,4).
 
-_Jn.10:16_ — Jesus, the true shepherd,calls men and women to follow Him and become part of His true movement.
+_Jn. 10:16_ — Jesus, the true shepherd,calls men and women to follow Him and become part of His true movement.
 
 _Rev. 22:17_ — The Spirit and Bride say "come." Through His mighty all powerful spirit and His Christ-centered, truth-teaching church, Jesus appeals to us to become part of His people.

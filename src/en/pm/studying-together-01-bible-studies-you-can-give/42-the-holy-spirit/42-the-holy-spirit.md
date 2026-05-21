@@ -4,13 +4,13 @@ title: The Holy Spirit
 
 !v[https://sabbath-school-resources-assets.adventech.io/en/pm/studying-together-01-bible-studies-you-can-give/assets/28HolySpirit.mp4]
 
-_Jn.16:7_ — Jesus declares that the Holy Spirit is a divine person by calling the Spirit "Him," not "it."
+_Jn. 16:7_ — Jesus declares that the Holy Spirit is a divine person by calling the Spirit "Him," not "it."
 
-_Jn.16:8_ — The Holy Spirit convicts of sin.
+_Jn. 16:8_ — The Holy Spirit convicts of sin.
 
 _Matt. 28:19,20_ — The Holy Spirit is part of the Godhead.
 
-_Eph.4:30_ — The Holy Spirit can be grieved.
+_Eph. 4:30_ — The Holy Spirit can be grieved.
 
 _Gen. 6:3_ — The Holy Spirit "strives" with us, leading us to do right.
 
@@ -30,7 +30,7 @@ _Rom. 8:11_ — We need not fear death for Jesus, through the power of the Holy 
 
 _Jn. 16:13,14_ — The Holy Spirit guides us into all truth.
 
-_Jn.14:26_ — The Holy Spirit is God's teacher.
+_Jn. 14:26_ — The Holy Spirit is God's teacher.
 
 _Matt. 12:31,32_ — To fully reject the convicting, converting, instructing power ofthe Holy Spirit continually is to everlastingly commit the unpardonable sin.
 

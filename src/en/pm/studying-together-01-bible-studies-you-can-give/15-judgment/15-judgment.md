@@ -24,7 +24,7 @@ _Rom. 14:12_ — Everyone ofus must give account of himself to God.
 
 _Ps. 87:6_ — In the judgment the Lord considers where we were born.
 
-_Jer.2:22_ — All of our iniquities (sins) are marked before God.
+_Jer. 2:22_ — All of our iniquities (sins) are marked before God.
 
 _Mal. 3:16_ — All of our righteous acts prompted by unselfish motives, accomplished through the grace of Christ, are recorded before God.
 

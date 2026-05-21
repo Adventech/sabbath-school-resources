@@ -28,9 +28,9 @@ _Dan. 2:38_ — Nebuchadnezzer "you are the head of gold." The Babylonian empire
 
 _Dan. 2:39_ — Another kingdom inferior to thee.
 
-_Dan.5:28,30-31_ — The Medes and Persians overthrew the Babylonians.
+_Dan. 5:28,30-31_ — The Medes and Persians overthrew the Babylonians.
 
-_Isa.44:27,28;45:1_ — The amazing prediction that Cyrus, general of Medo-Persia would attack and overthrow Babylon allowing God's people freedom. (This prophecy was made over 100 years in advance.)
+_Isa. 44:27,28;45:1_ — The amazing prediction that Cyrus, general of Medo-Persia would attack and overthrow Babylon allowing God's people freedom. (This prophecy was made over 100 years in advance.)
 
 _Dan. 2:39_ — (Last part) Another third kingdom of brass.
 
@@ -46,6 +46,6 @@ _Dan. 2:44_ — God ultimately establishes His kingdom.
 
 _Dan. 2:45_ — The Rock cut out without hands is Jesus' kingdom.
 
-_Ps.2:8,9_ — Heathens are broken to pieces.
+_Ps. 2:8,9_ — Heathens are broken to pieces.
 
 _Tit. 2:11-13_ — Blessed hope and glorious appearing.

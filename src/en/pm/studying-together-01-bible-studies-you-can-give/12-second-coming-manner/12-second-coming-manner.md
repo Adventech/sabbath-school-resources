@@ -4,7 +4,7 @@ title: Second Coming (Manner)
 
 !v[https://sabbath-school-resources-assets.adventech.io/en/pm/studying-together-01-bible-studies-you-can-give/assets/07SecondComingManner.mp4]
 
-_Jn.14:1-3_ — Jesus promised He would return.
+_Jn. 14:1-3_ — Jesus promised He would return.
 
 _Acts 1:9-11_ — Angels confirmed His promise and testified to its truthfulness.
 
@@ -26,7 +26,7 @@ _Rev. 6:14-17_ — The unrighteous wicked fear His coming and cry for the rocks 
 
 _Matt. 13:37-43_ — The evil are purged out of His kingdom by fire and the righteous saved through all eternity.
 
-_Isa.25:9_ — The righteous are delighted to see Him come. They joyfully exclaim "Lo, this is our God ..."
+_Isa. 25:9_ — The righteous are delighted to see Him come. They joyfully exclaim "Lo, this is our God ..."
 
 _Rev. 19:11-16_ — As King ofKings leading the armies of heaven, He returns as triumphant Lord.
 

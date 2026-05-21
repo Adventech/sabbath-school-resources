@@ -4,7 +4,7 @@ title: The United States in Bible Prophecy
 
 _Amos 3:7_ — God makes the mysteries of the future plain through the Bible prophets.
 
-_Rev. 13:1-10_ — There are six clear identifying marks which reveal that the leopardlike beast of Rev.13 represents the Roman church:
+_Rev. 13:1-10_ — There are six clear identifying marks which reveal that the leopardlike beast of Rev. 13 represents the Roman church:
 
 1. Rev. 13:1-Rises from the sea (Rev. 17:15)-a populated area. 
 2. Rev. 13:2-Receives the seat of its government from pagan Rome. 

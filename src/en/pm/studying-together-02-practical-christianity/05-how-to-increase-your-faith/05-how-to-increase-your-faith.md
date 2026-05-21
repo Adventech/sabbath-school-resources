@@ -7,7 +7,7 @@ title: How to Increase Your Faith
 Faith is trust in God. It is confidence in Him as a well known friend. It grows out ofa close relationship with Him in which I know that He cares for me and only desires my best good. The more I know Him, the more I'll trust Him.
 
 1. Faith is the substance of (it stands under, or supports) our religious experience (Heb. 11:1).
-2. Jesus invites us to enter into a relationship of trust with our loving heavenly Father (Mk.11:22-24).
+2. Jesus invites us to enter into a relationship of trust with our loving heavenly Father (Mk. 11:22-24).
 3. Without faith it is impossible to please God (Heb. 11:6).
 4. God has given to every Christian a measure of faith (Rom. 12:3).
 5. Even a little faith links us with God's marvelous working power (Lk. 17:5,6).

@@ -4,19 +4,19 @@ title: The Destruction of the Wicked
 
 !v[https://sabbath-school-resources-assets.adventech.io/en/pm/studying-together-01-bible-studies-you-can-give/assets/19DestructionOfTheWicked.mp4]
 
-_Jer.31:3_ — God's character is one of love.
+_Jer. 31:3_ — God's character is one of love.
 
 _2 Pet. 3:9_ — God is not willing that any should perish.
 
-_Heb.12:29_ — Our God is a consuming fire. To sin, wherever found, God is a consuming fire.
+_Heb. 12:29_ — Our God is a consuming fire. To sin, wherever found, God is a consuming fire.
 
 _Mal. 4:1-3_ — Sinners will ultimately be burned up or turned to ashes.
 
-_Ps.37:10_ — The wicked shall not be.
+_Ps. 37:10_ — The wicked shall not be.
 
-_Ps.37:20_ — The wicked shall perish, they shall consume away.
+_Ps. 37:20_ — The wicked shall perish, they shall consume away.
 
-_Ps.37:36_ — The wicked will not be found.
+_Ps. 37:36_ — The wicked will not be found.
 
 _Matt. 25:46_ — The punishment will be everlasting. Note the text does not say "everlasting punishing". It is a single punishment whose effect lasts forever.
 
@@ -36,7 +36,7 @@ _2 Pet. 2:4_ — The evil angels and all the wicked are reserved unto judgment. 
 
 _Rev. 20:9_ — Fire comes down from God out of heaven and devours the wicked. They are completely destroyed.
 
-_Ezek.28:17,18_ — Satan himself will be consumed to ashes.
+_Ezek. 28:17,18_ — Satan himself will be consumed to ashes.
 
 _Isa. 47:14_ — The fire will burn itself out and there will not even be a coal to warm at.
 

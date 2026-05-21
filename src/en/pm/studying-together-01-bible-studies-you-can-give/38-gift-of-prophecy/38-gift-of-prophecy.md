@@ -6,7 +6,7 @@ title: Gift of Prophecy
 
 _Amos 3:7_ — God reveals Himself through His prophets.
 
-_Num.12:6_ — Visions and dreams are one way God communicates His will.
+_Num. 12:6_ — Visions and dreams are one way God communicates His will.
 
 _Rev. 12:17_ — The dragon makes war with the remnant who keep God's commandments and have the testimony of Jesus.
 
@@ -14,7 +14,7 @@ _Rev. 19:10_ — The testimony of Jesus is the gift of prophecy.
 
 _Rev. 22:6,9_ — The angel appearing to John was the angel of prophecy. That same angel appears in the last days.
 
-_Eph.4:8,11-15_ — One of Jesus' gifts is the gift of prophecy. This gift remains in the church until the end.
+_Eph. 4:8,11-15_ — One of Jesus' gifts is the gift of prophecy. This gift remains in the church until the end.
 
 _1 Cor. 1:4-7_ — The church waiting for Jesus' coming will come behind in no gift.
 
@@ -24,11 +24,11 @@ _1 Jn. 4:1_ — The Bible invites us to "test the spirits." Each prophetic manif
 
 _Deut. 13:1-4_ — True prophets always lead to obedience to God's will.
 
-_Jer.28:8,9_ — The prophecies of true prophets, when they are not conditional, always come to pass.
+_Jer. 28:8,9_ — The prophecies of true prophets, when they are not conditional, always come to pass.
 
 _Isa. 8:19,20_ — To the law and the testimony, if they speak not according to this word, there is no light in them.
 
-_Ezek.7:26_ — When they disobey the law, God removes the vision.
+_Ezek. 7:26_ — When they disobey the law, God removes the vision.
 
 _1 Jn. 4:1-3_ — True prophets place emphasis on the centrality of Jesus Christ.
 

@@ -16,7 +16,7 @@ The following points should be carefully noted when considering the gift of tong
 	- b. There should always be an interpreter (1 Cor. 14:28).
 	- c. At most, two or three should speak in a single service (1 Cor. 14:27).
 	- d. The speaker understands and is in control of what is being said (1 Cor. 14:32).
-	- e. God is not the author of confusion (1 Cor.14:33).
+	- e. God is not the author of confusion (1 Cor. 14:33).
 5. Paul's appeal was for intelligent communication (1 Cor. 14:9, 19).
 6. Since the Holy Spirit interprets our prayers into the language of heaven, interceding for us at God's throne, it is unnecessary to speak a language we do not understand. (Rom. 8:26)
 7. Since the highest faculty God has given us is our mind, it is dangerous to allow any power to control our mind. The mind is the seat of intelligence. It is with the mind that we worship God. Any form of worship which by passes the mind can become emotional manipulation (Phil. 2:5).

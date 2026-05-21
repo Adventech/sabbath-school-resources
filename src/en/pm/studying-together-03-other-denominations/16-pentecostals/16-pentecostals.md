@@ -47,7 +47,7 @@ Pentecostalism is often referred to as "the third force" in Christianity along s
 4. Some will declare Christ has worked powerfully for them. They will even cast out demons in His name but He will say " I never knew you" (Matt. 7:21-23).
 5. Faith must be based on God's written word if it will stand (Matt. 7:24).
 6. Our only safeguard is knowing God's word and living by His truth (Isa. 8:20).
-7. It is the truth which sets us free from error (Jn.8:32).
+7. It is the truth which sets us free from error (Jn. 8:32).
 8. It is the Holy Spirit which wrote the Bible (2 Pet. 1:21).
 9. To be filled with the Holy Spirit means to accept the words of Jesus as my own (Jn. 6:63).
 10. The greatest miracle is that of a changed heart (Jn. 3:2-7).

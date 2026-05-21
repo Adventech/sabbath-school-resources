@@ -28,7 +28,7 @@ The founder of the church, Joseph Smith claimed that in the spring of 1820 he ha
 1. **The Bible is mistranslated**\
 (See 2 Tim. 3:15,16; Jn. 17:17; 5:39; Ps. 12:6; 2 Pet. 1:21; Matt. 4:4.)
 2. **Baptism for the dead:** A belief based on a misunderstanding of 1 Cor. 15:29. In the New Testament baptism is always a personal decision indicating belief in Christ, repentance from sin, and acceptance of Jesus teachings.\
-(See Acts 2:38-41; Mk.16:16; Matt. 28:19,20.)\
+(See Acts 2:38-41; Mk. 16:16; Matt. 28:19,20.)\
 In the New Testament salvation is based on a personal choice. No one can provide that opportunity for another.\
 (See Rev. 22:17; Ps. 49:7.)\
 In 1 Cor. 15:29 the apostle Paul is arguing in favor of the resurrection. He thus raises a question. If the dead are not raised at all, why then are you baptized for (Greek translation in behalf of, or because of? When Christ returns the dead in Christ will be resurrected and the righteous living caught up with them to meet Jesus in the air (1 Thess. 4:16,17). To be baptized in behalf of or because of the dead means to be baptized as a result oftheir godly influence and Christian lives and thus prepare to meet them in eternity.\

@@ -28,10 +28,10 @@ _1 Jn. 1:9_ — As we confess, He pardons.
 
 _Rom. 8:1_ — Receiving Jesus, we are no longer condemned.
 
-_Eph.2:8_ — Through grace by faith we are saved.
+_Eph. 2:8_ — Through grace by faith we are saved.
 
-_Jn.1:12_ — As we receive Him by faith we become sons of God.
+_Jn. 1:12_ — As we receive Him by faith we become sons of God.
 
 _1 Jn. 5:11-13_ — Believing in Him, we receive the gift of eternal life.
 
-_Jn.3:16_ — Salvation is a present experience and gift of God for all who believe.
+_Jn. 3:16_ — Salvation is a present experience and gift of God for all who believe.

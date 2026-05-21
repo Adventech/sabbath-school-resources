@@ -26,7 +26,7 @@ The Baptist Church is divided into approximately 25 different Baptist bodies wit
 5. **Sunday sacredness:** The belief that since Jesus rose from the dead on the first day, all Christians should worship on that day.\
 (See Gen. 2:1-3; Ex. 20:8-11; Ezek. 20:12-20; Luke 4:16; Matt. 24:20; Acts 13:42-44; Rev. 1:10; Matt. 12:8; Lk. 6:5; Isa. 66:22,23.)
 6. **The law was done away in Christ:**\
-(See Matt. 5:17,18; Jn. 14:15; Rom. 6:13,14; 3:28-31; Ps. 40:8; Heb. 8:10; 1 Jn. 2:3-6; Jas.2:10-17.)
+(See Matt. 5:17,18; Jn. 14:15; Rom. 6:13,14; 3:28-31; Ps. 40:8; Heb. 8:10; 1 Jn. 2:3-6; Jas. 2:10-17.)
 
 ### Approaches for the Baptist Mind
 

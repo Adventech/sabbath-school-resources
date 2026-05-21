@@ -106,7 +106,7 @@ Have a child collect the offering. Display your **Offering Chart** and decide on
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-**^[SHARE:]({"style": {"text": {"color":"#649b7c"}}}) Pray, then creatively share the Bible Story.**
+**^[SHARE:]({"style": {"text": {"color":"#649b7c"}}})** Pray, then creatively share the Bible Story.**
 
 {"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **UNPACK THE STORY** (5 MINUTES)

@@ -16,17 +16,17 @@ _Rev. 13:2_ — The dragon or Pagan Rome gives this new power its authority. Pap
 
 _Rev. 13:5_ — The beast power speaks blasphemy.
 
-_Lk.5:21_ — If any human being claims he has the power to forgive sins. he commits blasphemy.
+_Lk. 5:21_ — If any human being claims he has the power to forgive sins. he commits blasphemy.
 
-_Jn.10:33_ — The Bible defines blasphemy as man making himself equal to God. The pope has claimed to be God on earth.
+_Jn. 10:33_ — The Bible defines blasphemy as man making himself equal to God. The pope has claimed to be God on earth.
 
 _Rev. 13:5_ — The beast power reigns supreme 42 months.
 
 _Rev. 12:6,14_ — The time, time and a half time equal 1260 days or 42 months. During this period, God's people are in the wil- derness of hiding.
 
-_Ezek.4:6_ — I have appointed thee each day for a year.
+_Ezek. 4:6_ — I have appointed thee each day for a year.
 
-_Num.14:34_ — One day for a year (Gen.29:27).
+_Num. 14:34_ — One day for a year (Gen. 29:27).
 
 _Dan. 7:25_ — The Papal power which changed God's law would reign supreme for 1260 prophetic days or 1260 literal years. In 538A.D. the pagan Roman empire granted the pope of Rome civil and religious authority over the empire. Exactly 1260 years later, in 1798A.D., Berthier, a French General on orders from Napoleon, took the Pope captive.
 
@@ -48,8 +48,8 @@ _Rev. 14:12_ — Calls us to keep God's commandments as a sign of loyalty to Him
 
 _Rom. 6:16_ — The issue is more than a matter of days, it is a matter of masters. Where is our loyalty?
 
-_Mk.7:9_ — The issue centers around the commandments of men and the commandments of God.
+_Mk. 7:9_ — The issue centers around the commandments of men and the commandments of God.
 
-_Jn.14:15_ — Jesus invites us to lovingly obey Him.
+_Jn. 14:15_ — Jesus invites us to lovingly obey Him.
 
-_Ps.91_ — He promises to shelter us in the time of trouble.
+_Ps. 91_ — He promises to shelter us in the time of trouble.

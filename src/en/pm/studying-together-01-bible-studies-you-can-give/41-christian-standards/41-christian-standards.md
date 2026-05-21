@@ -6,7 +6,7 @@ title: Christian Standards
 
 _2 Cor. 5:20_ — Ambassadors for Christ.
 
-_Isa.62:10_ — Lift up a standard for the people.
+_Isa. 62:10_ — Lift up a standard for the people.
 
 _1 Jn. 2:15-17_ — Love not the world for the world passes away.
 
@@ -30,16 +30,16 @@ _Gen. 35:2-4_ — Jacob at Bethel meets God in revival and commands his househol
 
 _Ex. 33:3-6_ — As the children of Israel enter the promised land they remove their ornaments.
 
-_Isa.3:16-24_ — God reveals His displeasure when His people artificially adorn themselves and lack character beauty.
+_Isa. 3:16-24_ — God reveals His displeasure when His people artificially adorn themselves and lack character beauty.
 
-_Hos.2:13_ — Jewelry is associated with idolatry and forgetting God.
+_Hos. 2:13_ — Jewelry is associated with idolatry and forgetting God.
 
 _Rev. 17:1-5_ — The false church is pictured by God as being decked out withjewels. She has left her true lover Jesus Christ.
 
-_Isa.61:1-3_ — Jesus gives to us true beauty. He clothes us with the garments of salvation, granting us the jewels of peace, joy, forgiveness, freedom from condemnation and happiness within (see Isa. 61:10).
+_Isa. 61:1-3_ — Jesus gives to us true beauty. He clothes us with the garments of salvation, granting us the jewels of peace, joy, forgiveness, freedom from condemnation and happiness within (see Isa. 61:10).
 
-_Jn.8:29_ — I do always those things which please Him.
+_Jn. 8:29_ — I do always those things which please Him.
 
-_Jn.13:17_ — Happiness comes from knowing and doing God's will.
+_Jn. 13:17_ — Happiness comes from knowing and doing God's will.
 
-_Ps.40:8_ — I delight to do thy will, my God!
+_Ps. 40:8_ — I delight to do thy will, my God!

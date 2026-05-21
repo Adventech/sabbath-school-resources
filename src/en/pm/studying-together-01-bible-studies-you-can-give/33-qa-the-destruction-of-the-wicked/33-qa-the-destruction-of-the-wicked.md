@@ -4,7 +4,7 @@ title: Commonly Asked Questions Regarding The Destruction of the Wicked
 
 **Is Hell a hot spot burning in the center of the earth now?**
 
-According to the Bible, the final destruction of the wicked comes at the end of time. The wicked are reserved unto judgement (2 Pet. 2:4). Our God is a consuming fire to sin wherever found (Heb. 12:29). The fires of Hell originate from heaven at the end of time not some hot spot in the earth (Rev. 20:9). The wicked will be totally consumed. They shall be cut off from the earth (see Provo 10:25, Ps. 37:10,11,20,34,38). They shall be consumed to ashes (Mal.4: 1,3). This final destruction will occur after the thousand year millennium (Rev. 20:5) at the resurrection of damnation (Jn. 5:28,29).
+According to the Bible, the final destruction of the wicked comes at the end of time. The wicked are reserved unto judgement (2 Pet. 2:4). Our God is a consuming fire to sin wherever found (Heb. 12:29). The fires of Hell originate from heaven at the end of time not some hot spot in the earth (Rev. 20:9). The wicked will be totally consumed. They shall be cut off from the earth (see Provo 10:25, Ps. 37:10,11,20,34,38). They shall be consumed to ashes (Mal. 4: 1,3). This final destruction will occur after the thousand year millennium (Rev. 20:5) at the resurrection of damnation (Jn. 5:28,29).
 
 **What about the texts which declare the wicked will burn forever (like Rev. 20:10)?**
 

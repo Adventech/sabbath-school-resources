@@ -22,7 +22,7 @@ There are approximately 926 million Catholics in the world and 18.5% of the worl
 2. **The sacraments:** The concept that God dispenses grace through the sacraments of baptism, confirmation, confession, holy communion, marriage, holy orders, or extreme unction.\
 (Jesus is the channel of God's grace for the world-Eph. 2:5; Rom. 6:14,15; 3:25-31.)
 3. **Purgatory:** The belief that individuals not good enough to be worthy of heaven but not evil enough to deserve hell, suffer in an intermediary state until their sins are purged. This concept is based on the false understanding of the immortality of the soul as well as how individuals are saved.\
-(See Ps. 6:5, 115:17; Eccl. 9:5; Jn.11:11-14 as well as Heb. 4:15; Eph 2:8; Rom. 3:25-26.)
+(See Ps. 6:5, 115:17; Eccl. 9:5; Jn. 11:11-14 as well as Heb. 4:15; Eph 2:8; Rom. 3:25-26.)
 4. **Tradition is above the Bible:** The understanding that scripture must be interpreted by the church and placed along side the decrees of church councils to be rightly understood.\
 (See Jn. 17:17; 2 Tim. 3:16; Jn. 5:39; 2 Tim. 2:15; Jn. 16:7-13.)
 5. **Immaculate conception:** The idea that Jesus was sinless because Mary was miraculously protected from sin by the Holy Spirit.\

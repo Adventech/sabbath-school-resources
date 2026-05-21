@@ -18,7 +18,7 @@ _Dan. 8:27_ — Why was Gabriel's mission delayed?
 
 _Dan. 9:21-23_ — Gabriel returns to explain Daniel's vision.
 
-_Num.14:34_ — The key to biblical prophecy is the day for a year principle. (Ezekiel 4:6.)
+_Num. 14:34_ — The key to biblical prophecy is the day for a year principle. (Ezekiel 4:6.)
 
 _Dan. 9:25_ — This is the beginning date for both the 490 years and the 2,300 years.
 

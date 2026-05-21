@@ -8,15 +8,15 @@ _Matt. 28:19,20_ — Go ye therefore, and teach all nations, baptizing them in t
 
 _Mk. 16:16_ — He that believes and is baptized shall be saved.
 
-_Jn.3:5_ — Except a man be born of water and the spirit, he cannot see the Kingdom of God.
+_Jn. 3:5_ — Except a man be born of water and the spirit, he cannot see the Kingdom of God.
 
 _Eph. 4:5_ — One Lord, one faith, one baptism.
 
 _Matt. 3:13-17_ — Jesus was baptized as an adult in Jordan.
 
-_Jn.3:23_ — Biblical baptism takes much water.
+_Jn. 3:23_ — Biblical baptism takes much water.
 
-_Mk.1:9,10_ — Jesus went into and "came up" out of the water. He was fully immersed.
+_Mk. 1:9,10_ — Jesus went into and "came up" out of the water. He was fully immersed.
 
 _Acts 8:38_ — Both Philip and the eunuch entered the water. Philip baptized the eunuch by immersion.
 
@@ -24,7 +24,7 @@ _Col. 2:12_ — Buried with Christ through baptism.
 
 _Rom. 6:3-6_ — Baptism, a symbol of the resurrection, represents death and burial of the old life and emergence to new life in Jesus.
 
-_Acts 2:38_ — "Repent and be baptized." Mk.16:16 Whoever believes and is baptized shall be saved.
+_Acts 2:38_ — "Repent and be baptized." Mk. 16:16 Whoever believes and is baptized shall be saved.
 
 _Acts 2:41,42_ — They that gladly received His word were baptized. They continued steadfastly in the apostles' doctrine-instruction (see also Matt. 28:19,20).
 

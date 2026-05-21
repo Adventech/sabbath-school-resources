@@ -8,11 +8,11 @@ _Rev. 17:1-5_ — God's description of a spiritual apostate system compromising 
 
 _Dan. 8:12_ — The truth cast to the ground.
 
-_Eph.5:31-33_ — The Bride of Jesus represents His church.
+_Eph. 5:31-33_ — The Bride of Jesus represents His church.
 
-_Jer.6:2_ — The daughter of Zion is like a beautiful woman.
+_Jer. 6:2_ — The daughter of Zion is like a beautiful woman.
 
-_Isa.51:16_ — Zion, thou art my people.
+_Isa. 51:16_ — Zion, thou art my people.
 
 _Rev. 12:1-3_ — A beautiful woman appearing in heaven represents the New Testament Christian church.
 
@@ -26,17 +26,17 @@ _Gen. 11:9_ — Babylon represents confusion. Here God confused the languages. S
 
 _Dan. 4:30_ — Babylon is a man-made system based on human tradition and achievement (Isa. 45:22).
 
-_Jer.51:47_ — Ancient Babylon filled her temple with idols and so will spiritual Babylon.
+_Jer. 51:47_ — Ancient Babylon filled her temple with idols and so will spiritual Babylon.
 
 _Ex. 20:4,5_ — Thou shalt not make any graven images.
 
-_Ezek.8:14_ — Woman weeping for Tammuz god of vegetation. Ancestor worship or "saint" worship common in Babylon.
+_Ezek. 8:14_ — Woman weeping for Tammuz god of vegetation. Ancestor worship or "saint" worship common in Babylon.
 
 _Eccl. 9:5_ — The dead know not anything.
 
-_Ps.115:17_ — The dead praise not the Lord.
+_Ps. 115:17_ — The dead praise not the Lord.
 
-_Ezek.8:16_ — Sun worship enters God's temple.
+_Ezek. 8:16_ — Sun worship enters God's temple.
 
 _Ezek. 20:12,20_ — The Sabbath is God's sign.
 

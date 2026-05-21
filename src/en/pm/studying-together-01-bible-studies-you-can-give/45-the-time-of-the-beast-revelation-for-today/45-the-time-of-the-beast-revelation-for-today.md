@@ -38,6 +38,6 @@ _Dan. 7:7-10_ — In prophetic vision, Daniel saw thisjudgment occurring in Heav
 
 _Rev. 14:17_ — God's final message of warning to this planet clearly reveals that we are now living in the judgment.
 
-_Heb.4:14-16_ — Our Lord invites us to find forgiveness and mercy at His throne now so we will be prepared for His final judgment.
+_Heb. 4:14-16_ — Our Lord invites us to find forgiveness and mercy at His throne now so we will be prepared for His final judgment.
 
-_Heb.7:25_ — Jesus offers to represent us in the judgment.
+_Heb. 7:25_ — Jesus offers to represent us in the judgment.

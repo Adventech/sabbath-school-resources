@@ -28,13 +28,13 @@ _Ps. 115:17_ — The dead do not praise God.
 
 _Acts 2:34_ — David did not ascend to heaven at death, but awaited the coming ofJesus and the first resurrection.
 
-_Ps.6:5_ — In the grave there is no remembrance of God.
+_Ps. 6:5_ — In the grave there is no remembrance of God.
 
-_Eccl.9:5_ — The dead do not know anything.
+_Eccl. 9:5_ — The dead do not know anything.
 
 _Job 19:25,26_ — The righteous will be resurrected to see God at the Last day.
 
-_Ezek.18:4_ — The soul (person) who sins will die!
+_Ezek. 18:4_ — The soul (person) who sins will die!
 
 _Rom. 6:23_ — The wages of sin is death. Death is the absence of life. The gift of God is eternal life.
 

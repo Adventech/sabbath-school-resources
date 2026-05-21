@@ -87,7 +87,7 @@ The challenge is: 5+9-15+7-2/3+106+9-15+23-4/5+1.
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **BIBLE STORY** (15 MINUTES)
 
-**^[SHARE:]({"style": {"text": {"color":"#649b7c"}}}) Pray, then creatively share the Bible Story.**
+**^[SHARE:]({"style": {"text": {"color":"#649b7c"}}})** Pray, then creatively share the Bible Story.**
 
 {"style": {"block": {"backgroundColor": "#ECF6F2", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **UNPACK THE STORY** (5 MINUTES)

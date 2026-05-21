@@ -8,9 +8,9 @@ _John 8:32_ — Truth in and through Jesus sets us free.
 
 ### Identifying feature #1
 
-_Ps.146:3_ — Cults usually have a single, powerful human leader who becomes the cult's messiah.
+_Ps. 146:3_ — Cults usually have a single, powerful human leader who becomes the cult's messiah.
 
-_Isa.45:22_ — Jesus is the sole source of our salvation.
+_Isa. 45:22_ — Jesus is the sole source of our salvation.
 
 ### Identifying feature #2
 

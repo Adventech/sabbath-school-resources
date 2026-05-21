@@ -24,9 +24,9 @@ _2 Tim. 3:1-4_ — Perilous times, moral decadence.
 
 _Matt. 24:37-39_ — Intemperate, morally corrupt.
 
-_Jas.5:1-5_ — Economic difficulties.
+_Jas. 5:1-5_ — Economic difficulties.
 
-_Lk.21:34_ — Overwhelmed by cares of this life.
+_Lk. 21:34_ — Overwhelmed by cares of this life.
 
 _Matt. 24:14_ — Gospel preached to all the world (see also Rev. 14:6,7).
 

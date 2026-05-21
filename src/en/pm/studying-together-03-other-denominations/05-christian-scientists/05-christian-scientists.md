@@ -13,7 +13,7 @@ Christian Science originated in Boston, Massachusetts resulting from the purport
 ### Some major doctrinal misunderstandings of Christian Scientists and Bible texts to meet them
 
 1. **The Bible is allegorical:** The belief that none of the Bible's statements are to be taken literally.\
-(See 2 Tim. 3:16; 2 Pet. 1:21; Jn. 17:17; Rev. 21:5; Jn.5:39.)
+(See 2 Tim. 3:16; 2 Pet. 1:21; Jn. 17:17; Rev. 21:5; Jn. 5:39.)
 2. **No devil:** The belief that the devil is only an imaginary, fictional character.\
 (See Ezek. 28:12-15; Isa. 14:12-14; Rev. 12:7-9; Matt. 4:1-6; 1 Pet. 5:8; Eph 6:10-12.)
 3. **Immortality of the soul:** The belief that each individual has an immortal, indestructible soul distinct from the body but which leaves the body at death destined for heaven or hell.\

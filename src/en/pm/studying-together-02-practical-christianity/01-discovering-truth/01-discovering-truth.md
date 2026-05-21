@@ -12,4 +12,4 @@ title: Discovering Truth
 6. Be willing to make any change from past ways of thinking. You will never know truth unless you are willing to live the truth (Jn. 7:17).
 7. Be willing to surrender your own ideas to the truth of God's word (Prov. 14:12; Jn. 17:17).
 8. Do not listen to the voice of any counselor who attempts to dissuade you from doing what the Bible clearly teaches (Prov. 19:27).
-9. All truth leads us closer to Jesus who is the way, the truth and the life. Seek Jesus in every subject you are studying. Ask, "How can this topic lead me still closer to Jesus" (Jn.14:6).
+9. All truth leads us closer to Jesus who is the way, the truth and the life. Seek Jesus in every subject you are studying. Ask, "How can this topic lead me still closer to Jesus" (Jn. 14:6).
