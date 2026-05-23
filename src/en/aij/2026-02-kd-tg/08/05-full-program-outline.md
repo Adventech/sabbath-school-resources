@@ -48,7 +48,7 @@ Give the children some cloth blankets, bandages, and Band-Aids. Once these child
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (5 MINUTES)
 
-**^[SHARE:]({"style": {"text": {"color":"#649B7C"}}})** Share a Mission Fast Fact about where the offering is going this quarter.
+**^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a Mission Fast Fact about where the offering is going this quarter.
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
