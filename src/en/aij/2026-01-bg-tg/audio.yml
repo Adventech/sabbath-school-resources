@@ -2,44 +2,548 @@ audio:
   - artist: Alive in Jesus
     tracks:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“Shake a Little Hand”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“Colors”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“Jesus Made the Sunshine”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“The Trees Are Gently Swaying”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“The Flowers Are Gently Nodding”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“Animals, Animals”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“He’s Got the Whole World”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“1, 2, 3, God Loves Me”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“The Sabbath”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“When it’s Time to Pray”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“I Open My Bible Carefully”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“Here is My Money”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“Nature Box”"
-        target: en/aij/2026-01-bg-tg
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/01
         title: "“Sabbath School is Over”"
-        target: en/aij/2026-01-bg-tg
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/02
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/03
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/04
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/05
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/06
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/07
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/08
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/09
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/10
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/11
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/12
+        title: "“Sabbath School is Over”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/01-shake-a-little-hand.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“Shake a Little Hand”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/02-colors.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“Colors”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/03-jesus-made-the-sunshine.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“Jesus Made the Sunshine”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/04-the-trees-are-gently-swaying.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“The Trees Are Gently Swaying”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/05-the-flowers-are-gently-nodding.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“The Flowers Are Gently Nodding”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/06-animals-animals.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“Animals, Animals”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/07-he-got-world-in-his-hand.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“He’s Got the Whole World”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/08-1-2-3-god-loves-me.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“1, 2, 3, God Loves Me”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/09-the-sabbath.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“The Sabbath”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/10-when-its-time-to-pray.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“When it’s Time to Pray”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/11-i-open-my-bible-carefully.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“I Open My Bible Carefully”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/12-here-is-my-money.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“Here is My Money”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/13-nature-box.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“Nature Box”"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/14-sabbath-school-is-over.mp3
+        target: en/aij/2026-01-bg-tg/13
+        title: "“Sabbath School is Over”"

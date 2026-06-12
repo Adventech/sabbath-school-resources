@@ -8,7 +8,7 @@ Opening Activities
 
 Source a **piece of fruit**, a **sharp knife**, and a **chopping board**.
 
-Print or prepare to show (digitally) the words for **^[“Sabbath Song”]({"style": {"text": {"color": "#58B0E3"}}})** and **^[“The Books of the Bible.”]({"style": {"text": {"color": "#58B0E3"}}})**
+Print or prepare to show (digitally) the words for **^[“Sabbath Song”]({"style": {"text": {"color": "#58B0E3"}}})** and **^[“Books of the Bible.”]({"style": {"text": {"color": "#58B0E3"}}})**
 
 Visit the AIJ website for information about the location of this quarter’s mission offering. Print and create an **^[Offering Chart]({"style": {"text": {"color": "#58B0E3"}}})**. Source a **globe or world map**. Print the **^[13 Mission Fast Facts]({"style": {"text": {"color": "#58B0E3"}}})** so you can share a Mission Fast Fact each week.
 
@@ -43,7 +43,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 	- “When God Speaks”
 	- “God Is Our Creator
 	- “Be Still, Be Silent”
-	- “The Books of the Bible”
+	- “Books of the Bible”
 	- “Thank You, Jesus”
 	- “Visitor Song”
 	- “Happy Birthday”

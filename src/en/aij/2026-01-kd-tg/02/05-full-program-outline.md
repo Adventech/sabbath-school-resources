@@ -62,7 +62,7 @@ subtitle: Week 2
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Whistling","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-- **Can you remember how God felt about what He had created? What did He say at the end of the first five days of Creation? I wonder what He said on the sixth day?** Let’s open the Bible and find out. Show the children how to find the **memory verse, Genesis 1:31. Say it together:** “Then God saw everything the He had made, and it was very good.” Notice that this time God said it was very good!
+- **Can you remember how God felt about what He had created? What did He say at the end of the first five days of Creation? I wonder what He said on the sixth day?** Let’s open the Bible and find out. Show the children how to find the **memory verse, Genesis 1:31. Say it together:** “Then God saw everything that He had made, and it was very good.” Notice that this time God said it was very good!
 
 Listen to, and sing, the **Genesis 1:31 Scripture Song.**
 

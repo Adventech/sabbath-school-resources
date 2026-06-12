@@ -29,9 +29,9 @@ subtitle: Week 3
 
 **^[PRAY:]({"style": {"text": {"color":"#d34d5e"}}})** Invite two children to pray, thanking God for the Sabbath.
 
-**^[BIBLE FOCUS:]({"style": {"text": {"color":"#d34d5e"}}})** Listen to and learn **“The Books of the Bible”** song. Share the **Bible Fast Fact:** Moses wrote the first five books of the Bible. **Ask:** Who can name them in order? (Genesis; Exodus; Leviticus; Numbers; Deuteronomy.) These books are called the Torah or the Pentateuch.
+**^[BIBLE FOCUS:]({"style": {"text": {"color":"#d34d5e"}}})** Listen to and learn **“Books of the Bible”** song. Share the **Bible Fast Fact:** Moses wrote the first five books of the Bible. **Ask:** Who can name them in order? (Genesis; Exodus; Leviticus; Numbers; Deuteronomy.) These books are called the Torah or the Pentateuch.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3] “The Books of the Bible” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3] “Books of the Bible” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering as you all sing **“Thank You, Jesus.”** Later, after the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Then share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer for God to bless and take the offering to where it’s most needed.
 

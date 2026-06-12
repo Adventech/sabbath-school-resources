@@ -2,9 +2,9 @@
 title: Music and Podcasts
 ---
 
-### Scripture song
+### Scripture Song
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/2025-03-bg-scripture-song.mp3] Philippians 4:19
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/2025-03-bg-scripture-song.mp3] Philippians 4:19 {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Rosie and Khloe Smith"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 ### Week 1 Podcast
 

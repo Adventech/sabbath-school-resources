@@ -18,7 +18,7 @@ title: Music
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/05-all-our-needs.mp3] “All Our Needs” {"credits":[{"key":"Writer","value":"Carolyn Berge"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1995 Group Publishing, Inc. From Little Voices Praise Him, #85. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/06-god-is-with-me.mp3] “God Is With Me” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Yelena Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/06-god-is-with-me.mp3] “God Is With Me Day and Night” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Yelena Jovinov"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/07-god-sees-me.mp3] “God Sees Me” {"credits":[{"key":"Writer","value":"Rebecca Edwards-Lesser"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 1962 by Review and Herald® Publishing Association. From Little Voices Praise Him, #89. Used by permission."}
 

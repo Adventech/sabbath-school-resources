@@ -24,7 +24,7 @@ subtitle: Week 5
 	- **^[“God Is My Faithful Friend”]({"style": {"text": {"color":"#d34d5e"}}})**
 	- **^[“Be Still, Be Silent”]({"style": {"text": {"color":"#d34d5e"}}})**
 - Pray: Ask three volunteers to pray focusing on giving thanks, the Holy Spirit, and requests).
-- Bible Focus: Sing **^[“The Books of the Bible”]({"style": {"text": {"color":"#d34d5e"}}})** and share **^[Bible Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**.
+- Bible Focus: Sing **^[“Books of the Bible”]({"style": {"text": {"color":"#d34d5e"}}})** and share **^[Bible Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**.
 - **^[“Thank You, Jesus,”]({"style": {"text": {"color":"#d34d5e"}}})** offering collection, **^[Offering Chart]({"style": {"text": {"color":"#d34d5e"}}})**, and **^[Mission Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**
 - **^[“Visitor Song”]({"style": {"text": {"color":"#d34d5e"}}})**
 - **^[“Happy Birthday”]({"style": {"text": {"color":"#d34d5e"}}})**

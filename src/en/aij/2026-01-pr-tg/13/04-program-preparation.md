@@ -42,7 +42,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Music:
 	- “God Is My Faithful Friend”
 	- “Be Still, Be Silent”
-	- “The Books of the Bible”
+	- “Books of the Bible”
 	- “Thank You, Jesus”
 	- “Visitor Song”
 	- “Happy Birthday”

@@ -23,7 +23,7 @@ subtitle: Week 9
 	- **^[“God Is My Faithful Friend”]({"style": {"text": {"color":"#d34d5e"}}})**
 	- **^[“Sabbath Song”]({"style": {"text": {"color":"#d34d5e"}}})**
 - Pray: For each other in pairs (James 5:16)
-- Bible Focus: Sing **^[“The Books of the Bible”]({"style": {"text": {"color":"#d34d5e"}}})** and share **^[Bible Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**.
+- Bible Focus: Sing **^[“Books of the Bible”]({"style": {"text": {"color":"#d34d5e"}}})** and share **^[Bible Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**.
 - “Thank You, Jesus,” offering collection, Offering Chart, and Mission Fast Fact
 - **^[“Visitor Song”]({"style": {"text": {"color":"#d34d5e"}}})**
 - **^[“Happy Birthday”]({"style": {"text": {"color":"#d34d5e"}}})**

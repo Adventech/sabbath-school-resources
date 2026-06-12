@@ -14,7 +14,7 @@ title: Simple Program Outline
 - **^[“Praise Him, Praise Him”]({"style": {"text": {"color":"#d34d5e"}}})** (musical instruments)
 - **^[“Bubbles”]({"style": {"text": {"color":"#d34d5e"}}})** (bubbles)
 - **^[“All Our Needs”]({"style": {"text": {"color":"#d34d5e"}}})** (toy fruits and vegetables)
-- **^[“God Is With Me”]({"style": {"text": {"color":"#d34d5e"}}})** (small pillows)
+- **^[“God Is With Me Day and Night”]({"style": {"text": {"color":"#d34d5e"}}})** (small pillows)
 - **^[“God Sees Me”]({"style": {"text": {"color":"#d34d5e"}}})** (toy binoculars)
 - **^[“Into My Heart”]({"style": {"text": {"color":"#d34d5e"}}})** (hearts on Popsicle sticks)
 

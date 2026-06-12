@@ -1,0 +1,531 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3
+        title: "“When God Speaks”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3
+        title: "“God Is Our Creator”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
+        title: "“Romans 1:20”"
+      - target: en/aij/2026-01-pr-tg/01
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3
+        title: "“When God Speaks”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3
+        title: "“God Is Our Creator”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        title: "“Genesis 1:27”"
+      - target: en/aij/2026-01-pr-tg/02
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/when-god-speaks.mp3
+        title: "“When God Speaks”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3
+        title: "“God Is Our Creator”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
+        title: "“Exodus 20:8-11”"
+      - target: en/aij/2026-01-pr-tg/03
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-our-creator.mp3
+        title: "“God Is Our Creator”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/into-my-heart.mp3
+        title: "“Into My Heart”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3
+        title: "“Job 34:4”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
+        title: "“Romans 1:20”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        title: "“Genesis 1:27”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
+        title: "“Exodus 20:8-11”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3
+        title: "“Job 34:4”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3
+        title: "“Psalm 86:5”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3
+        title: "“John 14:23”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3
+        title: "“Deuteronomy 7:9”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3
+        title: "“Psalm 57:1”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3
+        title: "“Psalm 71:1”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3
+        title: "“Isaiah 30:21”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3
+        title: "“Jeremiah 31:14”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3
+        title: "“Galatians 6:9”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated
+        title: "“Hebrews 10:23”"
+      - target: en/aij/2026-01-pr-tg/04
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3
+        title: "“Psalm 86:5”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
+        title: "“Romans 1:20”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        title: "“Genesis 1:27”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
+        title: "“Exodus 20:8-11”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3
+        title: "“Job 34:4”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3
+        title: "“Psalm 86:5”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3
+        title: "“John 14:23”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3
+        title: "“Deuteronomy 7:9”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3
+        title: "“Psalm 57:1”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3
+        title: "“Psalm 71:1”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3
+        title: "“Isaiah 30:21”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3
+        title: "“Jeremiah 31:14”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3
+        title: "“Galatians 6:9”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated
+        title: "“Hebrews 10:23”"
+      - target: en/aij/2026-01-pr-tg/05
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3
+        title: "“John 14:23”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
+        title: "“Romans 1:20”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        title: "“Genesis 1:27”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
+        title: "“Exodus 20:8-11”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3
+        title: "“Job 34:4”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3
+        title: "“Psalm 86:5”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3
+        title: "“John 14:23”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3
+        title: "“Deuteronomy 7:9”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3
+        title: "“Psalm 57:1”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3
+        title: "“Psalm 71:1”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3
+        title: "“Isaiah 30:21”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3
+        title: "“Jeremiah 31:14”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3
+        title: "“Galatians 6:9”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated
+        title: "“Hebrews 10:23”"
+      - target: en/aij/2026-01-pr-tg/06
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3
+        title: "“Deuteronomy 7:9”"
+      - target: en/aij/2026-01-pr-tg/07
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3
+        title: "“Psalm 57:1”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
+        title: "“Romans 1:20”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        title: "“Genesis 1:27”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
+        title: "“Exodus 20:8-11”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3
+        title: "“Job 34:4”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3
+        title: "“Psalm 86:5”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3
+        title: "“John 14:23”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3
+        title: "“Deuteronomy 7:9”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3
+        title: "“Psalm 57:1”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3
+        title: "“Psalm 71:1”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3
+        title: "“Isaiah 30:21”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3
+        title: "“Jeremiah 31:14”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3
+        title: "“Galatians 6:9”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated
+        title: "“Hebrews 10:23”"
+      - target: en/aij/2026-01-pr-tg/08
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3
+        title: "“Psalm 71:1”"
+      - target: en/aij/2026-01-pr-tg/09
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3
+        title: "“Isaiah 30:21”"
+      - target: en/aij/2026-01-pr-tg/10
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3
+        title: "“Jeremiah 31:14”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
+        title: "“Romans 1:20”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        title: "“Genesis 1:27”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
+        title: "“Exodus 20:8-11”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/4-job-34-4.mp3
+        title: "“Job 34:4”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/5-psalm-86-5.mp3
+        title: "“Psalm 86:5”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/6-john-14-23.mp3
+        title: "“John 14:23”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/7-deuteronomy-7-9.mp3
+        title: "“Deuteronomy 7:9”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/8-psalm-57-1.mp3
+        title: "“Psalm 57:1”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/9-psalm-71-1.mp3
+        title: "“Psalm 71:1”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/10-isaiah-30-21.mp3
+        title: "“Isaiah 30:21”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/11-jeremiah-31-14.mp3
+        title: "“Jeremiah 31:14”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3
+        title: "“Galatians 6:9”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated
+        title: "“Hebrews 10:23”"
+      - target: en/aij/2026-01-pr-tg/11
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/12-galatians-6-9.mp3
+        title: "“Galatians 6:9”"
+      - target: en/aij/2026-01-pr-tg/12
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/13-hebrews-10-23.mp3?updated
+        title: "“Hebrews 10:23”"
+      - target: en/aij/2026-01-pr-tg/13
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"

@@ -55,7 +55,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 	- Scripture Song: “Job 34:4”
 	- “Into My Heart”
 	- “God Is Our Creator”
-	- “The Books of the Bible”
+	- “Books of the Bible”
 	- “Thank You, Jesus” 
 	- “Happy Birthday”
 	- “Visitor Song”

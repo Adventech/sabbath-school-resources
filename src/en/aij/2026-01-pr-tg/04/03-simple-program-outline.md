@@ -25,7 +25,7 @@ subtitle: Week 4
 	- **^[“God Is Our Creator”]({"style": {"text": {"color":"#d34d5e"}}})**
 	- **^[“Be Still, Be Silent”]({"style": {"text": {"color":"#d34d5e"}}})**
 - Pray: Invite the children to share answered prayers, and ask two volunteers to pray, including giving thanks.
-- Bible Focus: Sing **^[“The Books of the Bible”]({"style": {"text": {"color":"#d34d5e"}}})** and share **^[Bible Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**.
+- Bible Focus: Sing **^[“Books of the Bible”]({"style": {"text": {"color":"#d34d5e"}}})** and share **^[Bible Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**.
 - **^[“Thank You, Jesus,”]({"style": {"text": {"color":"#d34d5e"}}})** offering collection, **^[Offering Chart]({"style": {"text": {"color":"#d34d5e"}}})**, and **^[Mission Fast Fact]({"style": {"text": {"color":"#d34d5e"}}})**
 - **^[“Visitor Song”]({"style": {"text": {"color":"#d34d5e"}}})**
 - **^[“Happy Birthday”]({"style": {"text": {"color":"#d34d5e"}}})**
