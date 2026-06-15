@@ -1,0 +1,510 @@
+audio:
+- artist: Alive em Jesus
+  tracks:
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/01
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/01
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/01
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/01
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/01
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/01
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/01
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/01
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/01
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/01
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/01
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/01
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/01
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/02
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/02
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/02
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/02
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/02
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/02
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/02
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/02
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/02
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/02
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/02
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/02
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/02
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/03
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/03
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/03
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/03
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/03
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/03
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/03
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/03
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/03
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/03
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/03
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/03
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/03
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/04
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/04
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/04
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/04
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/04
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/04
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/04
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/04
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/04
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/04
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/04
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/04
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/04
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/05
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/05
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/05
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/05
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/05
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/05
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/05
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/05
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/05
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/05
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/05
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/05
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/05
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/06
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/06
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/06
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/06
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/06
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/06
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/06
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/06
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/06
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/06
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/06
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/06
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/06
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/07
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/07
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/07
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/07
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/07
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/07
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/07
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/07
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/07
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/07
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/07
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/07
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/07
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/08
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/08
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/08
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/08
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/08
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/08
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/08
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/08
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/08
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/08
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/08
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/08
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/08
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/09
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/09
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/09
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/09
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/09
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/09
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/09
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/09
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/09
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/09
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/09
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/09
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/09
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/10
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/10
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/10
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/10
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/10
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/10
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/10
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/10
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/10
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/10
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/10
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/10
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/10
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/11
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/11
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/11
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/11
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/11
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/11
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/11
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/11
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/11
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/11
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/11
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/11
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/11
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/12
+    title: 12. Abram Rescues Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/12
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/12
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/12
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/12
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/12
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/12
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/12
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/12
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/12
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/12
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/12
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/12
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-13.mp3
+    target: en/aij/2026-01-pr/13
+    title: 13. The Promised Baby
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-01.mp3
+    target: en/aij/2026-01-pr/13
+    title: 1. A New World
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-02.mp3
+    target: en/aij/2026-01-pr/13
+    title: 2. A Perfeito Home
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-03.mp3
+    target: en/aij/2026-01-pr/13
+    title: 3. The Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-04.mp3
+    target: en/aij/2026-01-pr/13
+    title: 4. O que Happened a Deus’s Lindo Anjo?
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-05.mp3
+    target: en/aij/2026-01-pr/13
+    title: 5. The Fall e a Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-06.mp3
+    target: en/aij/2026-01-pr/13
+    title: 6. Cain e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-07.mp3
+    target: en/aij/2026-01-pr/13
+    title: 7. Noah Builds an Ark
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-08.mp3
+    target: en/aij/2026-01-pr/13
+    title: 8. The Rainbow Promise
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-09.mp3
+    target: en/aij/2026-01-pr/13
+    title: 9. The Tower de Babel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-10.mp3
+    target: en/aij/2026-01-pr/13
+    title: 10. Deus Leads Abram
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-11.mp3
+    target: en/aij/2026-01-pr/13
+    title: 11. Abram e Lot
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/PR-12.mp3?updated
+    target: en/aij/2026-01-pr/13
+    title: 12. Abram Rescues Lot

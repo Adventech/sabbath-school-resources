@@ -1,0 +1,510 @@
+audio:
+- artist: Alive in Jesus
+  tracks:
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/01
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/02
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/03
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/04
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/05
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/06
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/07
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/08
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/09
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/10
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/11
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 12. Um Resgate Corajoso
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/12
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-13.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 13. O Bebê Isaque
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-01.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 1. Um Mundo Novo
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-02.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 2. Vida no Jardim de Deus
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-03.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 3. O Sábado
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-04.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 4. A Triste Escolha de Lúcifer
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-05.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 5. Adão e Eva Escolhem
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-06.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 6. Caim e Abel
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-07.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 7. Noé Constrói uma Arca
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-08.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 8. Uma Promessa de Arco-íris
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-09.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 9. A Torre Alta
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-10.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 10. Abrão, Homem de Fé
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-11.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 11. Abrão Deixa Ló Escolher
+  - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/KD-12.mp3
+    target: pt/aij/2026-01-kd/13
+    title: 12. Um Resgate Corajoso

@@ -1,0 +1,1 @@
+This quarter explores the stories of crcomerion, the outonão of Lucifer, Adam and Eve's choice in the Jardim of Eden, Cain and Abel, Nãoah, the Tower of Babel, Abraham, and Baby Isaac.
