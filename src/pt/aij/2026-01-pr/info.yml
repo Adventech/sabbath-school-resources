@@ -1,43 +1,41 @@
-title: 'Student YAQ1: Meu Deus é Amor'
-markdownTitle: 'Student YAQ1: Meu Deus Is Loving'
-subtitle: Year A, Quarter 1
-description: This quarter explores the stories de creation, the fall de Lucifer, Adam
-  e Eve's choice em the Garden de Eden, Cain e Abel, Noah, the Tower de Babel,
-  Abraham, e Baby Isaac.
+title: 'Aluno: Meu Deus é Amor — Ano A, Trimestre 1'
+markdownTitle: 'Aluno: Meu Deus é Amor — Ano A, Trimestre 1'
+subtitle: Ano A, Trimestre 1
+description: "Este trimestre explora as histórias da criação, a queda de Lúcifer, a escolha de Adão e Eva no Jardim do Éden, Caim e Abel, Noé, a Torre de Babel, Abraão e o bebê Isaque."
 primaryColor: '#2E3A42'
 primaryColorDark: '#17252E'
 credits:
-- name: Principal Contributors
-  value: Jenny Paddison
-- name: Curriculum Manager e Senior Editor
-  value: Nina Atcheson
-- name: Editor
-  value: Rosanne Peach
-- name: Editorial Assistant
-  value: Denise Gustafson
-- name: World Sába School Directors
-  value: Jim Howard, Daniel Ebenezer
-- name: Biblical Research Institute Advisor
-  value: Clinton Wahlen, Frank Hasel
-- name: Creative Director
-  value: Meredith Herzel
-- name: Illustrator
-  value: Jo Card
-- name: Principal Designer
-  value: Types e Symbols
-- name: Designer
-  value: Megan Betteridge
-- name: Copy Editors
-  value: Tiago e Ida Cavil
+  - name: Principal Contributors
+    value: Jenny Paddison
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard, Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Clinton Wahlen, Frank Hasel
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrator
+    value: Jo Card
+  - name: Principal Designer
+    value: Types and Symbols
+  - name: Designer
+    value: Megan Betteridge
+  - name: Copy Editors
+    value: James and Ida Cavil
 displaySequence: true
 style:
   blocks:
     inline:
-      todos:
+      all:
         text:
           typeface: MyriadPro-Regular
     nested:
-      todos:
+      all:
         text:
           typeface: MyriadPro-Regular
   resource:
@@ -48,51 +46,65 @@ style:
       text:
         typeface: MyriadPro-Regular
 fonts:
-- name: Angello
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/Angello.ttf
-  attributes: regular
-- name: DKWhaleSong-Regular
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/DK-Whale-Canto.ttf
-  attributes: regular
-- name: ITCAvantGardeStd-BkCn
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCn.ttf
-  attributes: regular
-- name: ITCAvantGardeStd-BkCnObl
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCnObl.ttf
-  attributes: regular-italic
-- name: ITCAvantGardeStd-BoldCn
-  weight: 700
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BoldCn.ttf
-  attributes: bold
-- name: MyriadPro-Bold
-  weight: 700
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Bold.ttf
-  attributes: bold
-- name: MyriadPro-BoldIt
-  weight: 700
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-BoldIt.ttf
-  attributes: bold-italic
-- name: MyriadPro-Isso
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Isso.ttf
-  attributes: regular-italic
-- name: MyriadPro-Regular
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
-  attributes: regular
-- name: GoodlifeW00-SansCondensed
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Goodlife-SansCondensed.ttf
-  attributes: regular
-- name: Trashbone-Regular
-  weight: 400
-  src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Trashbone-Regular.ttf
-  attributes: regular
+  - name: Angello
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/Angello.ttf
+    attributes: regular
+  - name: DKWhaleSong-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/DK-Whale-Song.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCn
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCn.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCnObl
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCnObl.ttf
+    attributes: regular-italic
+  - name: ITCAvantGardeStd-BoldCn
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BoldCn.ttf
+    attributes: bold
+  - name: MyriadPro-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Bold.ttf
+    attributes: bold
+  - name: MyriadPro-BoldIt
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-BoldIt.ttf
+    attributes: bold-italic
+  - name: MyriadPro-It
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-It.ttf
+    attributes: regular-italic
+  - name: MyriadPro-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
+    attributes: regular
+  - name: GoodlifeW00-SansCondensed
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Goodlife-SansCondensed.ttf
+    attributes: regular
+  - name: Trashbone-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Trashbone-Regular.ttf
+    attributes: regular
 covers:
-  landscape: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover-landscape.png
-  square: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover-square.png
-  portrait: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover.png
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/cover.png
