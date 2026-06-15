@@ -2,53 +2,53 @@ audio:
   - artist: Alive in Jesus
     tracks:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/we-have-a-visitor.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“We Have a Visitor”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/01-tick-tock.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Tick-tock Song”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Tick-tock Song”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/02-happy-all-the-time.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Happy All the Time”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Happy All the Time”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/03-praise-him-praise-him.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Praise Him, Praise Him”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Praise Him, Praise Him”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/04-bubbles.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Bubbles”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Bubbles”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/05-all-our-needs.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“All Our Needs”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“All Our Needs”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/06-god-is-with-me.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“God Is With Me Day and Night”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“God Is With Me Day and Night”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/07-god-sees-me.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“God Sees Me”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“God Sees Me”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/08-into-my-heart.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Into My Heart”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Into My Heart”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/09-when-its-time-to-pray.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“When It’s Time to Pray”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/10-i-open-my-bible-carefully.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/2025-03-bg-scripture-song.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Philippians 4:19”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Philippians 4:19”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/11-here-is-my-money.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Here Is My Money”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/12-nature-box.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Nature Box”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/happy-birthday.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Happy Birthday”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/13-sabbath-school-is-over.mp3
-      	target: en/aij/2025-03-bg-tg/01
-      	title: "“Sabbath School Is Over”"
+        target: en/aij/2025-03-bg-tg/01
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg-tg/assets/we-have-a-visitor.mp3
         target: en/aij/2025-03-bg-tg/02
         title: "“We Have a Visitor”"

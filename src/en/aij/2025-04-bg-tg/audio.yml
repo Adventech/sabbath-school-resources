@@ -2,572 +2,572 @@ audio:
   - artist: Alive in Jesus
     tracks:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/01
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-      	target: en/aij/2025-04-bg-tg/01
-      	title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/01
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/02
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/02
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/02
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/03
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/03
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/03
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/04
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/04
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/04
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/05
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/05
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/05
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/06
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/06
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/06
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/07
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/07
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/07
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/01-tick-tock.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“Tick-Tock”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“Tick-Tock”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/02-the-sabbath.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“The Sabbath”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/03-gods-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“God’s Little Helper”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“God’s Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/04-im-a-little-helper.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“I’m a Little Helper”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“I’m a Little Helper”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/05-lets-put-all-our-toys-away.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“Let’s Put All Our Toys Away”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“Let’s Put All Our Toys Away”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/06-when-a-mother-calls.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“When a Mother Calls”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“When a Mother Calls”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/07-with-jesus-in-the-family.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“With Jesus in the Family”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“With Jesus in the Family”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/10-hebrews-13-16.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "Hebrews 13:16"
+        target: en/aij/2025-04-bg-tg/08
+        title: "Hebrews 13:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/08
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/08
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Christmas Star”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Christmas Star”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Riding on a Camel”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Riding on a Camel”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“I’ll Share My Home”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“I’ll Share My Home”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“It Was a Happy Day”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“It Was a Happy Day”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Baby Jesus”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Baby Jesus”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Who Is Jesus?”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Who Is Jesus?”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "Matthew 1:21"
+        target: en/aij/2025-04-bg-tg/09
+        title: "Matthew 1:21"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/09
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/09
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Christmas Star”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Christmas Star”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Riding on a Camel”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Riding on a Camel”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“I’ll Share My Home”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“I’ll Share My Home”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“It Was a Happy Day”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“It Was a Happy Day”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Baby Jesus”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Baby Jesus”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Who Is Jesus?”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Who Is Jesus?”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "Matthew 1:21"
+        target: en/aij/2025-04-bg-tg/10
+        title: "Matthew 1:21"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/10
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/10
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Christmas Star”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Christmas Star”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Riding on a Camel”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Riding on a Camel”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“I’ll Share My Home”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“I’ll Share My Home”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“It Was a Happy Day”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“It Was a Happy Day”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Baby Jesus”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Baby Jesus”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Who Is Jesus?”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Who Is Jesus?”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "Matthew 1:21"
+        target: en/aij/2025-04-bg-tg/11
+        title: "Matthew 1:21"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/11
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/11
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Christmas Star”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Christmas Star”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Riding on a Camel”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Riding on a Camel”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“I’ll Share My Home”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“I’ll Share My Home”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“It Was a Happy Day”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“It Was a Happy Day”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Baby Jesus”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Baby Jesus”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Who Is Jesus?”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Who Is Jesus?”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "Matthew 1:21"
+        target: en/aij/2025-04-bg-tg/12
+        title: "Matthew 1:21"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/12
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/12
+        title: "“Sabbath School Is Over”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/we-have-a-visitor.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“We Have a Visitor”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“We Have a Visitor”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/14-christmas-star.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Christmas Star”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Christmas Star”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/15-riding-on-a-camel.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Riding on a Camel”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Riding on a Camel”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/16-ill-share-my-home.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“I’ll Share My Home”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“I’ll Share My Home”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/17-it-was-a-happy-day.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“It Was a Happy Day”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“It Was a Happy Day”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/18-baby-jesus.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Baby Jesus”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Baby Jesus”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/19-who-is-jesus.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Who Is Jesus?”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Who Is Jesus?”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/08-when-its-time-to-pray.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“When It’s Time to Pray”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“When It’s Time to Pray”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/09-i-open-my-bible-carefully.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“I Open My Bible Carefully”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“I Open My Bible Carefully”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/20-matthew-1-21.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "Matthew 1:21"
+        target: en/aij/2025-04-bg-tg/13
+        title: "Matthew 1:21"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/11-here-is-my-money.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Here Is My Money”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/12-nature-box.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Nature Box”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Nature Box”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/happy-birthday.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Happy Birthday”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Happy Birthday”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg-tg/assets/13-sabbath-school-is-over.mp3
-            target: en/aij/2025-04-bg-tg/13
-            title: "“Sabbath School Is Over”"
+        target: en/aij/2025-04-bg-tg/13
+        title: "“Sabbath School Is Over”"

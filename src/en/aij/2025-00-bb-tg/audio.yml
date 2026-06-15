@@ -2,37 +2,37 @@ audio:
   - artist: Alive in Jesus
     tracks:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-01-sabbath-bells.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“Sabbath Bells”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-02-god-made-light.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“God Made the Light, Wind, Water” (verse 1: light)"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-03-god-made-wind.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“God Made the Light, Wind, Water” (verse 2: wind)"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-04-god-made-water.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“God Made the Light, Wind, Water” (verse 3: water)"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-05-happy-floweres.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "““I Am Happy as Can Be” (flower)”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-06-happy-stars.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "““I Am Happy as Can Be” (star)”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-07-fishy.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“Fishy, Fishy”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-08-animals.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“Animals”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-09-who-am-i.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“Who Am I?”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-10-sabbath.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“The Sabbath”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-01-11-money.mp3
-      	target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
+        target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-01-creation
         title: "“Here Is My Money”"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-00-bb-tg/assets/en-aij-bb-02-01-sabbath-bells.mp3
         target: en/aij/2025-00-bb-tg/part-05/05-03-lesson-02-good-shepherd
