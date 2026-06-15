@@ -1,8 +1,9 @@
-name: Portugese
+name: Portuguese
 native: Português
 code: pt
 sections:
   default: Main
+egw: true
 bible:
   - arc
   - nvi-pt

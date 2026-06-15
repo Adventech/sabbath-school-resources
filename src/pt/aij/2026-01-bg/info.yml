@@ -1,0 +1,87 @@
+title: 'Vivos em Jesus: Criação'
+subtitle: Ano A, Trimestre 1
+description: Deus criou nosso maravilhoso mundo em sete dias.
+primaryColor: '#39788D'
+primaryColorDark: '#1F5A6D'
+credits:
+  - name: Contribuidora Principal
+    value: Linda Schaffner
+  - name: Gerente de Currículo e Editora Sênior
+    value: Nina Atcheson
+  - name: Editora
+    value: Rosanne Peach
+  - name: Assistente Editorial
+    value: Denise Gustafson
+  - name: Diretor Mundial da Escola Sabatina
+    value: Daniel Ebenezer
+  - name: Conselheiro do Instituto de Pesquisa Bíblica
+    value: Clinton Wahlen
+  - name: Diretora de Criação
+    value: Meredith Herzel
+  - name: Ilustradora
+    value: Hannah Justinen
+  - name: Designer
+    value: Types & Symbols
+  - name: Editores de Texto
+    value: James and Ida Cavil
+displaySequence: true
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: Omnes-Regular
+    nested:
+      all:
+        text:
+          typeface: Omnes-Regular
+  resource:
+    title:
+      text:
+        typeface: Omnes-Bold
+    subtitle:
+      text:
+        typeface: Omnes-Regular
+fonts:
+  - name: BaskervilleBT-Roman
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/BaskervilleBT-Roman.ttf
+    attributes: regular
+  - name: Omnes-BlackItalic
+    weight: 900
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Black%20Italic.ttf
+    attributes: black-italic
+  - name: Omnes-Black
+    weight: 900
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Black.ttf
+    attributes: black
+  - name: Omnes-BoldItalic
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Bold%20Italic.ttf
+    attributes: bold-italic
+  - name: Omnes-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Bold.ttf
+    attributes: bold
+  - name: Omnes-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Italic.ttf
+    attributes: regular-italic
+  - name: Omnes-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Regular.ttf
+    attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-bg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-bg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-bg/assets/cover.png
