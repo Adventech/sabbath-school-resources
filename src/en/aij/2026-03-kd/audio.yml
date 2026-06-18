@@ -1,0 +1,510 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/01
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/01
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/01
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/01
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/01
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/01
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/01
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/01
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/01
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/01
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/01
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/01
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/01
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/02
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/02
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/02
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/02
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/02
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/02
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/02
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/02
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/02
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/02
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/02
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/02
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/02
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/03
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/03
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/03
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/03
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/03
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/03
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/03
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/03
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/03
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/03
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/03
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/03
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/03
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/04
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/04
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/04
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/04
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/04
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/04
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/04
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/04
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/04
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/04
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/04
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/04
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/04
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/05
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/05
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/05
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/05
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/05
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/05
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/05
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/05
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/05
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/05
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/05
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/05
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/05
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/06
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/06
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/06
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/06
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/06
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/06
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/06
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/06
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/06
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/06
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/06
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/06
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/06
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/07
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/07
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/07
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/07
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/07
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/07
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/07
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/07
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/07
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/07
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/07
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/07
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/07
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/08
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/08
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/08
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/08
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/08
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/08
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/08
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/08
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/08
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/08
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/08
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/08
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/08
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/09
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/09
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/09
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/09
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/09
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/09
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/09
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/09
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/09
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/09
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/09
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/09
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/09
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/10
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/10
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/10
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/10
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/10
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/10
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/10
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/10
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/10
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/10
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/10
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/10
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/10
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/11
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/11
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/11
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/11
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/11
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/11
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/11
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/11
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/11
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/11
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/11
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/11
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/11
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/12
+        title: 12. The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/12
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/12
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/12
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/12
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/12
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/12
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/12
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/12
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/12
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/12
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/12
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/12
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-13.mp3
+        target: en/aij/2026-03-kd/13
+        title: 13. Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-01.mp3
+        target: en/aij/2026-03-kd/13
+        title: 1. The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-02.mp3
+        target: en/aij/2026-03-kd/13
+        title: 2. The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-03.mp3
+        target: en/aij/2026-03-kd/13
+        title: 3. Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-04.mp3
+        target: en/aij/2026-03-kd/13
+        title: 4. Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-05.mp3
+        target: en/aij/2026-03-kd/13
+        title: 5. Grow, Grow, Grow!
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-06.mp3
+        target: en/aij/2026-03-kd/13
+        title: 6. At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-07.mp3
+        target: en/aij/2026-03-kd/13
+        title: 7. Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-08.mp3
+        target: en/aij/2026-03-kd/13
+        title: 8. Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-09.mp3
+        target: en/aij/2026-03-kd/13
+        title: 9. The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-10.mp3
+        target: en/aij/2026-03-kd/13
+        title: 10. Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-11.mp3
+        target: en/aij/2026-03-kd/13
+        title: 11. Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd/assets/KD-12.mp3
+        target: en/aij/2026-03-kd/13
+        title: 12. The Man in the Tree

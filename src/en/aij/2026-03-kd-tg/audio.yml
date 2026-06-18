@@ -1,0 +1,471 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3
+        title: "“Jesus Loves Me and I Love Jesus”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/jesus-is-my-god.mp3
+        title: "“Jesus Is My God”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/1-matthew-1-21.mp3
+        title: "“Matthew 1:21”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/my-forever-friend-jesus.mp3
+        title: "“My Forever Friend Jesus”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/2-isaiah-9-6.mp3
+        title: "“Isaiah 9:6”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/gods-big-family.mp3
+        title: "“God’s Big Family”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/god-is-our-loving-father.mp3
+        title: "“God is Our Loving Father”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/3-jeremiah-29-13.mp3
+        title: "“Jeremiah 29:13”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/1-matthew-1-21.mp3
+        title: "“Matthew 1:21”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/2-isaiah-9-6.mp3
+        title: "“Isaiah 9:6”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/3-jeremiah-29-13.mp3
+        title: "“Jeremiah 29:13”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/4-psalm-91-11.mp3
+        title: "“Psalm 91:11”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/5-luke-2-52.mp3
+        title: "“Luke 2:52”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/6-matthew-3-2.mp3
+        title: "“Matthew 3:2”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3
+        title: "“Psalm 119:11”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/8-john-10-27.mp3
+        title: "“John 10:27”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/9-matthew-19-26.mp3
+        title: "“Matthew 19:26”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/10-matthew-6-11.mp3
+        title: "“Matthew 6:11”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/11-luke-11-28.mp3
+        title: "“Luke 11:28”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/12-2-corinthians-5-17.mp3
+        title: "“2 Corinthians 5:17”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/13-acts-10-38.mp3
+        title: "“Acts 10:38”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/god-is-always-with-me.mp3
+        title: "“God Is Always With Me”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/4-psalm-91-11.mp3
+        title: "“Psalm 91:11”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/my-forever-friend-jesus.mp3
+        title: "“My Forever Friend Jesus”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3
+        title: "“Jesus Loves Me and I Love Jesus”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/5-luke-2-52.mp3
+        title: "“Luke 2:52”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/i-will-serve-you-jesus.mp3
+        title: "“I Will Serve You, Jesus”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/when-i-kneel-down-to-pray.mp3
+        title: "“When I Kneel Down To Pray”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/6-matthew-3-2.mp3
+        title: "“Matthew 3:2”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/my-forever-friend-jesus.mp3
+        title: "“My Forever Friend Jesus”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/missionary-missionary.mp3
+        title: "“Missionary, Missionary”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3
+        title: "“Psalm 119:11”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/gods-words.mp3
+        title: "“God’s Words”"
+        target: en/aij/2026-03-kd-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/jesus-is-my-shepherd.mp3
+        title: "“Jesus Is My Shepherd”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/when-i-kneel-down-to-pray.mp3
+        title: "“When I Kneel Down To Pray”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/8-john-10-27.mp3
+        title: "“John 10:27”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/i-have-decided-to-follow-jesus.mp3
+        title: "“I Have Decided to Follow Jesus”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/my-god-will-do-it-all.mp3
+        title: "“My God Will Do It All”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/god-is-always-with-me.mp3
+        title: "“God Is Always With Me”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/9-matthew-19-26.mp3
+        title: "“Matthew 19:26”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/jesus-is-my-shepherd.mp3
+        title: "“Jesus Is My Shepherd”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/god-is-our-loving-father.mp3
+        title: "“God is Our Loving Father”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/when-i-kneel-down-to-pray.mp3
+        title: "“When I Kneel Down To Pray”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/10-matthew-6-11.mp3
+        title: "“Matthew 6:11”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3
+        title: "“Jesus Loves Me and I Love Jesus”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/i-will-serve-you-jesus.mp3
+        title: "“I Will Serve You, Jesus”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/11-luke-11-28.mp3
+        title: "“Luke 11:28”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-lords-prayer.mp3
+        title: "“The Lord’s Prayer”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/i-will-serve-you-jesus.mp3
+        title: "“I Will Serve You, Jesus”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/my-god-will-do-it-all.mp3
+        title: "“My God Will Do It All”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/lets-pray.mp3
+        title: "“Let’s Pray”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/12-2-corinthians-5-17.mp3
+        title: "“2 Corinthians 5:17”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/pack-it-up.mp3
+        title: "“Pack It Up”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/good-morning-jesus.mp3
+        title: "“Good Morning, Jesus”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/jesus-is-my-shepherd.mp3
+        title: "“Jesus Is My Shepherd”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/my-forever-friend-jesus.mp3
+        title: "“My Forever Friend Jesus”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/missionary-missionary.mp3
+        title: "“Missionary, Missionary”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/for-jesus.mp3
+        title: "“For Jesus”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/when-i-kneel-down-to-pray.mp3
+        title: "“When I Kneel Down To Pray”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
+        title: "“The Greatest Treasure”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/13-acts-10-38.mp3
+        title: "“Acts 10:38”"
+        target: en/aij/2026-03-kd-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3
+        title: "“Goodbye Song”"
+        target: en/aij/2026-03-kd-tg/13
