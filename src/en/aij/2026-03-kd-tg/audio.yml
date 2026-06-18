@@ -112,7 +112,7 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/6-matthew-3-2.mp3
         title: "“Matthew 3:2”"
         target: en/aij/2026-03-kd-tg/03
-      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3?updated
         title: "“Psalm 119:11”"
         target: en/aij/2026-03-kd-tg/03
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/8-john-10-27.mp3
@@ -256,7 +256,7 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/the-greatest-treasure.mp3
         title: "“The Greatest Treasure”"
         target: en/aij/2026-03-kd-tg/07
-      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3?updated
         title: "“Psalm 119:11”"
         target: en/aij/2026-03-kd-tg/07
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/goodbye-song.mp3

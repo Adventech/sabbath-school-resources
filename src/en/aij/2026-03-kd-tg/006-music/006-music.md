@@ -66,7 +66,7 @@ Here, you'll find a playlist which includes all songs in the order they will be 
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/6-matthew-3-2.mp3] “Matthew 3:2” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Amelia Henley, Clara Henley, Eden Nebblett, Heaven Nebblett, Sean Nebblett, Vanessa Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3] “Psalm 119:11” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett, Vanessa Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3?updated] “Psalm 119:11” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett, Vanessa Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/8-john-10-27.mp3] “John 10:27” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett, Vanessa Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 

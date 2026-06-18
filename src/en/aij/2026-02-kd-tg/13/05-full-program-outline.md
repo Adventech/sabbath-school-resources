@@ -30,8 +30,8 @@ subtitle: Week 13
 - **“We Welcome You”**
 - **“I Can Trust God”**
 - **“God Is Always With Me”**
-- **^[“Happy Birthday”]({"style": {"text": {"color":"#D34D5E"}}})** for any child with a birthday this past week
-- **^[“Visitor Song”]({"style": {"text": {"color":"#D34D5E"}}})** and acknowledgment
+- **“Happy Birthday”** for any child with a birthday this past week
+- **“Visitor Song”** and acknowledgment
 
 ```=Praise Songs
 

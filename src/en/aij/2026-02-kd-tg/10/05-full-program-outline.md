@@ -30,8 +30,8 @@ subtitle: Week 10
 - **“We Welcome You”**
 - **“I Can Trust God”**
 - **“I Will Serve You, Jesus”**
-- **^[“Happy Birthday”]({"style": {"text": {"color":"#D34D5E"}}})** for any child with a birthday this past week
-- **^[“Visitor Song”]({"style": {"text": {"color":"#D34D5E"}}})** and acknowledgment
+- **“Happy Birthday”** for any child with a birthday this past week
+- **“Visitor Song”** and acknowledgment
 
 ```=Praise Songs
 

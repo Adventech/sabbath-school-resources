@@ -64,7 +64,7 @@ subtitle: Week 7
 
 Invite one child to come forward and reverently hold the special class Bible. Show the children how to find the **memory verse, Psalm 119:11. Together, listen to and sing this week’s Scripture Song:** “Your word I have hidden in my heart, that I might not sin against You.”
 
-!a[7-psalm-119-11.mp3] “Psalm 119:11” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett, Vanessa Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-kd-tg/assets/7-psalm-119-11.mp3?updated] “Psalm 119:11” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett, Vanessa Nebblett"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 - **How can you hide God’s Word in your heart?** (By memorizing and understanding it.)
 - **How does the Bible help us to not sin against God?** (The Bible tells us what is wrong and right. It helps us to be strong and walk away from temptation.)

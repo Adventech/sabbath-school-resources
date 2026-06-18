@@ -24,8 +24,8 @@ subtitle: Week 11
 - **“We Welcome You”**
 - **“God’s Big Family**
 - **“I Will Serve You, Jesus”**
-- **^[“Happy Birthday”]({"style": {"text": {"color":"#D34D5E"}}})** for any child with a birthday this past week
-- **^[“Visitor Song”]({"style": {"text": {"color":"#D34D5E"}}})** and acknowledgment
+- **“Happy Birthday”** for any child with a birthday this past week
+- **“Visitor Song”** and acknowledgment
 
 ```=Praise Songs
 

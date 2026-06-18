@@ -28,8 +28,8 @@ Note: There are many activities in today’s lesson that include lights. Please 
 - **“We Welcome You”**
 - **“God Helps Me”**
 - **“God Is Always With Me”**
-- **^[“Happy Birthday”]({"style": {"text": {"color":"#D34D5E"}}})** for any child with a birthday this past week
-- **^[“Visitor Song”]({"style": {"text": {"color":"#D34D5E"}}})** and acknowledgment
+- **“Happy Birthday”** for any child with a birthday this past week
+- **“Visitor Song”** and acknowledgment
 
 ```=Praise Songs
 
