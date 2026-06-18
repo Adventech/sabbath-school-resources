@@ -1,0 +1,810 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3
+        title: "“Lord, Please Guide Me”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3
+        title: "“Lord, Please Guide Me”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/the-lords-prayer.mp3
+        title: "“The Lord’s Prayer”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3
+        title: "“Lord, Please Guide Me”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-03-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/bе-happy.mp3
+        title: "“Ве Happy”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/a-priceless-treasure.mp3
+        title: "“A Priceless Treasure”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-so-wonderful.mp3
+        title: "“God Is So Wonderful”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/gods-grace.mp3
+        title: "“God’s Grace”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/be-kind.mp3
+        title: "“Be Kind”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-so-wonderful.mp3
+        title: "“God Is So Wonderful”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-so-wonderful.mp3
+        title: "“God Is So Wonderful”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-bless-you.mp3
+        title: "“God Bless You”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/child-of-the-king.mp3
+        title: "“Child of the King”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-give-my-heart-to-you.mp3
+        title: "“I Give My Heart to You”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-give-my-heart-to-you.mp3
+        title: "“I Give My Heart to You”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/close-to-your-heart.mp3
+        title: "“Close to Your Heart”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/rest-of-my-life.mp3
+        title: "“Rest of My Life”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/amazing.mp3
+        title: "“Amazing”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/rest-of-my-life.mp3
+        title: "“Rest of My Life”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/all-the-time.mp3
+        title: "“All the Time”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/all-the-time.mp3
+        title: "“All the Time”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-want-to-tell-the-world.mp3
+        title: "“I Want to Tell the World”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/when-god-speaks.mp3
+        title: "“When God Speaks”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/the-lords-prayer.mp3
+        title: "“The Lord’s Prayer”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/missionary-missionary.mp3
+        title: "“Missionary, Missionary”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/the-lords-prayer.mp3
+        title: "“The Lord’s Prayer”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/the-lords-prayer.mp3
+        title: "“The Lord’s Prayer”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/child-of-the-king.mp3
+        title: "“Child of the King”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-loves-you.mp3
+        title: "“God Loves You”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/gods-love.mp3
+        title: "“God’s Love”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/be-kind.mp3
+        title: "“Be Kind”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3
+        title: "“Thank You, Jesus”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3
+        title: "“Luke 1:37”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/2-john-3-16.mp3
+        title: "“John 3:16”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/3-psalm-146-1-2.mp3
+        title: "“Psalm 146:1-2”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3
+        title: "“Psalm 32:8”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3
+        title: "“2 Peter 3:18”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3
+        title: "“Ezekiel 36:26”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3
+        title: "“1 Corinthians 15:57”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3
+        title: "“John 8:12”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/9-psalm-136-34.mp3
+        title: "“Psalm 136:34”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/10-john-6-35.mp3
+        title: "“John 6:35”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/11-john-13-35.mp3
+        title: "“John 13:35”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/12-luke-19-10.mp3
+        title: "“Luke 19:10”"
+        target: en/aij/2026-03-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/13-numbers-6-24-25.mp3
+        title: "“Numbers 6:24-25”"
+        target: en/aij/2026-03-pr-tg/13
