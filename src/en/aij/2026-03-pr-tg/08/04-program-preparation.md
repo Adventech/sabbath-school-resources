@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Source paper clips, a string and magnet, and a stick for a fishing game. Write names/places from the past few lessons on slips of paper or fish shapes (e.g., King Herod, John the Baptist, Nazareth, Simeon, Anna, Wise Men, angel, Peter, Philip).
 
@@ -20,7 +20,7 @@ Share the **^[Mission Fast Fact]({"style": {"text": {"color": "#58B0E3"}}})**.
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or print/write out and display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -29,14 +29,14 @@ Source flashlight, paper strips to make a paper chain (any color), one yellow st
 Source pencils for footprint activity.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 34: Jesus and His Disciples]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 Write memory verse on slips of paper, one paper for each word. Source a heavy blanket, small flashlight.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Source **^[week 8 craft template]({"style": {"text": {"color": "#58B0E3"}}}), colored pencils, scissors, split pins.**
 
@@ -60,7 +60,7 @@ Source From AIJ Website (www.aliveinjesus.info):
 - Character Card 34: Jesus and His Disciples
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Globe or world map

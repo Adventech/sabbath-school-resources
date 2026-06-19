@@ -34,7 +34,7 @@ Print **^[Nature Card 33: Spiderweb]({"style": {"text": {"color": "#58B0E3"}}})*
 
 Source **^[week 7 craft template]({"style": {"text": {"color": "#58B0E3"}}})** on **red cardstock, scissors, hole punch, string or thin ribbon**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

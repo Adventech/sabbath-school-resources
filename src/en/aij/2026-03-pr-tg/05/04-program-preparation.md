@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Collect **baby pictures** of Sabbath School leaders for a matching game.
 
@@ -20,7 +20,7 @@ Source a bag with three items that provide examples of **growth** (i.e., seed, f
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or **print/write out** and display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -29,19 +29,19 @@ Print out **^[Situation Cards]({"style": {"text": {"color": "#58B0E3"}}})**.
 Source **glitter**.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 31: Jesus in the Carpenter’s Shop]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 **Option 1:** Source **long strips of white paper, black tea bags and water, large craft sticks, markers, tape, string.**
 
 **Option 2:** Source **^[week 5 craft template]({"style": {"text": {"color": "#58B0E3"}}}), colored pencils, scissors, glue.**
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “God Is So Wonderful”
@@ -60,7 +60,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Situation Cards
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Globe or world map

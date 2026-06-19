@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Source modeling **clay** for each child.
 
@@ -20,7 +20,7 @@ Share the **^[Mission Fast Fact]({"style": {"text": {"color": "#58B0E3"}}})**.
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or print/write out and display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -29,17 +29,17 @@ Source several types of **bread** (i.e., whole wheat, whole grain, focaccia).
 Prepare **12 paper baskets**, **two paper fish**, and **five paper loaves of bread**.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 36: Jesus Feeds the Crowds]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Source **^[week 10 craft template]({"style": {"text": {"color": "#58B0E3"}}}), colored pencils, scissors, split pins.**
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “Alive in Jesus”
@@ -56,7 +56,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Character Card 36: Jesus Feeds the Crowds
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Offering container

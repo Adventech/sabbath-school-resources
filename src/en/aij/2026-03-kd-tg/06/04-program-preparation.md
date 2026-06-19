@@ -34,7 +34,7 @@ Source samples of different types of grass.
 
 Source **^[week 6 craft template]({"style": {"text": {"color": "#58B0E3"}}})**, two shades of blue paper, paper cup, craft sticks, scissors, glue.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

@@ -43,7 +43,7 @@ Print **^[Nature Card 28: Sheep]({"style": {"text": {"color": "#58B0E3"}}})** fo
 
 Source **^[week 2 craft template]({"style": {"text": {"color": "#58B0E3"}}})**, **patterned paper**, **scissors**, **glue**, **markers**, **ribbon**, optional: **stickers**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

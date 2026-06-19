@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Create some simple instructions for a treasure hunt, such as “Look under the third chair near the window” or “Find a picture of a Bible character who is wearing red and look underneath the picture for the next clue.” At each clue, add the next clue until the children come to the end of the treasure hunt, where they will find some stickers or a star, which they can keep. Update **^[Offering Chart]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -16,26 +16,26 @@ Source the following objects: compass (the craft), Bible, star, flashlight, ange
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or print/write out and display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
 Source **blindfolds**, one for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 30: God Guides the Way]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 Create “stepping stones” with one word from the memory verse written on each one.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 4 craft template]({"style": {"text": {"color": "#58B0E3"}}})** on cardstock. Source **paper plates, markers, scissors, split pins**. Create a sample.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “Books of the Bible”
@@ -53,7 +53,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Character Card 30: God Guides the Way
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Globe or world map

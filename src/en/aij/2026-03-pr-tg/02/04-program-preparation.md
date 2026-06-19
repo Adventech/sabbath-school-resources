@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Provide **paper** and **pencils** for children to draw a picture of the best gift they’ve ever received.
 
@@ -16,7 +16,7 @@ Source a **globe/world map**, update **^[Offering Chart]({"style": {"text": {"co
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or print/write out and display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -31,19 +31,19 @@ Source a **gift box** with a removable lid to put the “With God’s Gift of Je
 Source a small piece of blank **paper** and **markers** for children to write or draw something they want to thank God for because Jesus came into the world. (They will fold and keep till the end of Sabbath School.)
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 28: Baby Jesus: God’s Gift to Us]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 Source a colorful **gift box** for folded prayers. Source the **^[“Gentoo Penguin Picture”]({"style": {"text": {"color": "#58B0E3"}}})** to share during the Mission Story.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Source **craft sticks, cardstock, craft glue, oval-shaped rocks, black markers, pieces of fabric, rubber bands, straw**. Source some **Christmas hymns** to play while children are completing their craft.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “Be Happy”
@@ -62,7 +62,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Gentoo Penguin Picture
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Globe or world map

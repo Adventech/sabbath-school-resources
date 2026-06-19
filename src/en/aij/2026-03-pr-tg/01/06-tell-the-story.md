@@ -84,7 +84,7 @@ Elizabeth held her miracle son close. Her prayers had been answered—in such an
 - **God had a plan for each person in our story. What was God’s plan for each person?**
 
 {"style": {"text": {"color":"#58b0e3"}}}
-**The Angel:** To tell Zacharias about Elizabeth having a son.
+**The Angel:** To tell Zacharias about Elizabeth having a son.\
 **Zacharias:** To be the father of John; to teach him about God and His plan for him.\
 **Elizabeth:** To be the mother of John and teach him about God’s ways.\
 **John:** To prepare the way for Jesus—to tell others to get ready for Jesus and repent (say they were sorry) for their sins.\

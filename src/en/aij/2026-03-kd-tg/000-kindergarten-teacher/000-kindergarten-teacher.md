@@ -1,6 +1,7 @@
 ---
 title: Dear Kindergarten Sabbath School Teacher,
 markdownTitle: '^[Dear Kindergarten Sabbath School Teacher,]({"style": {"text": {"color": "#F4793B"}}})'
+
 ---
 
 {"style":{"image":{"expandable":false,"aspectRatio":1.778},"block":{"rounded":false,"padding":{"start":"none","end":"none"}},"wrapper":{"padding":{"start":"none","end":"none"}}}}

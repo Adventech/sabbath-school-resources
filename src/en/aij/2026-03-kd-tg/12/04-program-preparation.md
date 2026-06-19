@@ -32,7 +32,7 @@ Print **^[butterfly life cycle poster]({"style": {"text": {"color": "#58B0E3"}}}
 
 Source **^[week 12 craft template]({"style": {"text": {"color": "#58B0E3"}}}), markers, pipe cleaners/chenille sticks, pom poms, tape, craft glue.**
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

@@ -34,7 +34,7 @@ Print **pictures of barley** at different stages of growth, as well as a picture
 
 Source **^[week 10 craft template]({"style": {"text": {"color": "#58B0E3"}}}), colored pencils/markers, scissors, glue or tape**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

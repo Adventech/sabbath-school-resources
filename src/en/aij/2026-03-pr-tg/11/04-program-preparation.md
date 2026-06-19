@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Update **^[Offering Chart]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -14,7 +14,7 @@ Share the **^[Mission Fast Fact]({"style": {"text": {"color": "#58B0E3"}}})**.
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or print/write out and display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -28,19 +28,19 @@ Print **^[Bible reference cards]({"style": {"text": {"color": "#58B0E3"}}})** an
 - God knows the exact number (Luke 12:7)—Hairs on our head
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Collector Card 37: Jesus Teaching in Nature]({"style": {"text": {"color": "#58B0E3"}}})**, one for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Source **colored paper, pencils, scissors, tape, green and yellow pipe cleaners/chenille sticks.**
 
 You may wish to watch this [video](https://www.youtube.com/watch?v=EIuVJljMBr4) to view a demonstration.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “The Lord’s Prayer”
@@ -59,7 +59,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Nature Object Cards
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Offering container

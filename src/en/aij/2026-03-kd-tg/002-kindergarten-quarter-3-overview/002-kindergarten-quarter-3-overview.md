@@ -1,12 +1,12 @@
 ---
-title: Kindergarten Quarter 2 Overview
-markdownTitle: '^[Kindergarten Quarter 2 Overview]({"style": {"text": {"color": "#F4793B"}}})'
+title: Kindergarten Quarter 3 Overview
+markdownTitle: '^[Kindergarten Quarter 3 Overview]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"color": "#F4793B", "size": "lg"}}}
 **Sabbath School Room Setup**
 
-- Hang the **wall mural** at the front of your classroom, along with a **large title, “My God Is With Me.”** This quarterly theme should be reinforced each week.
+- Hang the **wall mural** at the front of your classroom, along with a **large title, “Jesus Is My God.”** This quarterly theme should be reinforced each week.
 - Find **nature items** to display near the mural, such as a tree or plant, bright flowers, toy animals, plastic fruit, etc.
 - If your room is large enough, create **separate spaces** for the opening activities, the general program, a Bible story corner/mat, and a craft table. Transitioning from one learning space to another will help with reinforcement of ideas, engagement, and behavior.
 - Purchase or make a **small paper bag for each child (Nature Collector Bag)**. Write their name on the front of the bag and invite each child to color or decorate their bag at the beginning or end of Sabbath School. Hang each bag on a wall using small hooks. Each week the children will place their nature card into the bag. At the end of the quarter they can take their cards home.

@@ -32,7 +32,7 @@ Print **^[Nature Card 35: Grapes]({"style": {"text": {"color": "#58B0E3"}}})** f
 
 Source **^[week 9 craft template]({"style": {"text": {"color": "#58B0E3"}}}), colored pencils/markers, scissors, glue**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

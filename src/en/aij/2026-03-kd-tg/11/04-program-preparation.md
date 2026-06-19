@@ -34,7 +34,7 @@ Print **^[Nature Card 37: Long-Eared Jerboa]({"style": {"text": {"color": "#58B0
 
 Print **^[week 11 craft template]({"style": {"text": {"color": "#58B0E3"}}})** on colored paper, and source **scissors**, **glue sticks**, **markers**, **craft glue**, **rocks**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

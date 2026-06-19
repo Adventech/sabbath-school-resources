@@ -6,6 +6,7 @@ subtitle: Week 1
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Big Idea:** God looks for people who love Him to be part of His big story.
+
 {"style": {"block": {"backgroundColor": "#E4E4E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **EARLY ARRIVALS**
 

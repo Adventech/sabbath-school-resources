@@ -34,7 +34,7 @@ Source a **toy penguin**, or a picture of a penguin, and simple **paper fish sha
 
 Source **^[week 4 craft template]({"style": {"text": {"color": "#58B0E3"}}})** and **colored pencils**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

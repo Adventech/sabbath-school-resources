@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 For charades: Print **Bible characters’ names and/or actions on pieces of paper.** Put them into a **container** for the children to pull out and act out while other children try to guess the character.
 
@@ -14,7 +14,7 @@ Source **a piece of paper** and **pencil** for each child and a **timer**.
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or print/write out and display. (Do this every week.)
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -23,17 +23,17 @@ Source **flashlight**, **broom**, **blanket** and **pillow**, **baby doll**, **p
 Source long rope tied with ribbon in the middle and floor markers.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 27: John: Prepare the Way]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Fold and glue the two sides together. Source a container, envelope, bag, or key ring for children to store these cards in your Sabbath School room this quarter.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 1 craft template]({"style": {"text": {"color": "#58B0E3"}}})** on **cardstock**. Source: **scissors, black markers, watercolor paints and water, paintbrushes, hole puncher, laminator, ribbon or string and beads** (optional). Make a sample.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “Alive in Jesus”
@@ -52,7 +52,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Week 1 Craft Template
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Globe or world map

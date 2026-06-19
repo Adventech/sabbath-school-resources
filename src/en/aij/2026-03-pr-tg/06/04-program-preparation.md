@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Prepare messages for chairs: “You are God’s loved child.”
 
@@ -22,26 +22,26 @@ Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({
 Give each child a dove outline. If possible, print them on cardstock. Source white feathers to glue to the dove outline. Children can make a hole and add ribbon to enable them to hang the dove as a reminder of today’s story. During Sabbath School, have someone write a word from the memory verse on the back of each dove, and assemble the doves as a mobile hanging from the ceiling.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
 Source **washable markers** and a **cutout person** that is laminated (or place the cutout inside a plastic sheet) for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 32: John Baptizes Jesus]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 Source a stone and a feather.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Source **^[week 6 craft template]({"style": {"text": {"color": "#58B0E3"}}})** printed on **white cardstock, scissors, glue, blue cellophane, markers, fish stickers** (optional).
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “Books of the Bible”
@@ -60,7 +60,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Week 6 Craft Template
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Globe or world map

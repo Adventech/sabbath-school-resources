@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Source large sign with the word **“BLESSING”** in big letters, **strips of paper, pens/pencils/markers, stapler**.
 
@@ -16,24 +16,24 @@ Update **^[Offering Chart]({"style": {"text": {"color": "#58B0E3"}}})** and prep
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or write/print it for display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Card 39: Jesus Heals Peter’s Mother-in-law]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 Write the following words on separate pieces of paper: Home, Classroom, Church, Playground, and Neighborhood.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print a **^[week 13 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Provide **scissors, colored pencils, craft knife** (adults only). Make a sample.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “Books of the Bible”
@@ -51,7 +51,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Week 13 Craft Template
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Offering container

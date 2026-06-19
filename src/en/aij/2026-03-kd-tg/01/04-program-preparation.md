@@ -48,7 +48,7 @@ Print a **Nature Card 27: Orangutan** for each child.
 
 Source **^[week 1 craft template]({"style": {"text": {"color": "#58B0E3"}}}), scissors, glue, ribbon/string**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:

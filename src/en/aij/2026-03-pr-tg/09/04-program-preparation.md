@@ -5,7 +5,7 @@ subtitle: What Do I Need?
 ---
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Opening and Focus Activities
+**Opening and Focus Activities**
 
 Print **^[Miracles of Jesus Bible Hunt]({"style": {"text": {"color": "#58B0E3"}}})** worksheet. Provide **Bibles** and **pencils**.
 
@@ -18,7 +18,7 @@ Source empty **glass**, **red food coloring**, and a **bottle of water**.
 Write the **Big Idea** on your **whiteboard**, use the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**, or print/write out and display.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Bible Story and Unpack the Story
+**Bible Story and Unpack the Story**
 
 Source the **^[Program PowerPoint]({"style": {"text": {"color": "#58B0E3"}}})**.
 
@@ -27,7 +27,7 @@ Source a variety of **seeds, fruit, vegetables, plants, and flowers**.
 Source a large pottery jar/container.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Tie It All Together
+**Tie It All Together**
 
 Print **^[Character Collector Card 35: Jesus Turns Water Into Wine]({"style": {"text": {"color": "#58B0E3"}}})**, one for each child.
 
@@ -36,12 +36,12 @@ Source **12 jars** and words of the **memory verse** written on separate slips o
 Source a **chair, oversized white shirt, comb**, and **scissors**.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print the **^[week 9 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child, and source **paper cups, scissors, glue, markers, blue and purple paper**.
 
-{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3", "size": "sm"}}}
-Source From AIJ Website (www.aliveinjesus.info)
+{"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
+**Source From AIJ Website** (www.aliveinjesus.info)
 
 - Music:
 	- “Alive in Jesus”
@@ -59,7 +59,7 @@ Source From AIJ Website (www.aliveinjesus.info)
 - Miracles of Jesus Bible Hunt Worksheet
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Additional Resources to Source
+**Additional Resources to Source**
 
 - Class Bible
 - Offering container

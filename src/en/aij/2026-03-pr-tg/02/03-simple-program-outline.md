@@ -47,7 +47,7 @@ subtitle: Week 2
 - “Gift” envelope search
 - Activity: God’s Gift
 - Respond: Invite children to write/draw something they are thankful to have because Jesus came into the world.
-- Share the **^[Big Idea: Jesus is God’s precious gift to me.]({"style": {"text": {"color":"#e6b349"}}})**
+- Share the **^[Big Idea: Jesus is God’s precious gift to me.]({"style": {"text": {"color":"#00b7aa"}}})**
 
 {"style": {"block": {"backgroundColor": "#F2ECF0", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **TIE IT ALL TOGETHER** (20 MINUTES)
