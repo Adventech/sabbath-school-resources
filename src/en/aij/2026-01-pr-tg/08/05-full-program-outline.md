@@ -16,7 +16,7 @@ subtitle: Week 8
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3] “Romans 1:20” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Nela Breski"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3] “Genesis 1:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated] “Genesis 1:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3] “Exodus 20:8-11” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
@@ -129,7 +129,7 @@ Play the quarterly **Scripture Song playlist** quietly in the background as the 
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3] “Romans 1:20” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Nela Breski"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3] “Genesis 1:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated] “Genesis 1:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3] “Exodus 20:8-11” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 

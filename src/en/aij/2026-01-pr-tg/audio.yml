@@ -50,7 +50,7 @@ audio:
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/birthday-song.mp3
         title: "“Happy Birthday”"
       - target: en/aij/2026-01-pr-tg/02
-        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated
         title: "“Genesis 1:27”"
       - target: en/aij/2026-01-pr-tg/02
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/god-bless-you.mp3
@@ -110,7 +110,7 @@ audio:
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
         title: "“Romans 1:20”"
       - target: en/aij/2026-01-pr-tg/04
-        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated
         title: "“Genesis 1:27”"
       - target: en/aij/2026-01-pr-tg/04
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
@@ -176,7 +176,7 @@ audio:
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
         title: "“Romans 1:20”"
       - target: en/aij/2026-01-pr-tg/05
-        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated
         title: "“Genesis 1:27”"
       - target: en/aij/2026-01-pr-tg/05
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
@@ -242,7 +242,7 @@ audio:
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
         title: "“Romans 1:20”"
       - target: en/aij/2026-01-pr-tg/06
-        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated
         title: "“Genesis 1:27”"
       - target: en/aij/2026-01-pr-tg/06
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
@@ -332,7 +332,7 @@ audio:
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
         title: "“Romans 1:20”"
       - target: en/aij/2026-01-pr-tg/08
-        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated
         title: "“Genesis 1:27”"
       - target: en/aij/2026-01-pr-tg/08
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3
@@ -443,7 +443,7 @@ audio:
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/1-romans-1-20.mp3
         title: "“Romans 1:20”"
       - target: en/aij/2026-01-pr-tg/11
-        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated
         title: "“Genesis 1:27”"
       - target: en/aij/2026-01-pr-tg/11
         src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/3-exodus-20-8-11.mp3

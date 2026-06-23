@@ -84,7 +84,7 @@ subtitle: Week 2
 **^[MEMORY VERSE:]({"style": {"text": {"color":"#a771b0"}}})** Give each child **Character Card 2: Adam and Eve** to place in their container. Discuss the picture
 and recite the memory verse together. Then sing the **Scripture Song, “Genesis 1:27.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3] “Genesis 1:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/2-genesis-1-27.mp3?updated] “Genesis 1:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, David Williams"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"Katie Strachan"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 Invite the children to discuss the following questions in pairs:
 
