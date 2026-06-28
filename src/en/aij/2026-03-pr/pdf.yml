@@ -1,0 +1,33 @@
+pdf:
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-kids-parents.pdf
+    target: en/aij/2026-03-pr/00-primary-friends
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-kids-parents.pdf
+    target: en/aij/2026-03-pr/00-primary-parents
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-personal-devotion.pdf
+    target: en/aij/2026-03-pr/00-short-devotions
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-01.pdf
+    target: en/aij/2026-03-pr/01
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-02.pdf
+    target: en/aij/2026-03-pr/02
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-03.pdf
+    target: en/aij/2026-03-pr/03
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-04.pdf
+    target: en/aij/2026-03-pr/04
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-05.pdf
+    target: en/aij/2026-03-pr/05
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-06.pdf
+    target: en/aij/2026-03-pr/06
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-07.pdf
+    target: en/aij/2026-03-pr/07
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-08.pdf
+    target: en/aij/2026-03-pr/08
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-09.pdf
+    target: en/aij/2026-03-pr/09
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-10.pdf
+    target: en/aij/2026-03-pr/10
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-11.pdf
+    target: en/aij/2026-03-pr/11
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-12.pdf
+    target: en/aij/2026-03-pr/12
+  - src: https://sabbath-school-media-tmp.s3.us-east-1.amazonaws.com/pdf/en/2026-03/ABSG-2026-03-EN-PR-13.pdf
+    target: en/aij/2026-03-pr/13
