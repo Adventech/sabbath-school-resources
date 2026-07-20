@@ -1,9 +1,16 @@
 audio:
   - artist: Alive in Jesus
+    podcast:
+      source: english-aij-primary.xml
+      image: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/episodeart-pr-a03.jpg
     tracks:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/01
         title: 1. Two Birth Announcements
+        podcast:
+          title: Lesson 1 – Two Birth Announcements (June 28-July 4)
+          description: "Primary, Year A, Quarter 3, lesson 1<br/>BIG IDEA: God looks for people who love Him to be part of His big story.<br/>This week’s lesson is based on Luke 1 and Matthew 1:18-21; The Desire of Ages, pp. 31-38; 97-100; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 668-694.<br/>Extra Reading: The Bible Story, vol. 7, pp. 9-22.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:11:00"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-02.mp3
         target: en/aij/2026-03-pr/01
         title: 2. The Gift of Jesus
@@ -43,6 +50,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-02.mp3
         target: en/aij/2026-03-pr/02
         title: 2. The Gift of Jesus
+        podcast:
+          title: Lesson 2 – The Gift of Jesus (July 5-11)
+          description: "Primary, Year A, Quarter 3, lesson 2<br/>BIG IDEA: Jesus is God’s precious gift to me.<br/>This week’s lesson is based on Luke 2:1-7; The Desire of Ages, pp. 43, 44; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 697, 698.<br/>Extra Reading: The Bible Story, vol. 7, pp. 27-34.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:09:11"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/02
         title: 1. Two Birth Announcements
@@ -82,6 +93,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-03.mp3
         target: en/aij/2026-03-pr/03
         title: 3. Worshipping Baby Jesus
+        podcast:
+          title: Lesson 3 – Worshipping Baby Jesus (July 12-18)
+          description: "Primary, Year A, Quarter 3, lesson 3<br/>BIG IDEA: Jesus is worthy of my praise and worship.<br/>This week’s lesson is based on Luke 2:8-40; Matthew 2:1-12; The Desire of Ages, pp. 47-67; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 699-712 and 287-291.<br/>Extra Reading: The Bible Story, vol. 7, pp. 35-52.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:11:07"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/03
         title: 1. Two Birth Announcements
@@ -121,6 +136,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-04.mp3
         target: en/aij/2026-03-pr/04
         title: 4. Keeping Baby Jesus Safe
+        podcast:
+          title: Lesson 4 – Keeping Baby Jesus Safe (July 19-25)
+          description: "Primary, Year A, Quarter 3, lesson 4<br/>BIG IDEA: God can guide my life.<br/>This week’s lesson is based on the story of God protecting Baby Jesus from King Herod, as found in Matthew 2:12-18. Some insights have also been drawn from The Desire of Ages, pp. 62-67, and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 291-293, to enhance this lesson.<br/>Extra Reading: The Bible Story, vol. 7, pp. 53-62.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:08:15"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/04
         title: 1. Two Birth Announcements
@@ -160,6 +179,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-05.mp3
         target: en/aij/2026-03-pr/05
         title: 5. Growing Up in Nazareth
+        podcast:
+          title: Lesson 5 – Growing Up in Nazareth (July 26-August 1)
+          description: "Primary, Year A, Quarter 3, lesson 5<br/>BIG IDEA: Jesus is my example as I grow.<br/>This week’s lesson is based on Luke 2:41-52; The Desire of Ages, pp. 68-92; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 706-712.<br/>Extra Reading: The Bible Story, vol. 7, pp. 63-90.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:10:16"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/05
         title: 1. Two Birth Announcements
@@ -199,6 +222,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-06.mp3
         target: en/aij/2026-03-pr/06
         title: 6. At the Jordan River
+        podcast:
+          title: Lesson 6 – At the Jordan River (August 2-8)
+          description: "Primary, Year A, Quarter 3, lesson 6<br/>BIG IDEA: God prepares hearts to receive Jesus.<br/>This week’s lesson is based on Matthew 3; Mark 1:1-11; Luke 3:1-22; John 1:6-34; The Desire of Ages, pp. 97-113; The Story of Redemption, pp. 197, 198; and Seventh-day Adventists Believe, p. 181.<br/>Extra Reading: The Bible Story, vol. 7, pp. 93-108.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:10:46"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/06
         title: 1. Two Birth Announcements
@@ -238,6 +265,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-07.mp3
         target: en/aij/2026-03-pr/07
         title: 7. Victory in the Wilderness
+        podcast:
+          title: Lesson 7 – Victory in the Wilderness (August 9-15)
+          description: "Primary, Year A, Quarter 3, lesson 7<br/>BIG IDEA: I can rely on God and His power to help me when I am tempted.<br/>This week’s lesson is based on Luke 4:1-13; Matthew 4:1-11; The Desire of Ages, pp. 114-131; and The Story of Redemption, pp. 198-201.<br/>Extra Reading: The Bible Story, vol. 7, pp. 109-118.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:08:14"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/07
         title: 1. Two Birth Announcements
@@ -277,6 +308,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-08.mp3
         target: en/aij/2026-03-pr/08
         title: 8. Called to Follow Jesus
+        podcast:
+          title: Lesson 8 – Called to Follow Jesus (August 16-22)
+          description: "Primary, Year A, Quarter 3, lesson 8<br/>BIG IDEA: Jesus loves me so much He calls me to follow Him.<br/>This week’s lesson is based on the story of how Jesus called His disciples as found in Matthew 4:18-22; Mark 1:16-20; Luke 5:1-11; John 1:29-51. Some insights have also been drawn from The Desire of Ages, pp. 137-143, 244-251, to enhance this lesson.<br/>Extra Reading: The Bible Story, vol. 7, pp. 119-125, 169-173.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:11:18"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/08
         title: 1. Two Birth Announcements
@@ -316,6 +351,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-09.mp3
         target: en/aij/2026-03-pr/09
         title: 9. No More Grape Juice!
+        podcast:
+          title: Lesson 9 – No More Grape Juice! (August 23-29)
+          description: "Primary, Year A, Quarter 3, lesson 9<br/>BIG IDEA: Jesus loves to surprise me with good things to grow my faith.<br/>This week’s lesson is based on John 2:1-11; The Desire of Ages, pp. 144-153; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 920-923.<br/>Extra Reading: The Bible Story, vol. 7, pp. 129-133.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:51"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/09
         title: 1. Two Birth Announcements
@@ -355,6 +394,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-10.mp3
         target: en/aij/2026-03-pr/10
         title: 10. Jesus Feeds the Crowds
+        podcast:
+          title: Lesson 10 – Jesus Feeds the Crowds (August 30-September 5)
+          description: "Primary, Year A, Quarter 3, lesson 10<br/>BIG IDEA: Jesus feeds me with His words and with food.<br/>This week’s lesson is based on two stories: Matthew 14:13-21; 15:29-39; Mark 6:31-44; 8:1-10; Luke 9:10-17; John 6:1-15; The Desire of Ages, pp. 364-371; and The Seventh-day Adventist Bible Commentary, vol. 5, p. 422.<br/>Extra Reading: The Bible Story, vol. 8, pp. 41-45.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:10:15"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/10
         title: 1. Two Birth Announcements
@@ -394,6 +437,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-11.mp3
         target: en/aij/2026-03-pr/11
         title: 11. Growing Disciples
+        podcast:
+          title: Lesson 11 – Growing Disciples (September 6-12)
+          description: "Primary, Year A, Quarter 3, lesson 11<br/>BIG IDEA: Jesus teaches me and nurtures my faith so that I can grow as His disciple.<br/>This week’s lesson is based on the different ways Jesus taught and nurtured His disciples as found in a range of New Testament scriptures. Some insights have also been drawn from The Desire of Ages to enhance this lesson.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:10:30"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/11
         title: 1. Two Birth Announcements
@@ -433,6 +480,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-12.mp3
         target: en/aij/2026-03-pr/12
         title: 12. Zacchaeus
+        podcast:
+          title: Lesson 12 – Zacchaeus (September 13-19)
+          description: "Primary, Year A, Quarter 3, lesson 12<br/>BIG IDEA: Jesus sees potential for good in everyone.<br/>This week’s lesson is based on Luke 19:1-10; The Desire of Ages, pp. 552-556; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 851-853.<br/>Extra Reading: The Bible Story, vol. 8, pp. 49-52.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:10:06"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/12
         title: 1. Two Birth Announcements
@@ -472,6 +523,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-13.mp3
         target: en/aij/2026-03-pr/13
         title: 13. Blessings in Capernaum
+        podcast:
+          title: Lesson 13 – Blessings in Capernaum (September 20-26)
+          description: "Primary, Year A, Quarter 3, lesson 13<br/>BIG IDEA: When Jesus blesses my life in wonderful ways, I can pass a blessing on to others.<br/>This week’s lesson is based on the story of Jesus in Capernaum as found in Mark 1:29-34 and Luke 4:38-41. Some insights have also been drawn from The Desire of Ages, pp. 252-261, and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 170, 171.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:47"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3
         target: en/aij/2026-03-pr/13
         title: 1. Two Birth Announcements

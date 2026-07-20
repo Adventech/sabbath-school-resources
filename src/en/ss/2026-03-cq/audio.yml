@@ -1,30 +1,97 @@
 ---
   audio:
     - artist: inVerse Bible
+      podcast:
+        source: 'english-inverse.xml'
       tracks:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L01.mp3
           target: en/ss/2026-03-cq/01
+          podcast:
+            title: Lesson 01 – The Final Provocation (June 28-July 4)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/01.png
+            duration: "00:29:02"
+            description: Lazarus’ resurrection was the catalyst that began the events leading to Jesus’ death.
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L02.mp3
           target: en/ss/2026-03-cq/02
+          podcast:
+            title: Lesson 02 – The Last Supper (July 5-11)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/02.png
+            duration: "00:28:59"
+            description: What lessons did Jesus impart at the Last Supper?
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L03.mp3
           target: en/ss/2026-03-cq/03
+          podcast:
+            title: Lesson 03 – The Class Begins (July 12-18)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/03.png
+            duration: "00:29:01"
+            description: God wants us to look forward with hope, not fear.
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L04.mp3
           target: en/ss/2026-03-cq/04
+          podcast:
+            title: Lesson 04 – Abide in Me (July 19-25)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/04.png
+            duration: "00:29:02"
+            description: Why did Jesus place such an emphasis on abiding in Him?
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L05.mp3
           target: en/ss/2026-03-cq/05
+          podcast:
+            title: Lesson 05 – The Last Teachings (July 26-August 1)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/05.png
+            duration: "00:29:01"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L06.mp3
           target: en/ss/2026-03-cq/06
+          podcast:
+            title: Lesson 06 – Christ’s Prayer (August 2-8)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/06.png
+            duration: "00:29:04"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L07.mp3
           target: en/ss/2026-03-cq/07
+          podcast:
+            title: Lesson 07 – The Garden of Gethsemane (August 9-15)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/07.png
+            duration: "00:28:44"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L08.mp3
           target: en/ss/2026-03-cq/08
+          podcast:
+            title: Lesson 08 – Reprimand, Remorse, and Repentance (August 16-22)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/08.png
+            duration: "00:29:01"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L09.mp3
           target: en/ss/2026-03-cq/09
+          podcast:
+            title: Lesson 09 – Shall I Crucify Your King? (August 23-29)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/09.png
+            duration: "00:29:02"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L10.mp3
           target: en/ss/2026-03-cq/10
+          podcast:
+            title: Lesson 10 – The King on a Cross (August 30-September 5)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/10.png
+            duration: "00:29:03"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L11.mp3
           target: en/ss/2026-03-cq/11
+          podcast:
+            title: Lesson 11 – Death and Burial (September 6-12)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/11.png
+            duration: "00:28:47"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L12.mp3
           target: en/ss/2026-03-cq/12
+          podcast:
+            title: Lesson 12 – He Is Risen! (September 13-19)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/12.png
+            duration: "00:29:02"
+            description:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-03/INV_2026_Q3_L13.mp3
           target: en/ss/2026-03-cq/13
+          podcast:
+            title: Lesson 13 – Earth’s Closing Scenes (September 20-26)
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-03-cq/assets/13.png
+            duration: "00:29:02"
+            description:

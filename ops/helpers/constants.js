@@ -164,3 +164,5 @@ export const API_URL_AIJ_KINDERGARTEN = function () { return`https://app${DEPLOY
 export const API_URL_AIJ_PRIMARY = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.primary.aliveinjesus.info` }
 export const API_URL_AIJ_JUNIOR = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.junior.aliveinjesus.info` }
 export const API_URL_AIJ_TEEN = function () { return `https://app${DEPLOY_ENV === "prod" ? "" : "-stage" }.teen.aliveinjesus.info` }
+export const API_URL_SS = function () { return `https://absg${DEPLOY_ENV === "prod" ? "" : "-stage" }.sspmadventist.org` }
+export const API_URL_INVERSE = function () { return `https://inverse${DEPLOY_ENV === "prod" ? "" : "-stage" }.sspmadventist.org` }

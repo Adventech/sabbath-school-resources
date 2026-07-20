@@ -11,6 +11,7 @@
     "@Adventech/egw-tools": ">=1.0.9",
     "cheerio": "^1.0.0-rc.12",
     "dayjs": "^1.11.10",
+    "fast-xml-parser": "^5.10.1",
     "fdir": "^5.3.0",
     "firebase-admin": "^11.11.0",
     "front-matter": "^4.0.2",

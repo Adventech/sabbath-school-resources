@@ -1,0 +1,70 @@
+name: deploy-podcasts
+on:
+  schedule:
+    # 19:00 UTC Friday == 09:00 Saturday in UTC+14
+    - cron: '0 19 * * 5'
+    # 19:00 UTC Saturday == 09:00 Sunday in UTC+14
+    - cron: '0 19 * * 6'
+  workflow_dispatch:
+jobs:
+  deploy-podcasts:
+    if: (github.repository == 'Adventech/sabbath-school-resources')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        name: Fetch the repository files
+        with:
+          ref: prod
+      - uses: actions/setup-node@v3
+        name: Setup Node
+        with:
+          node-version: '16'
+      - name: Add token for private packages
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
+      - run: npm install --global yarn
+        name: Install Yarn
+      - run: yarn install
+        name: Installing dependencies
+      - run: node ./ops/deploy/deploy-podcasts.js
+        env:
+          DEPLOY_ENV: prod
+      - run: aws s3 cp dist/ s3://sabbath-school.adventech.io/assets/xml --acl "public-read" --region us-east-1 --no-progress --recursive
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Invalidation
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SSPM_DIST_ID: ${{ secrets.SSPM_CLOUDFRONT_DISTRIBUTION_ID }}
+          AIJ_DIST_ID: ${{ secrets.AIJ_CLOUDFRONT_DISTRIBUTION_ID }}
+        run: |
+          DISTRIBUTIONS=("$SSPM_DIST_ID" "$AIJ_DIST_ID")
+
+          FILES=()
+          [ -f invalidation.json ] && FILES+=(invalidation.json)
+          for f in $(ls invalidation-*.json 2>/dev/null | sort -V); do
+            FILES+=("$f")
+          done
+
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "No invalidation files found, skipping."
+            exit 0
+          fi
+
+          for DIST in "${DISTRIBUTIONS[@]}"; do
+            echo ">>> Distribution: $DIST"
+            for FILE in "${FILES[@]}"; do
+              echo "  Invalidating with $FILE..."
+              INVALIDATION_ID=$(aws cloudfront create-invalidation \
+                --distribution-id "$DIST" \
+                --invalidation-batch file://"$FILE" \
+                --query 'Invalidation.Id' \
+                --output text)
+              echo "  Waiting for invalidation $INVALIDATION_ID to complete..."
+              aws cloudfront wait invalidation-completed \
+                --distribution-id "$DIST" \
+                --id "$INVALIDATION_ID"
+              echo "  Done."
+            done
+          done

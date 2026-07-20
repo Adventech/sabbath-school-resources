@@ -454,6 +454,37 @@ let buildInvalidationJson = function (items) {
     }
 }
 
+let dateToRFC822 = function(date, timeZone = 'America/New_York') {
+    const days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+    const parts = new Intl.DateTimeFormat('en-US', {
+        timeZone,
+        weekday: 'short',
+        day: '2-digit',
+        month: 'short',
+        year: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false,
+        timeZoneName: 'short'
+    }).formatToParts(date);
+
+    const get = (type) => parts.find(p => p.type === type)?.value;
+
+    const day = get('day');
+    const month = get('month');
+    const year = get('year');
+    const hour = get('hour');
+    const minute = get('minute');
+    const second = get('second');
+    const weekday = get('weekday');
+    const tz = get('timeZoneName'); // e.g. "EST" or "EDT"
+
+    return `${weekday}, ${day} ${month} ${year} ${hour}:${minute}:${second} ${tz}`;
+}
+
 export {
     parseResourcePath,
     isMainModule,
@@ -477,4 +508,5 @@ export {
     sortResourcesByPattern,
     getFontAttributesAsString,
     generateInvalidations,
+    dateToRFC822,
 }

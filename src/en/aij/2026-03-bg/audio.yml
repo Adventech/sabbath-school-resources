@@ -1,5 +1,8 @@
 audio:
   - artist: Alive in Jesus
+    podcast:
+      source: 'english-aij-beginner.xml'
+      image: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-bg/assets/episodeart-bg-a03.jpg
     tracks:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/00-music-and-podcasts
@@ -43,6 +46,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/01
         title: 1. Baby Moses
+        podcast:
+          title: Lesson 1 – Baby Moses (June 28-July 4)
+          description: "Beginner, Year A, Quarter 3, lesson 1<br/>BIG IDEA: God gives us families to care for us.<br/>This lesson is based on Exodus 2:2 and Patriarchs and Prophets, pp. 242, 243.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:08:12
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-02.mp3
         target: en/aij/2026-03-bg/01
         title: 2. A Special Basket Boat
@@ -82,6 +89,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-02.mp3
         target: en/aij/2026-03-bg/02
         title: 2. A Special Basket Boat
+        podcast:
+          title: Lesson 2 – A Special Basket Boat (July 5-11)
+          description: "Beginner, Year A, Quarter 3, lesson 2<br/>BIG IDEA: God watches over me.<br/>This lesson is based on Exodus 2:1-10 and Patriarchs and Prophets, pp. 243, 244.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:07:02
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/02
         title: 1. Baby Moses
@@ -121,6 +132,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-03.mp3
         target: en/aij/2026-03-bg/03
         title: 3. The Fire in the Bush
+        podcast:
+          title: Lesson 3 – The Fire in the Bush (July 12-18)
+          description: "Beginner, Year A, Quarter 3, lesson 3<br/>BIG IDEA: I can obey God.<br/>This lesson is based on Exodus 2:11-25; 3; 4:1-14; and Patriarchs and Prophets, pp. 244-256.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:07:30
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/03
         title: 1. Baby Moses
@@ -160,6 +175,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-04.mp3
         target: en/aij/2026-03-bg/04
         title: 4. The Red Sea
+        podcast:
+          title: Lesson 4 – The Red Sea (July 19-25)
+          description: "Beginner, Year A, Quarter 3, lesson 4<br/>BIG IDEA: God leads me.<br/>This lesson is based on Exodus 14 and 15. and Patriarchs and Prophets, pp. 281-290.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:08:19
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/04
         title: 1. Baby Moses
@@ -199,6 +218,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-05.mp3
         target: en/aij/2026-03-bg/05
         title: 5. The Food and Water Surprise
+        podcast:
+          title: Lesson 5 – The Food and Water Surprise (July 26-August 1)
+          description: "Beginner, Year A, Quarter 3, lesson 5<br/>BIG IDEA: God looks after me.<br/>This lesson is based on Exodus 16 and 17 and Patriarchs and Prophets, pp. 291-302.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:06:56
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/05
         title: 1. Baby Moses
@@ -238,6 +261,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-06.mp3
         target: en/aij/2026-03-bg/06
         title: 6. Cloud and Fire
+        podcast:
+          title: Lesson 6 – Cloud and Fire (August 2-8)
+          description: "Beginner, Year A, Quarter 3, lesson 6<br/>BIG IDEA: God is always with me.<br/>This lesson is based on Exodus 19 and 20 and Patriarchs and Prophets, pp. 303-314.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:07:16
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/06
         title: 1. Baby Moses
@@ -277,6 +304,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-07.mp3
         target: en/aij/2026-03-bg/07
         title: 7. God’s Special Home
+        podcast:
+          title: Lesson 7 – God’s Special Home (August 9-15)
+          description: "Beginner, Year A, Quarter 3, lesson 7<br/>BIG IDEA: I can work with others to help God.<br/>This lesson is based on Exodus 25-28; 30; 31; 36-39; and Patriarchs and Prophets, pp. 343-358.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:07:15
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/07
         title: 1. Baby Moses
@@ -316,6 +347,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-08.mp3
         target: en/aij/2026-03-bg/08
         title: 8. God’s Home Is Finished
+        podcast:
+          title: Lesson 8 – God’s Home Is Finished (August 16-22)
+          description: "Beginner, Year A, Quarter 3, lesson 8<br/>BIG IDEA: God wants to be close to me.<br/>This lesson is based on Exodus 40 and Patriarchs and Prophets, pp. 343-358.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:07:11
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/08
         title: 1. Baby Moses
@@ -355,6 +390,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-09.mp3
         target: en/aij/2026-03-bg/09
         title: 9. Joshua and Caleb’s Adventure
+        podcast:
+          title: Lesson 9 – Joshua and Caleb’s Adventure (August 23-29)
+          description: "Beginner, Year A, Quarter 3, lesson 9<br/>BIG IDEA: I can trust God’s plan.<br/>This lesson is based on Numbers 13 and 14 and Patriarchs and Prophets, pp. 387-394.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:07:35
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/09
         title: 1. Baby Moses
@@ -394,6 +433,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-10.mp3
         target: en/aij/2026-03-bg/10
         title: 10. Kind Rahab
+        podcast:
+          title: Lesson 10 – Kind Rahab (August 30-September 5)
+          description: "Beginner, Year A, Quarter 3, lesson 10<br/>BIG IDEA: I can help others.<br/>This lesson is based on Joshua 1 and 2 and Patriarchs and Prophets, pp. 482, 483.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:07:44
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/10
         title: 1. Baby Moses
@@ -433,6 +476,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-11.mp3
         target: en/aij/2026-03-bg/11
         title: 11. The Big, Big River
+        podcast:
+          title: Lesson 11 – The Big, Big River (September 6-12)
+          description: "Beginner, Year A, Quarter 3, lesson 11<br/>BIG IDEA: God is the best leader.<br/>This lesson is based on Joshua 3 and 4 and Patriarchs and Prophets, pp. 481-486.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:08:05
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/11
         title: 1. Baby Moses
@@ -472,6 +519,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-12.mp3
         target: en/aij/2026-03-bg/12
         title: 12. The Walls of Jericho
+        podcast:
+          title: Lesson 12 – The Walls of Jericho (September 13-19)
+          description: "Beginner, Year A, Quarter 3, lesson 12<br/>BIG IDEA: I can obey God.<br/>This lesson is based on Joshua 6 and Patriarchs and Prophets, pp. 487–498.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:08:11
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/12
         title: 1. Baby Moses
@@ -511,6 +562,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-13.mp3
         target: en/aij/2026-03-bg/13
         title: 13. A New Home
+        podcast:
+          title: Lesson 13 – A New Home (September 20-26)
+          description: "Beginner, Year A, Quarter 3, lesson 13<br/>BIG IDEA: God will give me a home with Him.<br/>This lesson is based on Joshua 24 and Patriarchs and Prophets, pp. 521-524.<br/>Visit our website https://aliveinjesus.info"
+          duration: 00:06:58
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-03-bg/assets/ABSG-2025-03-BG-01.mp3
         target: en/aij/2026-03-bg/13
         title: 1. Baby Moses
