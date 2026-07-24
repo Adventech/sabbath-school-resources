@@ -35,11 +35,11 @@ Insights have been drawn from across _The Desire of Ages_.
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-4\. The Son
-6\. Creation
-9\. The Life, Death, and Resurrection of Christ
-11\. Growing in Christ
+3\. The Father\
+4\. The Son\
+6\. Creation\
+9\. The Life, Death, and Resurrection of Christ\
+11\. Growing in Christ\
 22\. Christian Behavior
 
 ---

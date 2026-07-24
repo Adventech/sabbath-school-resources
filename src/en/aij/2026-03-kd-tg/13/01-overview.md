@@ -35,11 +35,11 @@ _The Desire of Ages_, pp. 236-243, 252-261
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-1\. The Holy Scriptures
-4\. The Son
-5\. The Holy Spirit
-9\. The Life, Death, and Resurrection of Christ
-11\. Growing in Christ
+1\. The Holy Scriptures\
+4\. The Son\
+5\. The Holy Spirit\
+9\. The Life, Death, and Resurrection of Christ\
+11\. Growing in Christ\
 20\. The Sabbath
 
 ---

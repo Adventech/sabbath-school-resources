@@ -37,12 +37,12 @@ _The Bible Story_, vol. 7, pp. 35-52
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-4\. The Son
-5\. The Holy Spirit
-9\. The Life, Death, and Resurrection of Christ
-11\. Growing in Christ
-18\. The Gift of Prophecy
-21\. Stewardship
+4\. The Son\
+5\. The Holy Spirit\
+9\. The Life, Death, and Resurrection of Christ\
+11\. Growing in Christ\
+18\. The Gift of Prophecy\
+21\. Stewardship\
 25\. The Second Coming of Christ
 
 ---

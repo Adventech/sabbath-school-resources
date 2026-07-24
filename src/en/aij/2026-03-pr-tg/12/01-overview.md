@@ -37,11 +37,11 @@ _The Bible Story_, vol. 8, pp. 49-52
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-4\. The Son
-5\. The Holy Spirit
-7\. Nature of Humanity
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
+4\. The Son\
+5\. The Holy Spirit\
+7\. Nature of Humanity\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
 11\. Growing in Christ
 
 ---

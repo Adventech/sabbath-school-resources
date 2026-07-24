@@ -27,11 +27,14 @@ Lesson 13 — Joshua 24
 3\. The Father\
 4\. The Son\
 6\. Nature of Humanity\
-10\. The Experience of Salvation 11. Growing in Christ\
+10\. The Experience of Salvation\
+11\. Growing in Christ\
 19\. The Law of God\
 21\. Stewardship\
 23\. Marriage and the Family\
-25\. The Second Coming of Christ 28. The New Earth
+25\. The Second Coming of Christ\
+28\. The New Earth
+
 ---
 
 **Beginner Memory Verse**

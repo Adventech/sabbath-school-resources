@@ -36,12 +36,12 @@ _The Bible Story_, vol. 7, pp. 53-62
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-1\. The Holy Scriptures
-3\. The Father
-5\. The Holy Spirit
-7\. Nature of Humanity
-8\. The Great Controversy
-9\. The Life, Death, and Resurrection of Christ
+1\. The Holy Scriptures\
+3\. The Father\
+5\. The Holy Spirit\
+7\. Nature of Humanity\
+8\. The Great Controversy\
+9\. The Life, Death, and Resurrection of Christ\
 11\. Growing in Christ
 
 ---

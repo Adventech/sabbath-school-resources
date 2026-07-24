@@ -35,9 +35,9 @@ _The Desire of Ages_, pp. 132-143, 244-251
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-4\. The Son
-9\. The Life, Death, and Resurrection of Christ
-11\. Growing in Christ
+4\. The Son\
+9\. The Life, Death, and Resurrection of Christ\
+11\. Growing in Christ\
 24\. Christ’s Ministry in the Heavenly Sanctuary
 
 ---

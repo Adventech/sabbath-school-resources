@@ -35,10 +35,10 @@ _The Desire of Ages_, pp. 43-49
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-3\. The Father
-4\. The Son
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
+3\. The Father\
+4\. The Son\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
 11\. Growing in Christ
 
 ---

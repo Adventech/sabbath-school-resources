@@ -40,13 +40,13 @@ _The Bible Story_, vol. 7, pp. 93-108
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-2\. The Trinity
-3\. The Father
-4\. The Son
-5\. The Holy Spirit
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
-15\. Baptism
+2\. The Trinity\
+3\. The Father\
+4\. The Son\
+5\. The Holy Spirit\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
+15\. Baptism\
 18\. The Gift of Prophecy
 
 ---

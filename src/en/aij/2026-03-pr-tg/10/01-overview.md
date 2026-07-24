@@ -37,10 +37,10 @@ _The Bible Story_, vol. 8, pp. 41-45
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-1\. The Holy Scriptures
-3\. The Father
-4\. The Son
-11\. Growing in Christ
+1\. The Holy Scriptures\
+3\. The Father\
+4\. The Son\
+11\. Growing in Christ\
 21\. Stewardship
 
 ---

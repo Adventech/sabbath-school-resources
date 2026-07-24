@@ -35,11 +35,11 @@ _The Desire of Ages_, pp. 19-37
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-4\. The Son
-5\. The Holy Spirit
-7\. The Nature of Humanity
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
+4\. The Son\
+5\. The Holy Spirit\
+7\. The Nature of Humanity\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
 22\. Christian Behavior
 
 ---

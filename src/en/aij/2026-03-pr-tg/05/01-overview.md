@@ -37,12 +37,12 @@ _The Bible Story_, vol. 7, pp. 63-90
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-1\. The Holy Scriptures
-4\. The Son
-9\. The Life, Death, and Resurrection of Christ
-11\. Growing in Christ
-20\. The Sabbath
-22\. Christian Behavior
+1\. The Holy Scriptures\
+4\. The Son\
+9\. The Life, Death, and Resurrection of Christ\
+11\. Growing in Christ\
+20\. The Sabbath\
+22\. Christian Behavior\
 24\. Christ’s Ministry in the Heavenly Sanctuary
 
 ---

@@ -37,10 +37,10 @@ _The Bible Story_, vol. 7, pp. 27-34
 
 Some aspects of the following fundamental beliefs are reflected in this lesson:
 
-2\. The Father
-3\. The Son
-9\. The Life, Death, and Resurrection of Christ
-10\. The Experience of Salvation
+2\. The Father\
+3\. The Son\
+9\. The Life, Death, and Resurrection of Christ\
+10\. The Experience of Salvation\
 18\. The Gift of Prophecy
 
 ---
