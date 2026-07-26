@@ -18,7 +18,7 @@ jobs:
       - uses: actions/setup-node@v3
         name: Setup Node
         with:
-          node-version: '16'
+          node-version: '24'
       - name: Add token for private packages
         run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.PACKAGES_SECRET }}" >> .npmrc
       - run: npm install --global yarn
@@ -29,10 +29,12 @@ jobs:
         env:
           DEPLOY_ENV: prod
       - run: aws s3 cp dist/ s3://sabbath-school.adventech.io/assets/xml --acl "public-read" --region us-east-1 --no-progress --recursive
+        if: hashFiles('dist/') != ''
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Invalidation
+        if: hashFiles('dist/') != ''
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
