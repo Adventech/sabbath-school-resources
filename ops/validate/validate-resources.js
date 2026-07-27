@@ -16,6 +16,7 @@ import {
     RESOURCE_ASSETS_DIRNAME, RESOURCE_COVERS, SEGMENT_FILENAME_EXTENSION, API_DIST
 } from "../helpers/constants.js"
 import { getDocumentInfoYml, getSegmentInfo } from "../deploy/deploy-documents.js"
+import { runValidation } from "./validation-runner.js"
 import dayjs from "dayjs"
 import isBetween from "dayjs/plugin/isBetween.js"
 import customParseFormat from "dayjs/plugin/customParseFormat.js"
@@ -348,89 +349,21 @@ let validateResources = async function (language, resourceType, resourcesG) {
     }
 }
 
-let fixDates = function (resource) {
-    const segments = new fdir()
-        .withBasePath()
-        .withRelativePaths()
-        .withMaxDepth(9)
-        .glob(`${resource}/**/*.md`)
-        .crawl(`${SOURCE_DIR}/`)
-        .sync();
-
-    let startDate = dayjs("04/01/2025", "DD/MM/YYYY")
-
-    for (let segment of segments) {
-        if (!/2025.md/.test(segment)) {
-            continue
-        }
-        let segmentContent = fs.readFileSync(`${SOURCE_DIR}/${segment}`, "utf-8")
-        segmentContent = segmentContent.replace(/^date:.*?$/gmi, `date: ${startDate.format("DD/MM/YYYY")}`)
-        startDate = startDate.add(7, 'd')
-
-        // console.log(segment)
-
-        fs.outputFileSync(`${SOURCE_DIR}/${segment}`, segmentContent)
-    }
-
-    const documents = new fdir()
-        .withBasePath()
-        .withRelativePaths()
-        .withMaxDepth(9)
-        .glob(`${resource}/*/**/info.yml`)
-        .crawl(`${SOURCE_DIR}/`)
-        .sync();
-
-    startDate = dayjs("29/12/2024", "DD/MM/YYYY")
-
-    // console.log(documents)
-
-    for (let document of documents) {
-        if (!/2025\/info.yml/.test(document)) {
-            continue
-        }
-
-        console.log(document)
-
-        let documentContent = fs.readFileSync(`${SOURCE_DIR}/${document}`, "utf-8")
-
-        console.log(startDate.format("DD/MM/YYYY"))
-
-        documentContent = documentContent.replace(/^startDate:.*?$/gmi, `startDate: ${startDate.format("DD/MM/YYYY")}`)
-        startDate = startDate.add(6, 'd')
-
-        console.log(startDate.format("DD/MM/YYYY"))
-        documentContent = documentContent.replace(/^endDate:.*?$/gmi, `endDate: ${startDate.format("DD/MM/YYYY")}`)
-        startDate = startDate.add(1, 'd')
-
-        console.log(startDate.format("DD/MM/YYYY"))
-        fs.outputFileSync(`${SOURCE_DIR}/${document}`, documentContent)
-    }
-}
-
 if (isMainModule(import.meta)) {
-    Object.keys(arg).map(async (argLanguage) => {
-        Object.keys(arg[argLanguage]).map(async (argType) => {
-            // console.log(argLanguage, argType, arg[argLanguage][argType].resources)
-            // await validateResources(argLanguage, argType, arg[argLanguage][argType].resources)
+    try {
+        await runValidation(arg, validateResources)
+    } catch (error) {
+        fail(`Critical error. Validation did not complete: ${error}`)
+    }
 
-            if (failMessages.length) {
-                let pullRequestComment = "Ooops! Issues were found\n"
-                pullRequestComment += "||Error description |\n| ----------- | ----------- |"
+    if (failMessages.length) {
+        let pullRequestComment = "Ooops! Issues were found\n"
+        pullRequestComment += "||Error description |\n| ----------- | ----------- |"
 
-                for (let message of failMessages) {
-                    pullRequestComment += `\n|🛑| ${message}|`
-                }
-                console.error(pullRequestComment)
-            }
-        })
-    })
-
-    fixDates("en/devo/stewardship-offertory-readings-2025")
-
-    // await validateResources(RESOURCE_TYPE.DEVO)
-    // await validateResources(RESOURCE_TYPE.PM)
-    // await validateResources(RESOURCE_TYPE.AIJ)
-    // await validateResources(RESOURCE_TYPE.SS)
-
-
+        for (let message of failMessages) {
+            pullRequestComment += `\n|🛑| ${message}|`
+        }
+        console.error(pullRequestComment)
+        process.exitCode = 1
+    }
 }
