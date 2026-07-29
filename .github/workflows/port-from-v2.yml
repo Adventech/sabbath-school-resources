@@ -14,11 +14,23 @@ jobs:
           ref: stage
           fetch-depth: 0
           persist-credentials: false
+      - name: Validate port identifier
+        id: validate-port-id
+        shell: bash
+        env:
+          RAW_PORT_ID: ${{ github.event.client_payload.port_id }}
+        run: |
+          if [[ ! "$RAW_PORT_ID" =~ ^[A-Za-z0-9_-]{1,64}$ ]]; then
+            echo "Invalid port identifier" >&2
+            exit 1
+          fi
+          printf 'port_id=%s\n' "$RAW_PORT_ID" >> "$GITHUB_OUTPUT"
       - name: Create port dir
         run: mkdir port
       - name: Sync ported content from s3
-        run: aws s3 cp s3://sabbath-school-media-tmp/port/ss-`echo '${{ github.event.client_payload.port_id }}'`/ ./port --recursive --region us-east-1
+        run: aws s3 cp "s3://sabbath-school-media-tmp/port/ss-${PORT_ID}/" ./port --recursive --region us-east-1
         env:
+          PORT_ID: ${{ steps.validate-port-id.outputs.port_id }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Running rsync
