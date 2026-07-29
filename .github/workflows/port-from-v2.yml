@@ -34,7 +34,24 @@ jobs:
           INPUT_GITHUB_TOKEN: ${{ secrets.PERSONAL_GH_TOKEN }}
         run: |
           timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          remote_repo="https://github.com/${GITHUB_REPOSITORY}.git"
+          git_credential_helper="$(mktemp)"
+
+          cleanup_git_credentials() {
+            git config --local --unset-all credential.helper || true
+            rm -f "$git_credential_helper"
+          }
+          trap cleanup_git_credentials EXIT
+
+          cat > "$git_credential_helper" <<'EOF'
+          #!/usr/bin/env bash
+          if [ "$1" = "get" ]; then
+            printf '%s\n' "username=x-access-token"
+            printf '%s\n' "password=${INPUT_GITHUB_TOKEN}"
+          fi
+          EOF
+          chmod 700 "$git_credential_helper"
+          git config --local credential.helper "$git_credential_helper"
 
           git config http.sslVerify false
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
