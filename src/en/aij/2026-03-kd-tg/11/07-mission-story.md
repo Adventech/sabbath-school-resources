@@ -24,4 +24,5 @@ What a big change! Anselmo’s whole family was so much happier, all because Ans
 
 ---
 
-_This story is adapted from “Television Wars” by Andrew McChesney, Children’s Mission Quarterly, copyright © 2019 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Television Wars” by Andrew McChesney, _Children’s Mission Quarterly_, copyright © 2019 General Conference of Seventh-day Adventists. Used and adapted by permission.

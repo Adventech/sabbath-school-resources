@@ -30,4 +30,5 @@ Yuliana was so thankful that God had sent so many helpers to care for Daniel. Sh
 
 ---
 
-_This story is adapted from a story of the same name by Andrew McChesney, Children’s Mission, copyright © 2021 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from a story of the same name by Andrew McChesney, _Children’s Mission_, copyright © 2021 General Conference of Seventh-day Adventists. Used and adapted by permission.

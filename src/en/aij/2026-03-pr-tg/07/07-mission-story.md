@@ -50,4 +50,5 @@ A few days later the results arrived, and Eli-Ann had passed. She squealed and c
 
 ---
 
-_This story is adapted from “Faithful Eli-Ann,” by Charlotte Ishkanian, Children’s Mission, copyright © 2014 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Faithful Eli-Ann,” by Charlotte Ishkanian, _Children’s Mission_, copyright © 2014 General Conference of Seventh-day Adventists. Used and adapted by permission.

@@ -26,4 +26,5 @@ Repeat the **Big Idea: Jesus is my God. He wants me to seek Him and find Him.**
 
 ---
 
-_This story is adapted from “Lost in the Night,” by Galen Orapeleng, Children’s Mission, copyright © 2015 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Lost in the Night,” by Galen Orapeleng, _Children’s Mission_, copyright © 2015 General Conference of Seventh-day Adventists. Used and adapted by permission.

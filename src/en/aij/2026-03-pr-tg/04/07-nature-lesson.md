@@ -21,4 +21,5 @@ We have an even greater guide to be our everyday helper and to keep us safe and 
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 https://guidedogs.com.au/

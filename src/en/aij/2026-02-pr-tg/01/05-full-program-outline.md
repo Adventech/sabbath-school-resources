@@ -77,7 +77,7 @@ Sing the prayer song, **“A Whisper From the Heart.”**
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing the offering song, **“What Can I Give to the Lord?”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Introduce this quarter’s mission project and offering destination, and explain a little about it. Highlight the location on a world map or globe. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer for God to bless and take the offering to where it’s most needed.
 

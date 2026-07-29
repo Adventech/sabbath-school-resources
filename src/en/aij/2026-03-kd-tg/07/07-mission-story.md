@@ -28,4 +28,5 @@ But that wasn’t the end of his preaching. Before long, Dacosta preached for se
 
 ---
 
-_This story is adapted from “Heart for Preaching,” by Andrew McChesney, Children’s Mission, copyright © 2023 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Heart for Preaching,” by Andrew McChesney, _Children’s Mission_, copyright © 2023 General Conference of Seventh-day Adventists. Used and adapted by permission.

@@ -26,4 +26,5 @@ The girls are very grateful to the missionaries. They didn’t just give the gir
 
 ---
 
-_This story is adapted from “A Missionary’s Special Gift,” Children’s Mission, copyright © 2014 General Conference of Seventh-day Adventists®. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “A Missionary’s Special Gift,” _Children’s Mission_, copyright © 2014 General Conference of Seventh-day Adventists®. Used and adapted by permission.

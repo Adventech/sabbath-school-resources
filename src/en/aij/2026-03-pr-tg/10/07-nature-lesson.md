@@ -21,4 +21,5 @@ Look at Psalm 136:25: “He gives food to every living creature. His love contin
 
 ---
 
-_This story is adapted from “Growwwwl” by RosAnne C. Tetz, God’s Big Idea, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Growwwwl” by RosAnne C. Tetz, _God’s Big Idea_, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission.

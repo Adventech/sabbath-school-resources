@@ -32,4 +32,5 @@ Since the beginning of the project, Rony and the student workers have already mo
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 https://am.adventistmission.org/v5n2-6

@@ -57,13 +57,13 @@ Warmly acknowledge all children by name as they arrive. Share how happy you are 
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“God Is So Wonderful.”** Between each verse, invite the children to share why God is so wonderful.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-so-wonderful.mp3] “God Is So Wonderful” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2011 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-so-wonderful.mp3] “God Is So Wonderful” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2011 Abide Family Ministries. Used by permission."}
 
 Then sing **“God’s Grace”** and ask,
 
 - **What words in this song do you love the most?”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/gods-grace.mp3] “God’s Grace” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2022 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/gods-grace.mp3] “God’s Grace” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC choir"},{"key":"Pianist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2022 Abide Family Ministries. Used by permission."}
 
 Remind the children that God loves to hear us praise and worship Him. Briefly explain what praise is: You praise something or someone when you share (with some excitement) a quality or something you admire or really love about them.
 

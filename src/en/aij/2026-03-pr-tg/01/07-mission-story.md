@@ -40,4 +40,5 @@ Mother is so happy that Alex was born. Not only did the family gain a son, but i
 
 ---
 
-_This story is adapted from “Gift From God,” by Andrew McChesney. Children’s Mission, copyright © 2024 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Gift From God,” by Andrew McChesney. _Children’s Mission_, copyright © 2024 General Conference of Seventh-day Adventists. Used and adapted by permission.

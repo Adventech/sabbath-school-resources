@@ -75,7 +75,7 @@ Staple their chains together. **Staple the card with the memory verse to the end
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing the offering song, **“What Can I Give to the Lord?”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Your team may like to have a few extra coins on hand to give to visitors so they can participate. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Pray for a special blessing on each child and for those who will benefit from the offering. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 

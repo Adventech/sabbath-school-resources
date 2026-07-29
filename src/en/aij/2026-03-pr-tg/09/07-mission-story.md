@@ -26,4 +26,5 @@ The next day many parents came. The barber gave them free haircuts and told them
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 This story was sourced from https://www.gracelink.net, copyright © 2016 General Conference of Seventh-day Adventists®.

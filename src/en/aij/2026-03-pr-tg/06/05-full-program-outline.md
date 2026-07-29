@@ -55,9 +55,9 @@ subtitle: Week 6
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“Child of the King”** and **“I Give My Heart to You.”** Then sing the prayer song, **“Sabbath Song.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/child-of-the-king.mp3] “Child of the King” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/child-of-the-king.mp3] “Child of the King” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singer","value":"Yelena Jovinov"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-give-my-heart-to-you.mp3] “I Give My Heart to You” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-give-my-heart-to-you.mp3] “I Give My Heart to You” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Yelena Jovinov, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3] “Sabbath Song” {"credits":[{"key":"Writers","value":"Alexandria Heise, Leighton Heise"},{"key":"Singers","value":"Ali Heise, Leighton Heise, Charlie Heise, Jesse Heise, Zoe Heise, Joanna Mae Heise"},{"key":"Pianist","value":"Ali Heise"},{"key":"Guitarist","value":"Leighton Heise"},{"key":"Bass","value":"Leighton Heise"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2020, Alexandria Heise, Leighton Heise. Used by permission."}
 
@@ -155,7 +155,7 @@ Play the quarterly **Scripture Song playlist** in the background as children mak
 
 Finish with the song **“I Give My Heart to You.”** Invite children to wave their **hearts** in the air as they sing this song.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-give-my-heart-to-you.mp3] “I Give My Heart to You” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-give-my-heart-to-you.mp3] “I Give My Heart to You” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Yelena Jovinov, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
 
 **^[MISSION CHALLENGE:]({"style": {"text": {"color":"#a771b0"}}})** **Whom could you share today’s story with?**
 

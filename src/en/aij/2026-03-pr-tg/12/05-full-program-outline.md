@@ -55,9 +55,9 @@ subtitle: Week 12
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“Child of the King”** and **“God Loves You,”** then sing the prayer song, **“Sabbath Song.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/child-of-the-king.mp3] “Child of the King” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/child-of-the-king.mp3] “Child of the King” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singer","value":"Yelena Jovinov"}],"title": "Credits","copyright":"Copyright © 2007 Abide Family Ministries. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-loves-you.mp3] “God Loves You” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-loves-you.mp3] “God Loves You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Tahlia Atcheson, Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3] “Sabbath Song” {"credits":[{"key":"Writers","value":"Alexandria Heise, Leighton Heise"},{"key":"Singers","value":"Ali Heise, Leighton Heise, Charlie Heise, Jesse Heise, Zoe Heise, Joanna Mae Heise"},{"key":"Pianist","value":"Ali Heise"},{"key":"Guitarist","value":"Leighton Heise"},{"key":"Bass","value":"Leighton Heise"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2020, Alexandria Heise, Leighton Heise. Used by permission."}
 

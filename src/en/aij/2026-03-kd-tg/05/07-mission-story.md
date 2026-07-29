@@ -33,4 +33,5 @@ Repeat the **Big Idea: Jesus is my God. He is loving and perfect.**
 
 ---
 
-_This story is adapted from “Pedrito Prays,” by Gina Wahlen, Children’s Mission, copyright © 2016 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Pedrito Prays,” by Gina Wahlen, _Children’s Mission_, copyright © 2016 General Conference of Seventh-day Adventists. Used and adapted by permission.

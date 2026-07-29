@@ -55,7 +55,7 @@ subtitle: Week 5
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Show the drawing of the Boy Jesus (or their drawing from the large group option) that was created before Sabbath School began. Share how in our lesson today, we want to think about Jesus as a boy and some of the things He did as He grew. Sing **“God Is So Wonderful”** and **“God Is My Faithful Friend.”** Jesus also loved to praise His Father in heaven when He was a boy. We can praise Him every day with our voices, words, and actions to show Him we love Him too.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-so-wonderful.mp3] “God Is So Wonderful” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2011 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-so-wonderful.mp3] “God Is So Wonderful” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2011 Abide Family Ministries. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/god-is-my-faithful-friend.mp3] “God Is My Faithful Friend” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 

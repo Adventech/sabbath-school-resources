@@ -12,7 +12,7 @@ subtitle: Week 1
 
 **^[LISTEN:]({"style": {"text": {"color":"#4d4d4f"}}})** Play the song **“Lord, Please Guide Me”** or worship songs of choice quietly in the background.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3] “Lord, Please Guide Me” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2002 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3] “Lord, Please Guide Me” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2002 Abide Family Ministries. Used by permission."}
 
 **^[CONNECT:]({"style": {"text": {"color":"#4d4d4f"}}})** Warmly acknowledge children by name as they arrive. Share how happy you are to see them.
 
@@ -27,7 +27,7 @@ subtitle: Week 1
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/alive-in-jesus.mp3] “Alive in Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Violin","value":"Tahlia Atcheson"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3] “Lord, Please Guide Me” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2002 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3] “Lord, Please Guide Me” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2002 Abide Family Ministries. Used by permission."}
 
 **^[PRAY:]({"style": {"text": {"color":"#d34d5e"}}})** Sing the prayer song, **“The Lord’s Prayer.”** Remind the children that Jesus loves to hear us pray and talk to Him. Invite several children to pray a short prayer welcoming Jesus into our hearts as we learn of His big story today.
 
@@ -127,7 +127,7 @@ Say the **Big Idea** again: **God looks for people who love Him to be part of Hi
 
 **^[SING:]({"style": {"text": {"color":"#a771b0"}}})** Play the song **“Lord, Please Guide Me”** or **“I Surrender All”** in the background as children make their craft. Display the **words** of the song. Ask the children what words in the song are meaningful to them.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3] “Lord, Please Guide Me” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2002 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/lord-please-guide-me.mp3] “Lord, Please Guide Me” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2002 Abide Family Ministries. Used by permission."}
 
 **^[RESPOND:]({"style": {"text": {"color":"#a771b0"}}})**
 

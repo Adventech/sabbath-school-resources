@@ -21,4 +21,5 @@ There are other ways you can make waves. Sometimes when we talk about “making 
 
 ---
 
-_This story is adapted from “Making Waves,” by RosAnne C. Tetz, God’s Big Idea, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Making Waves,” by RosAnne C. Tetz, _God’s Big Idea_, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission.

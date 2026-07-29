@@ -63,7 +63,7 @@ subtitle: Week 11
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing the offering song, **“What Can I Give to the Lord?”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Pray and thank God for the children’s generosity, asking Him to use their gifts to bless others. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 

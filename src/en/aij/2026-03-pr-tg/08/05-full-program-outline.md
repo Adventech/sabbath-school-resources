@@ -57,7 +57,7 @@ Then ask: **I wonder what these names have to do with fishing, and what fishing 
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/amazing.mp3] “Amazing” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Tahlia Atcheson, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2004 Abide Family Ministries. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/rest-of-my-life.mp3] “Rest of My Life” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2009 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/rest-of-my-life.mp3] “Rest of My Life” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2009 Abide Family Ministries. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/sabbath-song.mp3] “Sabbath Song” {"credits":[{"key":"Writers","value":"Alexandria Heise, Leighton Heise"},{"key":"Singers","value":"Ali Heise, Leighton Heise, Charlie Heise, Jesse Heise, Zoe Heise, Joanna Mae Heise"},{"key":"Pianist","value":"Ali Heise"},{"key":"Guitarist","value":"Leighton Heise"},{"key":"Bass","value":"Leighton Heise"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2020, Alexandria Heise, Leighton Heise. Used by permission."}
 
@@ -102,7 +102,7 @@ Then ask: **I wonder what these names have to do with fishing, and what fishing 
 
 **^[DO:]({"style": {"text": {"color":"#00b7aa"}}})** Being a disciple or a “fisher of men” would mean they would have to follow Jesus carefully. Point out the colored footprint paths the children walked on earlier as they sang. Tell them to quietly go and pick up a footprint, then bring it back to the circle. Play the song **“All the Time”** as they do this. Then invite each child to read what is written on the back of their footprint, and ask each child:
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/all-the-time.mp3] “All the Time” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2017 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/all-the-time.mp3] “All the Time” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Noah Jovinov, Yelena Jovinov, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2017 Abide Family Ministries. Used by permission."}
 
 - **How can you show this character trait?** (For example, if the word is “kind,” they would respond by thinking of how they can be kind.) Invite the children to write their names on the footprint in a sentence such as “Dan can be kind,” then tape it to a wall.
 
@@ -169,4 +169,4 @@ Allow time for this. Then challenge the children to share this week’s Bible st
 
 **^[PRAY:]({"style": {"text": {"color":"#a771b0"}}})** Sing the chorus of **“All the Time,”** then conclude with a prayer, thanking God for **loving each one of us so much** that He calls us to “come” and follow Him, so we can then “go” to help others want to follow Jesus too.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/all-the-time.mp3] “All the Time” {"credits":[{"key":"Writer","value":"Kimberly Houliston"}],"title": "Credits","copyright":"Copyright © 2017 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/all-the-time.mp3] “All the Time” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Noah Jovinov, Yelena Jovinov, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2017 Abide Family Ministries. Used by permission."}

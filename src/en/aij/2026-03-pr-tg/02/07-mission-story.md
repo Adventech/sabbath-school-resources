@@ -23,4 +23,5 @@ Something male Gentoo Penguins like to do is give gifts of pebbles! When they ar
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 https://oceanwide-expeditions.com/to-do/wildlife/gentoo-penguin

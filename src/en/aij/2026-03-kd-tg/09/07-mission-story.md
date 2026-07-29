@@ -30,4 +30,5 @@ Ivan couldn’t have been happier. God had heard his prayers. He, and all the ch
 
 ---
 
-_This story is adapted from “Out of This World,” by Andrew McChesney, Children’s Mission, copyright © 2024 General Conference of Seventh-day Adventists. Used and adapted by permission._
+{"style": {"text": {"size": "sm"}}}
+This story is adapted from “Out of This World,” by Andrew McChesney, _Children’s Mission_, copyright © 2024 General Conference of Seventh-day Adventists. Used and adapted by permission.
