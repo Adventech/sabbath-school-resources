@@ -10,20 +10,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: stage
+          ref: ${{ github.sha }}
           fetch-depth: 0
           persist-credentials: false
-          github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
-      - name: Get Status of current ref
-        id: get-status
-        uses: danieldeichfuss/get-status@v0.0.10
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
+        name: Setup Node
         with:
-          ref: ${{ github.sha }}
-      - name: Merge stage -> prod
-        if: ${{steps.get-status.outputs.all-checks-completed == 'true' &&  steps.get-status.outputs.all-checks-passed == 'true'}}
+          node-version: '24.18.0'
+      - name: Verify immutable stage revision
+        run: node ops/ci/promotion-checks.js
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROMOTION_REPOSITORY: ${{ github.repository }}
+          PROMOTION_RUN_ID: ${{ github.run_id }}
+          PROMOTION_SHA: ${{ github.sha }}
+      - name: Merge stage revision
         uses: devmasx/merge-branch@master
         with:
           type: now
-          from_branch: stage
+          head_to_merge: ${{ github.sha }}
           target_branch: prod
           github_token: ${{ secrets.PERSONAL_GH_TOKEN }}
