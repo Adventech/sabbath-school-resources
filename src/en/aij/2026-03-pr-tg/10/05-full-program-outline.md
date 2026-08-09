@@ -22,11 +22,11 @@ subtitle: Week 10
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3] “Psalm 32:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3] “2 Peter 3:18” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Nela Breski"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3] “2 Peter 3:18” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Nela Breski"},{"key":"Guitarist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3] “Ezekiel 36:26” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3] “1 Corinthians 15:57” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3] “1 Corinthians 15:57” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"},{"key":"Guitarist","value":"David Williams"},{"key":"Bassist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3] “John 8:12” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Noah Jovinov"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
@@ -138,11 +138,11 @@ Play the quarterly **Scripture Song playlist** in the background as children mak
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/4-psalm-32-8.mp3] “Psalm 32:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3] “2 Peter 3:18” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Nela Breski"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/5-2-peter-3-18.mp3] “2 Peter 3:18” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Nela Breski"},{"key":"Guitarist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/6-ezekiel-36-26.mp3] “Ezekiel 36:26” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3] “1 Corinthians 15:57” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/7-1-corinthians-15-57.mp3] “1 Corinthians 15:57” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Elle Stojanovic"},{"key":"Guitarist","value":"David Williams"},{"key":"Bassist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/8-john-8-12.mp3] “John 8:12” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Noah Jovinov"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
