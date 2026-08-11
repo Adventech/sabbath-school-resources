@@ -11,6 +11,7 @@ start_date: 28/06/2026
 end_date: 26/09/2026
 color_primary: '#556E31'
 color_primary_dark: '#475E26'
+splash: true
 credits:
   - name: Published by
     value: >-

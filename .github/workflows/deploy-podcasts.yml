@@ -1,10 +1,8 @@
 name: deploy-podcasts
 on:
   schedule:
-    # 19:00 UTC Friday == 09:00 Saturday in UTC+14
-    - cron: '0 19 * * 5'
-    # 19:00 UTC Saturday == 09:00 Sunday in UTC+14
-    - cron: '0 19 * * 6'
+    - cron: '0 3 * * 0'
+    - cron: '0 7 * * 0'
   workflow_dispatch:
 jobs:
   deploy-podcasts:
