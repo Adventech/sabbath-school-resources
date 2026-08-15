@@ -44,7 +44,7 @@ style:
   resource:
     title:
       text:
-        typeface: DKWhaleSong-Regular
+        typeface: DKHobgoblin
     subtitle:
       text:
         typeface: MyriadPro-Regular
@@ -93,6 +93,11 @@ fonts:
     weight: 400
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
+    attributes: regular
+  - name: DKHobgoblin
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/fonts/DKHobgoblin.ttf
     attributes: regular
 covers:
   landscape: >-

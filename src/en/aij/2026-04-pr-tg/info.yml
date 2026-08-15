@@ -32,73 +32,53 @@ style:
     inline:
       all:
         text:
-          typeface: MyriadPro-Regular
+          typeface: CenturyGothic
     nested:
       all:
         text:
-          typeface: MyriadPro-Regular
+          typeface: CenturyGothic
+  segment:
+    title:
+      text:
+        typeface: CenturyGothic
+        color: '#f4793b'
   resource:
     title:
       text:
-        typeface: Trashbone-Regular
+        typeface: Omnes-Bold
     subtitle:
       text:
-        typeface: MyriadPro-Regular
+        typeface: Omnes-Regular
 fonts:
-  - name: Angello
-    weight: 400
-    src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/Angello.ttf
-    attributes: regular
-  - name: DKWhaleSong-Regular
-    weight: 400
-    src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/DK-Whale-Song.ttf
-    attributes: regular
-  - name: ITCAvantGardeStd-BkCn
-    weight: 400
-    src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCn.ttf
-    attributes: regular
-  - name: ITCAvantGardeStd-BkCnObl
-    weight: 400
-    src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCnObl.ttf
-    attributes: regular-italic
-  - name: ITCAvantGardeStd-BoldCn
+  - name: CenturyGothic-Bold
     weight: 700
     src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BoldCn.ttf
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Bold.ttf
     attributes: bold
-  - name: MyriadPro-Bold
+  - name: CenturyGothic-BoldItalic
     weight: 700
     src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Bold.ttf
-    attributes: bold
-  - name: MyriadPro-BoldIt
-    weight: 700
-    src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-BoldIt.ttf
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-BoldItalic.ttf
     attributes: bold-italic
-  - name: MyriadPro-It
+  - name: CenturyGothic-Italic
     weight: 400
     src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-It.ttf
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Italic.ttf
     attributes: regular-italic
-  - name: MyriadPro-Regular
+  - name: CenturyGothic
     weight: 400
     src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/CenturyGothic-Regular.ttf
     attributes: regular
-  - name: GoodlifeW00-SansCondensed
+  - name: Omnes-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Bold.ttf
+    attributes: bold
+  - name: Omnes-Regular
     weight: 400
     src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Goodlife-SansCondensed.ttf
-    attributes: regular
-  - name: Trashbone-Regular
-    weight: 400
-    src: >-
-      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr/assets/fonts/Trashbone-Regular.ttf
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Regular.ttf
     attributes: regular
 covers:
   landscape: >-
