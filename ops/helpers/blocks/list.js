@@ -25,7 +25,7 @@ export const list = {
             }
 
             for (let token of listItem.tokens) {
-                if (token.type === "text") {
+                if (token.type === "text" || token.type === "code") {
                     let listItemId = crypto.createHash("sha256").update(
                         `${documentIndex}-${block.id}-${token.type}-${index}-${parentId}`
                     ).digest("hex")

@@ -1,0 +1,8 @@
+name: Kokborok
+native: Kokborok
+code: trp
+sections:
+  default: Main
+bible:
+  - bsi
+feedSeeAll: Jotono naidi
