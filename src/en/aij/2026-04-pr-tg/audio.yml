@@ -1,0 +1,333 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/my-help.mp3
+        title: "“My Help”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/stop-and-learn.mp3
+        title: "“Stop and Learn”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/when-god-speaks.mp3
+        title: "“When God Speaks”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3
+        title: "“John 14:27”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/01
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-is-so-wonderful.mp3
+        title: "“God Is So Wonderful”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/2-1-peter-5-7.mp3
+        title: "“1 Peter 5:7”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/02
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-is-so-wonderful.mp3
+        title: "“God Is So Wonderful”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/my-help.mp3
+        title: "“My Help”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/3-romans-12-10.mp3
+        title: "“Romans 12:10”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/03
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/books-of-the-bible.mp3
+        title: "“Books of the Bible”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/alive-in-jesus.mp3
+        title: "“Alive in Jesus”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/my-help.mp3
+        title: "“My Help”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/stop-and-learn.mp3
+        title: "“Stop and Learn”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/4-isaiah-45-22.mp3
+        title: "“Isaiah 45:22”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/04
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/my-help.mp3
+        title: "“My Help”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/gods-love.mp3
+        title: "“God’s Love”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/5-psalm-145-8.mp3
+        title: "“Psalm 145:8”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/05
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/gods-love.mp3
+        title: "“God’s Love”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-want-to-tell-the-world.mp3
+        title: "“I Want to Tell the World”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/6-john-10-10.mp3
+        title: "“John 10:10”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/06
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-is-so-wonderful.mp3
+        title: "“God Is So Wonderful”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/trust-and-obey.mp3
+        title: "“Trust and Obey”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/7-luke-8-50.mp3
+        title: "“Luke 8:50”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-can-trust-god.mp3
+        title: "“I Can Trust God”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/07
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/gods-love.mp3
+        title: "“God’s Love”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/when-god-speaks.mp3
+        title: "“When God Speaks”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/sabbath-song.mp3
+        title: "“Sabbath Song”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/8-john-8-32.mp3
+        title: "“John 8:32”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/08
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/stop-and-learn.mp3
+        title: "“Stop and Learn”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/amazing.mp3
+        title: "“Amazing”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/gods-love.mp3
+        title: "“God’s Love”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/9-isaiah-54-10.mp3
+        title: "“Isaiah 54:10”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/09
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/amazing.mp3
+        title: "“Amazing”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-want-to-tell-the-world.mp3
+        title: "“I Want to Tell the World”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/be-still-be-silent.mp3
+        title: "“Be Still, Be Silent”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/10-psalm-146-8.mp3
+        title: "“Psalm 146:8”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/10
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/my-help.mp3
+        title: "“My Help”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/when-god-speaks.mp3
+        title: "“When God Speaks”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/11-matthew-8-13.mp3
+        title: "“Matthew 8:13”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/11
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-is-my-faithful-friend.mp3
+        title: "“God Is My Faithful Friend”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/close-to-your-heart.mp3
+        title: "“Close to Your Heart”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/12-jeremiah-31-13.mp3
+        title: "“Jeremiah 31:13”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/12
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-is-so-wonderful.mp3
+        title: "“God Is So Wonderful”"
+        target: en/aij/2026-04-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/close-to-your-heart.mp3
+        title: "“Close to Your Heart”"
+        target: en/aij/2026-04-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-kneel-and-pray.mp3
+        title: "“I Kneel and Pray”"
+        target: en/aij/2026-04-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3
+        title: "“What Can I Give to the Lord?”"
+        target: en/aij/2026-04-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3
+        title: "“Visitor Song”"
+        target: en/aij/2026-04-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/birthday-song.mp3
+        title: "“Happy Birthday”"
+        target: en/aij/2026-04-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/13-john-11-25.mp3
+        title: "“John 11:25”"
+        target: en/aij/2026-04-pr-tg/13
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/god-be-with-you.mp3
+        title: "“God Be With You”"
+        target: en/aij/2026-04-pr-tg/13

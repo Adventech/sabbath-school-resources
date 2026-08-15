@@ -1,0 +1,103 @@
+title: 'Student YAQ4: Jesus Can Do Anything'
+markdownTitle: 'Student YAQ4: Jesus Can Do Anything'
+subtitle: Year A, Quarter 4
+description: >-
+  These 13 lessons unpack the idea that Jesus can do anything. Some of the
+  miracles of Jesus are explored, such as Jesus calming a storm, walking on
+  water, healing the sick and the lonely, raising a little girl and Lazarus from
+  the dead, and restoring sight to Bartimaeus, who was blind.
+primaryColor: '#232939'
+primaryColorDark: '#131721'
+credits:
+  - name: Principal Contributor
+    value: Amy Cherry
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: World Sabbath School Directors
+    value: Jim Howard, Daniel Ebenezer
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: Biblical Research Institute Advisor
+    value: Clinton Wahlen
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrator
+    value: Kaleb de Carvalho
+  - name: Designer
+    value: Megan Betteridge
+  - name: Copy Editors
+    value: James and Ida Cavil, Meredith Herzel
+displaySequence: true
+skipFeed: true
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+    nested:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+  resource:
+    title:
+      text:
+        typeface: DKWhaleSong-Regular
+    subtitle:
+      text:
+        typeface: MyriadPro-Regular
+fonts:
+  - name: Angello
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/Angello.ttf
+    attributes: regular
+  - name: DKWhaleSong-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/DK-Whale-Song.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCn
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCn.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCnObl
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCnObl.ttf
+    attributes: regular-italic
+  - name: ITCAvantGardeStd-BoldCn
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BoldCn.ttf
+    attributes: bold
+  - name: MyriadPro-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Bold.ttf
+    attributes: bold
+  - name: MyriadPro-BoldIt
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-BoldIt.ttf
+    attributes: bold-italic
+  - name: MyriadPro-It
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-It.ttf
+    attributes: regular-italic
+  - name: MyriadPro-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
+    attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/cover.png

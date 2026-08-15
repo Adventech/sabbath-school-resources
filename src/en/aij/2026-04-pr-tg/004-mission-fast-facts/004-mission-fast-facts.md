@@ -1,0 +1,37 @@
+---
+title: Mission Fast Facts
+subtitle: Trans-European Division
+---
+
+**1.** This quarter’s offering is going to the Trans-European Division of the world church. There are 22 countries in this division. How many can you find on a map? Albania, Croatia, Slovenia, Cyprus, Denmark (also Greenland and Faroe Islands), Estonia, Latvia, Lithuania, Finland, Greece, Hungary, Iceland, Ireland, United Kingdom, Netherlands, Norway, Poland, Serbia, Montenegro, Bosnia and Herzegovina, Macedonia, Sweden.
+
+This quarter, the Mission Offering each Sabbath will support the following projects in the Trans-European Division:
+
+- Mental Health Outreach for Children and Youth, England, UK
+- Prilaz Church Building, Zagreb, Croatia
+- Primary School Expansion, Podkowa Leśna, Poland
+- Family Mission Center, Helsinki, Finland
+
+**2.** In Denmark, church meetings are informal, and people dress casually. They meet in simple church buildings (around 40 in the country) that are warm and inviting. They sing more recent songs rather than traditional hymns. One of the churches is called a Café Church and families and young people sit around tables with drinks, worship together, and discuss the sermon. Every year the café church goes on a ski trip with wonderful worships and often young people choose to be baptized after this trip.
+
+**3.** In the United Kingdom—and many other countries in this division—Christianity is no longer the main religion. Most people don’t believe the Bible is holy or inspired by God. While many may not be interested in coming to a traditional church, some are interested in God and being a part of a caring community. Adventists in these areas share Jesus through friendships, small groups (based on shared interests), and social media. One church has found a creative way to share Jesus by performing a Passion Play about Jesus’ death and resurrection.  Children and families can experience the story through an interactive trail and a market. 
+
+**4.** Norway is known for its beautiful fjords. A fjord is a narrow, deep body of water that is surrounded by high mountain cliffs. There are more than 1,000 fjords in Norway that are between majestic snow-capped mountains and rocky cliffs, with waterfalls and icy glaciers nearby. People like to enjoy God’s creation by hiking and rock climbing around the fjords or kayaking on their crystal clear (cold!) waters. Families with children go to a wonderful Adventist summer camp (Living Water Summer Camp) by a lake and bring their friends too. There is a natural waterpark there with smooth stone chutes carved by an old river. Families worship, play, and learn more about God together.
+
+**5.** Many children in Latvia like to go ice skating, skiing, and sledding in winter. In summer there are flowers in the fields, and many families go hiking and swimming. Singing is a big part of Latvian culture. Children go to summer camps and bring their friends to learn about Jesus. The church translated lots of books about family worship to help families share Jesus with their children and their friends. 
+
+**6.** The people of Bosnia and Herzegovina are very strong in spirit. But they have had a tough time with war and conflict, especially between the religious and ethnic people groups. The last big war was in the early 1990s and you can still see bullet marks in many of their cities. Many people died and many cities and churches were destroyed Adventists try to bring others to know Jesus who can heal their hurts and give peace. Through the “Invasion of Love” initiative, youth volunteers serve local communities by providing practical assistance, health outreach, and acts of kindness.
+
+**7.** In the Netherlands, people can easily buy a Bible or find one in a library to read. But most people who follow Jesus don’t have physical Bibles in their home; they use online versions. The Netherlands arranges special children’s Sabbaths where children come together for a whole day of worship, stories, crafts, and games. Each time they choose a different Bible story to explore, and they bring their friends along to discover the joy of knowing Jesus.
+
+**8.** The national animal of Croatia is the European pine marten. These weasel-like animals are known for their intelligence and problem-solving skills. They live in forests and are most active at night when they hunt small mammals or forage fruit. Their pelts (skins) were the main currency (type of payment/money) in this area during ancient Roman times and for a very long time after that. Now, these quick, cunning creatures are protected. Adventist children in Croatia learn about nature at their annual Fratarski Camp. Held in a simple island setting free from modern distractions, the camp provides opportunities for worship, fellowship, outdoor activities, and spiritual growth.
+
+**9.** Swedish food is fresh, changes with the seasons, and is comforting. Many people enjoy a jam made from lingonberries—a tiny tart fruit. It is spread on meatballs, pancakes, black pudding, and more. Most meals are served with crispbread called knäckebröd. In the afternoon Swedish people stop for Fika, which is spending time with friends eating small treats. Adventist children also love to build friendships (with Jesus and each other) at a beautiful lakeside camp. Many pastors in Sweden have learned how to include children in their church worships in creative ways. The children also have fun competitions to encourage them to read the Bible.
+
+**10.** In Denmark, children share Jesus with others through friendship and volunteering programs. The church has sports clubs, including football and handball clubs, that children can invited other non-church going friends to come along to. They also have a thrift store where children can help-out as volunteers and talk about Jesus with people as they shop.
+
+**11.** In recent years, many people have left their homeland of Estonia to move to other parts of Europe to find work. Church groups grew smaller. But local Adventists noticed many new people arriving from around the world. They started an English-speaking church in their capital city, Tallinn.
+
+**12.** In Slovenia, Adventist church members work together with ADRA (Adventist Disaster and Relief Agency) to help people in need in their areas. There is an ADRA ambassador in every church in Slovenia. They work with all members to help people who have escaped nearby wars, run health days, collect and deliver donations for women and children in need, and make gifts for refugees. In one part of the country, they are very active in serving the Roma people group, who live in camps outside of the city. There are now three churches inside the big camp each Sabbath, and many health services.  In the capital city of Slovenia, Ljubljana, the Adventist Church runs a café near the university where students can come to eat, play board games, learn about healthy living and do crafts. Many people like to come to the beautiful café, and they can also l earn about Jesus.
+
+**13.** In Finland, children don’t go to school until they are seven years of age. Before they start school, some go to kindergartens where they are encouraged to play creatively outdoors. Finland’s school system is considered the best in the world. However, many children miss out on learning about Jesus. There is only one Adventist school in Finland. Young adult Adventists run a community house, Oikos House, to create a spiritual home for young people to have Bible study, small groups, friendship and service.

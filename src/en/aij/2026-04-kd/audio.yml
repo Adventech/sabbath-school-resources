@@ -1,0 +1,565 @@
+audio:
+  - artist: Alive in Jesus
+    podcast:
+      source: english-aij-kindergarten.xml
+      image: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/episodeart-kd-a04.jpg
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/01
+        title: 1. Jesus Calms a Storm
+        podcast:
+          title: Lesson 1 – Jesus Calms a Storm (September 27-October 3)
+          description: "Kindergarten, Year A, Quarter 4, lesson 1<br/>BIG IDEA: Jesus can do anything. He can keep me calm.<br/>This week’s lesson is based on Matthew 8:23–27; Mark 4:35–41; Luke 8:22–25; and The Desire of Ages, p. 333-336.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:09:54"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/01
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/01
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/01
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/01
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/01
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/01
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/01
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/01
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/01
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/01
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/01
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/01
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/02
+        title: 2. “Please, Heal My Son”
+        podcast:
+          title: Lesson 2 – “Please, Heal My Son” (October 4-10)
+          description: "Kindergarten, Year A, Quarter 4, lesson 2<br/>BIG IDEA: Jesus can do anything. His words can heal and are always true.<br/>This week’s lesson is based on John 4:43–54 and The Desire of Ages, p. 196-200.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:07:59"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/02
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/02
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/02
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/02
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/02
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/02
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/02
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/02
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/02
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/02
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/02
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/02
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/03
+        title: 3. Bringing a Friend to Jesus
+        podcast:
+          title: Lesson 3 – Bringing a Friend to Jesus (October 11-17)
+          description: "Kindergarten, Year A, Quarter 4, lesson 3<br/>BIG IDEA: Jesus can do anything. He loves to help me and my friends.<br/>This week’s lesson is based on Mark 2:1–12; Matthew 9:1–8; and The Desire of Ages, p. 267-271.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:07:37"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/03
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/03
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/03
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/03
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/03
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/03
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/03
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/03
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/03
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/03
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/03
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/03
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/04
+        title: 4. Walking on Water
+        podcast:
+          title: Lesson 4 – Walking on Water (October 18-24)
+          description: "Kindergarten, Year A, Quarter 4, lesson 4<br/>BIG IDEA: Jesus can do anything. He makes me brave.<br/>This week’s lesson is based on Matthew 14:22–33; Mark 6:45–52; John 6:14–21; and The Desire of Ages, p. 377-382.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:40"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/04
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/04
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/04
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/04
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/04
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/04
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/04
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/04
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/04
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/04
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/04
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/04
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/05
+        title: 5. Friend to the Lonely
+        podcast:
+          title: Lesson 5 – Friend to the Lonely (October 25-31)
+          description: "Kindergarten, Year A, Quarter 4, lesson 5<br/>BIG IDEA: Jesus can do anything. He wants to be my close Friend.<br/>This week’s lesson is based on Matthew 8:1–4; Mark 1:40–45; Luke 5:12–16; John 9:1–41; Mark 7:31–37; and The Desire of Ages, ch. 27; pp. 404, 470-475.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:09:02"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/05
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/05
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/05
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/05
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/05
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/05
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/05
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/05
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/05
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/05
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/05
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/05
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/06
+        title: 6. A Touch of His Garment
+        podcast:
+          title: Lesson 6 – A Touch of His Garment (November 1-7)
+          description: "Kindergarten, Year A, Quarter 4, lesson 6<br/>BIG IDEA: Jesus can do anything. He will change me when I have faith in Him.<br/>This week’s lesson is based on Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56; and The Desire of Ages, ch. 36.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:47"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/06
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/06
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/06
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/06
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/06
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/06
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/06
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/06
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/06
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/06
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/06
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/06
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/07
+        title: 7. “Little Girl, Get Up!”
+        podcast:
+          title: Lesson 7 – “Little Girl, Get Up!” (November 8-14)
+          description: "Kindergarten, Year A, Quarter 4, lesson 7<br/>BIG IDEA: Jesus can do anything. He has power over death.<br/>This week’s lesson is based on Luke 8:43–48; Mark 5:21-43; Matthew 9:18–26; and The Desire of Ages, ch. 36.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:35"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/07
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/07
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/07
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/07
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/07
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/07
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/07
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/07
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/07
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/07
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/07
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/07
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/08
+        title: 8. A Happy Sabbath
+        podcast:
+          title: Lesson 8 – A Happy Sabbath (November 15-21)
+          description: "Kindergarten, Year A, Quarter 4, lesson 8<br/>BIG IDEA: Jesus can do anything. He gives us the Sabbath.<br/>This week’s lesson is based on Matthew 7:29; Matthew 12:9–13; Mark 3:1–6; Luke 6:6–11; Luke 13:10–17; Luke14:1–6; and The Desire of Ages, p. 286.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:07:20"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/08
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/08
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/08
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/08
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/08
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/08
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/08
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/08
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/08
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/08
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/08
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/08
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/09
+        title: 9. “Pick Up Your Mat and Walk!”
+        podcast:
+          title: Lesson 9 – “Pick Up Your Mat and Walk!” (November 22-28)
+          description: "Kindergarten, Year A, Quarter 4, lesson 9<br/>BIG IDEA: Jesus can do anything. He wants to save me.<br/>This week’s lesson is based on John 5:1–15; The Desire of Ages, ch. 21; and Seventh-day Adventist Bible Commentary, vol. 5.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:07:54"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/09
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/09
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/09
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/09
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/09
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/09
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/09
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/09
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/09
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/09
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/09
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/09
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/10
+        title: 10. Noisy Bartimaeus
+        podcast:
+          title: Lesson 10 – Noisy Bartemaeus (November 29-December 5)
+          description: "Kindergarten, Year A, Quarter 4, lesson 10<br/>BIG IDEA: Jesus can do anything. He hears me when I call out to Him.<br/>This week’s lesson is based on Matthew 20:30–34; Luke 18:35-43; Mark 10:46–52; and The Desire of Ages, ch. 52.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:36"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/10
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/10
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/10
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/10
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/10
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/10
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/10
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/10
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/10
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/10
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/10
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/10
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/11
+        title: 11. The Faith-Filled Soldier
+        podcast:
+          title: Lesson 11 – The Faith-Filled Soldier (December 6-12)
+          description: "Kindergarten, Year A, Quarter 4, lesson 11<br/>BIG IDEA: Jesus can do anything. I can trust Him.<br/>This week’s lesson is based on Luke 7:1–17; Matthew 8:5–13; and The Desire of Ages, ch. 32.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:24"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/11
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/11
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/11
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/11
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/11
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/11
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/11
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/11
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/11
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/11
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/11
+        title: 12. The Funeral Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/11
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/12
+        title: 12. The Funeral Surprise
+        podcast:
+          title: Lesson 12 – The Funeral Surprise (December 13-19)
+          description: "Kindergarten, Year A, Quarter 4, lesson 12<br/>BIG IDEA: Jesus can do anything. He brings me joy.<br/>This week’s lesson is based on Luke 7:11–17 and The Desire of Ages, ch. 32.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:07:33"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/12
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/12
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/12
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/12
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/12
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/12
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/12
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/12
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/12
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/12
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/12
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/12
+        title: 13. “Wake Up, Lazarus!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-13.mp3
+        target: en/aij/2026-04-kd/13
+        title: 13. “Wake Up, Lazarus!”
+        podcast:
+          title: Lesson 13 – “Wake Up, Lazarus!” (December 20-26)
+          description: "Kindergarten, Year A, Quarter 4, lesson 13<br/>BIG IDEA: Jesus can do anything. He is all-powerful.<br/>This week’s lesson is based on John 11:1–44 and The Desire of Ages, ch. 58.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:09:47"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-01.mp3
+        target: en/aij/2026-04-kd/13
+        title: 1. Jesus Calms a Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-02.mp3
+        target: en/aij/2026-04-kd/13
+        title: 2. “Please, Heal My Son”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-03.mp3
+        target: en/aij/2026-04-kd/13
+        title: 3. Bringing a Friend to Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-04.mp3
+        target: en/aij/2026-04-kd/13
+        title: 4. Walking on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-05.mp3
+        target: en/aij/2026-04-kd/13
+        title: 5. Friend to the Lonely
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-06.mp3
+        target: en/aij/2026-04-kd/13
+        title: 6. A Touch of His Garment
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-07.mp3
+        target: en/aij/2026-04-kd/13
+        title: 7. “Little Girl, Get Up!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-08.mp3
+        target: en/aij/2026-04-kd/13
+        title: 8. A Happy Sabbath
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-09.mp3
+        target: en/aij/2026-04-kd/13
+        title: 9. “Pick Up Your Mat and Walk!”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-10.mp3
+        target: en/aij/2026-04-kd/13
+        title: 10. Noisy Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-11.mp3
+        target: en/aij/2026-04-kd/13
+        title: 11. The Faith-Filled Soldier
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd/assets/KD-12.mp3
+        target: en/aij/2026-04-kd/13
+        title: 12. The Funeral Surprise
