@@ -33,4 +33,4 @@ Linda and her mother were grateful that God was helping Linda learn French quick
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_The story is adapted from “Linda’s Surprising Discovery” by Charlotte Ishkanian, Adventist Mission Children’s Magazine, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission._
+The story is adapted from “Linda’s Surprising Discovery” by Charlotte Ishkanian, _Adventist Mission Children’s Magazine_, copyright © 2010 General Conference of Seventh-day Adventists®. Used and adapted by permission.

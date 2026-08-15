@@ -38,7 +38,7 @@ Week 11 craft template on cardstock, metallic markers, light-gray crayon, scisso
 4\. Flip over the helmet and tape the feathers onto the top.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/11/11e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/11/11e.png?updated)
 
 5\. An adult can measure the child’s head and tape the strips together so the helmet fits. Wear the helmet as you reenact the story!
 

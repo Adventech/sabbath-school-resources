@@ -67,7 +67,7 @@ After it is counted, have a child color the first section of the **offering char
 
 Show the children how to find the **memory verse, Mark 4:39**. Share that today’s memory verse has only three words, but they’re very important because they are Jesus’ words. Say it together: **“Peace, be still!”** (Mark 4:39). Listen to, and sing, the **Mark 4:39 Scripture Song**.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/1-mark-4-39.mp3] “Mark 4:39” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/1-mark-4-39.mp3] “Mark 4:39” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 - **What does “peace” mean?** (To be calm, still, quiet, or for there to be no fighting or trouble.)
 

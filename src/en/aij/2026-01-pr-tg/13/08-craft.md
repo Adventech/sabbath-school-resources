@@ -53,4 +53,4 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_Craft by Kimanh le Roux, A Sketch of Faith. www.asketchoffaith.com. Used by permission._
+Craft by Kimanh le Roux, _A Sketch of Faith_. www.asketchoffaith.com. Used by permission.

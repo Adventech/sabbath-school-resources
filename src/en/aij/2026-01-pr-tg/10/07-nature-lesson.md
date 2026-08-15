@@ -25,4 +25,4 @@ If a sugar glider is tamed as a pet, it becomes very good at recognizing and lis
 ---
 
 {"style": {"text": {"size": "sm"}}}
-_The story is adapted from “More About Sugar Gliders” by Elaine Egbert, Nature in a Nutshell, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission._
+The story is adapted from “More About Sugar Gliders” by Elaine Egbert, _Nature in a Nutshell_, copyright © 2003 Review and Herald® Publishing Association. Used and adapted by permission.

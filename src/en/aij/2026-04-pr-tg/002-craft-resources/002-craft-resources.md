@@ -97,7 +97,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Blind Bartimaeus**
 
-![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/10e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/002-craft-resources/10e.png?updated)
 
 **Resources/supplies:** Week 10 craft template, colored pencils, scissors, large craft sticks, tape.
 

@@ -12,7 +12,7 @@ subtitle: Week 9
 
 **^[LISTEN:]({"style": {"text": {"color":"#4d4d4f"}}})** Play the quarterly **Scripture Song playlist** in the background.
 
-```=Scripture Songs
+```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “John 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
@@ -141,7 +141,7 @@ Then sing the **Scripture Song** together: **“Isaiah 54:10.”**
 
 Play the quarterly **Scripture Song playlist** quietly in the background and discuss these ideas as the children make their craft:
 
-```=Scripture Songs
+```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “John 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 

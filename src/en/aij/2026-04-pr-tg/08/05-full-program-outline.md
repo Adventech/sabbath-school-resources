@@ -12,7 +12,7 @@ subtitle: Week 8
 
 **^[LISTEN:]({"style": {"text": {"color":"#4d4d4f"}}})** Play the quarterly **Scripture Song playlist** in the background.
 
-```=Scripture Songs
+```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “John 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
@@ -127,7 +127,7 @@ If time allows, play a **memory verse game**. Write each word of the memory vers
 
 Play this quarter’s **Scripture Song playlist** quietly in the background as children complete their craft.
 
-```=Scripture Songs
+```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “John 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 

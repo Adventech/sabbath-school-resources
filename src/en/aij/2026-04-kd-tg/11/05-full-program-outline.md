@@ -74,7 +74,7 @@ Share how Jesus was glad this person believed in Him, and He was ready to help t
 
 Listen to and sing the **Matthew 8:13 Scripture Song**.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/11-matthew-8-13.mp3] “Matthew 8:13” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/11-matthew-8-13.mp3] “Matthew 8:13” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (5 MINUTES)

@@ -75,7 +75,7 @@ Share that God made the Sabbath during Creation week. Today’s memory verse tel
 
 Listen to and sing the **Mark 2:28 Scripture Song**.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/8-mark-2-28.mp3] “Mark 2:28” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/8-mark-2-28.mp3] “Mark 2:28” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)

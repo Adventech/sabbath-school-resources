@@ -71,7 +71,7 @@ After the money has been counted by an adult, invite a child to color the next s
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/gods-words.mp3] “God’s Words” {"credits":[{"key":"Writer","value":"Amy Cherry"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/3-john-10-10.mp3] “John 10:10” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singers","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/3-john-10-10.mp3] “John 10:10” {"credits":[{"key":"Writer","value":"Sean Nebblett"},{"key":"Singer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 Explain that “abundantly” means to have lots and lots of something. Jesus wants us to have a life that is full and overflowing with goodness.
 

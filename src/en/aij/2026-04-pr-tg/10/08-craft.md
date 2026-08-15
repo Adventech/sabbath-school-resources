@@ -44,4 +44,4 @@ Cut out the eyeholes.
 4\. Retell the story, using your craft as a prop to show how Bartimaeus was blind, then he could see!
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/10/10e.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/10/10e.png?updated)

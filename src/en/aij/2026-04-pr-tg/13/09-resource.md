@@ -1,6 +1,6 @@
 ---
-title: Resources
-markdownTitle: '^[Resources]({"style": {"text": {"color": "#58B0E3"}}})'
+title: Resurrection Picture
+markdownTitle: '^[Resurrection Picture]({"style": {"text": {"color": "#58B0E3"}}})'
 ---
 
 {"style":{"image":{"aspectRatio":1.778}}}

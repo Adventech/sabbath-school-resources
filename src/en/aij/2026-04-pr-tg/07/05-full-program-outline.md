@@ -120,7 +120,7 @@ Play the song **“I Can Trust God”** or the quarterly **Scripture Song playli
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/i-can-trust-god.mp3] “I Can Trust God” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```=Scripture Songs
+```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “John 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 

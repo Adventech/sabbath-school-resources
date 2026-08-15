@@ -12,7 +12,7 @@ subtitle: Week 2
 
 **^[LISTEN:]({"style": {"text": {"color":"#4d4d4f"}}})** Play this quarter’s **Scripture Song playlist** in the background.
 
-```=Scripture Songs
+```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “John 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
@@ -126,7 +126,7 @@ Then if time allows, give each child a beanbag. Place a container at the front a
 
 Play the quarterly **Scripture Song playlist** quietly in the background as children complete their craft. They can practice telling the story to a friend after they’ve finished the craft. Challenge the children to use their craft to share the story and its message with at least one other person beyond their Sabbath School class this week.
 
-```=Scripture Songs
+```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/1-john-14-27.mp3] “John 14:27” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
