@@ -59,6 +59,8 @@ let getResourceInfo = async function (resource, depth = 0) {
     resourceInfo.name = `${resourcePathInfo.title}`
     resourceInfo.type = `${resourcePathInfo.type}`
 
+    resourceInfo.skipFeed = resourceInfo.skipFeed ?? false
+
     // Setting up defaults if not present in the info.yml
     resourceInfo.credits = resourceInfo.credits ?? []
     resourceInfo.features = resourceInfo.features ?? []
@@ -799,6 +801,11 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                 invalidationList.add(`/api/v3/${language}/${resourceFeedForType}/index.json`)
                 invalidationList.add(`/api/v3/${language}/authors/*`)
                 invalidationList.add(`/api/v3/${language}/categories/*`)
+
+                for (let resourceFeedGroup of resourceFeed.groups) {
+                    resourceFeedGroup.resources = resourceFeedGroup.resources.filter((resource) => !resource.skipFeed)
+                }
+
                 fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
             }
         }
