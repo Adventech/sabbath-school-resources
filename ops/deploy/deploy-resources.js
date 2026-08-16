@@ -803,7 +803,9 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                 invalidationList.add(`/api/v3/${language}/categories/*`)
 
                 for (let resourceFeedGroup of resourceFeed.groups) {
-                    resourceFeedGroup.resources = resourceFeedGroup.resources.filter((resource) => !resource.skipFeed)
+                    if (resourceFeedGroup.resources && resourceFeedGroup.resources.length > 0) {
+                        resourceFeedGroup.resources = resourceFeedGroup.resources.filter((resource) => !resource.skipFeed)
+                    }
                 }
 
                 fs.outputFileSync(`${API_DIST}/${language}/${resourceFeedForType}/index.json`, JSON.stringify(resourceFeed))
