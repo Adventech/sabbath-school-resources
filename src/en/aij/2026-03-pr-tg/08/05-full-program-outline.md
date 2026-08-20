@@ -125,6 +125,8 @@ Sing the **Scripture Song** together: **“John 8:12.”**
 
 **^[CRAFT:]({"style": {"text": {"color":"#a771b0"}}})** Show the children your **Fish Miracle craft** sample. Explain and demonstrate the instructions for how to make the craft. Sing **“I Will Make You Fishers of Men”** together, then play the quarterly **Scripture Song playlist** as the children make the craft.
 
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/i-will-make-you-fishers-of-men.mp3] “I Will Make You Fishers of Men” {"credits":[{"key":"Writer","value":"Harry D. Clark"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public Domain."}
+
 ```=Scripture Song Playlist
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/1-luke-1-37.mp3] “Luke 1:37” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Nela Breski"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
