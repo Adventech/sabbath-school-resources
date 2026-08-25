@@ -1,7 +1,3 @@
-### BYAQ1: Creation
+### Creation
 
-This program explores the seven days of creation. The children will
-
-- Know that God created our world.
-- Feel loved by God because He made the world, them, and the Sabbath.
-- Respond by thanking God for the things He made.
+Explore the love of God through the story of Creation: how God made our world, us, and the Sabbath.

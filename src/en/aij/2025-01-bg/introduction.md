@@ -1,3 +1,3 @@
 ### Creation
 
-God created our wonderful world in seven days.
+Discover how God created our wonderful world in seven days.

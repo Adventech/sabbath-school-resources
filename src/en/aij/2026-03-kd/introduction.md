@@ -1,1 +1,3 @@
-These 13 lessons unpack the idea that Jesus is my God through exploring the stories of Jesus born on earth, His baptism, temptation, calling of the disciples, early miracles, Zacchaeus, and Jesus' trip to Capernaum.
+### Jesus Is My God
+
+Find out how God’s rescue plan unfolded through the story of Jesus, God’s Son. You’ll learn about His amazing birth, baptism, temptation, calling of disciples, early miracles, and work for God.

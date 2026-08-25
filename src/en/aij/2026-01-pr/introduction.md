@@ -1,1 +1,3 @@
-This quarter explores the stories of creation, the fall of Lucifer, Adam and Eve's choice in the Garden of Eden, Cain and Abel, Noah, the Tower of Babel, Abraham, and Baby Isaac.
+### My God Is Loving
+
+Discover the story of Creation, and God’s love for the people and world He created. Witness Adam and Eve’s terrible choice in the Garden of Eden and God’s great rescue plan, played out through the stories from Adam to Abraham.

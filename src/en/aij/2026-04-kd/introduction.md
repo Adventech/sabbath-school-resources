@@ -1,1 +1,3 @@
-These 13 lessons unpack the idea that Jesus can do anything. Some of the miracles of Jesus are explored, such as Jesus calming a storm, walking on water, healing the sick and the lonely, raising a little girl and Lazarus from the dead, and restoring sight to Bartimaeus, who was blind.
+### Jesus Can Do Anything
+
+Jesus is amazing! As you discover His miracles—from stopping a storm to healing and raising a man to life—you’ll learn that Jesus can do anything.

@@ -1,3 +1,3 @@
-### Miracles By the Sea (Jesus Cares for Me)
+### Miracles by the Sea
 
-Jesus did many miracles to show that He cared for everyone He met.
+Jesus cares for you! Learn about His many miracles which show His love and care.

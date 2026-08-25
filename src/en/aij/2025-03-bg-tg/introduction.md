@@ -1,7 +1,3 @@
-### BYAQ3: In the Wilderness (God Is Always With Me)
+### God is Always With Me
 
-God wants to be with His people. We see His promises, plans, and patience in the Exodus story. The children will
-
-- Know that God is always with them.
-- Feel happy and safe because God can be trusted.
-- Respond by obeying God and saying thank You to Him for what He provides.
+Experience the Exodus story and God’s desire to be close to His people. The children will learn how God cared for baby Moses, and His people, and that He will always be with them too.

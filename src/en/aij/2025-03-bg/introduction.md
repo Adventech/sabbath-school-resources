@@ -1,3 +1,3 @@
-### In the Desert (God is Always With Me)
+### God is Always With Me
 
-God wants to be with His people. We see His promises, plans, and patience in the Exodus story.
+God is always with you! Find out how He cared for baby Moses and His people as they journeyed to His promised new home for them.

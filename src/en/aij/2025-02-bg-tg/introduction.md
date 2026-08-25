@@ -1,7 +1,3 @@
-### BYAQ2: Miracles by the Sea (Jesus Takes Care of Me)
+### Miracles by the Sea
 
-Jesus did many miracles to show that He cared for everyone He met. The children will
-
-- Know that Jesus cares for them.
-- Feel happy that Jesus is their special caring Friend.
-- Respond by thanking God for the things He made.
+Jesus’s miracles are amazing! Share the excitement and wonder as the children learn how Jesus shows His special care for others and for them too.

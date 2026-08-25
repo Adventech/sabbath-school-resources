@@ -1,1 +1,3 @@
-These 13 lessons unpack the idea that Jesus is my God through exploring the stories of Jesus born on earth, His baptism, temptation, calling of the disciples, early miracles, Zacchaeus, and Jesus' trip to Capernaum.
+### Jesus Can Do Anything
+
+Jesus’ exciting ministry continues in these chronological lessons about His miracles, recorded in the gospels. As the children witness His love and power, they’ll learn that they can put their trust in Jesus as He can do anything!

@@ -1,1 +1,3 @@
-These 13 programs explore the stories of Isaac, Jacob, Joseph, and Naomi and Ruth while teaching children that no matter what we face, God is with us.
+### God Is With Me
+
+The journey through Genesis continues as these lessons follow Abraham’s descendants: Isaac, Jacob, then Joseph, before skipping to Ruth. God’s faithfulness shines through their stories, reassuring us that He is also with us.

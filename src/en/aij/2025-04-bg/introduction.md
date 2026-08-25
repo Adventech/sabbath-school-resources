@@ -1,3 +1,3 @@
-### I Can Be God's Helper (At Home)
+### I Can Be God’s Helper
 
-No matter who we are or what we can do, we can be God’s helper by helping others.
+Meet some of God’s good helpers—little Samuel, Ruth, and Boaz. You can be God’s helper too! We also celebrate the birth of Jesus—a gift from God.
