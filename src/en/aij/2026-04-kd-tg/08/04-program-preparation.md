@@ -51,7 +51,6 @@ Source: **colored construction paper, pencils, markers, hole punch, scissors, pi
 - Nature Collector Card 47: Lion
 - Week 8 Program PowerPoint
 - Mission Fast Fact
-- Picture of Jesus
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Additional Resources to Source**
