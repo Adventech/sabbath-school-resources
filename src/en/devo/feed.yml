@@ -14,22 +14,25 @@
     view: square
     resources:
       - en-devo-dh-reading-plan*
-  - group: Other Daily Devotionals
+  - group: Week of Prayer
     view: folio
     resources:
-      - en-devo-nad-family-devo-2025
-      - en-devo-nad-health-devo-2025
+      - en-devo-wop-2026
+      - en-devo-wop-2026-childrens-resource
+      - en-devo-wop-2025
+      - en-devo-wop-2025-childrens-resource
   - group: Prayer initiatives
     view: folio
     resources:
       - en-devo-2026-quarterly-days-of-prayer-and-fasting
-      - en-devo-youth-week-of-prayer-2026
       - en-devo-stewardship-revival-week-2025
-      - en-devo-wop-2025
-      - en-devo-wop-2025-childrens-resource
       - en-devo-2025-quarterly-days-of-prayer-and-fasting
       - en-devo-ten-days-of-prayer-2025
       - en-devo-ten-days-of-prayer-2025-childrens-resource
+  - group: Youth Week of Prayer
+    view: folio
+    resources:
+      - en-devo-youth-week-of-prayer-2026
       - en-devo-youth-week-of-prayer-2025
   - group: Devotional Resources
     view: folio
@@ -44,3 +47,8 @@
       - en-devo-abide-in-jesus
       - en-devo-spirit-filled-coworkers-of-jesus
       - en-devo-from-lack-to-abundance
+  - group: Other Daily Devotionals
+    view: folio
+    resources:
+      - en-devo-nad-family-devo-2025
+      - en-devo-nad-health-devo-2025
