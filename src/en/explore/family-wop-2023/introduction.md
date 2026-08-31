@@ -1,3 +1,5 @@
+### Keys to Healthy Minds: Flourishing Families
+
 The COVID-19 pandemic was a traumatic experience for the entire world. Many individuals, couples, and families had already been experiencing a level of distress, while trying to hold it together physically, emotionally, and spiritually.
 
 Within this context, the apostle Paul emphatically urges: “Rejoice in the Lord always. Again I will say, rejoice” (Philippians 4:4). Paul is writing from a prison cell and clearly understands that in every life trying times will interrupt the normal flow of things. Yet, he knew there was no situation beyond God’s help.

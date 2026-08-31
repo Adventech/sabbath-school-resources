@@ -1,0 +1,3 @@
+### Intelligent Faith
+
+The war was raging on the Russian front. Germany’s forces had driven into the heart of Russia with blitzkrieg speed. Hitler vowed that the Third Reich, uniting Europe and Russia, would last a thousand years. German corporal Franz Hasel was the clerk of Pioneer Park Unit 699, a bridge-building engineering unit in the southern flank of the Russian front. For several years they fought their way through Ukraine and over the Caucasus Mountains toward the city of Baku and the Caspian Sea, containing the Russians’ oil reserves.

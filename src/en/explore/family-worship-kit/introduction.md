@@ -1,0 +1,3 @@
+### Lessons from Jesus: Family Worship Kit
+
+This fun, kid-friendly, interactive worship kit was prepared by the Center for Youth Evangelism. Parents are sometimes challenged in providing meaningful worship experiences for their children. This is an especially difficult time to disciple children when families are quarantined and churches are closed. “Lessons from Jesus” will teach principles from some of Jesus’ parables. This curriculum can help parents disciple their children even when they are not able to attend a church worship service.

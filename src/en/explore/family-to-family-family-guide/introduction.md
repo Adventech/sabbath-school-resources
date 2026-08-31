@@ -1,0 +1,3 @@
+### Family to Family: Family Guide
+
+Everyone can see that families in our world are under attack. We are inundated with stories and statistics regarding high divorce rates, domestic violence, rebellious children, pornography, and babies born to unwed parents. New research continues to emphasize an old problem: Homes are falling to pieces. Communities are populated with overwhelmed single parents, angry teens, neglected children, etc. And no culture is untouched by these results of broken families.

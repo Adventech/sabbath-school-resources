@@ -1,0 +1,3 @@
+### War in Heaven
+
+Heaven? That seems like the least likely place for a war. The Bible tells us that “war broke out in heaven: Michael and his angels fought with the dragon; and the dragon and his angels fought, but they did not prevail, nor was a place found for them in heaven any longer” (Revelation 12:7, 8). How did this conflict begin, and what was it all about? The answer to these questions reveals the reason behind the unrest plaguing planet earth, as well as the human heart.

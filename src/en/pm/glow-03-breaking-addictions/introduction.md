@@ -1,0 +1,3 @@
+### Breaking Addictions
+
+When I saw Randy, he appeared to be at death’s door. After a long embrace, I looked into his eyes, which were sunk way back into his head. I watched tears welling up. He told me how good I looked and how proud he felt that I was clean and sober. I looked him squarely in the eyes and said, “Randy, you don’t have to live like this.” He responded with a perplexed look, cocked his head a little, and asked, “I don’t?” No one had ever told Randy that before. My old friend who did drugs with me, who had abused substances his entire adult life—like my wife and I—knew no other way.

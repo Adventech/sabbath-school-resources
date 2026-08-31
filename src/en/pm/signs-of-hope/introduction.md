@@ -1,0 +1,3 @@
+### Signs of Hope
+
+In a world in which life is no longer sacred, hunger and poverty are rampant, and natural disasters are worse than ever before, one searches for a rational explanation of all these. And asks if there is anything that could save us from this mess…

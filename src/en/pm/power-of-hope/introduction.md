@@ -1,0 +1,3 @@
+### The Power of Hope: Overcoming depression, anxiety, guilt, and stress
+
+What should we do when illness is not located in one specific part of the body? The Power of Hope focuses on how to overcome depression, anxiety, guilt and stress in the modern world. The authors teach how one can experience a meaningful, successful life by discovering the answers to a path of peace, restoration, and healing.

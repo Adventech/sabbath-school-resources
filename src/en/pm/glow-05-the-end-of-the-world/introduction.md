@@ -1,0 +1,3 @@
+### The End of the World?
+
+The temperature of the earth’s core, bombarded by neutrinos from a massive solar flare, will increase dramatically. This will cause cataclysmic earthquakes worldwide, including the eruption of the massive Yellowstone caldera in Wyoming. These earthquakes, in turn, will initiate mega tsunamis that sweep across the continents. The result? Worldwide devastation and the end of the world—all recently portrayed in a Hollywood movie.

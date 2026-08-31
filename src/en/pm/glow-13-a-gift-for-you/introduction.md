@@ -1,0 +1,3 @@
+### A Gift for You
+
+The phone call—the call everyone hoped for, and everyone dreaded—came at 2:00 a.m. “We have a heart for Jacob,” the voice said. Everyone hoped for the call because twelve-year-old Jacob had been on the heart transplant list for many days, and soon his condition would deteriorate to the point where he would no longer be considered a good candidate for a heart transplant. Then his name would be removed from the list, taking with it his last hope. But on this day, Jacob and his family were about to receive an incredible gift—the gift of a new heart, the gift of a new life.

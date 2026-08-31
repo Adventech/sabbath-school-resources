@@ -1,0 +1,3 @@
+### The Promise of Peace
+
+It is peace that you need—heaven’s forgiveness and peace and love in the soul. Money cannot buy it, intellect cannot procure it, wisdom cannot attain to it; you can never hope, by your own efforts, to secure it. But God offers it to you as a gift, “without money and without price” (Isaiah 55:1). It is yours if you will but reach out your hand and grasp it. The Lord says, “Though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall be as wool” (Isaiah 1:18). “I will give you a new heart and put a new spirit within you” (Ezekiel 36:26).

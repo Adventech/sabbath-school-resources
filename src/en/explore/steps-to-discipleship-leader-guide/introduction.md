@@ -1,0 +1,3 @@
+### Steps to Discipleship Small Group Leader’s Guide
+
+Welcome to the Steps to Discipleship Small Group Leader’s Guide. You are a vital part of the success and impact of program. The small group process will greatly contribute to the spiritual growth of your group members as they work through these next seven weeks. Please join us in praying that God will use you and your group to help each member deepen his or her walk with God. Thank you for being an important part of this exciting journey together.

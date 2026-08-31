@@ -1,0 +1,3 @@
+### I Will Go: Strategic Plan 2025–2030
+
+God has called the Seventh-day Adventist Church to a prophetic mission and redemptive message of Scripture, as declared by the three angels of Revelation 14:6-12. The Holy Spirit empowers and directs the church in fulfilling this mission and proclaiming this message. God calls each church member to lovingly proclaim the everlasting gospel by using the spiritual gifts He has given them.

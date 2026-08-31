@@ -1,0 +1,3 @@
+### Steps to Health
+
+Energy, life, and good health—if you have them, they are your most valuable possessions. Being healthy means more than just not being sick; it means an abundant life. How can you live life at your fullest potential—physically, mentally, socially, and spiritually? You can’t control all the things that cause disease or accidents, but you can make choices that reduce your risks and promote health. Here are eight simple steps to better health that you can begin to put into practice today.

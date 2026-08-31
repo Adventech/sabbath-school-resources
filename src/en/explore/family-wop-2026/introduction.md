@@ -1,3 +1,5 @@
+### Anchored Family in a Digital World
+
 We live in a world that moves faster than our souls can follow. Volatile markets, Uncertain futures, Complex challenges, and Ambiguous moral landscapes press upon our families from every direction. Into this already turbulent reality comes a relentless digital intrusion—notifications that splinter our attention, algorithms that shape our desires, and screens that so often sit where sacred conversation used to live. Around dinner tables, in bedrooms, and even in quiet moments of family worship, the noise of the world competes for the hearts of those we love most.
 
 This Family Togetherness Week of Prayer invites us to pause, breathe, and return. Not to a nostalgic past, but to the timeless Word of God that has anchored His people through everystorm of history. The psalmist declared, “Your word is a lamp to my feet and a light to my path” (Psalm 119:105). In a VUCA WORLD, Scripture is not merely comforting—it is essential. It orients us when everything shifts, steadies us when the ground trembles, and clarifies what matters when voices multiply.

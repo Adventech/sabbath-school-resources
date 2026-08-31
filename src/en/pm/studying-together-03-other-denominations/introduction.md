@@ -1,0 +1,3 @@
+### Studying Together III: Understanding Churches, Denominations, and other Religious Groups
+
+This section contains a brief background of each group, discussing their major teachings with practical suggestions in reaching people in that particular group. Since this is a Bible handbook and not library encyclopedic reference work on world religious, we are intentionally brief. I have designed these comments so they are concrete, specific, practical, and easy to put into practice as you share Jesus and His truth with your friends. I pray that this section will enable you to understand the essence of what each group believes and give you direction in reaching them for Him.

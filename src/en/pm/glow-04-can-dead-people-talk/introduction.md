@@ -1,0 +1,3 @@
+### Can Dead People Talk?
+
+Are you a car or a computer? “That’s silly,” you say. “I’m neither. I’m a human being.” True enough, but let’s pursue the question anyway. Cars and computers have one thing in common with us humans: we all need intelligence in order to function properly. However, cars don’t have an intelligence of their own. A car needs an intelligent operator to get inside, start the engine, and drive off. When the intelligent operator arrives at his destination, he turns off the ignition, and the car “dies.” The intelligent operator then gets out of the “dead” car and takes care of his business.

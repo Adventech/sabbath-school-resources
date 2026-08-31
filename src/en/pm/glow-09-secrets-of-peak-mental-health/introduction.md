@@ -1,0 +1,3 @@
+### Secrets of Peak Mental Health
+
+In 1944, at the age of 16, Edith Eger was taken by the Nazis from her home in Hungary and sent to the infamous Auschwitz death camp. Although spared the gas chambers used on her parents, the already-thin Edith gradually wasted away as she was transferred from one camp to another. In May 1945, Edith fell into an unconscious stupor, approaching death. The guards assumed she was dead and threw her into a mass grave in the woods behind the Gunskirchen Lager Camp. Miraculously, an American GI saw Edith’s hand moving amidst the corpses. He rescued the then 60-pound girl from certain death

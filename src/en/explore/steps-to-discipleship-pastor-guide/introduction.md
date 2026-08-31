@@ -1,0 +1,3 @@
+### Steps to Discipleship Pastor's Manual
+
+Welcome to the Steps to Discipleship (S2D) strategy. Making disciples is one of Jesus’ greatest commands. We cooperate with God when we help others walk with him and also integrate him into their lives in a greater way. This is also a partnership with the Holy Spirit. Our success can be found only as we open our hearts, abilities, and ministries as to his presence and power.
