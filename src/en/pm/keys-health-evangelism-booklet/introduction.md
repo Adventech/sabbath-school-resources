@@ -1,0 +1,3 @@
+### Health Evangelism
+
+This book is your key to unlocking the benefits of a health ministry in your church. It shares the biblical support behind the Seventh-day Adventist Church’s health message and outlines a holistic view of health. Discover useful steps to optimize your health, tips for teaching these steps to others, and ideas for planning and promoting your ministry. This book is a must-read for all health and personal ministries leaders.

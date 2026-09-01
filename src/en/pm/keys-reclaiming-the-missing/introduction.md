@@ -1,0 +1,3 @@
+### Reclaiming the Missing
+
+Do you want to reach former and missing members of your church? This book is your guide to learning why people leave the church and how to bring them back into the fold. In these pages, you will find guidelines for visiting missing members and ideas for reconnecting with them. You will also learn how to effectively keep those who are currently attending your church. Discover how your church can become a safe place for everyone.

@@ -1,0 +1,3 @@
+### Personal Witnessing
+
+If you want to witness to your friends, family, and community, this book is for you. It covers aspects of personal witnessing including questions for a non-Christian, witnessing to a variety of temperaments, witnessing without fear, and more. This book also contains personal accounts of the difference witnessing has made in people’s lives. Learn how you can reach out to everyone you meet!

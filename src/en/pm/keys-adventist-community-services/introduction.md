@@ -1,0 +1,3 @@
+### Adventist Community Services
+
+God has called every Seventh-day Adventist to be a transforming agent in their community and in the church, following the method of Jesus to bring help and hope through ministries of compassion in His name. This Adventist Community Services leaflet gives an overview of what you can do to connect with your community. You’ll find ideas, programs, resources and much more that will help you follow Jesus’ model of service.

@@ -1,0 +1,3 @@
+### Gaining Decisions for Christ & His Truth
+
+This book is a must-read for anyone who wants to give Bible studies that lead people to Christ. Gaining Decisions for Christ and His Truth will give you the tools you need to lead people from darkness to light, from a lost condition to salvation. It will guide you through the process of creating the right atmosphere, identifying the right moment, answering objections, depending on the Holy Spirit, and more.
