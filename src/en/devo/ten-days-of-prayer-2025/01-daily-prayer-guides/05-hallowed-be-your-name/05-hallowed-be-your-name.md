@@ -3,7 +3,6 @@ title: Hallowed be Your Name
 date: 12/01/2025
 ---
 
-
 > <p>Matt. 5:16, NKJV</p>
 > “Let your light so shine before men, that they may see your good works and glorify your Father in heaven”
 

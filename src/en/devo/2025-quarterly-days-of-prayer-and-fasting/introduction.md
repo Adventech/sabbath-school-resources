@@ -1,0 +1,3 @@
+### 2025 Quarterly Days of Prayer and Fasting
+
+Bold prayers and their incredible answers are woven into the stories and prophecies of Daniel. As we examine the prophet’s prayers, we will find that the power to move God is not found simply in the words we use but also in the life we live. We will also see the potent results of persistent, Holy Spirit-led prayer. Heaven itself listens and answers! Join us as we learn to pray like Daniel.

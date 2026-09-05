@@ -34,54 +34,54 @@ title: Music and Podcasts
 
 **Week 1 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3] Two Birth Announcements {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-01.mp3] Two Birth Announcements {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 2 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-02.mp3] The Gift of Jesus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-02.mp3] The Gift of Jesus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 3 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-03.mp3] Worshipping Baby Jesus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-03.mp3] Worshipping Baby Jesus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 4 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-04.mp3] Keeping Baby Jesus Safe {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-04.mp3] Keeping Baby Jesus Safe {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 5 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-05.mp3] Growing Up in Nazareth {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-05.mp3] Growing Up in Nazareth {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 6 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-06.mp3] At the Jordan River {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-06.mp3] At the Jordan River {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 7 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-07.mp3] Victory in the Wilderness {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-07.mp3] Victory in the Wilderness {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 8 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-08.mp3] Called to Follow Jesus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-08.mp3] Called to Follow Jesus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 9 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-09.mp3] No More Grape Juice! {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-09.mp3] No More Grape Juice! {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 10 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-10.mp3] Jesus Feeds the Crowds {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-10.mp3] Jesus Feeds the Crowds {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 11 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-11.mp3] Growing Disciples {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-11.mp3] Growing Disciples {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 12 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-12.mp3] Zacchaeus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-12.mp3] Zacchaeus {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 13 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-13.mp3] Blessings in Capernaum {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr/assets/PR-13.mp3] Blessings in Capernaum {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 ```

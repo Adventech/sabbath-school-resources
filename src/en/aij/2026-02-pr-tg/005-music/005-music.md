@@ -65,3 +65,59 @@ Here, you'll find a playlist which includes all songs in the order they will be 
 ```
 
 _Visit the Alive in Jesus website to find backing tracks, as well as sheet music for original songs. All other sheet music and songs can be found in the songbook Little Voices Praise Him._
+
+```=Weekly Podcasts
+
+**Week 1 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-01.mp3] The Birthright Stew {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 2 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-02.mp3] Jacob Tricks Isaac {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 3 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-03.mp3] The Ladder from Heaven {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 4 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-04.mp3] Jacob Works for Uncle Laban {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 5 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-05.mp3] Jacob and the Midnight Wrestle {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 6 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-06.mp3] Joseph’s Coat and Dreams {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 7 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-07.mp3] Joseph and His Brothers {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 8 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-08.mp3] Joseph: A Slave in Egypt {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 9 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-09.mp3] Joseph: From Prison to Palace {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 10 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-10.mp3] Joseph: Governor of Egypt {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 11 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-11.mp3] A Family Reunited {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 12 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-12.mp3] Ruth and Naomi {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 13 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr/assets/PR-13.mp3] Ruth and Boaz {"credits":[{"key":"Narrator","value":"Bradley Martin"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+```

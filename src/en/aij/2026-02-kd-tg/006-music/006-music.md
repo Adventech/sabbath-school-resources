@@ -75,3 +75,59 @@ Here, you'll find a playlist which includes all songs in the order they will be 
 ```
 
 _Visit the Alive in Jesus website to find backing tracks, as well as sheet music for original songs. All other sheet music and songs can be found in the songbook Little Voices Praise Him._
+
+```=Weekly Podcasts
+
+**Week 1 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-01.mp3] Isaac and Rebekah {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 2 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-02.mp3] The Birthright Blessing {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 3 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-03.mp3] Jacob Finds His Savior {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 4 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-04.mp3] Jacob in Haran {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 5 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-05.mp3] Brothers Meet Again {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 6 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-06.mp3] The Dreamer {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 7 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-07.mp3] Sold! {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 8 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-08.mp3] A New Life in Egypt {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 9 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-09.mp3] Miracles in Prison {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 10 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-10.mp3] The New Governor {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 11 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-11.mp3] A Family Reunion! {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 12 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-12.mp3] Shining in Faraway Places {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+**Week 13 Podcast**
+
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd/assets/KD-13.mp3] Welcome to the Family {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+
+```

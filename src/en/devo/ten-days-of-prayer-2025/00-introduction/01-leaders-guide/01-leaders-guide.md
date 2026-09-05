@@ -1,5 +1,5 @@
 ---
-title: Leader's Guide
+title: Leader’s Guide
 ---
 
 Welcome to Ten Days of Prayer! We believe prayer is the birthplace of revival. God has worked so many miracles in past years as we have sought Him together in prayer and fasting. The Holy Spirit has brought about conversions, renewed passion for evangelism, revived churches, and healed relationships.

@@ -90,54 +90,54 @@ _Visit the Alive in Jesus website to find backing tracks, as well as sheet music
 
 **Week 1 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-01.mp3] Jesus Calms a Storm
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-01.mp3] Jesus Calms a Storm {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 2 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-02.mp3] “Please, Heal My Son”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-02.mp3] “Please, Heal My Son” {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 3 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-03.mp3] Bringing a Friend to Jesus
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-03.mp3] Bringing a Friend to Jesus {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 4 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-04.mp3] Walking on Water
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-04.mp3] Walking on Water {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 5 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-05.mp3] Friend to the Lonely
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-05.mp3] Friend to the Lonely {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 6 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-06.mp3] A Touch of His Garment
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-06.mp3] A Touch of His Garment {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 7 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-07.mp3] “Little Girl, Get Up!”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-07.mp3] “Little Girl, Get Up!” {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 8 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-08.mp3] A Happy Sabbath
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-08.mp3] A Happy Sabbath {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 9 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-09.mp3] “Pick Up Your Mat and Walk!”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-09.mp3] “Pick Up Your Mat and Walk!” {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 10 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-10.mp3] Noisy Bartimaeus
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-10.mp3] Noisy Bartimaeus {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 11 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-11.mp3] The Faith-Filled Soldier
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-11.mp3] The Faith-Filled Soldier {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 12 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-12.mp3] The Funeral Surprise
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-12.mp3] The Funeral Surprise {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 **Week 13 Podcast**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-13.mp3] “Wake Up, Lazarus!”
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/KD-13.mp3] “Wake Up, Lazarus!” {"credits":[{"key":"Narrator","value":"Nina Atcheson"},{"key":"Music","value":"Lindsey Mills"},{"key":"Sound Engineer","value":"Bradley Martin (Faith FM Australia)"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 ```
