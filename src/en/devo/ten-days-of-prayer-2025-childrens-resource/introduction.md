@@ -1,0 +1,3 @@
+### 2025 Ten Days of Prayer
+
+Ten Days of Prayer initiative (formerly called Operation Global Rain) was adopted by the world church in 2010. Churches in over a hundred countries have received rich blessings through Ten Days of Prayer which occurs every January. God is faithful! The Ten Days experience can’t be quantified. Hearts are surrendered, souls convicted, and requests for prayer have been answered. We invite you to be part of this special initiative. This year it will be held from January 8-18, 2025.
