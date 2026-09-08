@@ -1,0 +1,565 @@
+audio:
+  - artist: Alive in Jesus
+    podcast:
+      source: english-aij-primary.xml
+      image: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/episodeart-pr-a04.jpg
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/01
+        title: 1. Jesus Calms the Storm
+        podcast:
+          title: Lesson 1 – Jesus Calms the Storm (September 27-October 3)
+          description: "Primary, Year A, Quarter 4, lesson 1<br/>BIG IDEA: When I am scared, I can trust in Jesus to calm my fears and give me peace.<br/>This week’s lesson is based on Mark 4:35-40, Luke 8:22-25, and Matthew 8:23-27; The Desire of Ages, pp. 333-336. Extra Reading: The Bible Story, vol. 7, pp. 184-188.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:09:05"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/01
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/01
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/01
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/01
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/01
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/01
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/01
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/01
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/01
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/01
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/01
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/01
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/02
+        title: 2. Healed from Afar
+        podcast:
+          title: Lesson 2 – Healed from Afar (October 4-10)
+          description: "Primary, Year A, Quarter 4, lesson 2<br/>BIG IDEA: I can bring my worries and doubts to Jesus for He cares for me.<br/>This week’s lesson is based on the story of the healing of the nobleman’s son as found in John 4:46-54. Some insights have also been drawn from The Desire of Ages, pp. 196-200, and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 943, 944, to enhance this lesson. Extra Reading: The Bible Story, vol. 7, pp. 155, 156.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:23"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/02
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/02
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/02
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/02
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/02
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/02
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/02
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/02
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/02
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/02
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/02
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/02
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/03
+        title: 3. The Man with Four Faith-Filled Friends
+        podcast:
+          title: Lesson 3 – The Man with Four Faith-Filled Friends (October 11-17)
+          description: "Primary, Year A, Quarter 4, lesson 3<br/>BIG IDEA: Godly friends bring me to Jesus, who has the power to heal my body and forgive my sins.<br/>This week’s lesson is based on Matthew 9:1-8, Mark 2:1-12, and Luke 5:17-26; The Desire of Ages, pp. 267-271; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 579-582. Extra Reading: The Bible Story, vol. 7, pp. 174-176.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:46"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/03
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/03
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/03
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/03
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/03
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/03
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/03
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/03
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/03
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/03
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/03
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/03
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/04
+        title: 4. Jesus Walks on Water
+        podcast:
+          title: Lesson 4 – Jesus Walks on Water (October 18-24)
+          description: "Primary, Year A, Quarter 4, lesson 4<br/>BIG IDEA: Jesus helps me do the impossible when I keep my eyes on Him.<br/>This week’s lesson is based on the story of Peter walking toward Jesus on the water as found in Matthew 14:22-33, Mark 6:45-51, and John 6:15-21. Some insights have also been drawn from The Desire of Ages, pp. 377-382, and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 415-417, to enhance this lesson. Extra Reading: The Bible Story, vol. 8, pp. 47, 48.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:09:16"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/04
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/04
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/04
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/04
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/04
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/04
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/04
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/04
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/04
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/04
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/04
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/04
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/05
+        title: 5. Jesus Shows Compassion
+        podcast:
+          title: Lesson 5 – Jesus Shows Compassion (October 25-31)
+          description: "Primary, Year A, Quarter 4, lesson 5<br/>BIG IDEA: Jesus’ compassion for all people shows they are loved and accepted.<br/>This week’s lesson is based on Matthew 8:1-4, Mark 1:40-45, Mark 7:31-37, and John 9; The Desire of Ages, pp. 262-266, 340, 341, 470-475; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 573, 574, 627, 996-998. Extra Reading: The Bible Story, vol. 8, pp. 25-27.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:23"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/05
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/05
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/05
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/05
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/05
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/05
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/05
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/05
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/05
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/05
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/05
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/05
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/06
+        title: 6. A Healing Touch
+        podcast:
+          title: Lesson 6 – A Healing Touch (November 1-7)
+          description: "Primary, Year A, Quarter 4, lesson 6<br/>BIG IDEA: Jesus heals me when I reach out to Him.<br/>This week’s lesson is based on Mark 5:25-34 and Luke 8:43-48; The Desire of Ages, pp. 343-347; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 607, 608. Extra Reading: The Bible Story, vol. 8, pp. 13, 14.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:33"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/06
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/06
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/06
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/06
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/06
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/06
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/06
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/06
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/06
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/06
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/06
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/06
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/07
+        title: 7. Jairus’ Daughter
+        podcast:
+          title: Lesson 7 – Jairus’ Daughter (November 8-14)
+          description: "Primary, Year A, Quarter 4, lesson 7<br/>BIG IDEA: I can trust Jesus, even when things look hopeless.<br/>This week’s lesson is based on Mark 5:21-24, 35-43; Luke 8:40-56; Matthew 9:18, 19, 23-26; The Desire of Ages, pp. 342, 343; and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 606-610. Extra Reading: The Bible Story, vol. 8, pp. 12-15.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:08"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/07
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/07
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/07
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/07
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/07
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/07
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/07
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/07
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/07
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/07
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/07
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/07
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/08
+        title: 8. Sabbath Healings
+        podcast:
+          title: Lesson 8 – Sabbath Healings (November 15-21)
+          description: "Primary, Year A, Quarter 4, lesson 8<br/>BIG IDEA: Jesus wants me to know and share the blessing of the Sabbath by caring for others.<br/>This week’s lesson is based on Luke 13:10-17, Matthew 12:9-13, Mark 3:1-6, Luke 6:6-11, and Luke 14:1-6; The Desire of Ages, pp. 286-289; and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 805-807.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:57"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/08
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/08
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/08
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/08
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/08
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/08
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/08
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/08
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/08
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/08
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/08
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/08
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/09
+        title: 9. Healed at the Pool of Bethesda
+        podcast:
+          title: Lesson 9 – Healed at the Pool of Bethesda (November 22-28)
+          description: "Primary, Year A, Quarter 4, lesson 9<br/>BIG IDEA: We see how much Jesus loves us through His words and His kind actions.<br/>This week’s lesson is based on John 5:1-15; The Desire of Ages, pp. 201-203; and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 947-950. Extra Reading: The Bible Story, vol. 8, pp. 33-36.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:53"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/09
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/09
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/09
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/09
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/09
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/09
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/09
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/09
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/09
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/09
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/09
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/09
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/10
+        title: 10. Blind Bartimaeus
+        podcast:
+          title: Lesson 10 – Blind Bartimaeus (November 29-December 5)
+          description: "Primary, Year A, Quarter 4, lesson 10<br/>BIG IDEA: Jesus loves to see me get excited about what He can do for me.<br/>This week’s lesson is based on the story of the healing of blind Bartimaeus as found in Mark 10:46-52 and Luke 18:35-43. Some insights have also been drawn from The Seventh-day Adventist Bible Commentary, vol. 5, pp. 639-641 and 1111, to enhance this lesson. Extra Reading: The Bible Story, vol. 8, pp. 28-32.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:12"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/10
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/10
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/10
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/10
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/10
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/10
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/10
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/10
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/10
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/10
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/10
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/10
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/11
+        title: 11. The Centurion’s Servant
+        podcast:
+          title: Lesson 11 – The Centurion’s Servant (December 6-12)
+          description: "Primary, Year A, Quarter 4, lesson 11<br/>BIG IDEA: Jesus sees my need and responds to my faith in Him.<br/>This week’s lesson is based on the story of the healing of the centurion’s servant as found in Luke 7:1-10 and Matthew 8:5-13. Some insights have also been drawn from The Desire of Ages, pp. 315-318, and The Seventh-day Adventist Bible Commentary, vol. 5, pp. 752-756, to enhance this lesson.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:54"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/11
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/11
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/11
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/11
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/11
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/11
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/11
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/11
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/11
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/11
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/11
+        title: 12. Miracle in Nain
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/11
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/12
+        title: 12. Miracle in Nain
+        podcast:
+          title: Lesson 12 – Miracle in Nain (December 13-19)
+          description: "Primary, Year A, Quarter 4, lesson 12<br/>BIG IDEA: Jesus can comfort us when we are sad, to give us hope and joy.<br/>This week’s lesson is based on Luke 7:11-17; The Desire of Ages, pp. 318-320; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 756-758. Extra Reading: The Bible Story, vol. 7, pp. 180-183.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:08:23"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/12
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/12
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/12
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/12
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/12
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/12
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/12
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/12
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/12
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/12
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/12
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/12
+        title: 13. “Lazarus, Come Out”
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-13.mp3
+        target: en/aij/2026-04-pr/13
+        title: 13. “Lazarus, Come Out”
+        podcast:
+          title: Lesson 13 – “Lazarus, Come Out!” (December 20-26)
+          description: "Primary, Year A, Quarter 4, lesson 13<br/>BIG IDEA: Jesus has the power to resurrect those who have died.<br/>This week’s lesson is based on John 11:1-44; The Desire of Ages, pp. 524-536; The Seventh-day Adventist Bible Commentary, vol. 5, pp. 1011-1017. Extra Reading: The Bible Story, vol. 9, pp. 22-26.<br/>Visit our website https://aliveinjesus.info"
+          duration: "00:09:50"
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-01.mp3
+        target: en/aij/2026-04-pr/13
+        title: 1. Jesus Calms the Storm
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-02.mp3
+        target: en/aij/2026-04-pr/13
+        title: 2. Healed from Afar
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-03.mp3
+        target: en/aij/2026-04-pr/13
+        title: 3. The Man with Four Faith-Filled Friends
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-04.mp3
+        target: en/aij/2026-04-pr/13
+        title: 4. Jesus Walks on Water
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-05.mp3
+        target: en/aij/2026-04-pr/13
+        title: 5. Jesus Shows Compassion
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-06.mp3
+        target: en/aij/2026-04-pr/13
+        title: 6. A Healing Touch
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-07.mp3
+        target: en/aij/2026-04-pr/13
+        title: 7. Jairus’ Daughter
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-08.mp3
+        target: en/aij/2026-04-pr/13
+        title: 8. Sabbath Healings
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-09.mp3
+        target: en/aij/2026-04-pr/13
+        title: 9. Healed at the Pool of Bethesda
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-10.mp3
+        target: en/aij/2026-04-pr/13
+        title: 10. Blind Bartimaeus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-11.mp3
+        target: en/aij/2026-04-pr/13
+        title: 11. The Centurion’s Servant
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr/assets/PR-12.mp3
+        target: en/aij/2026-04-pr/13
+        title: 12. Miracle in Nain
