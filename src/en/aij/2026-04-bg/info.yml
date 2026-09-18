@@ -29,7 +29,6 @@ featuredResources:
   - en/aij/aij-training-videos
   - en/aij/aij-training-videos-beginner
 displaySequence: true
-skipFeed: true
 style:
   blocks:
     inline:

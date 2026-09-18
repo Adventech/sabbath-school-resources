@@ -22,7 +22,6 @@ credits:
   - name: Copy Editors
     value: James and Ida Cavil, Meredith Herzel
 displaySequence: true
-skipFeed: true
 style:
   blocks:
     inline:
