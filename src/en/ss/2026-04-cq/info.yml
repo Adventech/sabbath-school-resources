@@ -29,6 +29,14 @@ credits:
     value: Robert Mason
   - name: Copyeditor
     value: Janice Schmidt
+style:
+  resource:
+    title:
+      text:
+        color: "#2F382F"
+    subtitle:
+      text:
+        color: "#2F382F"
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/cover-landscape.png
