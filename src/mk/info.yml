@@ -5,6 +5,7 @@ sections:
   default: Main
 bible:
   - MKB
+  - MK2006
 features:
   teacher-comments:
     name: teacher-comments
