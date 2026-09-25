@@ -48,4 +48,4 @@ This week’s lesson introduces us to the church in Corinth and the work of Paul
 
 ### ^[CONCLUSION]({"style": {"text": {"color":"#0070C0"}}})
 
-“Paul’s first letter to the Corinthians is very relevant to our time, as well. After all, don’t we, to some degree, face some of the same issues in many of our churches today? This letter has much to say to us. It is ‘one of the richest, most instructive, most powerful of all his letters’ (AA 301).” Qtly, Thu, par 2
+^[“Paul’s first letter to the Corinthians is very relevant to our time, as well. After all, don’t we, to some degree, face some of the same issues in many of our churches today? This letter has much to say to us. It is ‘one of the richest, most instructive, most powerful of all his letters’ (AA 301).” Qtly, Thu, par 2]({"style": {"text": {"color":"#0070C0"}}})
