@@ -1,0 +1,5 @@
+title: Ишембилик Сабак
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true
