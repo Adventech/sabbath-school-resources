@@ -1,0 +1,8 @@
+name: Kyrgyz
+native: Кыргыз тили
+code: ky
+sections:
+  default: Main
+bible:
+  - kyrohc
+feedSeeAll: Баарын көрүү

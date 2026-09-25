@@ -1,0 +1,8 @@
+name: Uzbek
+native: Ўзбекча
+code: uz
+sections:
+  default: Main
+bible:
+  - uzmk
+feedSeeAll: Ҳаммасини томоша

@@ -1,0 +1,8 @@
+name: Kazak
+native: Қазақша
+code: kz
+sections:
+  default: Main
+bible:
+  - kk2010
+feedSeeAll: Барлығын көру
