@@ -1,0 +1,435 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/01-the-great-promise
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/02-the-jesus-gift-arrives
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/03-finding-jesus-the-gift
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/04-guiding-and-protecting
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/05-at-the-jordan-river
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/06-tempted-in-the-desert
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/07-follow-jesus
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/08-the-wedding-surprise
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/09-food-for-thousands
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/10-jesus-the-teacher
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: The Man in the Tree
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/11-the-man-in-the-tree
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-12.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: Jesus’ Trip to Capernaum
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-01.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: The Great Promise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-02.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: The Jesus Gift Arrives
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-03.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: Finding Jesus, the Gift
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-04.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: Guiding and Protecting
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-05.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: At the Jordan River
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-06.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: Tempted in the Desert
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-07.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: Follow Jesus
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-08.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: The Wedding Surprise
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-09.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: Food for Thousands
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-10.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: Jesus the Teacher
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/friends-with-jesus-11.mp3
+        target: en/aij/friends-with-jesus/13-jesus-trip-to-capernaum
+        title: The Man in the Tree

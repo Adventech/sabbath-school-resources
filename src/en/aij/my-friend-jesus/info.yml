@@ -1,0 +1,104 @@
+title: My Friend, Jesus
+markdownTitle: >-
+  ^[My Friend,]({"style": {"text": {"typeface": "RichBurger",
+  "size": "base", "color":"#FFFFFF"}}})\
+
+  ^[Jesus]({"style": {"text": {"typeface": "HegelPro-Regular",
+  "size": "xl","color":"#FFFFFF"}}})
+description: >-
+  Jesus cares for you! Learn about His many miracles which show His love and
+  care.
+primaryColor: '#48783D'
+primaryColorDark: '#315E27'
+credits:
+  - name: Principal Contributors
+    value: Racquel Markwell, Rosanne Peach
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Director
+    value: Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Clinton Wahlen
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrator
+    value: Lars Justinen Creative Group
+  - name: Designer
+    value: Types & Symbols
+  - name: Copy Editors
+    value: James and Ida Cavil
+displaySequence: true
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/cover.png
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: Omnes-Regular
+    nested:
+      all:
+        text:
+          typeface: Omnes-Regular
+  resource:
+    title:
+      text:
+        size: lg
+    subtitle:
+      text:
+        typeface: Omnes-Regular
+fonts:
+  - name: BaskervilleBT-Roman
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/BaskervilleBT-Roman.ttf
+    attributes: regular
+  - name: Omnes-BlackItalic
+    weight: 900
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Black%20Italic.ttf
+    attributes: black-italic
+  - name: Omnes-Black
+    weight: 900
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Black.ttf
+    attributes: black
+  - name: Omnes-BoldItalic
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Bold%20Italic.ttf
+    attributes: bold-italic
+  - name: Omnes-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Bold.ttf
+    attributes: bold
+  - name: Omnes-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Italic.ttf
+    attributes: regular-italic
+  - name: Omnes-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Regular.ttf
+    attributes: regular
+  - name: HegelPro-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/fonts/HegelPro-Regular.ttf
+    attributes: regular
+  - name: RichBurger
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/fonts/RichBurger.ttf
+    attributes: regular

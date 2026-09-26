@@ -46,6 +46,11 @@
       - en-aij-2025-02-bb-pth
       - en-aij-2025-03-bb-pth
       - en-aij-2025-04-bb-pth
+  - group: Meet Jesus
+    view: folio
+    resources:
+      - en-aij-my-friend-jesus
+      - en-aij-friends-with-jesus
   - group: Training Videos
     view: tile
     reverse: true

@@ -1,0 +1,246 @@
+audio:
+  - artist: Alive in Jesus
+    tracks:
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/01-fishing-with-jesus
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/02-a-coin-and-a-fish
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/03-i-can-see
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/04-four-good-friends
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/05-a-little-boys-lunch
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/06-the-wedding-miracle
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/07-peace-be-still
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/08-who-touched-me
+      - title: "Deep and Wide"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-09.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "Fishing with Jesus"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-01.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "A Coin and a Fish"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-02.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "\"I Can See!\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-03.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "Four Good Friends"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-04.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "A Little Boy's Lunch"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-05.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "The Wedding Miracle"
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-06.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "\"Peace, Be Still\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-07.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide
+      - title: "\"Who Touched Me?\""
+        src: https://sabbath-school-resources-assets.adventech.io/en/aij/my-friend-jesus/assets/my-friend-jesus-08.mp3
+        target: en/aij/my-friend-jesus/09-deep-and-wide

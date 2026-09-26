@@ -1,0 +1,112 @@
+title: Friends With Jesus
+markdownTitle: '^[Friends with]({"style": {"text": {"typeface": "HegelPro-Regular","size": "sm", "color":"#FFFFFF"}}})\
+
+^[Jesus]({"style": {"text": {"typeface": "HeavenlyJoyful", "size": "xl","color":"#FFFFFF"}}})'
+description: >-
+  Find out how God’s rescue plan unfolded through the story of Jesus, God’s Son.
+  You’ll learn about His amazing birth, baptism, temptation, calling of
+  disciples, early miracles, and work for God.
+primaryColor: '#244A9D'
+primaryColorDark: '#173B8B'
+credits:
+  - name: Principal Contributor
+    value: Amy Cherry
+  - name: Curriculum Manager and Senior Editor
+    value: Nina Atcheson
+  - name: Editor
+    value: Rosanne Peach
+  - name: Editorial Assistant
+    value: Denise Gustafson
+  - name: World Sabbath School Directors
+    value: Jim Howard, Daniel Ebenezer
+  - name: Biblical Research Institute Advisor
+    value: Clinton Wahlen
+  - name: Creative Director
+    value: Meredith Herzel
+  - name: Illustrators
+    value: Carlos Seribelli and Paula Lobo
+  - name: Designer
+    value: Megan Betteridge
+  - name: Copy Editors
+    value: James and Ida Cavil
+displaySequence: true
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+    nested:
+      all:
+        text:
+          typeface: MyriadPro-Regular
+  resource:
+    title:
+      text:
+        size: xl
+    subtitle:
+      text:
+        typeface: Omnes-Regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/cover.png
+fonts:
+  - name: Angello
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/Angello.ttf
+    attributes: regular
+  - name: DKWhaleSong-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/DK-Whale-Song.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCn
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCn.ttf
+    attributes: regular
+  - name: ITCAvantGardeStd-BkCnObl
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BkCnObl.ttf
+    attributes: regular-italic
+  - name: ITCAvantGardeStd-BoldCn
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/ITCAvantGardeStd-BoldCn.ttf
+    attributes: bold
+  - name: MyriadPro-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Bold.ttf
+    attributes: bold
+  - name: MyriadPro-BoldIt
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-BoldIt.ttf
+    attributes: bold-italic
+  - name: MyriadPro-It
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-It.ttf
+    attributes: regular-italic
+  - name: MyriadPro-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd/assets/fonts/MyriadPro-Regular.ttf
+    attributes: regular
+  - name: HeavenlyJoyful
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/fonts/HeavenlyJoyful-Regular.ttf
+    attributes: regular
+  - name: HegelPro-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/aij/friends-with-jesus/assets/fonts/HegelPro-Regular.ttf
+    attributes: regular

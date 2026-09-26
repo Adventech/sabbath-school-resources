@@ -51,11 +51,10 @@ let getDocumentInfoYml = async function (document) {
         delete documentInfo.end_date
     }
 
-    if (/^\d+$/.test(documentInfo.name)) {
-        documentInfo.sequence = `${parseInt(documentInfo.name)}`
-    } else {
-        documentInfo.sequence = `•`
-    }
+    const match = documentInfo.name.match(/^(\d+)(?:-|$)/)
+    const num = match ? parseInt(match[1], 10) : 0
+
+    documentInfo.sequence = num > 0 ? `${num}` : `•`
 
     if (documentInfo.chips) {
         documentInfo.showSegmentChips = true
