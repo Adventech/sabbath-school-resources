@@ -1,12 +1,97 @@
 ---
   audio:
     - artist: inVerse Bible
+      podcast:
+        source: 'english-inverse.xml'
       tracks:
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L01.mp3
           target: en/ss/2026-04-cq/01
+          podcast:
+            title: "Lesson 1 – The Creator Speaks (September 27-October 3)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/01.png
+            duration: "00:29:01"
+            description: "Why does God want to communicate with us? How does He do so?"
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L02.mp3
           target: en/ss/2026-04-cq/02
+          podcast:
+            title: "Lesson 2 – The Call of a Prophet (October 4-10)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/02.png
+            duration: "00:29:00"
+            description: "How does God call people to be His prophets? What does answering that call involve?"
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L03.mp3
           target: en/ss/2026-04-cq/03
+          podcast:
+            title: "Lesson 3 – Old Testament Prophets (October 11-17)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/03.png
+            duration: "00:29:00"
+            description: "How did God guide Israel through His prophets? How did He work through their human weaknesses?"
         - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L04.mp3
           target: en/ss/2026-04-cq/04
+          podcast:
+            title: "Lesson 4 – New Testament Prophets (October 18-24)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/04.png
+            duration: "00:29:00"
+            description: "What role did prophets play in the early church? How did their messages point to Jesus?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L05.mp3
+          target: en/ss/2026-04-cq/05
+          podcast:
+            title: "Lesson 5 – Revelation and Inspiration (October 25-31)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/05.png
+            duration: "00:28:59"
+            description: "How does God reveal His messages to prophets? How does the Holy Spirit help them share those messages?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L06.mp3
+          target: en/ss/2026-04-cq/06
+          podcast:
+            title: "Lesson 6 – The Prophetic Writings (November 1-7)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/06.png
+            duration: "00:29:02"
+            description: "How were prophetic messages written and preserved? How does God communicate His truth through imperfect people?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L07.mp3
+          target: en/ss/2026-04-cq/07
+          podcast:
+            title: "Lesson 7 – Now Hear This! (November 8-14)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/07.png
+            duration: "00:29:03"
+            description: "Why do people resist God’s messages? How can we learn from those who refused to listen?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L08.mp3
+          target: en/ss/2026-04-cq/08
+          podcast:
+            title: "Lesson 8 – Interpreting Prophetic Writings (November 15-21)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/08.png
+            duration: "00:29:02"
+            description: "How can we correctly understand prophetic writings? Why does reading them in context matter?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L09.mp3
+          target: en/ss/2026-04-cq/09
+          podcast:
+            title: "Lesson 9 – Testing the Prophets (November 22-28)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/09.png
+            duration: "00:29:02"
+            description: "How can we distinguish true prophets from false ones? What tests does the Bible give us?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L10.mp3
+          target: en/ss/2026-04-cq/10
+          podcast:
+            title: "Lesson 10 – Prophetic Authority and Relevance (November 29-December 5)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/10.png
+            duration: "00:29:02"
+            description: "What gives prophets the authority to speak for God? Why do their messages still matter today?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L11.mp3
+          target: en/ss/2026-04-cq/11
+          podcast:
+            title: "Lesson 11 – The Prophetic Voice in Crucial Moments (December 6-12)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/11.png
+            duration: "00:29:02"
+            description: "How has God used prophets at crucial moments in history? What does this reveal about His care for us?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L12.mp3
+          target: en/ss/2026-04-cq/12
+          podcast:
+            title: "Lesson 12 – End-time Prophetic Revelations (December 13-19)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/12.png
+            duration: "00:29:02"
+            description: "Does God still call prophets today? What role does prophecy play as we await Jesus’ return?"
+        - src: https://sabbath-school-media-tmp.s3.amazonaws.com/audio/en/2026-04/INV_2026_Q4_L13.mp3
+          target: en/ss/2026-04-cq/13
+          podcast:
+            title: "Lesson 13 – Blessings from the Prophetic Word (December 20-26)"
+            image: https://sabbath-school-resources-assets.adventech.io/en/ss/2026-04-cq/assets/13.png
+            duration: "00:29:02"
+            description: "What blessings come from following God’s prophetic messages? How do they draw us closer to Jesus?"

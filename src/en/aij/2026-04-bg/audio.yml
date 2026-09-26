@@ -1,9 +1,16 @@
 audio:
   - artist: Alive in Jesus
+    podcast:
+      source: 'english-aij-beginner.xml'
+      image: https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-bg/assets/episodeart-bg-a04.jpg
     tracks:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/01
         title: 1. Hannah Prays for a Baby
+        podcast:
+          title: "Lesson 1 – Hannah Prays for a Baby (September 27-October 3)"
+          description: "Beginner, Year A, Quarter 4, lesson 1<br/>BIG IDEA: God answers our prayers.<br/>This lesson is based on 1 Samuel 1; 2:1-11; and Patriarchs and Prophets, pp. 569-574.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:08"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-02.mp3?updated2
         target: en/aij/2026-04-bg/01
         title: 2. A Little Helper
@@ -43,6 +50,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-02.mp3?updated2
         target: en/aij/2026-04-bg/02
         title: 2. A Little Helper
+        podcast:
+          title: "Lesson 2 – A Little Helper (October 4-10)"
+          description: "Beginner, Year A, Quarter 4, lesson 2<br/>BIG IDEA: I can be helpful.<br/>This lesson is based on 1 Samuel 2:18-21 and Patriarchs and Prophets, pp. 569-574.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:06:39"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/02
         title: 1. Hannah Prays for a Baby
@@ -82,6 +93,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-03.mp3?updated2
         target: en/aij/2026-04-bg/03
         title: 3. Samuel Listens to God
+        podcast:
+          title: "Lesson 3 – Samuel Listens to God (October 11-17)"
+          description: "Beginner, Year A, Quarter 4, lesson 3<br/>BIG IDEA: God knows my name.<br/>This lesson is based on 1 Samuel 3 and Patriarchs and Prophets, pp. 581, 582.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:43"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/03
         title: 1. Hannah Prays for a Baby
@@ -121,6 +136,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-04.mp3?updated2
         target: en/aij/2026-04-bg/04
         title: 4. Ruth and Naomi
+        podcast:
+          title: "Lesson 4 – Ruth and Naomi (October 18-24)"
+          description: "Beginner, Year A, Quarter 4, lesson 4<br/>BIG IDEA: Jesus wants me to care for others.<br/>This lesson is based on Ruth 1.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:38"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/04
         title: 1. Hannah Prays for a Baby
@@ -160,6 +179,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-05.mp3?updated2
         target: en/aij/2026-04-bg/05
         title: 5. Kind Boaz
+        podcast:
+          title: "Lesson 5 – Kind Boaz (October 25-31)"
+          description: "Beginner, Year A, Quarter 4, lesson 5<br/>BIG IDEA: God takes care of me.<br/>This lesson is based on Ruth 2.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:08:17"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/05
         title: 1. Hannah Prays for a Baby
@@ -199,6 +222,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-06.mp3?updated2
         target: en/aij/2026-04-bg/06
         title: 6. I Can Help My Family
+        podcast:
+          title: "Lesson 6 – I Can Help My Family (November 1-7)"
+          description: "Beginner, Year A, Quarter 4, lesson 6<br/>BIG IDEA: I can help my family.<br/>This lesson is based on Galatians 5:13.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:08:17"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/06
         title: 1. Hannah Prays for a Baby
@@ -238,6 +265,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-07.mp3?updated2
         target: en/aij/2026-04-bg/07
         title: 7. I Can Help Others
+        podcast:
+          title: "Lesson 7 – I Can Help Others (November 8-14)"
+          description: "Beginner, Year A, Quarter 4, lesson 7<br/>BIG IDEA: I can help others.<br/>This lesson is based on Hebrews 13:16.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:34"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/07
         title: 1. Hannah Prays for a Baby
@@ -277,6 +308,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-08.mp3?updated2
         target: en/aij/2026-04-bg/08
         title: 8. I Can Help God
+        podcast:
+          title: "Lesson 8 – I Can Help God (November 15-21)"
+          description: "Beginner, Year A, Quarter 4, lesson 8<br/>BIG IDEA: I can help God.<br/>This lesson is based on Hebrews 13:16.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:08:29"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/08
         title: 1. Hannah Prays for a Baby
@@ -316,6 +351,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-09.mp3?updated2
         target: en/aij/2026-04-bg/09
         title: 9. The Shining Angel
+        podcast:
+          title: "Lesson 9 – The Shining Angel (November 22-28)"
+          description: "Beginner, Year A, Quarter 4, lesson 9<br/>BIG IDEA: I can trust God.<br/>This lesson is based on Matthew 1:18-24 and Luke 1:26-38.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:50"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/09
         title: 1. Hannah Prays for a Baby
@@ -355,6 +394,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-10.mp3?updated2
         target: en/aij/2026-04-bg/10
         title: 10. The Journey to Bethlehem
+        podcast:
+          title: "Lesson 10 – The Journey to Bethlehem (November 29-December 5)"
+          description: "Beginner, Year A, Quarter 4, lesson 10<br/>BIG IDEA: God takes care of me.<br/>This lesson is based on Luke 2:1-6 and The Desire of Ages, p. 44.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:08:15"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/10
         title: 1. Hannah Prays for a Baby
@@ -394,6 +437,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-11.mp3?updated2
         target: en/aij/2026-04-bg/11
         title: 11. Born in a Stable
+        podcast:
+          title: "Lesson 11 – Born in a Stable (December 6-12)"
+          description: "Beginner, Year A, Quarter 4, lesson 11<br/>BIG IDEA: God gave us Baby Jesus.<br/>This lesson is based on Luke 2:1-6 and The Desire of Ages, pp. 43-47.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:27"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/11
         title: 1. Hannah Prays for a Baby
@@ -433,6 +480,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-12.mp3?updated2
         target: en/aij/2026-04-bg/12
         title: 12. The Shepherds
+        podcast:
+          title: "Lesson 12 – The Shepherds (December 13-19)"
+          description: "Beginner, Year A, Quarter 4, lesson 12<br/>BIG IDEA: Jesus came to give us joy.<br/>This lesson is based on Luke 2:8-20 and The Desire of Ages, pp. 47, 48.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:23"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/12
         title: 1. Hannah Prays for a Baby
@@ -472,6 +523,10 @@ audio:
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-13.mp3?updated2
         target: en/aij/2026-04-bg/13
         title: 13. The Wise Men
+        podcast:
+          title: "Lesson 13 – The Wise Men (December 20-26)"
+          description: "Beginner, Year A, Quarter 4, lesson 13<br/>BIG IDEA: Jesus wants me to follow Him.<br/>This lesson is based on Matthew 2:1-12 and The Desire of Ages, pp. 59-67.<br/>Visit our website: https://aliveinjesus.info"
+          duration: "00:07:23"
       - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2025-04-bg/assets/ABSG-2025-04-BG-01.mp3?updated2
         target: en/aij/2026-04-bg/13
         title: 1. Hannah Prays for a Baby
