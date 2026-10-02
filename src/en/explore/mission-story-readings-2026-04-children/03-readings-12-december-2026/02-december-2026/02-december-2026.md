@@ -3,7 +3,7 @@ title: The “Real Bible”
 date: 12/12/2026
 ---
 
-![Kindergarten Children](image1.png)
+![Kindergarten Children](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/03-readings-12-december-2026-02-december-2026/image1.png)
 
 Five-year-old John had a question every morning.
 
@@ -59,7 +59,7 @@ _Your Thirteenth Sabbath Offering will help this school grow so more children ca
 
 During World War II, the city of Warsaw was almost completely destroyed by bombs. But after the war, the Polish people carefully rebuilt their city using detailed eighteenth-century paintings made by a Venetian artist named Bernardo Bellotto. Because of those paintings, Warsaw’s beautiful old buildings could be restored just as they had looked long ago. One famous building in the city today is the Palace of Culture and Science. Inside, you can find conference rooms, sports arenas, movie theaters, and even a swimming pool! And animals live there! Cats patrol the lower floors to keep away mice, falcons nest high up on the 42nd floor, and on the sixth floor there is a giant apiary filled with busy bees.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/03-readings-12-december-2026-02-december-2026/image2.png)
 
 ```=Story Tips
 

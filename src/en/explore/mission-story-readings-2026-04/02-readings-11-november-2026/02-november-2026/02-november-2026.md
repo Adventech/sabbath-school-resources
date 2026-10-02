@@ -3,7 +3,7 @@ title: Space to Grow
 date: 14/11/2026
 ---
 
-![Leon](image.png)
+![Leon](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/02-readings-11-november-2026-02-november-2026/image.png)
 
 Leon was seven years old the first time he went to Bible camp at Maruševec. His parents had gone to the same camp when they were children. It had been running since 1972—a summer tradition for Adventist families across Croatia.
 

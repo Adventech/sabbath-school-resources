@@ -3,7 +3,7 @@ title: How Music Works
 date: 19/12/2026
 ---
 
-![Amarissa](image.png)
+![Amarissa](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/03-readings-12-december-2026-03-december-2026/image.png)
 
 When Amarissa was four years old, she began learning the piano during playtime at school.
 

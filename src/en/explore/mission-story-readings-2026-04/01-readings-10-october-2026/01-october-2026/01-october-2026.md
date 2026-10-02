@@ -3,7 +3,7 @@ title: Finding Family on the Streets of Helsinki
 date: 03/10/2026
 ---
 
-![Jenny](image.png)
+![Jenny](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/01-readings-10-october-2026-01-october-2026/image.png)
 
 Jenny wasn’t looking for a church that winter day in Helsinki’s city center—she was praying for friends.
 

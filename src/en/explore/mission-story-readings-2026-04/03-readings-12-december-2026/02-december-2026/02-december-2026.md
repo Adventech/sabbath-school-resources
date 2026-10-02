@@ -3,7 +3,7 @@ title: Music That Opens Doors
 date: 12/12/2026
 ---
 
-![Fiona](image.png)
+![Fiona](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/03-readings-12-december-2026-02-december-2026/image.png)
 
 When Fiona was first asked in 2014 to lead a new music outreach project in East London, she hesitated.
 

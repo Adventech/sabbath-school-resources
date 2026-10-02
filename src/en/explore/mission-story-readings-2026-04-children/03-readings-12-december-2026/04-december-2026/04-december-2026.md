@@ -3,7 +3,7 @@ title: Playing for Jesus
 date: 26/12/2026
 ---
 
-![Yeron](image1.png)
+![Yeron](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/03-readings-12-december-2026-04-december-2026/image1.png)
 
 Yeron has loved music since he was in Year 4 at school.
 
@@ -47,7 +47,7 @@ _This Thirteenth Sabbath, you can help children in England who may not be able t
 
 The United Kingdom is the whole country, made up of England, Scotland, Wales, and Northern Ireland. Great Britain is the big island that includes England, Scotland, and Wales. The British Isles is the name for all the islands in that area, including Great Britain, Ireland, and many smaller islands nearby. The capital city of the UK is London, which is in England.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/03-readings-12-december-2026-04-december-2026/image2.png)
 
 ```=Story Tips
 

@@ -3,7 +3,7 @@ title: Dedicated to Serve
 date: 26/12/2026
 ---
 
-![Yeron](image1.png)
+![Yeron](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/03-readings-12-december-2026-04-december-2026/image1.png)
 
 When Yeron first joined the East London School of Classical Music (ELSOM) nearly seven years ago, he simply wanted to learn the violin. He did not realize that the discipline of music would shape not only his skill but his faith.
 
@@ -51,11 +51,11 @@ Young people like Yeron are strengthened when faith and community work together.
 
 _This Thirteenth Sabbath, you can help children in England who may not be able to attend a school like ELSOM but need someone to care about them. This quarter’s offering will help to create a SafeSpace2Be for children in community schools who may feel worried, lonely, or afraid. The offering will also go to three other projects in the Trans-European Division, including: A family Misson Center OIKOS church plant in Helsinki, Finland; expansion of KOMPAS, the first Adventist Primary School in Poland; and rebuilding the Seventh-day Adventist Church building in Zagreb, Croatia, Thank you for giving generously to the Thirteenth Sabbath offering this Sabbath!_
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/03-readings-12-december-2026-04-december-2026/image2.png)
 
-![](image3.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/03-readings-12-december-2026-04-december-2026/image3.png)
 
-![](image4.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/03-readings-12-december-2026-04-december-2026/image4.png)
 
 Thank you for your generous support of the Thirteenth Sabbath Offering. In the first quarter of 2017, these funds helped provide a much-needed men’s dormitory at the Seventh- day Adventist secondary school in Maruševec, about 80 minutes north of Zagreb, Croatia. This quarter, your offerings will help rebuild the Prilaz Seventh-day Adventist Church in Zagreb. Thank you for faithfully supporting your brothers and sisters in Croatia through your giving.
 

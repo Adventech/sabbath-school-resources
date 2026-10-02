@@ -3,7 +3,7 @@ title: “Show Me the Truth”
 date: 31/10/2026
 ---
 
-![Nika](image.png)
+![Nika](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/01-readings-10-october-2026-05-october-2026/image.png)
 
 On weekday afternoons in Zagreb, laughter and quiet concentration fill a church library known as the “Prilaz School.” At one table sits Nika, patiently helping a child work through a difficult assignment. At another moment, she pauses and asks gently, “Shall we pray?”
 

@@ -3,7 +3,7 @@ title: The Five-Year Prayer
 date: 07/11/2026
 ---
 
-![Filip](image.png)
+![Filip](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/02-readings-11-november-2026-01-november-2026/image.png)
 
 Filip remembers what it felt like when his parents did not live together.
 

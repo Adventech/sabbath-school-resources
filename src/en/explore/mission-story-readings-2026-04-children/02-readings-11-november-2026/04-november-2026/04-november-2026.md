@@ -3,7 +3,7 @@ title: Natan’s Prayer
 date: 28/11/2026
 ---
 
-![Natan](image1.png)
+![Natan](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/02-readings-11-november-2026-04-november-2026/image1.png)
 
 When war began in Ukraine, Natan’s life changed quickly.
 
@@ -91,7 +91,7 @@ _Today, your Thirteenth Sabbath Offering will help schools like KOMPAS welcome m
 
 The country of Poland has more than 100 castles! One of the most amazing is Malbork Castle, the largest castle in the world by land area. It covers about 52 acres (21 hectares)—that’s about the size of 30 soccer (football) fields! The castle was built in the 1200s by a group of knights called the Teutonic Order, which began in 1191 in Israel during the time of the Crusades. With its tall red-brick walls, towers, and wide courtyards, Malbork Castle still stands tall.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/02-readings-11-november-2026-04-november-2026/image2.png)
 
 ```=Story Tips
 

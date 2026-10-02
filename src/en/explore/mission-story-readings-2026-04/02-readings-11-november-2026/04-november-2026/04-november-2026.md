@@ -3,7 +3,7 @@ title: Opening the Bible—Opening Hearts
 date: 28/11/2026
 ---
 
-![Monika](image.png)
+![Monika](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/02-readings-11-november-2026-04-november-2026/image.png)
 
 Monika never planned to teach at an Adventist school.
 

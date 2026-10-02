@@ -3,7 +3,7 @@ title: Being a “PK”
 date: 31/10/2026
 ---
 
-![Teodor and Anastasia](image1.png)
+![Teodor and Anastasia](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-05-october-2026/image1.png)
 
 Teodor, 12, and his sister, Anastasia, 10 have lived in many places.
 
@@ -68,7 +68,7 @@ The official name of Croatia is the Republic of Croatia, and the people who live
 
 Croatia is a country full of natural beauty. Along its western coast are more than a thousand islands scattered across the sparkling Adriatic sea. In the eastern part of the country, the mighty Danube River—Europe’s second-longest river—flows past the city of Vukovar.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-05-october-2026/image2.png)
 
 ```=Story Tips
 

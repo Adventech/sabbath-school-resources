@@ -3,7 +3,7 @@ title: Every Step a Battle
 date: 10/10/2026
 ---
 
-![Joe](image.png)
+![Joe](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/01-readings-10-october-2026-02-october-2026/image.png)
 
 Joe almost turned back more than once.
 

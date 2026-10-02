@@ -3,7 +3,7 @@ title: Multiplying Money
 date: 14/11/2026
 ---
 
-![Lilianna and friends](image.png)
+![Lilianna and friends](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/02-readings-11-november-2026-02-november-2026/image.png)
 
 When Lilianna (second from left in picture) went to Sabbath School one morning, she didn’t expect to be given money.
 

@@ -3,7 +3,7 @@ title: More than Music
 date: 19/12/2026
 ---
 
-![Kieron](image.png)
+![Kieron](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/03-readings-12-december-2026-03-december-2026/image.png)
 
 When Kieron first picked up a violin at age four, it wasn’t entirely his idea.
 

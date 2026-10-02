@@ -3,7 +3,7 @@ title: Finding the Missing Piece
 date: 07/11/2026
 ---
 
-![Goran](image.png)
+![Goran](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/02-readings-11-november-2026-01-november-2026/image.png)
 
 Basketball was Goran’s life.
 

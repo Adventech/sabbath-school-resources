@@ -3,7 +3,7 @@ title: Never Alone
 date: 24/10/2026
 ---
 
-![Pastor Dario](image.png)
+![Pastor Dario](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/01-readings-10-october-2026-04-october-2026/image.png)
 
 It was five o’clock in the morning on March 22, 2020, when Pastor Dario awoke with a start. He had not planned to rise so early, but suddenly he was fully awake—with a strong urge to sing.
 

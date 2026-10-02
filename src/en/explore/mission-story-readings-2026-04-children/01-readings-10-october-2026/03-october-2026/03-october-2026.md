@@ -3,7 +3,7 @@ title: A Suitcase of Bibles
 date: 17/10/2026
 ---
 
-![Nana](image1.png)
+![Nana](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-03-october-2026/image1.png)
 
 Nana is 12 years old and in sixth grade. She lives in Croatia and loves art, English, and German. She also loves Jesus.
 
@@ -69,7 +69,7 @@ _Your Thirteenth Sabbath mission offering this quarter will help to rebuild a ch
 
 One of Croatia’s most famous landmarks is the Pula Arena. Located in the city of Pula, this ancient Roman amphitheater was built nearly 2,000 years ago. It is the only remaining Roman amphitheater in the world with its entire circular outer wall still standing.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-03-october-2026/image2.png)
 
 ```=Story Tips
 

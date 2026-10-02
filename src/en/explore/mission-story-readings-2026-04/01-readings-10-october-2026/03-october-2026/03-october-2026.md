@@ -3,7 +3,7 @@ title: “Change My Life”
 date: 17/10/2026
 ---
 
-![Mikael](image.png)
+![Mikael](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/01-readings-10-october-2026-03-october-2026/image.png)
 
 “If You exist, change my life.”
 

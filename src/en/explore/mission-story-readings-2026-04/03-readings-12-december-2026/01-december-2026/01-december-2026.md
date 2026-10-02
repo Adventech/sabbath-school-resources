@@ -3,7 +3,7 @@ title: A School That Became a Refuge
 date: 05/12/2026
 ---
 
-![Zhanna](image.png)
+![Zhanna](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/03-readings-12-december-2026-01-december-2026/image.png)
 
 When war forced Zhanna and Victor to leave their home in Ukraine, they carried with them little more than their children and their faith. Like many families fleeing conflict, they did not know where they would land or how long the journey would last.
 

@@ -3,7 +3,7 @@ title: Praying for a Friend
 date: 21/11/2026
 ---
 
-![Miriam](image1.png)
+![Miriam](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/02-readings-11-november-2026-03-november-2026/image1.png)
 
 When Miriam first came to the new Adventist preschool in Poland called KOMPAS, she was very small.
 
@@ -56,7 +56,7 @@ _Maybe you are praying for something too. Remember, He often answers prayers in 
 
 Poland has some very special animals! The national animal is the żubr, also called the European bison. It is the heaviest land animal in all of Europe! The two national birds are the graceful white stork and the powerful white-tailed eagle. A bright red flower called the poppy is an unofficial symbol of the country. Other wild animals live in Poland’s forests and mountains too, including the Eurasian beaver, the lynx, the gray wolf, and the Tatra Chamois, a mountain animal that looks a bit like a goat and an antelope combined.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/02-readings-11-november-2026-03-november-2026/image2.png)
 
 ```=Story Tips
 

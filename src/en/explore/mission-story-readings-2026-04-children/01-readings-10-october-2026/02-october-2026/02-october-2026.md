@@ -3,7 +3,7 @@ title: Brave for Jesus
 date: 10/10/2026
 ---
 
-![Lucjica](image.png)
+![Lucjica](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-02-october-2026/image.png)
 
 Lucjica lives with her mother in Croatia. Her mother believes in God but does not attend church regularly. But every Sabbath since she was six years old, Lucjica has gone to church with her grandmother and grandfather.
 

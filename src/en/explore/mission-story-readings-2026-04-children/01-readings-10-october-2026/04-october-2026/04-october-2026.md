@@ -3,7 +3,7 @@ title: Miracle on the Road
 date: 24/10/2026
 ---
 
-![Teodor](image1.png)
+![Teodor](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-04-october-2026/image1.png)
 
 Teodor was nine years old when it happened.
 
@@ -62,7 +62,7 @@ _Let’s give our Thirteenth Sabbath Offering so children like Teodor can contin
 
 Croatia is known for what lies beneath the ground. There are about 7,000 caves across the country! In some of these caves lives a very unusual creature called the olm, a pale salamander that spends its entire life in the water. It is the only known vertebrate (an animal that has a backbone (or spine) inside its body) in the world that lives only in underwater caves.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-04-october-2026/image2.png)
 
 ```=Story Tips
 

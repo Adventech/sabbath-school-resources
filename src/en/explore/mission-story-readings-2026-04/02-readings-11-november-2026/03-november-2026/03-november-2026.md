@@ -3,7 +3,7 @@ title: When a School Becomes a Mission Field
 date: 21/11/2026
 ---
 
-![Agata](image.png)
+![Agata](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04/02-readings-11-november-2026-03-november-2026/image.png)
 
 For nearly 20 years, Agata taught Polish language and literature in public schools near Warsaw. She loved teaching, but over time she felt something was missing. Classes were crowded, lessons rushed, and there was little time to truly know students.
 

@@ -3,7 +3,7 @@ title: A Best Friend
 date: 05/12/2026
 ---
 
-![Hanna and Polianna](image1.png)
+![Hanna and Polianna](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/03-readings-12-december-2026-01-december-2026/image1.png)
 
 Polianna had a very specific prayer: she wanted a best friend.
 
@@ -65,7 +65,7 @@ _Today, your Thirteenth Sabbath Offering will help this Adventist school in Pola
 
 Poland has given the world some very important scientists! Nicolaus Copernicus (1473-1543) carefully studied the sky and showed that the sun—not the Earth—is at the center of our solar system. This was a bold and surprising discovery in his time! More than 300 years later, Marie Curie (1867–1934)—whose Polish name was Maria Skłodowska-Curie—became a pioneer in studying radioactivity. She was the first woman to win a Nobel Prize and the first person in history to win two Nobel Prizes. These Polish scientists helped people better understand God’s amazing universe and the tiny building blocks of matter.
 
-![](image2.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/03-readings-12-december-2026-01-december-2026/image2.png)
 
 ```=Story Tips
 

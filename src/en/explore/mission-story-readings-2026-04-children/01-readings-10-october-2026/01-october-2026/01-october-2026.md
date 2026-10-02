@@ -3,7 +3,7 @@ title: Just One Friend
 date: 03/10/2026
 ---
 
-![Katarina](image.png)
+![Katarina](https://sabbath-school-resources-assets.adventech.io/en/explore/mission-story-readings-2026-04-children/01-readings-10-october-2026-01-october-2026/image.png)
 
 When Katarina stepped off the airplane in Finland, she carried two suitcases, and a very lonely heart.
 
