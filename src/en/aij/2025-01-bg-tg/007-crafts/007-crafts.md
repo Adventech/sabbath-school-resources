@@ -106,8 +106,7 @@ Print out picture and laminate as a play-dough mat for children. Children can us
 
 ```=Week 8: God Made the Fish of the Sea
 
-Cut out paper plate to make a mouth, and add this piece to the tail. Decorate fish with brightly colored scales. Add an
-eye.
+Cut out paper plate to make a mouth, and add this piece to the tail. Decorate fish with brightly colored scales. Add an eye.
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/8a.jpg)
 

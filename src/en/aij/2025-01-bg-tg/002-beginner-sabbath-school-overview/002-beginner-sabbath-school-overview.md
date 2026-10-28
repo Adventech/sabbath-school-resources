@@ -16,7 +16,7 @@ title: "Beginner Sabbath School Overview"
 
 ---
 
-**Fundamental Beliefs Beginner Memory Verse**
+**Beginner Memory Verse**
 
 “In the beginning God created the heavens and the earth” (Genesis 1:1).
 

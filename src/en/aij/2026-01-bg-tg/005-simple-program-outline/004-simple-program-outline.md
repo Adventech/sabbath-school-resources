@@ -23,7 +23,7 @@ title: Simple Program Outline
 **PRAYER TIME**
 
 - {"style": {"block": {"backgroundColor": "#FFF8F9", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
-- Sing **^[“When It’s Time to Pray.”]({"style": {"text": {"color":"#ec008c"}}})** (shake hands)
+- Sing **^[“When It’s Time to Pray.”]({"style": {"text": {"color":"#ec008c"}}})**
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
 **INTERACTIVE BIBLE STORY TIME**
