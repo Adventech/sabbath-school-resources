@@ -1,11 +1,9 @@
 ---
-title: The Miracle of Music
-markdownTitle: '^[The Miracle of Music]({"style": {"text": {"color": "#58B0E3"}}})'
+title: Water of Life
+markdownTitle: '^[Water of Life]({"style": {"text": {"color": "#58B0E3"}}})'
 subtitle: Mission Story
 markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 ---
-
-Water of Life
 
 {"style": {"text": {"color": "#F4793B"}}}
 **Focus:** Compassion opens up a way for others to learn about Jesus.
