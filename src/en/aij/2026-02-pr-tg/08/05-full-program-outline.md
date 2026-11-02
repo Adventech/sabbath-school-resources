@@ -71,6 +71,12 @@ subtitle: Week 8
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Ask one child to collect the offering. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer thanking God for the way He will use the offering to share His love. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 
+```=Mission Fast Fact #8
+
+Pastors in South Sudan find it difficult to get to their churches because some do not have cars, motorcycles, or bicycles; others do not have good roads to travel on. It can also be difficult to preach because there is fighting between tribes and people groups in some areas, and many people have not had the privilege of going to school and learning how to read. Pastors in South Sudan do a wonderful work visiting people from home to home, and helping people in need.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

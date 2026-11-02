@@ -31,8 +31,6 @@ Show the children the “challenges” you have laid out. Include nature puzzles
 - **“Visitor Song”** and acknowledgment
 - **“Happy Birthday”** for any child with a birthday this past week
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3] “We Welcome You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-loves-me-and-i-love-jesus.mp3] “Jesus Loves Me and I Love Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
@@ -43,8 +41,6 @@ Show the children the “challenges” you have laid out. Include nature puzzles
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
-```
-
 **^[PRAY:]({"style": {"text": {"color":"#D34D5E"}}})** Sing **“When I Kneel Down to Pray.”** Then invite a child to pray as you all kneel. Then pray also, thanking Jesus for helping us learn at Sabbath School and for saving us.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3] “When I Kneel Down To Pray” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2005 Coralie Fraser. Used by permission"}
@@ -53,6 +49,12 @@ Show the children the “challenges” you have laid out. Include nature puzzles
 **OFFERING AND MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
+
+```=Mission Fast Fact #9
+
+Sharing food together is a very important part of life in Greece. Greek people are known for their fresh foods, olive oil, flaky pastries, and feta cheese. Many families enjoy eating moussaka, an eggplant or meat casserole, and Spanakopita, a spinach and cheese pie. Dolmades are also popular. They are made of vine leaves wrapped around herbed rice with lemon.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand,”** and invite a child to collect the offering in your offering container. Then pray that God will take the offering to be used where it is most needed.
 

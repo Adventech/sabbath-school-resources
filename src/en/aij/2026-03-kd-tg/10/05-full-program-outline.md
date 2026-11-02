@@ -31,8 +31,6 @@ subtitle: Week 10
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[jesus-is-my-shepherd.mp3] “Jesus Is My Shepherd” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singer","value":"Johanna McKay"},{"key":"Piano","value":"Johanna McKay"},{"key":"Guitar","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2008 Coralie Fraser. Used by permission."}
@@ -43,12 +41,16 @@ subtitle: Week 10
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
+
+```=Mission Fast Fact #10
+
+Italy is where pizza was officially born. It is one of the favorite dishes of Italian children and adults alike. It is said that in June 1889, to honour the Queen of Italy, Margherita of Savoy, a chef prepared the “Pizza Margherita”, topped with tomatoes (red), mozzarella (white) and basil (green) to represent the colours of the Italian flag. Another much-loved dish is pasta, of which there are at least 140 different types. Italy is also the birthplace of Nutella, a chocolate spread that is very popular with children.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Explain that it’s a blessing for us to give to Jesus. No matter if we give a lot or a little, Jesus can take the little amount we give and multiply it into something bigger to help His work. Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

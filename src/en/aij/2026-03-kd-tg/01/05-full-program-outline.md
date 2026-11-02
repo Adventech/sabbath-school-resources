@@ -30,8 +30,6 @@ subtitle: Week 1
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[jesus-loves-me-and-i-love-jesus.mp3] “Jesus Loves Me and I Love Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
@@ -39,8 +37,6 @@ subtitle: Week 1
 !a[birthday-song.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
-
-```
 
 **^[DO (Quarterly Theme Exploration):]({"style": {"text": {"color":"#D34D5E"}}})** Place the golden throne where the children can see it and ask:
 
@@ -66,6 +62,20 @@ subtitle: Week 1
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Introduce the division and countries where this quarter’s mission project/offering is going. Show a world map, talk a little about the culture, and then share one the first **Mission Fast Fact** about the country. Show the children your **Offering Chart** and talk about how important it is to give to others, and that by doing so, we are helping God’s work.
+
+```=Mission Fast Fact #1
+
+This quarter’s offering is going to the Inter-European Division. This division includes the European countries of Portugal, Spain, Andorra, France, Belgium, Luxemburg, Monaco, Germany, Switzerland, Lichtenstein, Austria, Italy, Romania, Bulgaria, Czech Republic, and Slovakia.
+
+This quarter, the Mission Offering each Sabbath will support the following projects in the Inter-European Division:
+
+- Youth Camp, Belgium
+- Student Dormitory at Villa Aurora Adventist University, Florence, Italy
+- MACEA Speranta School, with Kindergarten and Primary School, Romania
+- Tzvetna Nadezhda Kindergarten, Sofia, Bulgaria
+- Peretu Eden School, Romania
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, show this quarter’s **Offering Chart**. Ask the children how much they would like to collect this quarter, then write the weekly amounts on the chart. Invite a child to color the first section of your chart, which indicates what was collected for today’s offering.
 

@@ -67,6 +67,19 @@ subtitle: Week 1
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Share this week’s **Mission Fast Fact**, which will introduce the areas to which your offering will be going this quarter. Show the locations on a world map or globe. Pray that God will bless your gifts and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #1
+
+This quarter’s offering is going to the Trans-European Division of the world church. There are 22 countries in this division. How many can you find on a map? Albania, Croatia, Slovenia, Cyprus, Denmark (also Greenland and Faroe Islands), Estonia, Latvia, Lithuania, Finland, Greece, Hungary, Iceland, Ireland, United Kingdom, Netherlands, Norway, Poland, Serbia, Montenegro, Bosnia and Herzegovina, Macedonia, Sweden.
+
+This quarter, the Mission Offering each Sabbath will support the following projects in the Trans-European Division:
+
+- Mental Health Outreach for Children and Youth, England, UK
+- Prilaz Church Building, Zagreb, Croatia
+- Primary School Expansion, Podkowa Leśna, Poland
+- Family Mission Center, Helsinki, Finland
+
+```
+
 Have a child collect the **offering**, as you sing **“What Can I Give to the Lord?”** Display your **Offering Chart** and share that we are going to keep track of how much money we collect this quarter. After the offering has been collected and counted by an adult, invite one child to color the first section of the Offering Chart.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

@@ -67,6 +67,12 @@ subtitle: Week 5
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact**. Say a short prayer for God to bless and take the offering to where it’s most needed. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 
+```=Mission Fast Fact #5
+
+Most Adventist families in Rwanda have a Bible, translated into their everyday language, Kinyarwanda. There are many Adventist children in Rwanda, and children are very involved in church services, Sabbath School, and outreach programs. But most Adventists in Rwanda worship at home as many churches (7 out of every 10) have been closed by the government. The people do not have enough money to rebuild and fix their churches to meet new laws. There are many churches in Rwanda that need our help!
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

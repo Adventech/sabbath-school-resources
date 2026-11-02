@@ -31,8 +31,6 @@ subtitle: Week 7
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[my-forever-friend-jesus.mp3] “My Forever Friend Jesus” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Yelena Jovinov, Johanna McKay"},{"key":"Piano","value":"Johanna McKay"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2007 Coralie Fraser. Used by permission."}
@@ -43,12 +41,16 @@ subtitle: Week 7
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering to teach the children about the division where their offering is going. Talk about how wonderful it is to give to God’s work.
+
+```=Mission Fast Fact #7
+
+In Italy, children share Jesus through friendship and inviting their friends to Sabbath School and special programs at church. One of these special programs is called Chiesa creativa (Creative Church, from Messy Church). Children can invite their friends and schoolmates to a light-hearted programme of activities and games, which is fun and talks about Jesus to families who may not know or believe in Him.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

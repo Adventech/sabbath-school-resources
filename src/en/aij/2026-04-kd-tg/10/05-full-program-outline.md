@@ -32,8 +32,6 @@ Set out paper and crayons. Ask the children to sit quietly and **listen**, then 
 - **“Visitor Song”** and acknowledgment
 - **“Happy Birthday”** for any child with a birthday this past week
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3] “We Welcome You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/jesus-is-my-god.mp3] “Jesus Is My God” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitar","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
@@ -46,8 +44,6 @@ Set out paper and crayons. Ask the children to sit quietly and **listen**, then 
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
-```
-
 **^[PRAY:]({"style": {"text": {"color":"#D34D5E"}}})** Sing **“When I Kneel Down to Pray,”** then invite a child to pray. Then pray also, thanking Jesus for His words in the Bible and for always listening to our prayers.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3] “When I Kneel Down To Pray” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2005 Coralie Fraser. Used by permission"}
@@ -56,6 +52,12 @@ Set out paper and crayons. Ask the children to sit quietly and **listen**, then 
 **OFFERING AND MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
+
+```=Mission Fast Fact #10
+
+In Bosnia and Herzegovina, children are involved in sharing Jesus through friendship. They re-built part of one of their churches so they could host board games for kids and young people. They are encouraged to invite their friends along, and this is a great way to make friends in person rather than on screens.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Remind children of the **Mission Challenge** last week to **bring money today especially for global missionaries** and the work they do. Show a special container and invite children to come forward if they have money for these special workers for God, or God’s projects.
 

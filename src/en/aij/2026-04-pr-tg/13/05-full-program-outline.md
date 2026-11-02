@@ -65,6 +65,12 @@ Show the children a globe or world map and consider how big the world is. Share 
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Share this week’s **Mission Fast Fact** about this quarter’s mission project. Have a child collect the offering as you all sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the final section of your Offering Chart. Thank the children for giving their offerings throughout the quarter. Pray that God will bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #13
+
+In Finland, children don’t go to school until they are seven years of age. Before they start school, some go to kindergartens where they are encouraged to play creatively outdoors. Finland’s school system is considered the best in the world. However, many children miss out on learning about Jesus. There is only one Adventist school in Finland. Young adult Adventists run a community house, Oikos House, to create a spiritual home for young people to have Bible study, small groups, friendship and service.
+
+```
+
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.

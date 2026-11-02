@@ -60,6 +60,12 @@ Point to the Sabbath School mural. Ask:
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
 
+```=Mission Fast Fact #2
+
+In Bosnia and Herzegovina, church is traditional in style, and people dress-up on Sabbath. They often sing traditional songs and hymns together. Children have fun being part of Pathfinders. In 2025, Bosnia and Herzegovina hosted the first Balkan Pathfinders Camporee.
+
+```
+
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand”** and invite a child to collect the offering in your offering container. Then pray that God will take the offering to be used where it is most needed.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3] “Open My Heart, Open My Hand” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

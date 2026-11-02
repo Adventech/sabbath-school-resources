@@ -35,8 +35,6 @@ Invite children to **draw a picture of something, or someone, who is powerful**.
 - **“Visitor Song”** and acknowledgment
 - **“Happy Birthday”** for any child with a birthday this past week
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3] “We Welcome You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/my-forever-friend-jesus.mp3] “My Forever Friend Jesus” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Yelena Jovinov, Johanna McKay"},{"key":"Piano","value":"Johanna McKay"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2007 Coralie Fraser. Used by permission."}
@@ -47,8 +45,6 @@ Invite children to **draw a picture of something, or someone, who is powerful**.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
-```
-
 **^[PRAY:]({"style": {"text": {"color":"#D34D5E"}}})** Sing **“When I Kneel Down to Pray.”** Kneel together, and invite a child to pray. Then pray also, thanking Jesus that He is all-powerful and loves us. Ask Him to please help all the children learn more about Him today.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3] “When I Kneel Down To Pray” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2005 Coralie Fraser. Used by permission"}
@@ -57,6 +53,12 @@ Invite children to **draw a picture of something, or someone, who is powerful**.
 **OFFERING AND MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going to this quarter.
+
+```=Mission Fast Fact #13
+
+In England, children can learn about Jesus at Adventist schools. Many churches run play groups for toddlers and programs for young families. When they are ready for school, children can attend Adventist schools and high schools. Here they can grow their friendship with Jesus, as they learn and grow. When they have finished school, young people can attend an excellent Adventist university, Newbold College.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand,”** and invite a child to collect the Sabbath School offering in your offering container. Then pray that God will take the offering to be used where it is most needed. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

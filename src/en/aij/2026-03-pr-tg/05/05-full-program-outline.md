@@ -69,6 +69,12 @@ Sing the prayer song, **“Be Still, Be Silent.”**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
+```=Mission Fast Fact #5
+
+Romania has many beautiful natural landscapes to explore: high mountain peaks, deep forests, rolling hills, flowering meadows, wetlands, and the ocean. Popular sports include swimming, gymnastics, and football (soccer). Versions of tag, and a traditional game called Castle (Castel) involving two teams, are also fun playground games. The first team tries to build a castle made of stones, while the other team tries to knock it down with a ball, then prevent the team from rebuilding by hitting them with the ball.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

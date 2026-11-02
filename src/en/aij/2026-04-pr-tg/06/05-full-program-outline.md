@@ -63,6 +63,12 @@ subtitle: Week 6
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Share this week’s **Mission Fast Fact** about this quarter’s mission project. Have a child collect the offering as you all sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Pray that God will bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #6
+
+The people of Bosnia and Herzegovina are very strong in spirit. But they have had a tough time with war and conflict, especially between the religious and ethnic people groups. The last big war was in the early 1990s and you can still see bullet marks in many of their cities. Many people died and many cities and churches were destroyed Adventists try to bring others to know Jesus who can heal their hurts and give peace. Through the “Invasion of Love” initiative, youth volunteers serve local communities by providing practical assistance, health outreach, and acts of kindness.
+
+```
+
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week and pray for God to bless them.

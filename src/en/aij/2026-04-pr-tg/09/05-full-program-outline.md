@@ -71,6 +71,12 @@ Invite the children to stand, if not standing already, and sing the prayer song,
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Share this week’s **Mission Fast Fact** about this quarter’s mission project. Have a child collect the offering as you all sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Pray that God will bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #9
+
+Swedish food is fresh, changes with the seasons, and is comforting. Many people enjoy a jam made from lingonberries—a tiny tart fruit. It is spread on meatballs, pancakes, black pudding, and more. Most meals are served with crispbread called knäckebröd. In the afternoon Swedish people stop for Fika, which is spending time with friends eating small treats. Adventist children also love to build friendships (with Jesus and each other) at a beautiful lakeside camp. Many pastors in Sweden have learned how to include children in their church worships in creative ways. The children also have fun competitions to encourage them to read the Bible.
+
+```
+
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them in a special way.

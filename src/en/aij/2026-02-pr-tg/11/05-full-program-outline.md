@@ -67,6 +67,12 @@ subtitle: Week 11
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Pray and thank God for the children’s generosity, asking Him to use their gifts to bless others. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 
+```=Mission Fast Fact #11
+
+Tanzania is home to the world’s second largest land animal: the hippopotamus. Hippos like to laze in rivers and lakes during the day to keep cool, then come out at night to look for lots of grass to eat. They are super swimmers and can dive below the surface like submarines, holding their breath for up to 5 minutes! Can you guess the biggest land animal? Hint: it lives in this part of Africa too! Yes, the elephant.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

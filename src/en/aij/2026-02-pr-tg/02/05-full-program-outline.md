@@ -51,6 +51,12 @@ subtitle: Week 2
 
 **^[WELCOME:]({"style": {"text": {"color":"#d34d5e"}}})** Bring the children together and welcome them as a group. Express how wonderful it is to be together to learn more from the Bible and worship our loving God. Remind them that they can share a short show-and-tell about **last week’s Mission Challenge** toward the end of class. (Focus: If you had a friend who doesn’t come to church, what would you want them to see, hear, or do at Sabbath School?)
 
+```=Mission Fast Fact #2
+
+Rwanda is full of rolling green hills and is known as the land of a thousand hills. High up in the mountains live their most famous animals—gorillas! There are also volcanoes, lush rainforests, and savannas (grassy plains) that are home to many amazing animals including elephants, giraffes, and zebras. Rwanda also has the largest concentration of Seventh-day Adventists in the world!
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing the welcome song, **“God Speaks to Us,”** followed by **“Love My Enemies.”** Then sing the prayer song, **“A Whisper From the Heart.”**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/god-speaks-to-us.mp3] “God Speaks to Us” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}

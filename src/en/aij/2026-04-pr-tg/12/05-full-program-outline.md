@@ -67,6 +67,12 @@ Then sing **“Close to Your Heart.”** Before you sing, ask them to think abou
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Share this week’s **Mission Fast Fact** about this quarter’s mission project. Have a child collect the offering as you all sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Pray that God will bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #12
+
+In Slovenia, Adventist church members work together with ADRA (Adventist Disaster and Relief Agency) to help people in need in their areas. There is an ADRA ambassador in every church in Slovenia. They work with all members to help people who have escaped nearby wars, run health days, collect and deliver donations for women and children in need, and make gifts for refugees. In one part of the country, they are very active in serving the Roma people group, who live in camps outside of the city. There are now three churches inside the big camp each Sabbath, and many health services.  In the capital city of Slovenia, Ljubljana, the Adventist Church runs a café near the university where students can come to eat, play board games, learn about healthy living and do crafts. Many people like to come to the beautiful café, and they can also l earn about Jesus.
+
+```
+
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
