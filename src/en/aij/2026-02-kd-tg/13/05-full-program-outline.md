@@ -33,8 +33,6 @@ subtitle: Week 13
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/we-welcome-you.mp3] “We Welcome You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/i-can-trust-god.mp3] “I Can Trust God” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
@@ -45,12 +43,16 @@ subtitle: Week 13
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (5 MINUTES)
 
-**^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a Mission Fast Fact about where the offering is going this quarter.
+**^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
+
+```=Mission Fast Fact #13
+
+There are not yet many Adventist schools in South Sudan. But there are many children that would love to learn in one. It costs more than many families can afford. A lot of girls miss out on going to school in South Sudan. Our church is working hard to try and teach women and girls to read so they can learn more about Jesus for themselves.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

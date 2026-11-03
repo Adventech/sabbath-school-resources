@@ -67,6 +67,12 @@ subtitle: Week 8
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
+```=Mission Fast Fact #8
+
+The Solomon Islands are a collection of six main islands and 992 smaller islands. That’s a lot of islands! It can be hard for people on little islands to get to church and for pastors to travel between islands to share the Good News about Jesus. Some travel by boats, others by sea planes. Most people speak Solomon’s Pijin, but there are around 80 other languages. Even though they are spread out, the people stick together. In the Solomon Islands, children and adults live together as a community. When a family is struggling, their friends, relatives, and neighbors—called "Wantoks"—share food, clothes, and even their homes to support them. Everyone looks out for each other, making sure no one is left alone in times of need.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}

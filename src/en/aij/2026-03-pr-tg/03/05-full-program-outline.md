@@ -79,6 +79,12 @@ Praying is another way we praise God. Before you sing your prayer song, share th
 
 Have a child collect the offering as you sing **“Thank You, Jesus.”** Display your **Offering Chart** and share how much money the class has given so far this quarter. Thank the children for their generous giving. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Pray and ask God to bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #3
+
+In Austria people wear traditional clothing (Dirndl, Lederhosen) during festivals-and sometimes even on regular days, while the country is also at the forefront of music, medicine, environmental protection, and technology in the world. Vienna is often called the "capital of music." Great classical music composers such as Mozart, Haydn, Schubert, and Beethoven lived and worked there. Even today, Vienna hosts more than 15,000 concerts every year. Over 60% of Austria is mountainous, yet its cities are extremely well organized. You can go skiing in the morning and attend a music concert or visit a museum the very same day.
+
+```
+
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week and ask God to bless them.

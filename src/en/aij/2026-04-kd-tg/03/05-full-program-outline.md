@@ -61,6 +61,12 @@ Invite the leaders to say “Hello” in another language.
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering and share how good it is to give to other countries so more people can learn about God.
 
+```=Mission Fast Fact #3
+
+Iceland is a beautiful country that looks like nowhere else on earth. It has over 130 volcanoes, jagged green mountains, huge waterfalls, and lots of snow and ice. The people of Iceland have never had a children’s Sabbath School lesson in their language. There are not many children’s Christian books or magazines of any kind that are in their language. They hope (with help) to be able to have Alive in Jesus in their language. The church runs a school, and many children come who are not Adventist but prefer to be in a smaller school. The school has fun Bible classes for all the children to learn about God’s love and the joy of following Jesus. Older children learn about the difference that the Bible can make to their life.
+
+```
+
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand”** and invite a child to collect the offering in your offering container. Then pray that God will take the offering to be used where it is most needed.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3] “Open My Heart, Open My Hand” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

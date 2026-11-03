@@ -65,6 +65,12 @@ subtitle: Week 8
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Share this week’s **Mission Fast Fact** about this quarter’s mission project. Have a child collect the offering as you all sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Pray that God will bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #8
+
+The national animal of Croatia is the European pine marten. These weasel-like animals are known for their intelligence and problem-solving skills. They live in forests and are most active at night when they hunt small mammals or forage fruit. Their pelts (skins) were the main currency (type of payment/money) in this area during ancient Roman times and for a very long time after that. Now, these quick, cunning creatures are protected. Adventist children in Croatia learn about nature at their annual Fratarski Camp. Held in a simple island setting free from modern distractions, the camp provides opportunities for worship, fellowship, outdoor activities, and spiritual growth.
+
+```
+
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and ask God to bless them.

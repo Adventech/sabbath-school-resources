@@ -40,6 +40,12 @@ subtitle: Week 1
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Introduce the division and countries where this quarter’s mission project/offering is going. Show a world map, talk a little about the culture, and then share one of the **Mission Fast Facts** about the country. Show the children your Offering Chart and talk about how important it is to give to others.
 
+```=Mission Fast Fact #1
+
+This quarter’s offering is going to the South Pacific Division of the world church. There are many beautiful islands with sandy beaches spread across the South Pacific. These include the big islands of Australia, New Zealand, Papua New Guinea, and New Caledonia. And smaller islands of Tonga, Nauru, Tuvalu, French Polynesia, Cook Islands, and many others.
+
+```
+
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-kd-tg/assets/for-jesus.mp3] “For Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}

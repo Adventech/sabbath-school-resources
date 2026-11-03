@@ -29,8 +29,6 @@ subtitle: Week 12
 - **“Happy Birthday”** for any child with a birthday this past week.
 - **“Visitor Song”** and acknowledgment.
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[i-will-serve-you-jesus.mp3] “I Will Serve You, Jesus” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2004 Coralie Fraser. Used by permission"}
@@ -41,12 +39,16 @@ subtitle: Week 12
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (5 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering. Tell the children that next week will be the last week to collect money for the special mission offering, and the last week to color in your offering chart.
+
+```=Mission Fast Fact #12
+
+Slovakia has many castles and fortresses, where real knights, kings, and princesses once lived. There are many mountains in this beautiful land, and many of the castles sit on hilltops, looking like they came straight out of a storybook. But the best story to tell in Slovakia is the story of Jesus. There are around 43 churches and 10 Seventh-day Adventist groups that meet on Sabbath. With God’s help, the Adventists here would like to open many more.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

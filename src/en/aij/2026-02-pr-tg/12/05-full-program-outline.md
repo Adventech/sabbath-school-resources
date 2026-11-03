@@ -67,6 +67,12 @@ Hold up your class Bible. Share that so far this year we have learned about God�
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Then pray for a special blessing over the offering and those it will help. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 
+```=Mission Fast Fact #12
+
+In Burundi, there are many people who need to know more about Jesus. This country has had a troubled past, with periods of time when all Adventist churches were forced to close, and several wars that caused many people to leave their country as refugees. The Adventists of Burundi can see a wonderful opportunity to grow, with help from our world church. They want to share that Jesus loves, saves, and brings peace.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

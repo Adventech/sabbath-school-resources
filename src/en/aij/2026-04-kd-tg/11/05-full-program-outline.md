@@ -35,8 +35,6 @@ If time allows, they can discuss their favorite story and what they have learned
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3] “We Welcome You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/i-can-trust-god.mp3] “I Can Trust God” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
@@ -47,8 +45,6 @@ If time allows, they can discuss their favorite story and what they have learned
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
-```
-
 **^[PRAY:]({"style": {"text": {"color":"#D34D5E"}}})** Sing **“When I Kneel Down to Pray,”** then invite a child to pray. Then pray also, thanking Jesus for His love and help always, and asking Him to help the children learn to trust Him.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3] “When I Kneel Down To Pray” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2005 Coralie Fraser. Used by permission"}
@@ -57,6 +53,12 @@ If time allows, they can discuss their favorite story and what they have learned
 **OFFERING AND MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
+
+```=Mission Fast Fact #11
+
+In Poland, Adventist families have been busy caring for their neighbors who have escaped a nearby war. When the war began, they turned their churches into places where people could sleep, eat, and be safe. There were many women and children with nowhere to go. The Polish Adventists invited them into their homes. They continue to look for ways to show love to many refugees while praying for peace. The church has a huge campsite in a forest on the shores of a lake and families bring friends to have fun there and to learn about Jesus. There is a tiny school in one town and they are praying that more children will come to the school and learn about Jesus too.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand,”** and invite a child to collect the Sabbath School offering in your offering container. Then pray that God will take the offering to be used where it is most needed. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

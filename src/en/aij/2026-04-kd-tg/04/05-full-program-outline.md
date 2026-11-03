@@ -51,6 +51,12 @@ Ask: **What did Jesus do in our Bible story last week?** (He calmed a storm and 
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
 
+```=Mission Fast Fact #4
+
+Greenland is the world’s biggest island. It is at the top of the world in the Arctic region where it is very, very cold. Most of Greenland is covered by ice and glaciers. It is home to many amazing animals, including the polar bear, reindeer, arctic fox, musk ox, and arctic wolf. Only a small part of Greenland can be lived in. The people who live here are Inuit people and speak Greenlandic. They rule their own country, but they are part of Denmark. In 2025 a new mission centre opened in a small town. Missionaries live with the people and share their business skills to help the community.
+
+```
+
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand”** and invite a child to collect the offering in your offering container. Then pray that God will take the offering to be used where it is most needed. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/open-my-heart-open-my-hand.mp3] “Open My Heart, Open My Hand” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
