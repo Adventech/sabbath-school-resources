@@ -79,6 +79,12 @@ Staple their chains together. **Staple the card with the memory verse to the end
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Your team may like to have a few extra coins on hand to give to visitors so they can participate. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Pray for a special blessing on each child and for those who will benefit from the offering. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 
+```=Mission Fast Fact #9
+
+Rwanda is a small, land-locked country with many, many people. There is not enough land to grow all the food that’s needed for the people. This lack of food is called a food deficit. It means many people go hungry or struggle to find food to feed their families. There was also a terrible war many years ago that left a huge number of Tutsi children as orphans. They are now grown-ups that need the love and healing of Jesus, and Christian friends.
+
+```
+
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **FOCUS ACTIVITIES** (5 MINUTES)
 

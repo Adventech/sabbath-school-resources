@@ -26,8 +26,6 @@ subtitle: Week 1
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/gods-big-family.mp3] “God’s Big Family” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
@@ -35,8 +33,6 @@ subtitle: Week 1
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/birthday-song.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
-
-```
 
 Ask:
 
@@ -49,6 +45,12 @@ Ask:
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Introduce the division and countries where this quarter’s mission project/offering is going. Show your prepared quarterly offering chart. Show a world map, talk a little about the culture, and then share one of the **Mission Fast Facts** about the country. Encourage the children to give each week to the important work for God that is happening in this part of the world.
+
+```=Mission Fast Fact #1
+
+This quarter’s offering is going to the East-Central Africa Division of the world church. There are 11countries in this area, including Burundi, the Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Tanzania, and Uganda.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand”** and invite one child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected his quarter.
 

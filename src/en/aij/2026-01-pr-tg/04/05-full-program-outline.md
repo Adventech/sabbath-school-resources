@@ -70,6 +70,12 @@ the Bible and worship our loving God together.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
+```=Mission Fast Fact #4
+
+There are more than 332 islands in Fiji so most children in Fiji grow up by the sea. Children in Fiji love swimming in the ocean and lagoons, and fishing. They also enjoy playing games with balls. They like to play rugby, rugby league, and netball. Tag is popular, as is Pani, a traditional game that’s similar to hopscotch or skipping.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-01-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}

@@ -39,8 +39,6 @@ Use this activity to talk about protecting God’s nature by recycling garbage a
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[god-is-always-with-me.mp3] “God Is Always With Me” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
@@ -49,12 +47,16 @@ Use this activity to talk about protecting God’s nature by recycling garbage a
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering. Emphasize how good it is to give to God’s work in other places around the world, and how the money we each give helps other children and adults to know Jesus.
+
+```=Mission Fast Fact #4
+
+When playing outdoors with friends, there are two types of games that children in Italy like to play: street games, such as Nascondino (Hide and Seek), 1 2 3 Stella (1 2 3  Star—a clapping game in a circle) or Campana (Hopscotch); and sports, especially football (soccer). Through schools, youth clubs and scout groups, efforts are being made to play traditional games and have fun together in nature.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus,”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

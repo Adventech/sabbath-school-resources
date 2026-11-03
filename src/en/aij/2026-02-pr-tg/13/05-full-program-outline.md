@@ -69,6 +69,12 @@ subtitle: Week 13
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer, asking God to bless and take the offering to where it’s most needed. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 
+```=Mission Fast Fact #13
+
+In Rwanda, the government helps pay for schooling, so all Adventist primary schools are free of charge. The church runs 55 schools, including primary schools, high schools, and two universities. But with so many Seventh-day Adventists there is a need to build many more!
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitors and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

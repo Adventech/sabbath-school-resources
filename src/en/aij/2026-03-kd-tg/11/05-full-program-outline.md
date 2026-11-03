@@ -34,8 +34,6 @@ subtitle: Week 11
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[jesus-loves-me-and-i-love-jesus.mp3] “Jesus Loves Me and I Love Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
@@ -46,12 +44,16 @@ subtitle: Week 11
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (5 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering, showing a map and engaging the children to appreciate the country where their offering is going.
+
+```=Mission Fast Fact #11
+
+After terrible flooding in Germany (2002, 2021), children and adults helped rebuild the destroyed areas. The church is involved in helping refugees and collecting supplies and medicines for people in nearby European countries where there is war. They are very involved in giving to ADRA to help people in need.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Talk about how good it is to give Jesus our offerings, since all we have has come from Him. Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

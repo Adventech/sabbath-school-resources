@@ -65,6 +65,12 @@ subtitle: Week 2
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
+```=Mission Fast Fact #2
+
+In Denmark, church meetings are informal, and people dress casually. They meet in simple church buildings (around 40 in the country) that are warm and inviting. They sing more recent songs rather than traditional hymns. One of the churches is called a Café Church and families and young people sit around tables with drinks, worship together, and discuss the sermon. Every year the café church goes on a ski trip with wonderful worships and often young people choose to be baptized after this trip.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

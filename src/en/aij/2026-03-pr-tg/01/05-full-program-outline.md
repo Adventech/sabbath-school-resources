@@ -35,6 +35,20 @@ subtitle: Week 1
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Introduce this quarter’s mission project and offering destination. Explain a little about it. Highlight the location on a world map or globe.
 
+```=Mission Fast Fact #1
+
+This quarter’s offering is going to the Inter-European Division. This division includes the beautiful European countries and people of Portugal, Spain, Andorra, France, Belgium, Luxemburg, Monaco, Germany, Switzerland, Lichtenstein, Austria, Italy, Romania, Bulgaria, Czech Republic, and Slovakia.
+
+This quarter, the Mission Offering each Sabbath will support the following projects in the Inter-European Division:
+
+- Youth Camp, Belgium
+- Student Dormitory at Villa Aurora Adventist University, Florence, Italy
+- MACEA Speranta School, with Kindergarten and Primary School, Romania
+- Tzvetna Nadezhda Kindergarten, Sofia, Bulgaria
+- Peretu Eden School, Romania
+
+```
+
 Show the children the Offering Chart you have created to record how much money is collected each week to help others. Have a child collect the offering and sing, **“Thank You, Jesus.”**
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/thank-you-jesus.mp3] “Thank You, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}

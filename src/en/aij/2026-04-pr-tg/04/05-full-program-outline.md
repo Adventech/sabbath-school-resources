@@ -73,6 +73,12 @@ Today we’ll learn about someone who looked into His loving eyes.
 
 **^[DO:]({"style": {"text": {"color":"#d34d5e"}}})** Show the children a world map or globe. Find places the children have been to, heard about, or would like to visit. Talk about how God made the world and how He loves everyone in it. Share this week’s **Mission Fast Fact**.
 
+```=Mission Fast Fact #4
+
+Norway is known for its beautiful fjords. A fjord is a narrow, deep body of water that is surrounded by high mountain cliffs. There are more than 1,000 fjords in Norway that are between majestic snow-capped mountains and rocky cliffs, with waterfalls and icy glaciers nearby. People like to enjoy God’s creation by hiking and rock climbing around the fjords or kayaking on their crystal clear (cold!) waters. Families with children go to a wonderful Adventist summer camp (Living Water Summer Camp) by a lake and bring their friends too. There is a natural waterpark there with smooth stone chutes carved by an old river. Families worship, play, and learn more about God together.
+
+```
+
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering as you sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Pray and ask God to bless and take the offering to where it’s most needed.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

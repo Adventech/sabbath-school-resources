@@ -31,8 +31,6 @@ _Peace is quiet and calm. God’s peace in our hearts gives us a safe and conten
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgement
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/we-welcome-you.mp3] “We Welcome You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/gods-big-family.mp3] “God’s Big Family” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
@@ -43,12 +41,16 @@ _Peace is quiet and calm. God’s peace in our hearts gives us a safe and conten
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter. Thank the children for giving to God’s work.
+
+```=Mission Fast Fact #5
+
+In Rwanda, there are many Seventh-day Adventist children. It is a small country, but it has the most Adventists for its size in the world! Church members, not just pastors, help preach and teach Bible studies. The people of Rwanda also like to share the love of Jesus with others by helping the many people in their country who are poor and don’t have enough food to eat.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

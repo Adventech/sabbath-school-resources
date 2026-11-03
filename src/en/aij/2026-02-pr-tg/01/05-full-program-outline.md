@@ -81,6 +81,12 @@ Sing the prayer song, **“A Whisper From the Heart.”**
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Introduce this quarter’s mission project and offering destination, and explain a little about it. Highlight the location on a world map or globe. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a short prayer for God to bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #1
+
+This quarter’s offering is going to the East-Central Africa Division of the world church. There are 11 beautiful countries in this area, including Burundi, the Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Tanzania, and Uganda.
+
+```
+
 Have a child collect the offering. Display your **Offering Chart** and decide on how much money the class would like to aim to collect this quarter. After today’s offering has been collected and counted by an adult, invite one child to color the first section of the Offering Chart.
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.

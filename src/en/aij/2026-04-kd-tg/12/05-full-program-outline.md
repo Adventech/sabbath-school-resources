@@ -33,8 +33,6 @@ As you talk about this, help each child make and decorate a joyful shaker. (Have
 - **“Visitor Song”** and acknowledgment
 - **“Happy Birthday”** for any child with a birthday this past week
 
-```=Praise Songs
-
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/we-welcome-you.mp3] “We Welcome You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/rejoice-in-the-lord-always.mp3] “Rejoice in the Lord Always” {"credits":[{"key":"Writer","value":"Unknown"},{"key":"Singers","value":"TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain."}
@@ -45,8 +43,6 @@ As you talk about this, help each child make and decorate a joyful shaker. (Have
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/birthday-song.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
-```
-
 **^[PRAY:]({"style": {"text": {"color":"#D34D5E"}}})** Sing **“When I Kneel Down to Pray.”** Invite a child to pray. Then pray also, thanking Jesus for His love that gives us joy, and asking Him to help us learn something new about Him today.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-kd-tg/assets/when-i-kneel-down-to-pray.mp3] “When I Kneel Down To Pray” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2005 Coralie Fraser. Used by permission"}
@@ -55,6 +51,12 @@ As you talk about this, help each child make and decorate a joyful shaker. (Have
 **OFFERING AND MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going to this quarter.
+
+```=Mission Fast Fact #12
+
+Pastors in Serbia can talk freely about Jesus and share the Bible. Their country has been involved in war and there are many hurts between people groups and religion. The pastors here try to find ways to bring people together. ADRA have a special program to bring school to children who don’t have a chance to go to a school nearby. “School on Wheels” helps more 200 Roma children to be happy learners.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“Open My Heart, Open My Hand,”** and invite a child to collect the Sabbath School offering in your offering container. Then pray that God will take the offering to be used where it is most needed. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

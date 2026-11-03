@@ -67,6 +67,12 @@ subtitle: Week 6
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering. Display your **Offering Chart** and share how much money the class has given so far this quarter. Share this week’s **Mission Fast Fact**. Say a short prayer for God to bless and take the offering to where it’s most needed. After the offering has been collected and counted by an adult, invite one child to color this week’s section of the Offering Chart.
 
+```=Mission Fast Fact #6
+
+In Ethiopia many people are Christians (mostly Orthodox Christians) but very few are Seventh-day Adventists. Ethiopian people are very proud of their strong traditions, and it is hard to interest people in learning Bible truths for themselves. Adventists in Ethiopia are helping others learn Bible truths by teaching them about health. They run workshops and show and tell others about how God wants us to have healthy bodies, minds, and hearts.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitors and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-02-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}

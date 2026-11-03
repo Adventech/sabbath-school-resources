@@ -65,6 +65,12 @@ Sing the prayer song, **“I Kneel and Pray.”**
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Share this week’s **Mission Fast Fact** about this quarter’s mission project. Have a child collect the offering as you all sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Pray that God will bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #5
+
+Many children in Latvia like to go ice skating, skiing, and sledding in winter. In summer there are flowers in the fields, and many families go hiking and swimming. Singing is a big part of Latvian culture. Children go to summer camps and bring their friends to learn about Jesus. The church translated lots of books about family worship to help families share Jesus with their children and their friends. 
+
+```
+
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-04-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week and pray for God to bless them.

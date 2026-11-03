@@ -31,8 +31,6 @@ subtitle: Week 6
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgment
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[i-will-serve-you-jesus.mp3] “I Will Serve You, Jesus” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2004 Coralie Fraser. Used by permission"}
@@ -41,12 +39,16 @@ subtitle: Week 6
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
+
+```=Mission Fast Fact #6
+
+In the French and Italian areas of Switzerland, you will find so many stunning mountains, lakes, rivers, forests, waterfalls, ski slopes, cycle paths, and amazing walks. Every corner of this country is rich in beautiful nature. Children are often in contact with nature: even schools, both public and private, encourage spending plenty of time outdoors.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Emphasize how good it is to give our offerings to God. All we have belongs to Him, so we actually return His money to Him so others can know about Jesus. Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

@@ -31,8 +31,6 @@ subtitle: Week 5
 - **“Happy Birthday”** for any child with a birthday this past week
 - **“Visitor Song”** and acknowledgement
 
-```=Praise Songs
-
 !a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 !a[my-forever-friend-jesus.mp3] “My Forever Friend Jesus” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singers","value":"Yelena Jovinov, Johanna McKay"},{"key":"Piano","value":"Johanna McKay"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2007 Coralie Fraser. Used by permission."}
@@ -43,12 +41,16 @@ subtitle: Week 5
 
 !a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-```
-
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING, PRAYER, MEMORY VERSE** (6 MINUTES)
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
+
+```=Mission Fast Fact #5
+
+Germany has many beautiful lakes including Bodensee (Lake Constance), one of the largest lakes in Europe. It has an island of flowers, called Mainau where butterflies fly all around. There are many wooded forests in Germany, including the famous Black Forest. Wadden Sea (North Sea Coast), is a very place where twice a day, the whole sea disappears for as far as you can see. You can walk on the vast ocean floor, see crabs, worms, seals, and lots of birds. Neuschwanstein Castle is one of the most magical places in Germany! It sits high on a mountain in Bavaria and looks just like a real storybook castle.
+
+```
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the offering in your offering container. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 

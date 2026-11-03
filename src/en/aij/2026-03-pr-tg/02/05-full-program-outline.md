@@ -67,6 +67,12 @@ subtitle: Week 2
 
 Later, after the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter. Then share this week’s **Mission Fast Fact** about this quarter’s mission project. Pray and ask God to bless and take the offering to where it’s most needed.
 
+```=Mission Fast Fact #2
+
+In the Italian and French parts of Switzerland, people mainly find out about God through personal or small group Bible studies; sharing stories; friendship; health activities; or themed meetings. Many people in Switzerland love the outdoors and going hiking, mountain biking, river rafting, and skiing. Children invite their schoolmates or friends to these activities run by the church—called Scout activities—where they can build friendships, then later invite their new friends to Sabbath School or themed celebrations at church.
+
+```
+
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week and pray for God to bless them.
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
