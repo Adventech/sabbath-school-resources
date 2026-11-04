@@ -53,7 +53,7 @@ subtitle: Week 2
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Invite the children to sing **“Be Happy”** and **“A Priceless Treasure.”**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/bе-happy.mp3] “Ве Happy” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2004 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/bе-happy.mp3] “Be Happy” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2004 Abide Family Ministries. Used by permission."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2026-03-pr-tg/assets/a-priceless-treasure.mp3] “A Priceless Treasure” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Corporation® of Seventh-day Adventists."}
 
