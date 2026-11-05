@@ -535,24 +535,29 @@ let processResources = async function (languageGlob, resourceType, resourceGlob)
                 await processFeed(feedFilenamePath, resourcePathInfo.type)
 
                 if (resourcePathInfo.type !== RESOURCE_TYPE.SS) {
-                    for (let otherFeed of Object.keys(RESOURCE_TYPE).filter((f) => RESOURCE_TYPE[f] !== resourcePathInfo.type)) {
+                    for (let otherFeeds of Object.keys(RESOURCE_TYPE).filter((f) => RESOURCE_TYPE[f] !== resourcePathInfo.type)) {
+
+                        let otherFeed = RESOURCE_TYPE[otherFeeds]
                         let otherFeedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed.yml`
-                        if (fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed-${DEPLOY_ENV}.yml`)) {
-                            otherFeedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed-${DEPLOY_ENV}.yml`
-                        }
 
-                        const otherResourceFeedConfig = await getResourceFeed(otherFeedFilenamePath)
+                        if (fs.pathExistsSync(otherFeedFilenamePath)) {
+                            if (fs.pathExistsSync(`${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed-${DEPLOY_ENV}.yml`)) {
+                                otherFeedFilenamePath = `${SOURCE_DIR}/${resourcePathInfo.language}/${otherFeed}/feed-${DEPLOY_ENV}.yml`
+                            }
 
-                        if (otherResourceFeedConfig.groups) {
-                            let foundThisResourceInOtherFeeds = otherResourceFeedConfig.groups.find((g) => {
-                                if (g.resources) {
-                                    return g.resources.some(i => picomatch(i)(resourceInfo.id) )
+                            const otherResourceFeedConfig = await getResourceFeed(otherFeedFilenamePath)
+
+                            if (otherResourceFeedConfig.groups) {
+                                let foundThisResourceInOtherFeeds = otherResourceFeedConfig.groups.find((g) => {
+                                    if (g.resources) {
+                                        return g.resources.some(i => picomatch(i)(resourceInfo.id) )
+                                    }
+                                    return false
+                                })
+
+                                if (foundThisResourceInOtherFeeds) {
+                                    await processFeed(otherFeedFilenamePath, otherFeed, true)
                                 }
-                                return false
-                            })
-
-                            if (foundThisResourceInOtherFeeds) {
-                                await processFeed(otherFeedFilenamePath, RESOURCE_TYPE[otherFeed], true)
                             }
                         }
                     }

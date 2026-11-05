@@ -2,8 +2,9 @@ title: دانشکده سبت
 groups:
   - group: راهنمای مطالعه کتاب مقدس
     view: folio
-    scope: resource
+    resources:
+      - 'fa-ss-????-0[1-4]'
   - group: خدمات شخصی
     view: folio
     resources:
-      - fa-pm-discipleship-handbook
+      - 'fa-pm-discipleship-handbook'

@@ -7,3 +7,7 @@ groups:
     view: folio
     resources:
       - '*[0-9-]+-cq'
+  - group: የግል አገልግሎት
+    view: folio
+    resources:
+      - am-pm-discipleship-handbook

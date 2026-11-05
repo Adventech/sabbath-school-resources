@@ -1,0 +1,6 @@
+title: የግል አገልግሎት
+hidden: true
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true
