@@ -35,7 +35,14 @@ let processLanguages = async function () {
         }
 
         for (let resourceType of Object.keys(RESOURCE_TYPE)) {
-            languageInfoDist[RESOURCE_TYPE[resourceType]] = fs.pathExistsSync(`${SOURCE_DIR}/${language}/${RESOURCE_TYPE[resourceType]}`)
+            const resourceTypePath = `${SOURCE_DIR}/${language}/${RESOURCE_TYPE[resourceType]}`
+            let resourceTypeExists = fs.pathExistsSync(resourceTypePath)
+            let feedHidden = false
+            if (resourceTypeExists) {
+                let feedInfo = yaml.load(fs.readFileSync(`${resourceTypePath}/feed.yml`, "utf8"))
+                feedHidden = feedInfo.hidden ?? false
+            }
+            languageInfoDist[RESOURCE_TYPE[resourceType]] = resourceTypeExists && !feedHidden
         }
         languagesInfo.push(languageInfoDist)
     }
