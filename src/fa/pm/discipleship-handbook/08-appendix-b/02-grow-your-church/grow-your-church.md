@@ -2,15 +2,20 @@
 title: رشد کردن کلیسا
 ---
 
-![آماده کردن خاک و بستر](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![آماده کردن خاک و بستر](https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/08-appendix-b-02-grow-your-church/image1.png)
 
-![کاشت کلام خدا](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![کاشت کلام خدا](https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/08-appendix-b-02-grow-your-church/image2.png)
 
-![داشت پرورش علاقه و مراقبت](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![داشت پرورش علاقه و مراقبت](https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/08-appendix-b-02-grow-your-church/image3.png)
 
-![برداشت و کمک به تصمیم گیری در گرفتن تعمید](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![برداشت و کمک به تصمیم گیری در گرفتن تعمید](https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/08-appendix-b-02-grow-your-church/image4.png)
 
-![نگهداری، حفظ و آموزش](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![نگهداری، حفظ و آموزش](https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/08-appendix-b-02-grow-your-church/image5.png)
 
 ### کلیسای خود را رشد دهید
 

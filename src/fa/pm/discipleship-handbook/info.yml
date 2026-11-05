@@ -1,7 +1,13 @@
 title: کتاب راهنمای شاگردی
-subtitle: >-
-  منبعی برای اعضای کلیسای ادونتیست های روز هفتم
-description:
+subtitle: منبعی برای اعضای کلیسای ادونتیست های روز هفتم
+description: null
 kind: book
 primaryColor: '#7A0119'
 primaryColorDark: '#1A1A19'
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/fa/pm/discipleship-handbook/assets/cover.png
