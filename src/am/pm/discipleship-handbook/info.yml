@@ -8,3 +8,10 @@ credits:
     value: © 2015 በሚቺጋን የሰባተኛ ቀን አድቬንቲስት ኮንፈረንስ የሥልጠና ማዕከል የቤተክርስቲያን ኮሚቴ
   - name: ISBN
     value: 978-0-9963136-0-5
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/am/pm/discipleship-handbook/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/am/pm/discipleship-handbook/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/am/pm/discipleship-handbook/assets/cover.png
