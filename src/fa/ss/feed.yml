@@ -1,5 +1,9 @@
 title: دانشکده سبت
 groups:
-  - scope: resource
-    direction: vertical
-    noSeeAll: true
+  - group: راهنمای مطالعه کتاب مقدس
+    view: folio
+    scope: resource
+  - group: خدمات شخصی
+    view: folio
+    resources:
+      - fa-pm-discipleship-handbook

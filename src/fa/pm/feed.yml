@@ -1,0 +1,7 @@
+---
+title: خدمات شخصی
+hidden: true
+groups:
+  - scope: resource
+    direction: vertical
+    noSeeAll: true
