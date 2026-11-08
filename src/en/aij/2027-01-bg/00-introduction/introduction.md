@@ -8,7 +8,8 @@ God has given your precious child to your family on loan. People say the days of
 
 In this publication you’ll find carefully selected, age-appropriate stories and activities to help guide your child toward knowing and loving Jesus. **Every day, read the simple weekly story** and invite **interaction from your child** as you do so. Point to the pictures (or invite your child to) as you read. Make this learning time a very special daily routine. The **Play Throughout the Day activities** are ideas you can do with your child to reinforce the Bible story messages. Turn these activities into memories that are woven into your lives to strengthen the Bible messages. Take time to read the **Heart of the Matter** spiritual message that is written just for you. Say the **memory verse** to your child every day, even if they are still learning to speak. Place the memory verse card somewhere prominent in your home to remind you to do so and show this to your child.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/00-introduction/image.png)
 
 Accept the challenge to “lead them to Jesus Christ day by day, lovingly, tenderly, earnestly. You must not allow anything to come between you and this great work” (Ellen G. White, Child Guidance, p. 41).
 

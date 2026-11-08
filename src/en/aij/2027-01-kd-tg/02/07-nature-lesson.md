@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** The African elephant shows us how to be gentle.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/02/nature-lesson.jpg)
 
 - **What is the biggest and strongest land animal of all?** (The elephant!)
 

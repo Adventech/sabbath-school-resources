@@ -14,31 +14,31 @@ subtitle: Week 5
 
 ```=Scripture Song Playlist
 
-!a[1-ephesians-2-10.mp3] “Ephesians 2:10” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/1-ephesians-2-10.mp3] “Ephesians 2:10” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[2-isaiah-12-2.mp3] “Isaiah 12:2” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/2-isaiah-12-2.mp3] “Isaiah 12:2” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[3-psalm-147-5.mp3] “Psalm 147:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/3-psalm-147-5.mp3] “Psalm 147:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[4-2-samuel-22-2.mp3] “2 Samuel 22:2” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/4-2-samuel-22-2.mp3] “2 Samuel 22:2” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[6-psalm-107-8.mp3] “Psalm 107:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/6-psalm-107-8.mp3] “Psalm 107:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[7-psalm-145-16.mp3] “Psalm 145:16” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/7-psalm-145-16.mp3] “Psalm 145:16” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[8-john-15-12.mp3] “John 15:12” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/8-john-15-12.mp3] “John 15:12” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[9-psalm-25-8.mp3] “Psalm 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/9-psalm-25-8.mp3] “Psalm 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[10-psalm-25-5.mp3] “Psalm 25:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/10-psalm-25-5.mp3] “Psalm 25:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[11-psalm-37-5.mp3] “Psalm 37:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/11-psalm-37-5.mp3] “Psalm 37:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[12-exodus-25-8.mp3] “Exodus 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12-exodus-25-8.mp3] “Exodus 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[13-psalm-77-13.mp3] “Psalm 77:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/13-psalm-77-13.mp3] “Psalm 77:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 ```
 
@@ -53,7 +53,7 @@ subtitle: Week 5
 
 **^[BIBLE FOCUS:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“The Books of the Bible.”** Share a **Bible Fast Fact**: The first musician in the Bible was named Jubal. Read Genesis 4:21.
 
-!a[books-of-the-bible.mp3] “The Books of the Bible” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/books-of-the-bible.mp3] “The Books of the Bible” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 - **What instruments did he play?** (Harp and flute.)
 
@@ -61,29 +61,29 @@ Explain how wonderful it is that we get to use our voices and instruments to pra
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Sing **“My Help”** and affirm that we can always trust God to be our helper. Then sing **“All the Time”** and **“My God Will Deliver Me.”**
 
-!a[my-help.mp3] “My Help” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/my-help.mp3] “My Help” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[all-the-time.mp3] “All the Time” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Noah Jovinov, Yelena Jovinov, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2017 Abide Family Ministries. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/all-the-time.mp3] “All the Time” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"Noah Jovinov, Yelena Jovinov, TVAC choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2017 Abide Family Ministries. Used by permission."}
 
-!a[my-god-will-deliver-me.mp3] “My God Will Deliver Me” {"credits":[{"key":"Writer","value":"Janel Tasker"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/my-god-will-deliver-me.mp3] “My God Will Deliver Me” {"credits":[{"key":"Writer","value":"Janel Tasker"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 - **What do the words of “All the Time” and “My God Will Deliver Me” tell us about God?** (God is powerful to protect and save us, and we can choose to follow Him with every decision we make.)
 
 Conclude by singing the prayer song, **“Sabbath Song.”**
 
-!a[sabbath-song.mp3] “Sabbath Song” {"credits":[{"key":"Writers","value":"Alexandria Heise, Leighton Heise"},{"key":"Singers","value":"Ali Heise, Leighton Heise, Charlie Heise, Jesse Heise, Zoe Heise, Joanna Mae Heise"},{"key":"Pianist","value":"Ali Heise"},{"key":"Guitarist","value":"Leighton Heise"},{"key":"Bass","value":"Leighton Heise"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2020, Alexandria Heise, Leighton Heise. Used by permission."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/sabbath-song.mp3] “Sabbath Song” {"credits":[{"key":"Writers","value":"Alexandria Heise, Leighton Heise"},{"key":"Singers","value":"Ali Heise, Leighton Heise, Charlie Heise, Jesse Heise, Zoe Heise, Joanna Mae Heise"},{"key":"Pianist","value":"Ali Heise"},{"key":"Guitarist","value":"Leighton Heise"},{"key":"Bass","value":"Leighton Heise"},{"key":"Producer","value":"Rhys Zacher"}],"title": "Credits","copyright":"Copyright © 2020, Alexandria Heise, Leighton Heise. Used by permission."}
 
 **^[PRAY:]({"style": {"text": {"color":"#d34d5e"}}})** Invite three children to share what they love about God. Then invite those three children to pray, thanking God for who He is and how He is our leader.
 
 **^[GIVE:]({"style": {"text": {"color":"#d34d5e"}}})** Have a child collect the offering as you sing **“What Can I Give to the Lord?”** After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much money has been collected this quarter. Share this week’s **Mission Fast Fact** about this quarter’s mission project. Say a prayer over the offering, asking God to send the money to where it’s needed most.
 
-!a[what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/what-can-i-give-to-the-lord.mp3] “What Can I Give to the Lord?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#d34d5e"}}})** Warmly welcome any visitor and sing the **“Visitor Song.”** Sing **“Happy Birthday”** to a child who has had a birthday this week, and pray for God to bless them.
 
-!a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#6D6E6D", "size": "sm"}}}
 **FOCUS ACTIVITIES** (5 MINUTES)
@@ -129,7 +129,7 @@ Share a very brief example from your life when God has led you to a decision, a 
 
 **^[MEMORY VERSE:]({"style": {"text": {"color":"#a771b0"}}})** Give each child **Character Card 57: Moses at the Red Sea** to place in their storage container. Discuss the picture and sing the **Scripture Song together: Exodus 14:13**: “ ‘Do not be afraid. Stand still, and see the salvation of the Lord, which He will accomplish for you today.’ ”
 
-!a[5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 - **What do you think the Israelites learned about God on this day?** (God is powerful, He keeps His promises, and He can do the impossible.)
 - **When we “stand still” and wait on God, what are we showing Him?** (That we trust Him to take care of us and we know He is in control, not us.)
@@ -152,8 +152,8 @@ Invite the children to show God that they choose Him to be their leader by singi
 
 **^[SING:]({"style": {"text": {"color":"#a771b0"}}})** Sing **”My Help,”** then **“God Be With You,”** together.
 
-!a[my-help.mp3] “My Help” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/my-help.mp3] “My Help” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[god-be-with-you.mp3] “God Be With You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/god-be-with-you.mp3] “God Be With You” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[PRAY:]({"style": {"text": {"color":"#a771b0"}}})** Pray a simple prayer, asking God to bless the decisions made by the children to follow God wherever He leads. Conclude by thanking Him for being the most trustworthy leader of all.

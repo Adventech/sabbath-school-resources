@@ -11,7 +11,7 @@ markdownSubtitle: '^[Mission Story]({"style": {"text": {"color": "#F4793B"}}})'
 **Location:** Invite a child to help you find **Taiwan** on your **globe** or **world map**.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](mission-story.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/11/mission-story.jpg)
 
 Zhui Wen-Zhi (“Zhway Wen-Jee”) grew up in a poor farming family. For as long as she could remember, they would often bow down to worship an idol made of wood.
 

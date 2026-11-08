@@ -1,7 +1,9 @@
 title: 'Student YBQ1: Friend of God'
 markdownTitle: 'Student YBQ1: Friend of God'
 subtitle: Year B, Quarter 1
-description: "God had great plans for His good friend Noah. Learn how Noah trusted God on the ark with all the animals—and you can trust Him too."
+description: >-
+  God had great plans for His good friend Noah. Learn how Noah trusted God on
+  the ark with all the animals—and you can trust Him too.
 primaryColor: '#4E3E30'
 primaryColorDark: '#392D21'
 credits:
@@ -83,3 +85,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg/assets/fonts/Omnes%20Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/cover.png

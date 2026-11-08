@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** We can help our families, just like beavers.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.png)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/08/nature-lesson.png)
 
 Have you ever heard someone say “Busy as a beaver” or “Eager beaver”? That’s because beavers are really hard workers! Beavers work hard to build awesome homes in the water. Their cozy home is called a lodge. It is made of sticks and mud on the edge of the water. Inside, there are little rooms, kind of like a treehouse with bedrooms! They work together as a family to float logs down rivers and stack them up to make dams. These dams slow the water down and make a nice, calm pond where their lodge can stay safe and dry.
 

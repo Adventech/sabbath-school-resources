@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58B0E3"}}})'
 **Focus:** Parent barn swallows work together to build the perfect nest-home for their young.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/12/nature-lesson.jpg)
 
 - **Have you ever seen a bird’s nest up close?**
 - **What materials did the bird use to build it?**

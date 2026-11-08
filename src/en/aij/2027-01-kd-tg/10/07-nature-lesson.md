@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** We can show love and respect for others, just as horses do.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/10/nature-lesson.jpg)
 
 Hold up **Nature Card 62: Horses**
 

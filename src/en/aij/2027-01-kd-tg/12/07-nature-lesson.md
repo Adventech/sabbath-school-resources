@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** The hummingbird makes a tiny, special home with love and care. God wants His home to be with us!
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/12/nature-lesson.jpg)
 
 Hummingbirds are some of the smallest birds in the world, but they are amazing builders! A mother hummingbird makes a nest so tiny it can be as small as a walnut shell. She uses her beak like tiny fingers, carefully picking up soft plant fluff, bits of moss, and even spider silk. She doesn’t use glue or string—she uses what God gives her in nature. The spider silk works like stretchy thread, holding everything together. Piece by piece, she presses and pats and shapes her nest into a soft little cup.
 

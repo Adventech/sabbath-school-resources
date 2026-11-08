@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** God made waterfalls to make us happy and healthy.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/06/nature-lesson.jpg)
 
 - **Have you ever seen a waterfall in real life?**
 - **What did you like most about it?**

@@ -4,7 +4,7 @@ markdownTitle: '^[Dear Kindergarten Sabbath School Teacher,]({"style": {"text": 
 ---
 
 {"style":{"image":{"expandable":false,"aspectRatio":1.778},"block":{"rounded":false,"padding":{"start":"none","end":"none"}},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](image.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/000-kindergarten-teacher/image.jpg)
 
 Thank you so much for being willing to teach your group of Kindergarten children this year! May their innocence, energy, and rapid learning development, and most of all their simple love for Jesus, inspire you and remind you of what it is to “become like little children.”
 
@@ -23,19 +23,19 @@ As you pray and plan from this curriculum, may God lead you to know just how to 
 - Make an **^[Offering Chart]({"style": {"text": {"color": "#58b0e3"}}})** at the beginning of each quarter from the template provided on our website. Together with the children, write weekly offering goals at the bottom of the page to encourage children to give to God’s work. Each week after the offering has been collected, invite one child to color the new section to indicate the offering goal has been achieved. Display the Offering Chart in a prominent place in your Sabbath School room.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-1.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/000-kindergarten-teacher/Offering-Chart-1.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-2.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/000-kindergarten-teacher/Offering-Chart-2.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-3.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/000-kindergarten-teacher/Offering-Chart-3.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-4.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/000-kindergarten-teacher/Offering-Chart-4.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-5.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/000-kindergarten-teacher/Offering-Chart-5.jpg)
 
 - Make special mention of **^[birthdays]({"style": {"text": {"color": "#58b0e3"}}})** by singing a birthday song and giving a small gift to the child. If appropriate in your culture, encourage children to bring a birthday thank offering to your mission project.
 - Also be sure to acknowledge **^[visitors]({"style": {"text": {"color": "#58b0e3"}}})** and make them feel welcome in your Sabbath School.

@@ -4,7 +4,7 @@ markdownTitle: '^[Dear Primary Sabbath School Teacher,]({"style": {"text": {"col
 ---
 
 {"style":{"image":{"expandable":false,"aspectRatio":1.778},"block":{"rounded":false,"padding":{"start":"none","end":"none"}},"wrapper":{"padding":{"start":"none","end":"none"}}}}
-![](image.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/000-primary-teacher/image.jpg)
 
 Thank you so much for being willing to teach your group of Primary children this year!
 
@@ -21,19 +21,19 @@ As you pray and plan from this new curriculum, may God lead you to know just how
 - Make an **^[Offering Chart]({"style": {"text": {"color": "#58b0e3"}}})** at the beginning of each quarter from the template provided on our website. Together with the children, write weekly offering goals at the bottom of the page to encourage children to give to God’s work. Each week after the offering has been collected and counted, invite one child to color the new section to indicate the offering goal has been met. Display the Offering Chart in a prominent place in your Sabbath School room.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-1.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/000-primary-teacher/Offering-Chart-1.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-2.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/000-primary-teacher/Offering-Chart-2.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-3.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/000-primary-teacher/Offering-Chart-3.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-4.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/000-primary-teacher/Offering-Chart-4.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](Offering-Chart-5.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/000-primary-teacher/Offering-Chart-5.jpg)
 
 - You may like to make special mention of **^[birthdays]({"style": {"text": {"color": "#58b0e3"}}})** by singing a birthday song and giving a small gift to the child. If appropriate in your culture, encourage children to bring a Birthday-Thank Offering for your mission project. Also, be sure to acknowledge **^[visitors]({"style": {"text": {"color": "#58b0e3"}}})** and make them feel welcome in your Sabbath School. You’ll find a “Happy Birthday” song and a “Visitor Song” on the Alive in Jesus website.
 - Establish a healthy understanding of **^[prayer]({"style": {"text": {"color": "#58b0e3"}}})**. Model how special it is to talk with God as a friend through your own prayers, encouraging children to pray from their heart with reverence. Kneel for the opening prayer, explaining that this shows God we are humble.

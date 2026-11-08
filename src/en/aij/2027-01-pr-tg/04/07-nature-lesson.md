@@ -11,7 +11,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58B0E3"}}})'
 **Have you ever been outside in a cloud you couldn’t see through? How did you feel?**
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/04/nature-lesson.jpg)
 
 Let’s learn more about this type of cloud.
 

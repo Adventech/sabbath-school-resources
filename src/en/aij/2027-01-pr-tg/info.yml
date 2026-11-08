@@ -1,7 +1,11 @@
 title: 'Teacher YBQ1: God’s Way Is Best'
 markdownTitle: 'Teacher YBQ1: God’s Way Is Best'
 subtitle: Year B, Quarter 1
-description: "God always wants the best for His people. Share with the children the story of Moses and the children of Israel as God delivers them from slavery and leads them toward the Promised Land. The lessons explore God’s deliverance, provision, leading, and the Ten Commandments He’s given in love."
+description: >-
+  God always wants the best for His people. Share with the children the story of
+  Moses and the children of Israel as God delivers them from slavery and leads
+  them toward the Promised Land. The lessons explore God’s deliverance,
+  provision, leading, and the Ten Commandments He’s given in love.
 primaryColor: '#AD9182'
 primaryColorDark: '#826E63'
 credits:
@@ -76,3 +80,10 @@ fonts:
     src: >-
       https://sabbath-school-resources-assets.adventech.io/en/aij/2025-01-bg-tg/assets/fonts/Omnes%20Regular.ttf
     attributes: regular
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/cover.png

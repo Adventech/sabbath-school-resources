@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58B0E3"}}})'
 **Focus:** A grumbling dog may be cute, but a grumbling human isn’t!
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/06/nature-lesson.jpg)
 
 Fox terriers are active, smart, and loyal dogs. Elaine had a fox terrier named Zannie. White, with a rusty splotch across his back and head, he always had a puzzled look on his face.
 

@@ -11,7 +11,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58B0E3"}}})'
 - **Have you ever been underground?** Imagine what it would be like to live in tunnels and underground rooms with those in your family.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/08/nature-lesson.jpg)
 
 Let’s find out about prairie dogs, who live underground with their families.
 

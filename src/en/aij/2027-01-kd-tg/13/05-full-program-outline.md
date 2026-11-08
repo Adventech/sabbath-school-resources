@@ -16,7 +16,7 @@ subtitle: Week 13
 
 **^[SING:]({"style": {"text": {"color":"#4d4d4f"}}})** Sing **“Pack It Up”** as you transition into the Sabbath School program.
 
-!a[pack-it-up.mp3] “Pack It Up” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2022 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2022 General Conference Corporation of Seventh-day Adventists®"}
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME, SONGS, PRAYER** (5 MINUTES)
@@ -31,19 +31,19 @@ subtitle: Week 13
 - **“Visitor Song”** and acknowledgment
 - **“Happy Birthday”** for any child with a birthday this past week
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[our-god-is-amazing.mp3] “Our God Is Amazing” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/our-god-is-amazing.mp3] “Our God Is Amazing” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[oh-how-i-love-jesus.mp3] “Oh, How I Love Jesus” {"credits":[],  "title": "Credits","copyright":"Public domain."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/oh-how-i-love-jesus.mp3] “Oh, How I Love Jesus” {"credits":[],  "title": "Credits","copyright":"Public domain."}
 
-!a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
 **^[PRAY:]({"style": {"text": {"color":"#D34D5E"}}})** Sing **“Let’s Pray.”** Invite a child to pray, then pray also, telling God you are so happy to be here today to worship Him and remember all the ways He has been good to you, His children.
 
-!a[lets-pray.mp3] “Let’s Pray” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING AND MEMORY VERSE** (6 MINUTES)
@@ -58,11 +58,11 @@ In Cameroon, Adventist children and their families show special love and help to
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the Sabbath School offering in your offering container. Then pray that God will take the offering to be used where it is most needed. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/for-jesus.mp3] “For Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“The Greatest Treasure”** and invite a child to come to the front to hold the special class Bible. Show the children how to find the **memory verse, 1 Chronicles 16:12. Say it together**: “Remember His marvelous works which He has done” (1 Chronicles 16:12).
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure” “The Greatest Treasure” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Whistling","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure” “The Greatest Treasure” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Whistling","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 Share that “marvelous” means very good, amazing, or awesome.
 
@@ -72,7 +72,7 @@ Share that “marvelous” means very good, amazing, or awesome.
 
 Listen to and sing the **1 Chronicles 16:12 Scripture Song.**
 
-!a[13-1-chronicles-16-12.mp3] “1 Chronicles 16:12” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/13-1-chronicles-16-12.mp3] “1 Chronicles 16:12” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
@@ -155,6 +155,6 @@ Finish with a **callout: “God is good; God is great; thank You, God!”** (Cla
 
 **^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing the **“Goodbye Song.”** Share that next Sabbath we start a new quarter, with new stories about our marvelous God.
 
-!a[goodbye-song.mp3] “Goodbye Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Invite a child to pray, then pray also, thanking God for all the good things He has done for us.

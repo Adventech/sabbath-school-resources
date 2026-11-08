@@ -13,7 +13,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58B0E3"}}})'
 Let’s find out about an animal who has had to adapt to different climates. ^[(Show swamp beaver picture.)]({"style": {"text": {"color":"#d34d5e"}}})
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/02/nature-lesson.jpg)
 
 The nutria, also known as a swamp beaver, looks like a beaver with a rat’s tail. This mammal is clumsy on land, but has webbed back feet that help it swim well. It can even stay underwater for five minutes. But it can keep most of its body underwater all the time because its nose and eyes sit high on its head.
 

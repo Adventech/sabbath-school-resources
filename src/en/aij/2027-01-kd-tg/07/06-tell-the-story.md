@@ -16,9 +16,9 @@ As you prepare to share this story, please read the student guide for the full, 
 - Suggested props: make some **“birds” from things that are plentiful in your location**: seedpods, pinecones, craft balls or balloons, or scrunched-up scrap paper. Lay a **large cloth** on the ground and sprinkle with **crackers or wafers or cereal as “manna.”** Collect in a **bowl**.
 - Prepare fake moldy manna prior to the lesson (add two drops of **green food coloring** and one teaspoon of **vinegar** to a **jar of “manna”** and shake).
 
-![](image1.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/07/image1.jpg)
 
-![](image2.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/07/image2.jpg)
 
 - Use peg people (Moses, families) or a felt set if desired.
 - Use expressive tones and actions to engage the children’s interest.

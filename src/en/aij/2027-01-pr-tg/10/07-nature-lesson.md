@@ -12,7 +12,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#58B0E3"}}})'
 - **Let’s find out what a jumping spider can teach us about God’s Ten Commandments.** (Show picture.)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/10/nature-lesson.jpg)
 
 You’re crouching behind a bush while playing hide-and-seek. Out of the corner of your eye you notice movement on a leaf. You watch as a colorful spider leaps and grasps a fly in its front legs, then eats it.
 

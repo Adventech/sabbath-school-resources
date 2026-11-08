@@ -16,7 +16,7 @@ subtitle: Week 10
 
 **^[SHARE:]({"style": {"text": {"color":"#4d4d4f"}}})** Sing **“Pack It Up”** as you transition into the Sabbath School program.
 
-!a[pack-it-up.mp3] “Pack It Up” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2022 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/pack-it-up.mp3] “Pack It Up” {"credits":[{"key":"Writer","value":"Coralie Fraser"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2022 General Conference Corporation of Seventh-day Adventists®"}
 
 {"style": {"block": {"backgroundColor": "#F9E7E3", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **WELCOME, SONGS, PRAYER** (5 MINUTES)
@@ -31,19 +31,19 @@ subtitle: Week 10
 - **“Visitor Song”** and acknowledgment
 - **“Happy Birthday”** for any child with a birthday this past week
 
-!a[good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[gods-big-family.mp3] “God’s Big Family” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[the-ten-commandments.mp3] “The Ten Commandments” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/the-ten-commandments.mp3] “The Ten Commandments” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/happy-birthday.mp3] “Happy Birthday” {"credits":[{"key":"Writer","value":"Janet Sage"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2001 North American Division Corporation of Seventh-day Adventists. From Little Voices Praise Him, #39. Used by permission"}
 
 **^[PRAY:]({"style": {"text": {"color":"#D34D5E"}}})** Sing **“Let’s Pray.”** Then invite a child to **pray**. Then pray also, thanking God for His Ten Commandments that show how we can share love with Him and other people.
 
-!a[lets-pray.mp3] “Let’s Pray” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/lets-pray.mp3] “Let’s Pray” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 {"style": {"block": {"backgroundColor": "#FEF5E4", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **OFFERING AND MEMORY VERSE** (6 MINUTES)
@@ -58,18 +58,18 @@ In Côte d’Ivoire, pastors can talk freely about Jesus and teach from the Bibl
 
 **^[GIVE:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“For Jesus”** and invite a child to collect the Sabbath School offering in your offering container. Then pray that God will take the offering to be used where it is most needed. After the money has been counted by an adult, invite a child to color the next section of your **Offering Chart** to show how much has been collected this quarter.
 
-!a[for-jesus.mp3] “For Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/for-jesus.mp3] “For Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, Yelena Jovinov, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Midi Strings","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[SING and DISCUSS:]({"style": {"text": {"color":"#E6B349"}}})** Sing **“The Greatest Treasure”** and talk about how the Bible is the greatest treasure. Invite a child to come forward and hold the special class Bible. Show the children how to find the memory verse, **Matthew 22:39. Say it together**: “You shall love your neighbor as yourself” (Matthew 22:39).
 
-!a[the-greatest-treasure.mp3] “The Greatest Treasure” “The Greatest Treasure” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Whistling","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/the-greatest-treasure.mp3] “The Greatest Treasure” “The Greatest Treasure” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Whistling","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 - **Who is your neighbor?** (Everyone.)
 - **How can you love them as you love yourself?** (Treat them how we would like to be treated: with kindness, respect, patience, gentle hands, happy words, etc.)
 
 Listen to and sing the **Matthew 22:39 Scripture Song.**
 
-!a[10-matthew-22-39.mp3] “Matthew 22:39” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/10-matthew-22-39.mp3] “Matthew 22:39” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
@@ -103,31 +103,31 @@ Give each child **Nature Card 62: Horses** to place in their Nature Collector Ba
 
 ```=Scripture Songs
 
-!a[1-jeremiah-29-11.mp3] “Jeremiah 29:11” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/1-jeremiah-29-11.mp3] “Jeremiah 29:11” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[2-psalm-51-10.mp3] “Psalm 51:10” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/2-psalm-51-10.mp3] “Psalm 51:10” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[3-zephaniah-3-17.mp3] “Zephaniah 3:17” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/3-zephaniah-3-17.mp3] “Zephaniah 3:17” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[4-psalm-32-7.mp3] “Psalm 32:7” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4-psalm-32-7.mp3] “Psalm 32:7” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[6-psalm-136-1.mp3] “Psalm 136:1” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/6-psalm-136-1.mp3] “Psalm 136:1” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[7-psalm-145-16.mp3] “Psalm 145:16” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/7-psalm-145-16.mp3] “Psalm 145:16” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[8-1-corinthians-16-14.mp3] “1 Corinthians 16:14” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/8-1-corinthians-16-14.mp3] “1 Corinthians 16:14” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[9-deuteronomy-6-5.mp3] “Deuteronomy 6:5” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/9-deuteronomy-6-5.mp3] “Deuteronomy 6:5” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[10-matthew-22-39.mp3] “Matthew 22:39” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/10-matthew-22-39.mp3] “Matthew 22:39” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[11-psalm-143-10.mp3] “Psalm 143:10” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/11-psalm-143-10.mp3] “Psalm 143:10” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[12-exodus-25-8.mp3] “Exodus 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/12-exodus-25-8.mp3] “Exodus 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[13-1-chronicles-16-12.mp3] “1 Chronicles 16:12” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/13-1-chronicles-16-12.mp3] “1 Chronicles 16:12” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 ```
 
@@ -141,6 +141,6 @@ Give each child **Nature Card 62: Horses** to place in their Nature Collector Ba
 
 **^[SING:]({"style": {"text": {"color":"#F4793B"}}})** Sing the **“Goodbye Song.”** Share that next week we will learn about a time the Israelites disobeyed one of the commandments.
 
-!a[goodbye-song.mp3] “Goodbye Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/goodbye-song.mp3] “Goodbye Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
 **^[PRAY:]({"style": {"text": {"color":"#F4793B"}}})** Invite a child to pray about something they learned in Sabbath School today. Then pray, and ask for God’s help to love others this week.

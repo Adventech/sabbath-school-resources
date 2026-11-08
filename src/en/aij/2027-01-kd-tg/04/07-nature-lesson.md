@@ -9,7 +9,7 @@ markdownSubtitle: '^[Nature Lesson]({"style": {"text": {"color": "#F4793B"}}})'
 **Focus:** A kangaroo’s pouch is a hiding place for joey kangaroos, just as God is a hiding place for us.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](nature-lesson.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/04/nature-lesson.jpg)
 
 Ask the children to again share their favorite hiding places, or a share a few that they told you about before Sabbath School. Then invite them to listen carefully as you tell them about an animal who has a wonderful hiding place—wherever it goes.
 
