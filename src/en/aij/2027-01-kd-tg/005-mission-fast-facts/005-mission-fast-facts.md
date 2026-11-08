@@ -1,6 +1,6 @@
 ---
 title: Mission Fast Facts
-subtitle: West Africa Division
+subtitle: West Central Africa Division
 ---
 
 ### World Offering Focus Projects
