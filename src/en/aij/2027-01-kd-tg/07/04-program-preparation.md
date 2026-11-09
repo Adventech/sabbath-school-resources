@@ -30,7 +30,7 @@ Source items for **Story Explorer Box**: A variety of **pictures** or **real obj
 Print **^[Nature Card 59: Seeds]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Source blue, orange, yellow, and brown **paper, scissors, glue, fabric, craft glue, cotton swabs, white paint**.
 
