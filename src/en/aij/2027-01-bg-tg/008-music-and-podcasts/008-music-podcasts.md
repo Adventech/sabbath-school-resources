@@ -126,11 +126,7 @@ We can get it done!\
 Work is always better when we work together.\
 Work is always better when we work together.
 
-Let’s all make the big ark ready.\
-Carry the food nice and steady.\
-We can get it done!\
-Work is always better when we work together.\
-Work is always better when we work together.
+_(Repeat)_
 
 ```
 
@@ -201,10 +197,7 @@ A pitter patter pit, a pitter patter pit.\
 The raindrops fall with a pitter patter pit,\
 Showing God’s great love.
 
-The raindrops fall with a pitter patter pit,\
-A pitter patter pit, a pitter patter pit.\
-The raindrops fall with a pitter patter pit,\
-Showing God’s great love.
+_(Repeat)_
 
 ```
 
@@ -239,10 +232,7 @@ Hello! Hello! Hello!\
 We have a visitor here today.\
 Hello! Hello! Hello!
 
-We have a visitor here today.\
-Hello! Hello! Hello!\
-We have a visitor here today.\
-Hello! Hello! Hello!
+_(Repeat)_
 
 ```
 
@@ -257,10 +247,7 @@ Happy birthday to you.\
 Jesus loves you dear ___________.\
 Happy birthday to you.
 
-Happy birthday, happy birthday,\
-Happy birthday to you.\
-Jesus loves you dear ___________.\
-Happy birthday to you.
+_(Repeat)_
 
 ```
 
@@ -336,11 +323,6 @@ Goodbye, goodbye.\
 I’m so glad you came.\
 I’m so glad you came.
 
-It’s time for us to say,\
-Goodbye, goodbye.\
-So let’s all smile and wave\
-Goodbye, goodbye.\
-I’m so glad you came.\
-I’m so glad you came.
+_(Repeat)_
 
 ```
