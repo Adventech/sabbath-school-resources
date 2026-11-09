@@ -5,4 +5,5 @@ sections:
   default: Main
 bible:
   - opv-1896
+  - nmv
 feedSeeAll: همه را ببین
