@@ -28,7 +28,7 @@ Use peg people or a felt set and **^[week 13 Program PowerPoint]({"style": {"tex
 Print **^[Nature Card 65: Clark’s Nutcracker]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Source a plain box (such as a craft box or shoe box) or print the **^[week 13 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Print the memory verse. Source stickers, crayons, scissors, glue.
 

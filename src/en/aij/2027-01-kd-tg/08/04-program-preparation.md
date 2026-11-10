@@ -30,7 +30,7 @@ Print **^[Nature Card 60: Beavers]({"style": {"text": {"color": "#58B0E3"}}})** 
 Apply: Small stickers for children to place on family picture/frame.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 8 craft template]({"style": {"text": {"color": "#58B0E3"}}})**. Source **colored pencils, scissors, craft sticks** (1 per member of family), **colored/patterned paper, glue, pipe cleaners/chenille sticks, tape**.
 

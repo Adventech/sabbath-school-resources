@@ -30,7 +30,7 @@ Source items for **Story Explorer Box**: some **things you are thankful for**, s
 Print **^[Nature Card 58: Waterfalls]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 6 craft template]({"style": {"text": {"color": "#58B0E3"}}})** on cardstock. Source **scissors, glue, craft split pins**.
 

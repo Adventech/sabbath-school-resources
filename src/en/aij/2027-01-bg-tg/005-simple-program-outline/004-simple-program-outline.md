@@ -9,7 +9,7 @@ title: Simple Program Outline
 **PRAISE TIME**
 
 - {"style": {"block": {"backgroundColor": "#FEF8F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
-- **^[“Good Morning to You”]({"style": {"text": {"color":"#d34d5e"}}})** (smile and shake hands) 
+- **^[“Good Morning to You”]({"style": {"text": {"color":"#d34d5e"}}})** (smile and shake hands)
 - **^[“Noah Took a Hammer”]({"style": {"text": {"color":"#d34d5e"}}})** (wooden hammers and saws)
 - **^[“How Does My Garden Grow?”]({"style": {"text": {"color":"#d34d5e"}}})** (worms, bees, rain, sunshine props)
 - **^[“God Will Make Them Grow”]({"style": {"text": {"color":"#d34d5e"}}})** (large “seeds,” felt carrots, box for planting, plastic apples, apple “tree”)
@@ -53,5 +53,5 @@ title: Simple Program Outline
 **GOODBYE SONG**
 
 - {"style": {"block": {"backgroundColor": "#F8F7F6", "padding": {"top": "sm", "start": "base", "end":"sm", "bottom": "sm"}}, "text": {"color": "#706e6e", "size": "sm"}}}
-- Pray for the children and their families.  
+- Pray for the children and their families.
 - **Sing “I’m So Glad You Came.”** Wave goodbye.

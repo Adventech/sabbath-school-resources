@@ -28,7 +28,7 @@ Source items for **Story Explorer Box**: **balloon, permanent marker, pin** to b
 Print **^[Nature Card 57: Bald Eagle]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 5 craft template]({"style": {"text": {"color": "#58B0E3"}}})**. Source **crayons, scissors, small pieces of yarn, tape, glue**.
 

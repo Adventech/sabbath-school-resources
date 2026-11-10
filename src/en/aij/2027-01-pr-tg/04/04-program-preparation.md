@@ -38,7 +38,7 @@ Print **^[Character Card 56: Moses Delivers]({"style": {"text": {"color": "#58B0
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
 **Craft Materials**
 
-Print **^[week 4 craft template]({"style": {"text": {"color": "#58B0E3"}}})**, one for each child, and source **colored pencils, scissors, glue, craft sticks, craft glue, flat rocks, markers, gel glue or colored PVA glue (optional)**.
+Print **^[week 4 craft template]({"style": {"text": {"color": "#58B0E3"}}})**, one for each child, and source **colored pencils, scissors, glue, craft sticks, craft glue**.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#58B0E3"}}}
 **Source From AIJ Website** (www.aliveinjesus.info):
