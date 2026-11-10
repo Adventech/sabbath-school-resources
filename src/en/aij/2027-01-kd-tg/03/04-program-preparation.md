@@ -28,7 +28,7 @@ Source items for **Story Explorer Box**: **blindfolds**, **red stickers from sto
 Print **^[Nature Card 55: Thunderstorms]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 3 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Source **yarn, straws, scissors, small beads, sticky tape, red and black markers, glue**.
 

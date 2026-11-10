@@ -34,7 +34,7 @@ Prepare six activity stations:
 Print **^[Nature Card 62: Horses]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 10 craft template]({"style": {"text": {"color": "#58B0E3"}}})**, one for each child, and source **colored pencils, scissors, gluestick**.
 

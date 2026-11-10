@@ -28,7 +28,9 @@ Source items for **Story Explorer Box**: the cloth **baby** doll from the **Secr
 Print **^[Nature Card 53: Monarch Butterfly]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
+
+Print one **^[week 1 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Source scissors, paper plates, glue, blue cellophane/tissue paper.
 
 Cut 8-1/3 inch x 1/2 inch (21 x 1.5 cm) strips from two different colored pieces of **paper** (six strips of each color per child). Assemble other supplies: **staplers, small wooden spoons or peg dolls, pieces of cloth, tape, markers**.
 

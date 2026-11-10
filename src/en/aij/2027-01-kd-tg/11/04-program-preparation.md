@@ -28,7 +28,7 @@ Source items for **Story Explorer Box**: **Two containers: one with good cut fru
 Print **^[Nature Card 63: Gold]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 11 craft template]({"style": {"text": {"color": "#58B0E3"}}})**. Source **red and green crayons, scissors, glue**, a piece of **cardstock, cotton swab, sticky tape**.
 

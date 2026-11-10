@@ -27,7 +27,7 @@ Source items for **Story Explorer Box**: **child’s birthday party invitation i
 Print **^[Nature Card 64: Hummingbird]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 12 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Source **scissors, glue, red tissue paper**.
 
