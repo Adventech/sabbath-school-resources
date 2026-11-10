@@ -36,7 +36,7 @@ Ask a teen or youth to come to your class for the Apply section.
 Print **^[Nature Card 61: Clownfish and Sea Anemone]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 9 craft template]({"style": {"text": {"color": "#58B0E3"}}})**, one for each child, and source **colored pencils, scissors, glue, string, beads**.
 

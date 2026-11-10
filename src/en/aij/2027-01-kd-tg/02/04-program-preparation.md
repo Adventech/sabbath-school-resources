@@ -32,7 +32,7 @@ Source a Bible to place inside the **Story Explorer Box**.
 Print **^[Nature Collector Card 54: African Elephant]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print a **^[week 2 craft template]({"style": {"text": {"color": "#58B0E3"}}})** for each child. Source letter-size (A4) **paper**, **scissors**, **glue sticks**.
 

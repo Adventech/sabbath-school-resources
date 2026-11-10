@@ -28,7 +28,7 @@ Source items for **Story Explorer Box**: nature paintbrush, tote bag with childâ
 Print **^[Nature Card 56: Kangaroo]({"style": {"text": {"color": "#58B0E3"}}})** for each child.
 
 {"style": {"block": {"backgroundColor": "#E4EEF5", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}}}
-Craft Materials
+**Craft Materials**
 
 Print **^[week 4 craft template]({"style": {"text": {"color": "#58B0E3"}}})** on cardstock. Source **scissors, colored pencils, glue sticks, craft glue, craft sticks, cotton swabs, red paint.**
 
