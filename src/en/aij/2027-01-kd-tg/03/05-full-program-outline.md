@@ -35,7 +35,7 @@ subtitle: Week 3
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/god-is-mighty.mp3] “God Is Mighty” {"credits":[{"key":"Writer","value":"Amy Cherry"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation® of Seventh-day Adventists."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/my-god-is-so-great.mp3] “My God Is So Great” {"credits":[],  "title": "Credits","copyright":"Public domain."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/my-god-is-so-great.mp3] “My God Is So Great” {"credits":[{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/visitor-song.mp3] “Visitor Song” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 

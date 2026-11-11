@@ -72,7 +72,7 @@ This quarter’s offering is going to the West Central Africa Division of the wo
 
 Listen to and sing the **Jeremiah 29:11 Scripture Song**.
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/1-jeremiah-29-11.mp3] “Jeremiah 29:11” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/1-jeremiah-29-11.mp3] “Jeremiah 29:11” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Adela Nathan, Jacob Miranda, Jadon Miranda, Avery Still, Lilyana Norton, Lindsey Mills"},{"key":"Pianist","value":"Lindsey Mills"},{"key":"Violin","value":"Lindsey Mills"},{"key":"Cello","value":"Lindsey Mills"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
