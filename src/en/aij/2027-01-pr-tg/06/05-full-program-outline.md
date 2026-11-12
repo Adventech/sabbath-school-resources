@@ -14,31 +14,31 @@ subtitle: Week 6
 
 ```=Scripture Song Playlist
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/1-ephesians-2-10.mp3] “Ephesians 2:10” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/1-ephesians-2-10.mp3] “Ephesians 2:10” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Piano","value":"Johanna McKay"},{"key":"Guitar","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/2-isaiah-12-2.mp3] “Isaiah 12:2” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/2-isaiah-12-2.mp3] “Isaiah 12:2” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, David Williams"},{"key":"Guitar","value":"David Williams"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/3-psalm-147-5.mp3] “Psalm 147:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/3-psalm-147-5.mp3] “Psalm 147:5” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Piano","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/4-2-samuel-22-2.mp3] “2 Samuel 22:2” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/4-2-samuel-22-2.mp3] “2 Samuel 22:2” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Tahlia Atcheson, TVAC Choir"},{"key":"Ukulele","value":"David Williams"},{"key":"Piano","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/5-exodus-14-13.mp3] “Exodus 14:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Guitar","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/6-psalm-107-8.mp3] “Psalm 107:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/6-psalm-107-8.mp3] “Psalm 107:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Piano","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/7-psalm-145-16.mp3] “Psalm 145:16” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/7-psalm-145-16.mp3] “Psalm 145:16” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Tahlia Atcheson"},{"key":"Guitar","value":"David Williams"},{"key":"Ukulele","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/8-john-15-12.mp3] “John 15:12” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/8-john-15-12.mp3] “John 15:12” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Double Bass","value":"David Williams"},{"key":"Shaker","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/9-psalm-25-8.mp3] “Psalm 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/9-psalm-25-8.mp3] “Psalm 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"David Williams, TVAC Choir"},{"key":"Piano","value":"Johanna McKay"},{"key":"Violin","value":"Tahlia Atcheson"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/10-psalm-25-5.mp3] “Psalm 25:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/10-psalm-25-5.mp3] “Psalm 25:5” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Guitar","value":"David Williams"},{"key":"Cello","value":"Jared Chung"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/11-psalm-37-5.mp3] “Psalm 37:5” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/11-psalm-37-5.mp3] “Psalm 37:5” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Piano","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12-exodus-25-8.mp3] “Exodus 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12-exodus-25-8.mp3] “Exodus 25:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Piano","value":"Johanna McKay"},{"key":"Flute","value":"Sheliya Coblacoglo"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/13-psalm-77-13.mp3] “Psalm 77:13” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/13-psalm-77-13.mp3] “Psalm 77:13” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Tahlia Atcheson, TVAC Choir"},{"key":"Guitar","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 ```
 
@@ -57,7 +57,7 @@ subtitle: Week 6
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/god-is-so-wonderful.mp3] “God Is So Wonderful” {"credits":[{"key":"Writer","value":"Kimberly Houliston"},{"key":"Singers","value":"David Williams, TVAC choir"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2011 Abide Family Ministries. Used by permission."}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/my-god-will-deliver-me.mp3] “My God Will Deliver Me” {"credits":[{"key":"Writer","value":"Janel Tasker"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/my-god-will-deliver-me.mp3] “My God Will Deliver Me” {"credits":[{"key":"Writer","value":"Janel Tasker"},{"key":"Singers","value":"Tahlia Atcheson, David Williams, Kirsten Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Bass","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
 - **What kind of attitude do these songs tell us to have?** (Grateful, joyful, and happy.)
 
@@ -131,7 +131,7 @@ Gratitude is also like a filter for our thoughts, allowing us to see and experie
 
 **^[MEMORY VERSE:]({"style": {"text": {"color":"#a771b0"}}})** Give each child **Character Card 58: Moses and the Water** to place in their storage container. Discuss the picture and ask the children to recite the **memory verse**. Then sing the **Scripture Song** together: “Oh, that men would give thanks to the Lord for His goodness and His wonderful works to the children of men!” (Psalm 107:8).
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/6-psalm-107-8.mp3] “Psalm 107:8” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/6-psalm-107-8.mp3] “Psalm 107:8” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Piano","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation of Seventh-day Adventists®"}
 
 - **What could you replace the word “men” with in this verse?** (The Israelites, we, I, our names.)
 

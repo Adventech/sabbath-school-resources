@@ -33,7 +33,7 @@ subtitle: Week 8
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/good-morning-jesus.mp3] “Good Morning, Jesus” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2024 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/the-ten-commandments.mp3] “The Ten Commandments” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/the-ten-commandments.mp3] “The Ten Commandments” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitar","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/gods-big-family.mp3] “God’s Big Family” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Cello","value":"Jared Chung"},{"key":"Guitarist","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 

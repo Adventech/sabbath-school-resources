@@ -36,7 +36,7 @@ subtitle: Week 11
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/god-is-our-loving-father.mp3] “God Is Our Loving Father” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Johanna McKay, TVAC Choir"},{"key":"Guitarist","value":"David Williams"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation of Seventh-day Adventists®"}
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/the-ten-commandments.mp3] “The Ten Commandments” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/the-ten-commandments.mp3] “The Ten Commandments” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"David Williams"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitar","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
 !a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/i-have-decided-to-follow-jesus.mp3] “I Have Decided to Follow Jesus” {"credits":[{"key":"Singers","value":"Tahlia Atcheson, TVAC Choir"},{"key":"Piano","value":"Johanna McKay"},{"key":"Guitar","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Public domain."}
 
@@ -115,7 +115,7 @@ Show the children the good fruit. **Would you choose to eat this?** (Thumbs-up.)
 
 **^[PRAY:]({"style": {"text": {"color":"#A771B0"}}})** Sing “I Choose God.”
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/i-choose-god.mp3] “I Choose God” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/i-choose-god.mp3] “I Choose God” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singers","value":"Nela Breski, TVAC Choir"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
 Invite the children to stand, and if they “choose to,” repeat a prayer from the Bible (Psalm 63:1, ICB), after you: “God, you are my God (repeat). I want to follow you” (repeat). Invite the children to do a double thumbs-up!
 
