@@ -4,562 +4,562 @@ audio:
       source: 'english-aij-beginner.xml'
       image: episodeart-bg-b01.jpg
     tracks:
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/01
         title: 1. God’s Big Love
         podcast:
           title: "Lesson 1 – God’s Big Love (December 27-January 2)"
           description: "Beginner, Year B, Quarter 1, lesson 1<br/>BIG IDEA: God loves me..<br/>This lesson is based on Genesis 1 and 6.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:09:14"
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/01
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/01
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/01
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/01
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/01
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/01
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/01
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/01
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/01
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/01
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/01
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/01
         title: 13. God’s Rainbow
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/02
         title: 2. Noah, a Friend of God
         podcast:
           title: "Lesson 2 – Noah, a Friend of God (January 3-9)"
           description: "Beginner, Year B, Quarter 1, lesson 2<br/>BIG IDEA: God is my friend..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 90-95.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:39"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/02
         title: 1. God’s Big Love
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/02
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/02
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/02
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/02
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/02
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/02
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/02
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/02
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/02
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/02
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/02
         title: 13. God’s Rainbow
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/03
         title: 3. God’s Big Plan
         podcast:
           title: "Lesson 3 – God’s Big Plan (January 10-16)"
           description: "Beginner, Year B, Quarter 1, lesson 3<br/>BIG IDEA: God will take care of me..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 90-95.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:56"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/03
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/03
         title: 2. Noah, a Friend of God
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/03
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/03
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/03
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/03
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/03
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/03
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/03
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/03
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/03
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/03
         title: 13. God’s Rainbow
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/04
         title: 4. Noah Builds a Big Boat
         podcast:
           title: "Lesson 4 – Noah Builds a Big Boat (January 17-23)"
           description: "Beginner, Year B, Quarter 1, lesson 4<br/>BIG IDEA: I can be God’s helper..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 90-95.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:40"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/04
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/04
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/04
         title: 3. God’s Big Plan
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/04
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/04
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/04
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/04
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/04
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/04
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/04
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/04
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/04
         title: 13. God’s Rainbow
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/05
         title: 5. Come Into the Ark
         podcast:
           title: "Lesson 5 – Come Into the Ark (January 24-30)"
           description: "Beginner, Year B, Quarter 1, lesson 5<br/>BIG IDEA: I can tell others about God’s love..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 90-95.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:32"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/05
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/05
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/05
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/05
         title: 4. Noah Builds a Big Boat
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/05
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/05
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/05
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/05
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/05
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/05
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/05
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/05
         title: 13. God’s Rainbow
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/06
         title: 6. The Ark Is Ready
         podcast:
           title: "Lesson 6 – The Ark Is Ready (January 31-February 6)"
           description: "Beginner, Year B, Quarter 1, lesson 6<br/>BIG IDEA: God’s way is good..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 90-95.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:19"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/06
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/06
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/06
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/06
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/06
         title: 5. Come Into the Ark
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/06
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/06
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/06
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/06
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/06
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/06
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/06
         title: 13. God’s Rainbow
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/07
         title: 7. Food for Everyone
         podcast:
           title: "Lesson 7 – Food for Everyone (February 7-13)"
           description: "Beginner, Year B, Quarter 1, lesson 7<br/>BIG IDEA: God gives me what I need..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 90-95.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:07:32"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/07
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/07
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/07
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/07
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/07
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/07
         title: 6. The Ark Is Ready
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/07
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/07
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/07
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/07
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/07
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/07
         title: 13. God’s Rainbow
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/08
         title: 8. The Animal Surprise!
         podcast:
           title: "Lesson 8 – The Animal Surprise! (February 14-20)"
           description: "Beginner, Year B, Quarter 1, lesson 8<br/>BIG IDEA: God cares for animals..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 97, 98.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:07:59"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/08
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/08
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/08
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/08
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/08
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/08
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/08
         title: 7. Food for Everyone
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/08
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/08
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/08
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/08
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/08
         title: 13. God’s Rainbow
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/09
         title: 9. The Very Big Door
         podcast:
           title: "Lesson 9 – The Very Big Door (February 21-27)"
           description: "Beginner, Year B, Quarter 1, lesson 9<br/>BIG IDEA: Nothing is too big for God..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 97-104.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:17"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/09
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/09
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/09
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/09
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/09
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/09
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/09
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/09
         title: 8. The Animal Surprise!
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/09
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/09
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/09
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/09
         title: 13. God’s Rainbow
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/10
         title: 10. It Rained and Rained
         podcast:
           title: "Lesson 10 – It Rained and Rained (February 28-March 6)"
           description: "Beginner, Year B, Quarter 1, lesson 10<br/>BIG IDEA: God’s angels watch over me..<br/>This lesson is based on Genesis 6, and Patriarchs and Prophets, pp. 97-105.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:35"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/10
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/10
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/10
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/10
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/10
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/10
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/10
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/10
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/10
         title: 9. The Very Big Door
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/10
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/10
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/10
         title: 13. God’s Rainbow
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/11
         title: 11. Little Dove’s New Home
         podcast:
           title: "Lesson 11 – Little Dove’s New Home (March 7-13)"
           description: "Beginner, Year B, Quarter 1, lesson 11<br/>BIG IDEA: God knows what’s best..<br/>This lesson is based on Genesis 8, and Patriarchs and Prophets, pp. 105-110.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:52"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/11
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/11
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/11
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/11
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/11
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/11
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/11
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/11
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/11
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/11
         title: 10. It Rained and Rained
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/11
         title: 12. The Very Big Door Opens
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/11
         title: 13. God’s Rainbow
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/12
         title: 12. The Very Big Door Opens
         podcast:
           title: "Lesson 12 – The Very Big Door Opens (March 14-20)"
           description: "Beginner, Year B, Quarter 1, lesson 12<br/>BIG IDEA: I can thank God for caring for me..<br/>This lesson is based on Genesis 8, and Patriarchs and Prophets, pp. 105-110.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:25"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/12
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/12
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/12
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/12
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/12
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/12
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/12
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/12
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/12
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/12
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/12
         title: 11. Little Dove’s New Home
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/12
         title: 13. God’s Rainbow
-      - src: BG-13.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-13.mp3
         target: en/aij/2027-01-bg/13
         title: 13. God’s Rainbow
         podcast:
           title: "Lesson 13 – God’s Rainbow (March 20-27)"
           description: "Beginner, Year B, Quarter 1, lesson 13<br/>BIG IDEA: God always keeps His promises..<br/>This lesson is based on Genesis 8, 9; and Patriarchs and Prophets, pp. 105-110.<br/>Visit our website: https://aliveinjesus.info"
           duration: "00:08:31"
-      - src: BG-01.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
         target: en/aij/2027-01-bg/13
         title: 1. God’s Big Love
-      - src: BG-02.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-02.mp3
         target: en/aij/2027-01-bg/13
         title: 2. Noah, a Friend of God
-      - src: BG-03.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-03.mp3
         target: en/aij/2027-01-bg/13
         title: 3. God’s Big Plan
-      - src: BG-04.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
         target: en/aij/2027-01-bg/13
         title: 4. Noah Builds a Big Boat
-      - src: BG-05.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-05.mp3
         target: en/aij/2027-01-bg/13
         title: 5. Come Into the Ark
-      - src: BG-06.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-06.mp3
         target: en/aij/2027-01-bg/13
         title: 6. The Ark Is Ready
-      - src: BG-07.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-07.mp3
         target: en/aij/2027-01-bg/13
         title: 7. Food for Everyone
-      - src: BG-08.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-08.mp3
         target: en/aij/2027-01-bg/13
         title: 8. The Animal Surprise!
-      - src: BG-09.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
         target: en/aij/2027-01-bg/13
         title: 9. The Very Big Door
-      - src: BG-10.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-10.mp3
         target: en/aij/2027-01-bg/13
         title: 10. It Rained and Rained
-      - src: BG-11.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-11.mp3
         target: en/aij/2027-01-bg/13
         title: 11. Little Dove’s New Home
-      - src: BG-12.mp3
+      - src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-12.mp3
         target: en/aij/2027-01-bg/13
         title: 12. The Very Big Door Opens
