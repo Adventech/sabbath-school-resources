@@ -21,7 +21,7 @@ Proverbs 3, verse 5.
 
 ### Praise Time Songs
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/01-good-morning-to-you.mp3] “Good Morning to You” {"credits":[{"key":"Writer","value":"Mildred Adair"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #3."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/01-good-morning-to-you.mp3] “Good Morning to You” {"credits":[{"key":"Writer","value":"Mildred Adair"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #3."}
 
 ```=Lyrics
 
@@ -62,7 +62,7 @@ And Noah took a saw.
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/03-how-does-my-garden-grow.mp3] “How Does My Garden Grow?” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/03-how-does-my-garden-grow.mp3] “How Does My Garden Grow?” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Tambourine","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Lyrics
 
@@ -90,7 +90,7 @@ Helping my garden grow.
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/04-god-will-make-them-grow.mp3] “God Will Make Them Grow” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/04-god-will-make-them-grow.mp3] “God Will Make Them Grow” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Lyrics
 
@@ -114,7 +114,7 @@ They are ripe and sweet.
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/05-better-together.mp3] “Better Together” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/05-better-together.mp3] “Better Together” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Bass","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Lyrics
 
@@ -168,7 +168,7 @@ In the big, big flood.
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/07-the-big-door.mp3] “The Big Door” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/07-the-big-door.mp3] “The Big Door” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"},{"key":"Guitar","value":"David Williams"},{"key":"Glockenspiel","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Lyrics
 
@@ -186,7 +186,7 @@ Then Noah and his family were safe from the flood.
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/08-the-raindrops-fall.mp3] “The Raindrops Fall” {"credits":[{"key":"Writer","value":"Mildred Adair"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #94."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/08-the-raindrops-fall.mp3] “The Raindrops Fall” {"credits":[{"key":"Writer","value":"Mildred Adair"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #94."}
 
 ```=Lyrics
 
@@ -251,7 +251,7 @@ _(Repeat)_
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/12-jesus-is-always-near.mp3] “Jesus is Always Near” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/12-jesus-is-always-near.mp3] “Jesus is Always Near” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Lyrics
 
@@ -266,7 +266,7 @@ _(Repeat)_
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/13-take-a-look.mp3] “Take a Look” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/13-take-a-look.mp3] “Take a Look” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Ukulele","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Lyrics
 
@@ -282,7 +282,7 @@ Let’s take, take a look.
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/15-hear-the-money-dropping.mp3] “Hear The Money Dropping” {"credits":[{"key":"Writer","value":"Fidelia H. DeWitt"},{"key":"Composer","value":"William J. Kirkpatrick"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #31."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/15-hear-the-money-dropping.mp3] “Hear The Money Dropping” {"credits":[{"key":"Writer","value":"Fidelia H. DeWitt"},{"key":"Composer","value":"William J. Kirkpatrick"},{"key":"Singer","value":"Johanna McKay"},{"key":"Pianist","value":"Johanna McKay"}],"title": "Credits","copyright":"Public domain. From Little Voices Praise Him, #31."}
 
 ```=Lyrics
 
@@ -310,7 +310,7 @@ He will get it all.
 
 ```
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/16-im-so-glad-you-came.mp3] “I’m So Glad You Came” {"credits":[{"key":"Writer","value":"Rosie Smith"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/16-im-so-glad-you-came.mp3] “I’m So Glad You Came” {"credits":[{"key":"Writer","value":"Rosie Smith"},{"key":"Singer","value":"Johanna McKay"},{"key":"Ukulele","value":"David Williams"},{"key":"Percussion","value":"David Williams"}],"title": "Credits","copyright":"Copyright © 2025 General Conference Corporation® of Seventh-day Adventists."}
 
 ```=Lyrics
 
