@@ -1,7 +1,7 @@
 ---
 title: Play Throughout the Day
 markdownTitle: '^[play]({"style": {"text": {"color": "#396bb4"}}}) throughout the day'
-cover: assets/04-04.png
+cover: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/04-04.png
 titleBelowCover: true
 style:
   segment:

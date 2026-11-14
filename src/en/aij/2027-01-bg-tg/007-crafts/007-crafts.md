@@ -8,7 +8,7 @@ title: Crafts
 
 Fold a piece of cardstock in half. An adult can trace around child’s hand with their fingers closed. (Put their left little finger along the fold of the paper so it can open like a book). Cut out the hands and use a marker to write a prayer together inside the praying hands. Children can then decorate with crayons.
 
-![Sample](assets/1E.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/1E.jpg)
 
 ```
 
@@ -18,7 +18,7 @@ Fold a piece of cardstock in half. An adult can trace around child’s hand with
 
 Children can color the week 2 printable. An adult can help cut them out. Fold the praying person rectangle in half and tape the ends together. Children can slide the facial expressions up and down to show how they can pray to God anytime.
 
-![Sample](assets/2D.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/2D.jpg)
 
 ```
 
@@ -28,7 +28,7 @@ Children can color the week 2 printable. An adult can help cut them out. Fold th
 
 Children can trace around the week 3 printable ark with a colored marker. An adult can help them carefully rip around the edges. Using a soaked tea bag, children can dab all over the page to make it look old. Once dry, roll up the paper and tie with a ribbon.
 
-![Sample](assets/3F.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/3F.jpg)
 
 ```
 
@@ -38,7 +38,7 @@ Children can trace around the week 3 printable ark with a colored marker. An adu
 
 Children can color the week 4 printable, then glue craft sticks onto the ark outline.
 
-![Sample](assets/4C.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/4C.jpg)
 
 ```
 
@@ -50,7 +50,7 @@ Children can color the week 4 printable, then glue craft sticks onto the ark out
 
 Cut out red or pink hearts. Write “God Loves You” in black marker and punch holes around the heart. Wrap tape around the end of the yarn to make it easier to thread. Children can weave the yarn in and out of the holes, then tape the end of the yarn to the back. Encourage the children to give the heart to someone they know to tell them that God loves them!
 
-![Sample](assets/5D.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/5D.jpg)
 
 **OPTION 2:**
 
@@ -58,7 +58,7 @@ Cut out red or pink hearts. Write “God Loves You” in black marker and punch 
 
 Squirt blobs of paint onto cardstock heart shape and carefully slip inside a zip lock bag. It is best to use two primary colors for the paint. Children can then squish the paint around with their fingers to color the heart. Leave to dry, then write “God Loves You” in black marker. Encourage the children to give the heart to someone they know to tell them that God loves them!
 
-![Sample](assets/5D2.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/5D2.jpg)
 
 ```
 
@@ -68,7 +68,7 @@ Squirt blobs of paint onto cardstock heart shape and carefully slip inside a zip
 
 Use a cardboard box and colored paper to create an ark. Adults can cut the lid flaps and a ramp (as shown). Children can then tape or glue colored paper to decorate. Once finished, they can play with the ark using plastic animals and people.
 
-![Sample](assets/6E.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/6E.jpg)
 
 ```
 
@@ -78,7 +78,7 @@ Use a cardboard box and colored paper to create an ark. Adults can cut the lid f
 
 Laminate the week 7 printable. Children can use play-dough on the mats to create the ark and baskets of food, as pictured.
 
-![Sample](assets/7B.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/7B.jpg)
 
 ```
 
@@ -88,7 +88,7 @@ Laminate the week 7 printable. Children can use play-dough on the mats to create
 
 Children can color the animal pairs on week 8 printable. Adults can cut around each picture and help them tape a craft stick to the back of each set to make puppets.
 
-![Sample](assets/8D.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/8D.jpg)
 
 ```
 
@@ -98,7 +98,7 @@ Children can color the animal pairs on week 8 printable. Adults can cut around e
 
 Children can color the pictures on week 9 printable. Adults can help cut out both circles (including the ramp on the first circle). Hold the circles together and put a split pin through the middle. Children can spin the ark and see what comes up the ramp.
 
-![Sample](assets/9D.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/9D.jpg)
 
 ```
 
@@ -108,7 +108,7 @@ Children can color the pictures on week 9 printable. Adults can help cut out bot
 
 Cut out the pictures from the week 10 printable. Children can glue cotton balls onto the cloud, then tape the raindrops and angel to pieces of string/yarn. Loop another piece of string/yarn and tape to the top so it can hang as a mobile.
 
-![Sample](assets/10E.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/10E.jpg)
 
 ```
 
@@ -118,7 +118,7 @@ Cut out the pictures from the week 10 printable. Children can glue cotton balls 
 
 Adults can help children rip different shades of green and blue paper. Children can glue each layer onto a piece of blue cardstock to make mountains and water. Adults can then cut out pictures of the dove and ark from week 11 printable for the children to glue onto their picture. A real leaf can also be glued onto the dove’s beak.
 
-![Sample](assets/11E.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/11E.jpg)
 
 ```
 
@@ -128,7 +128,7 @@ Adults can help children rip different shades of green and blue paper. Children 
 
 Print week 12 printable onto white paper. Cut picture along the lines. Children can glue each picture strip onto a large craft stick to make a puzzle. Spend time doing the puzzle together.
 
-![Sample](assets/12C.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/12C.jpg)
 
 ```
 
@@ -138,6 +138,6 @@ Print week 12 printable onto white paper. Cut picture along the lines. Children 
 
 Print week 13 printable onto white cardstock. Share the order of the colors of the rainbow. Children can follow the rainbow dots using fingerpaint, cotton swabs dipped in paint, or dot pens.
 
-![Sample](assets/13C.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg-tg/assets/13C.jpg)
 
 ```

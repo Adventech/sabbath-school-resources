@@ -4,8 +4,6 @@ import { createRequire } from "module"
 import { FIREBASE_DATABASE_NAME, DEPLOY_ENV } from "./constants.js"
 const require = createRequire(import.meta.url);
 
-let deployCreds = require(DEPLOY_ENV === "prod" ? "../deploy/creds/deploy-creds.json" : "../deploy/creds/deploy-creds-stage.json")
-
 // Mock firestore for local purposes
 const localFirestore = function () {
     return {
@@ -17,12 +15,20 @@ const localFirestore = function () {
     }
 }
 
-firebase.initializeApp({
-    databaseURL: FIREBASE_DATABASE_NAME,
-    credential: firebase.credential.cert(deployCreds),
-    databaseAuthVariableOverride: {
-        uid: "deploy"
-    }
-});
+// Credentials are only required when actually talking to Firestore (stage / prod).
+// Local runs (including the validator) use the mock and do not need decrypted creds.
+const remoteFirestore = function () {
+    let deployCreds = require(DEPLOY_ENV === "prod" ? "../deploy/creds/deploy-creds.json" : "../deploy/creds/deploy-creds-stage.json")
 
-export const database = DEPLOY_ENV === "local" ? localFirestore() : getFirestore()
+    firebase.initializeApp({
+        databaseURL: FIREBASE_DATABASE_NAME,
+        credential: firebase.credential.cert(deployCreds),
+        databaseAuthVariableOverride: {
+            uid: "deploy"
+        }
+    });
+
+    return getFirestore()
+}
+
+export const database = DEPLOY_ENV === "local" ? localFirestore() : remoteFirestore()

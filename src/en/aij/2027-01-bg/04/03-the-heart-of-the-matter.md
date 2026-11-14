@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/04-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/04-05.png
 ---
 
 How do you build an ark? One wooden plank at a time.

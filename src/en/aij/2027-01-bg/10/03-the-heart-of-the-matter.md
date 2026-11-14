@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/10-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/10-05.png
 ---
 
 How truly frightening it would have been for Noah and his family as they heard that first crack of thunder. They had never experienced rain, let alone the world’s worst storm! As wave upon wave beat upon the ark, perhaps they worried, Will we make it through? “It often seemed to the family within the ark that they must perish, as for five long months their boat was tossed about, apparently at the mercy of wind and wave. It was a trying ordeal; but Noah’s faith did not waver, for he had the assurance that the divine hand was upon the helm” _(Ellen G. White, Patriarchs and Prophets, p. 105)_.

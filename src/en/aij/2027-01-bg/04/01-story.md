@@ -2,7 +2,7 @@
 title: Noah Builds a Big Boat
 type: story
 audio:
-    src: assets/BG-04.mp3
+    src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-04.mp3
 ---
 
 ;;;

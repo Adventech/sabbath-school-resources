@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/01-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/01-05.png
 ---
 
 In moments when things seem so busy, or when there are too many demands on the finite hours of your day, sometimes you might not take time to pray or remember to thank God.

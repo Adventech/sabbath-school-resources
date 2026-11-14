@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/11-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/11-05.png
 ---
 
 The storm had finally ceased. Day in and day out, for seven months, Noah and his family anxiously waited for the water to go down. How difficult that season of waiting must have been!

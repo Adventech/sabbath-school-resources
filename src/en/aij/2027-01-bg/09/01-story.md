@@ -2,7 +2,7 @@
 title: The Very Big Door
 type: story
 audio:
-    src: assets/BG-09.mp3
+    src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-09.mp3
 ---
 
 ;;;

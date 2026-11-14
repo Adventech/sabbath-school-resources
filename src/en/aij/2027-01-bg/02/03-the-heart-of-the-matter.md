@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/02-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/02-05.png
 ---
 
 What does it mean to be a friend? It has been said, “A friend is someone who understands your past, believes in your future, and accepts you just the way you are.” This is indeed the description of the friendship God offers each one of us. He knows everything there is to know about you. He does not turn away from the ugly details that may cloud your past or the brokenness that is part of your present. He knows the hurt, the joys, the struggles, and the victories of your life. He has a plan for your future, one that exceeds your past or your current situation. He sees who He made you to be, His beloved child. He calls you “friend” _(John 15:14)_.

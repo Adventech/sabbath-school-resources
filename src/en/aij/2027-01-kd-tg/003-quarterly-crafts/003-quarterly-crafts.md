@@ -7,7 +7,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Moses’ Rocking Basket**
 
-![Sample](assets/1g.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/1g.jpg)
 
 **Resources/supplies:** Week 1 craft template, scissors, paper plates, glue, blue cellophane/tissue paper.
 
@@ -17,7 +17,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Changing Moses**
 
-![Sample](assets/2g.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/2g.jpg)
 
 **Resources/supplies:** Week 2 craft template, white sheets of letter-size (A4) paper, scissors, glue sticks.
 
@@ -27,7 +27,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Straw Snake**
 
-![Sample](assets/3f.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/3f.jpg)
 
 **Resources/supplies:** Week 3 craft template, yarn, straws, scissors, small beads, sticky tape, red and black markers, glue.
 
@@ -37,7 +37,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Painted Doorposts**
 
-![Sample](assets/4f.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4f.jpg)
 
 **Resources/supplies:** Week 4 craft template on cardstock, scissors, colored pencils, glue sticks, craft glue, craft sticks, cotton swabs, red paint.
 
@@ -47,7 +47,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Parting the Red Sea**
 
-![Sample](assets/5g.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/5g.jpg)
 
 **Resources/supplies:** Week 5 craft template, crayons, scissors, small pieces of yarn, tape, glue.
 
@@ -57,7 +57,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Water From the Rock**
 
-![Sample](assets/6f.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/6f.jpg)
 
 **Resources/supplies:** Week 6 craft template on cardstock, scissors, glue, craft split pins.
 
@@ -67,7 +67,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Morning Manna Collage**
 
-![Sample](assets/7f.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/7f.jpg)
 
 **Resources/supplies:** Blue, orange, yellow and brown paper, scissors, glue, fabric, craft glue, cotton swabs, white paint.
 
@@ -77,7 +77,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **My Family**
 
-![Sample](assets/8f.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/8f.jpg)
 
 **Resources/supplies:** Week 8 craft template, colored pencils, scissors, craft sticks (1 per member of family), colored/patterned paper, glue, pipe cleaners/chenille sticks, tape.
 
@@ -87,7 +87,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Love God Heart Hanger**
 
-![Sample](assets/9i.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/9i.jpg)
 
 **Resources/supplies:** Week 9 craft template, colored pencils, scissors, glue, string, beads.
 
@@ -97,7 +97,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Commandment Windows**
 
-![Sample](assets/10e.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/10e.jpg)
 
 **Resources/supplies:** Week 10 craft template, colored pencils, scissors, glue stick.
 
@@ -107,7 +107,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Choice Wheel**
 
-![Sample](assets/11i.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/11i.jpg)
 
 **Resources/supplies:** Week 11 craft template, red and green crayons, scissors, glue, pieces of cardstock, cotton swabs, sticky tape.
 
@@ -117,7 +117,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Sanctuary Diorama**
 
-![Sample](assets/12j.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/12j.jpg)
 
 **Resources/supplies:** Week 12 craft template, scissors, glue, red tissue paper.
 
@@ -127,7 +127,7 @@ markdownTitle: '^[Quarterly Crafts]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Memory Box**
 
-![Sample](assets/13g.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/13g.jpg)
 
 **Resources/supplies:** Plain gift box or week 13 craft template, scissors, crayons, stickers, glue.
 

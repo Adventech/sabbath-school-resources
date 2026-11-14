@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/06-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/06-05.png
 ---
 
 For 120 years Noah faithfully worked, building the ark according to God’s plan. Yet even his best efforts were never meant to replace his total dependence upon God. Only God can do the work of salvation. “All that man could do was done to render the work perfect, yet the ark could not of itself have withstood the storm which was to come upon the earth. God alone could preserve His servants upon the tempestuous waters” _(Ellen G. White, Patriarchs and Prophets, p. 95)_.

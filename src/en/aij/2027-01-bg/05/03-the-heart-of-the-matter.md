@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/05-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/05-05.png
 ---
 
 God called Noah to preach and build. Therefore, the people witnessed Noah’s faith not just by what he said, but by what he did. “While Noah was giving his warning message to the world, his works testified of his sincerity. It was thus that his faith was perfected and made evident. He gave the world an example of believing just what God says. Every blow struck upon the ark was a witness to the people” _(Ellen G. White, Patriarchs and Prophets, p. 95)_.

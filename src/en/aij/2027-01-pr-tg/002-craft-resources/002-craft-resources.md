@@ -7,7 +7,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Baby in a Woven Basket**
 
-![Sample](assets/1i.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/1i.jpg)
 
 **Resources/supplies:** Two different colored pieces of paper, scissors, stapler, peg dolls or disposable wooden spoons, black markers, pieces of fabric, rubber bands.
 
@@ -17,7 +17,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Burning Bush Pop-up**
 
-![Sample](assets/2h.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/2h.jpg)
 
 **Resources/supplies:** Week 2 craft template on cardstock, scissors, colored pencils, clear contact paper, green, yellow, orange, and red tissue paper or cellophane, glue, battery-operated tealight candles (optional).
 
@@ -27,7 +27,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Plague Pyramids**
 
-![Sample](assets/3e.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/3e.jpg)
 
 **Resources/supplies:** Week 3 craft template, colored pencils, scissors, glue.
 
@@ -37,7 +37,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Passover House**
 
-![Sample](assets/4e.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/4e.jpg)
 
 **Resources/supplies:** Week 4 craft template, coloring pencils, scissors, glue, craft sticks, craft glue.
 
@@ -47,7 +47,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Crossing the Sea**
 
-![Sample](assets/5g.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/5g.jpg)
 
 **Resources/supplies:** Week 5 craft template on yellow paper (page 1) and white paper (page 2), blue paper, scissors, glue, rulers, pencils.
 
@@ -57,7 +57,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Gratitude Board Game**
 
-![Sample](assets/6d.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/6d.jpg)
 
 **Resources/supplies:** Week 6 craft template, colored pencils, scissors, four small colored rocks or pebbles, a die per student, resealable bags.
 
@@ -67,7 +67,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Manna in the Desert Diorama**
 
-![Sample](assets/7f.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/7f.jpg)
 
 **Resources/supplies:** Week 7 craft template, scissors, glue, white chalk pens/markers.
 
@@ -77,7 +77,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **My Family Photo Frame**
 
-![Sample](assets/8g.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/8g.jpg)
 
 **Resources/supplies:** Pieces of cardstock, craft sticks, craft glue, scissors, markers.
 
@@ -87,7 +87,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Folding Commandment Plaque (Front)**
 
-![Sample](assets/9d.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/9d.jpg)
 
 **Resources/supplies:** Week 9 craft template, colored pencils/crayons, scissors, large craft sticks, glue.
 
@@ -97,7 +97,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Folding Commandment Plaque (Back)**
 
-![Sample](assets/10e.jpg?updated)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/10e.jpg?updated)
 
 **Resources/supplies:** Week 10 craft template, colored pencils/crayons, scissors, glue, craft knife (adults only), week 9 craft, ribbon (optional).
 
@@ -107,7 +107,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Broken Tablets**
 
-![Sample](assets/11e.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/11e.jpg)
 
 **Resources/supplies:** Week 11 craft template on cardstock, colored pencils, scissors.
 
@@ -117,7 +117,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Tabernacle Flip Book**
 
-![Sample](assets/12g.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12g.jpg)
 
 **Resources/supplies:** Week 12 craft template, colored pencils, scissors, glue, gold glitter, red, blue, and purple paper, pencils.
 
@@ -127,7 +127,7 @@ markdownTitle: '^[Craft Resources]({"style": {"text": {"color": "#F4793B"}}})'
 
 **Sanctuary Memory Game**
 
-![Sample](assets/13d.jpg)
+![Sample](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/13d.jpg)
 
 **Resources/supplies:** Week 13 craft template, colored pencils, two pieces of thick colored cardstock, scissors, glue.
 
