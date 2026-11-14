@@ -10,16 +10,16 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 12 craft template; colored pencils; scissors; glue; gold glitter; red, blue and purple paper; pencil.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12a.jpg)
 
 **Preparation Instructions:**
 
 Cut strips out of red, blue and purple paper.
 
-**[Download Craft Template](assets/2027-01-pr-craft-12.pdf)**
+**[Download Craft Template](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/2027-01-pr-craft-12.pdf)**
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12b.jpg)
 
 **Create it together:**
 
@@ -28,17 +28,17 @@ Cut strips out of red, blue and purple paper.
 2\. Cut out box number 3 (veil). Glue vertical strips of purple, red, and blue paper to cover the box.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12c.jpg)
 
 3\. Color and cut out the angel pictures and glue onto the veil.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12d.jpg)
 
 4\. Cut out box number 2 (Holy Place). Color and cut out the rest of the pictures and glue in the box in the correct positions. Decorate with gold glitter.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12e.jpg)
 
 5\. Cut out box number 1 (door). Glue vertical strips of purple, red, and blue paper (just as you did for the veil).
 
@@ -47,14 +47,14 @@ Cut strips out of red, blue and purple paper.
 7\. Fold a small section at the top of the Holy Place and glue over the veil box.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12e.jpg)
 
 8\. Fold a small section at the top of the door and glue over the Holy Place box.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12f.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12f.jpg)
 
 9\. Take someone on an imaginary walk through the tabernacle as you flip through your book!
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/12g.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-pr-tg/assets/12g.jpg)
