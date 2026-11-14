@@ -1,6 +1,6 @@
 import { validate as jsonSchemaValidate } from "jsonschema"
 
-const styleSchema = {
+export const styleSchema = {
     "type": "object",
     "additionalProperties": false,
     "properties": {
