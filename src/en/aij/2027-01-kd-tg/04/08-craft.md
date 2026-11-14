@@ -10,31 +10,31 @@ markdownSubtitle: '^[Craft]({"style": {"text": {"color": "#F4793B"}}})'
 Week 4 craft template on cardstock, scissors, colored pencils, glue stick, craft glue, seven craft sticks, cotton swab, red paint.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/4a.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4a.jpg)
 
-**[Download Craft Template](assets/2027-01-kd-craft-04.pdf)**
+**[Download Craft Template](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/2027-01-kd-craft-04.pdf)**
 
 **Create it together:**
 
 1\. Cut out craft template. Cut along the dotted line to make a door.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/4b.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4b.jpg)
 
 2\. Glue the doorframe onto the rectangle piece of cardstock with glue stick. Draw a picture of yourself behind the door.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/4c.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4c.jpg)
 
 3\. Use craft glue to stick craft sticks around the doorframe.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/4d.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4d.jpg)
 
 4\. Dip a cotton swap in red paint and paint around the craft-stick doorframe.
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/4e.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4e.jpg)
 
 {"style":{"image":{"aspectRatio":1.778}}}
-![](assets/4f.jpg)
+![](https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/4f.jpg)
