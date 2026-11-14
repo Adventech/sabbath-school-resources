@@ -2,7 +2,7 @@
 title: God’s Big Love
 type: story
 audio:
-    src: assets/BG-01.mp3
+    src: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/BG-01.mp3
 ---
 
 ;;;

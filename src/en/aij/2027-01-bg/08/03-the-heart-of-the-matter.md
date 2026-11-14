@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/08-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/08-05.png
 ---
 
 Imagine the scene when pairs of every kind of animal began flocking toward the ark. The antelope leaping next to the lions, the bears lumbering behind the cows, the rabbits hopping beside the foxes, all peaceably led by the hand of unseen angels. We are told that “beasts of every description, the fiercest as well as the most gentle, were seen coming from mount and forest and quietly making their way toward the ark” _(Ellen G. White, Patriarchs and Prophets, p. 97)_.

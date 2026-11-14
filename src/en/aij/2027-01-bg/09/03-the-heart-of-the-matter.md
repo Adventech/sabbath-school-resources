@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/09-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/09-05.png
 ---
 
 Jesus said, “I am the door. If anyone enters by Me, he will be saved” _(John 10:9)_.

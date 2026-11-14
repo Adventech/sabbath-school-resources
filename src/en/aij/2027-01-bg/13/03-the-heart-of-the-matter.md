@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/13-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/13-05.png
 ---
 
 Every time the rain clouds gathered, God knew that subsequent generations after Noah would tremble with fear, anticipating another worldwide flood. So in His tender mercy God chose to paint a beautiful rainbow in the sky as a continual reminder of His covenant of care. Still today we can look up at the rainbow and be assured of God’s unfailing love, which has stood the test of time.

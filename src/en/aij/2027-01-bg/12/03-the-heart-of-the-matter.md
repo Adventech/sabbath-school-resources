@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/12-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/12-05.png
 ---
 
 The great door of the ark swung open. Sunshine poured through the open doorway, and Noah gazed upon the new earth, green and luscious with the fresh scent of budding flora. How joyous that moment must have been after more than a year inside the musty confines of the ark! Out of all the things Noah must have wanted to do, at the top of his list was to build an altar to worship and thank the Lord.

@@ -13,7 +13,7 @@ style:
       text:
         typeface: BaskervilleBT-Roman
         align: center
-background: assets/07-05.png
+background: https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-bg/assets/07-05.png
 ---
 
 Have you ever had the task of packing food for a family camping trip? It can require a lot of thought and careful planning to prepare enough food, even just for a few days. Imagine being Noah, given the enormous task of packing food for people and every kind of animal, not just for a few days, but a whole year! It is estimated that there could have been more than 6,700 animals on the ark. That’s a lot of food! But just as God provided instructions for the building of the ark, He would provide and preserve the food they needed to survive.
