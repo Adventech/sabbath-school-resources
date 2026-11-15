@@ -1,0 +1,13 @@
+title: Ein Geschenk für Dich
+kind: book
+subtitle: Giving Light to Our World
+description: Literature that helps transform the world
+primaryColor: '#3A2918'
+primaryColorDark: '#241A0F'
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/de/pm/glow-ein-geschenk-fur-dich/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/de/pm/glow-ein-geschenk-fur-dich/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/de/pm/glow-ein-geschenk-fur-dich/assets/cover.png

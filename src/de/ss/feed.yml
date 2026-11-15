@@ -3,6 +3,13 @@ groups:
   - group: Standardausgabe
     view: folio
     scope: resource
+  - group: GLOW
+    view: folio
+    resources:
+      - 'de-pm-glow-das-ende-der-welt'
+      - 'de-pm-glow-ein-geschenk-fur-dich'
+      - 'de-pm-glow-ein-intelligenter-glaube'
+      - 'de-pm-glow-warum-ich-samstags-zur-gemeinde-gehe'
   - group: imWort
     view: folio
     resources:

@@ -1,0 +1,23 @@
+---
+title: World Church Prayer Requests
+---
+
+- Lord, please let a mighty revival of primitive godliness sweep Your church in the final days. May we stand for truth though the heavens fall. Let this revival start with me.
+- We pray for OneVoice27—the worldwide evangelistic emphasis culminating in September 2027. Prepare hearts everywhere to hear the everlasting gospel, and prepare us to proclaim it with one voice.
+- Lord, as we journey through these Ten Days of Prayer and study the prophecies of Daniel and Revelation, draw us into a deeper relationship with You. Through Your Spirit, transform our hearts and prepare us for Your soon coming.
+- Lord, show us how to be consistent in daily worship, individually and as a family.
+- Lord, help us to allow You to wake us up each morning, no matter how early, so that we can have sweet, unrushed time in Your Word and prayer.
+- Lord, teach us how to plead for a daily baptism of the Holy Spirit.
+- We pray for the latter rain of the Holy Spirit to empower our witness and enable us to engage in the work You have given us to do before Your return.
+- Show us how to love our families sacrificially and how to make disciples for the kingdom, starting with our own children and loved ones.
+- We pray for wisdom to search, understand, and follow God’s Word. Teach us to rightly divide the words of truth and faithfully share them with others.
+- Lord, please renew our appreciation for the instructions found in the inspired writings of Ellen White.
+- We pray for religious liberty and freedom of conscience throughout the world. Lord, please open doors for the proclamation of Your Word in closed territories.
+- Lord, may Your world church accept the call to widely proclaim the Three Angels’ Messages to every nation and tongue. Show us how to center all these teachings on the love and righteousness of Christ.
+- Lord, help us model to our youth and young people what living the Three Angels’ Messages looks like.
+- Lord, may Adventists worldwide declare “I Will Go” and take up the call to serve You and proclaim the good news of salvation.
+- We pray that Adventists around the world will offer practical aid and encouragement to those who are suffering. Give us courage, creativity, and an unselfish spirit when our neighbors need us most.
+- Lord, please show church members how to help those struggling with mental health issues or isolation.
+- We pray for pastors and churches to find ways of keeping church members actively praying together. Lord, please draw Your church together in worship and service.
+- We pray for a spiritual revival among Seventh-day Adventist young people attending colleges and universities worldwide. May they become vibrant ambassadors for Christ.
+- We pray for the millions of people who have not yet received an unclouded presentation of Jesus.

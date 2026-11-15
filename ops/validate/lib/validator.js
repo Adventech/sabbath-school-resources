@@ -119,7 +119,7 @@ export class ResourceValidator {
         if (!src || isURL(src)) return
         const candidates = [`${resourceDir}/${RESOURCE_ASSETS_DIRNAME}/${src}`, ...extraDirs.map(d => `${d}/${src}`)]
         if (!candidates.some(c => fs.pathExistsSync(c))) {
-            this.reporter.error(file, `${what} \`${src}\` not found in \`${RESOURCE_ASSETS_DIRNAME}/\``)
+            this.reporter.error(file, `${what} \`${src}\` not found in \`${RESOURCE_ASSETS_DIRNAME}/\`${extraDirs.length ? " or the document folder" : ""}`)
         }
     }
 
@@ -505,6 +505,10 @@ export class ResourceValidator {
                     this.reporter.error(file, `\`pdf[${i}].target\` \`${pdf.target}\` must point to a document of this resource`)
                 }
             }
+            // the sync only rewrites local assets in *.md files, pdf.yml sources are downloaded as-is
+            if (typeof pdf.src === "string" && !isURL(pdf.src)) {
+                this.reporter.error(file, `\`pdf[${i}].src\` \`${pdf.src}\` must be a URL, local files are not uploaded from \`${RESOURCE_PDF_FILENAME}\``)
+            }
             if (pdfOnly && !pdf.title) {
                 this.reporter.warn(file, `\`pdf[${i}]\` has no \`title\` and is skipped for PDF-only resources`)
             }
@@ -584,6 +588,17 @@ export class ResourceValidator {
 
         if (attributes.type && attributes.type !== SEGMENT_TYPES.PDF && attributes.pdf) {
             this.reporter.warn(file, `\`type: ${attributes.type}\` is overridden to \`${SEGMENT_TYPES.PDF}\` because \`pdf\` is set`)
+        }
+        if (Array.isArray(attributes.pdf)) {
+            for (const [i, pdf] of attributes.pdf.entries()) {
+                if (pdf?.src && !pdf.title) {
+                    this.reporter.warn(file, `\`pdf[${i}]\` has \`src\` but no \`title\`, the title might be missing`)
+                }
+                // local PDFs are uploaded by the sync from the document folder or the resource assets/
+                if (typeof pdf?.src === "string") {
+                    this.localAsset(file, resourceDir, pdf.src, `\`pdf[${i}].src\``, [path.replace(/\/[^/]+$/, "")])
+                }
+            }
         }
         if (attributes.type && attributes.type !== SEGMENT_TYPES.VIDEO && attributes.video) {
             this.reporter.warn(file, `\`type: ${attributes.type}\` is overridden to \`${SEGMENT_TYPES.VIDEO}\` because \`video\` is set`)
