@@ -1,0 +1,39 @@
+---
+title: Warum ich Samstags zur Gemeinde Gehe
+---
+
+Für viele scheint mein Gemeindebesuch am Samstag nicht im Einklang mit der christlichen Sonntagstradition zu stehen. Sie fragen sich, wie ich so verwirrt sein kann, „am falschen Tag“ die Gemeinde zu besuchen.. Warum also wähle ich und Millionen wie ich den Samstag anstatt des Sonntags? Betrachte diese drei Gründe, die dich vielleicht überraschen werden.
+
+Ich gehe samstags zur Gemeinde, weil es biblisch ist und der Gemeindebesuch am Sonntag nicht biblisch ist. Während Gott Anbetung an jedem Tag der Woche willkommen heißt, hat Er den siebten Tag als besonderen Ruhetag eingeplant.. Dieser Tag wird Sabbat genannt und entspricht dem Samstag. Er wurde der Menschheit bei der Schöpfung gegeben, etwa 2.000 Jahre bevor das jüdische Volk existierte (1. Mose 2,1–3). Jesus sagte, der „Sabbat ist um des Menschen willen geschaffen” (Markus 2,27) – nicht nur für Juden.
+
+Bei der Schöpfung vollbrachte Gott drei bewusste Handlungen, um den siebten Tag einzigartig von den anderen sechs zu unterscheiden – Er ruhte, segnete und heiligte den Sabbat (1. Mose 2,2.3). Das ist äußerst bedeutsam.
+
+Erstens brauchen wir Ruhe von der Arbeit und Zeit zum Nachdenken. Gott hat uns so geschaffen. Deshalb rief Er uns schon am allerersten siebenten Tag der Schöpfung zu einer besonderen, persönlichen Gemeinschaft mit Ihm. Zweitens legte Gott einen geistlichen Segen auf den siebten Tag, den Er nicht in die anderen sechs legte. Schließlich zog Gott eine Grenze um diese 24-Stunden-Einheit und bestimmte sie als einen Tag, der ganz der Pflege einer Beziehung zu Ihm gewidmet sein sollte.
+
+Wenn wir jeden Vers in der Bibel über den Sabbat untersuchen, entdecken wir erstaunliche Dinge. Alle alttestamentlichen Menschen Gottes genossen seinen Segen – und wir müssen uns daran erinnern, dass bis Abraham niemand jüdisch war (1. Mose 11,26). Jesus ehrte den Sabbat, indem Er ihn jede Woche hielt (Lukas 4,16). Die Jünger hielten ihn (Apostelgeschichte 18,4.11; 16,13). Er wird im Himmel und auf der neuen Erde gehalten werden (Jesaja 66,22.23). Die Bibel zeigt einen ununterbrochenen Zyklus der Sabbathaltung von der Erschaffung der Menschheit bis zur neu gemachten Erde.
+
+Warum beten also die meisten christlichen Gemeinden am Sonntag an? Die Antwort – Tradition. Die Bibel berichtet nie, dass Gott den Sabbat vom siebten auf den ersten Tag verändert hat. Die einzige Änderung von Gottes Gesetz, die in der Schrift erwähnt wird, wird durch einen cleveren Angriff von innen auf die Gemeinde versucht (siehe Daniel 7,25).
+
+Diese Änderung kam lange nach dem Tod der Jünger. Im dritten und vierten Jahrhundert berichtet die Geschichte, dass einige Christen den heidnischen Anbetungstag (Sonntag) in Rom und anderen Orten hielten, wo die Gemeinde Kompromisse einging, um der Verfolgung zu entgehen. Als die Gemeinde in Rom an politischer Macht gewann und sich zur römisch-katholischen Kirche entwickelte, sanktionierte sie offiziell die Sonntagshaltung anstelle des Sabbats. Heute weist sie auf diese geschichtliche Tatsache als Beweis hin, dass ihre Autorität und Tradition der klaren Lehre der Schrift überlegen ist.
+
+Die Sabbathaltung ist nicht Gesetzlichkeit. „Liebt ihr mich, so haltet meine Gebote!” (Johannes 14,15). Das vierte Gebot wurde niemals von Gott geändert – nur vom Menschen. Da der Sabbat der biblische Tag für die wöchentliche Anbetung ist und da Jesus den Sabbat selbst hielt, halte ich den Sabbat aus Liebe zu Ihm.
+
+Es gibt viele Gründe, warum ich Jesus liebe und Ihm gehorche. Zwei hauptsächliche sind, dass Er mein Schöpfer und Erlöser ist (Johannes 1,1–3; Titus 2,14). Jesus schuf die Erde in sechs Tagen und ruhte am siebten. Der Sabbat ist Gottes offizielles Gedächtnis oder „Zeichen” zwischen Ihm und Seinem Volk, dass Er unser Schöpfer ist (2. Mose 31,17). Und kurz vor Jesu Wiederkunft ruft eine Botschaft von Gott jeden auf, „den anzubeten, der den Himmel und die Erde, das Meer und die Wasserquellen gemacht hat” (Offenbarung 14,6.7). Jedes Mal, wenn ich „an den Sabbattag denke, um ihn zu heiligen”, ehre ich meinen Schöpfer als denjenigen, der mein Leben in Seiner Hand hält (2. Mose 20,8–11).
+
+Jesus hat nicht nur die Menschen erschaffen, sondern Er erlöst uns auch von der Sünde. Der Sabbat ist ein besonderes Zeichen dieser Erlösung – „ein Zeichen zwischen mir und ihnen, damit sie erkennen, daß ich, der HERR, es bin, der sie heiligt” (Hesekiel 20,12). Einmal pro Woche von weltlicher Beschäftigung Einmal pro Woche weltliche Arbeit zu unterlassen erinnert uns daran, dass wir nicht arbeiten können, um uns unsere ewige Erlösung zu verdienen – sie ist ein Geschenk Gottes, und wir sind völlig von Ihm abhängig (Hebräer 4,4–10). Wenn ich Gott nicht vertrauen kann, dass Er einen Tag pro Woche für meinen irdischen Lebensunterhalt sorgt, wie kann ich dann wahrhaftig sagen, dass ich Ihm für mein ewiges Leben vertraue?
+
+Jeder Sabbat erinnert mich an die Liebe, die Jesus uns durch Schöpfung und Erlösung gegeben hat. Genauso wie Jahrestage Gedächtnisfeiern sind, die dazu bestimmt sind, unsere Liebe zu denen, die uns am nächsten stehen, zu erneuern, so erinnert uns der Sabbat am siebten Tag an Gottes Liebe und unsere völlige Abhängigkeit von Ihm für das Leben in dieser und der kommenden Welt.
+
+Der dritte Grund, warum ich den Sabbat halte, ist, dass ich auf Jesu Einladung geantwortet habe, es zu versuchen und zu sehen, ob Sein Wort wahr ist. Gott lädt uns oft ein, Ihn zu prüfen. Eine solche Gelegenheit ist in in Maleachi 3 erwähnt, wo Er uns herausfordert, Ihm ein Zehntel unseres Einkommens zu geben. Allen, die diese Verheißung annehmen, verspricht Er reichen Segen.
+
+Der Sabbat enthält auch eine Herausforderung. Gott lädt uns ein, Ihm ein Siebtel unserer Zeit zu geben. Wenn wir es tun, verspricht Er, uns zu segnen. „Wenn du ... den Sabbat deine Lust nennst ... dann wirst du deine Lust haben am HERRN” (Jesaja 58,13.14). Ich erfahre diesen Sabbatsegen jede Woche.
+
+Die Ruhe am Sabbat stellt mich körperlich, geistig, sozial und geistlich wieder her. Es befreit mich vom Stress der Lebenslasten. Ich genieße ungestörte Zeit mit Familie und Freunden, die unsere Beziehungen lebendig hält. Die Anbetung mit Mitgläubigen gibt mir auch Energie. Ich gewinne Einsicht und Inspiration durch Bibelstudium und Predigten am Sabbat.
+
+Der Sabbat gibt mir einen Grund, jede Woche alle weltlichen Beschäftigungen zu stoppen. Da es Gottes Gebot ist, lässt es keinen Raum für Kompromisse wegen eines dringenden Projekts bei der Arbeit oder irgendeiner anderen Sache, die auftauchen könnte. Das schützt die Sabbatruhe davor, einfach eine gute Absicht zu werden, der ich mich eines Tages widmen werde. Es ist Gottes Gebot – keine Fragen – also tue ich es gerne und überlasse alles andere den anderen sechs Tagen, wie Gott sagt.
+
+Ich fand heraus, dass Jesu Worte wahr sind – Er machte den Sabbat für den Menschen (Markus 2,27). Das heißt, der Sabbat ist nicht etwas, was Gott uns antut, sondern etwas Wunderbares, was Er für uns tut. In diesem geschäftigen Zeitalter, in dem wir leben, schätze ich alle positiven Segnungen, die ich erfahren darf, weil Gott uns freundlicherweise den Sabbat gegeben hat.
+
+Ich verstehe, dass mein Gemeindebesuch am Samstag seltsam erscheinen mag. Aber jetzt wissen Sie, dass ich es tue, weil ich mich verpflichtet habe, der Bibel zu folgen, ich Jesus als meinen Schöpfer und Heiland liebe, und ich Gottes Sabbatsegen entdeckt habe. Sie können diese wunderbare Erfahrung auch genießen. Wenn Sie wissen möchten wie, oder weitere Informationen wünschen, kontaktieren Sie einfach GLOW, und sie können Ihnen helfen.
+
+* See https://glowonline.org/daniel7, item 21Unless otherwise noted, Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson, Inc. Used by permission. All rights reserved.Cover design: ©www.typofire.com
