@@ -1,0 +1,19 @@
+---
+title: The Investment Secretary
+---
+
+How would you like the Lord Jesus to be your partner in business? He made all the difference when He joined Peter, Andrew, James, and John and went fishing. On another occasion, His blessing on just five loaves and two fish left thousands not only well-fed but also filled with wonder. And you remember, too, that His touch turned plain water into nutritious, choice wine.
+
+Investment is a partnership with God, one that never fails. In its purest sense, it is not just another offering— although it may be related to our Sabbath School offerings and will usually call for some sacrifice on the part of the member involved. Investment is different. It is unique.
+
+Sabbath School Investment might be briefly defined as a plan to invest our human resources of money, materials, time, and talents in a faith venture with God, praying and expecting that He will add divine power and blessing to ensure an increase for the benefit of His worldwide gospel work.
+
+The investors carefully and prayerfully choose a plan. They then invite God’s participation as a business partner. Heaven’s blessing on human effort brings results that at times are nothing less than miraculous—as many happy and surprised investors can testify.
+
+The investor begins with a certain amount of “capital,” which may be cash or certain items to be increased in value. These items may be trees, plants, lumber, pets, fabrics, foods, artist paints and brushes, craft materials—in fact anything that with time and skill can be grown, developed, or crafted into something of enhanced value in order to earn a profit. The increase, either in part or in whole, becomes the investor’s contribution to the Sabbath School Investment fund. Some give all the proceeds while others choose to retain a portion for reinvesting.
+
+Many select plans that are an adaptation or outgrowth of their regu lar employment, utilizing their specialized skills for increased income for the Lord. As examples, one may cite the contractor who dedicates a set percentage of each new contract, or the medical worker who devotes to Investment his or her earnings for services rendered to patients on Sabbath. Another may donate tips or a portion of overtime salary received. Some ministers regularly give fees received for weddings and funerals. The farmer may give the proceeds from milk produced on Sabbath or from the sale of eggs produced on the Sabbath. The writer may dedicate funds received for articles or books.
+
+Some have given a percentage of “unexpected blessings.” One man started giving 10 percent of money, discounts, or other financial increases that were received when not expected. In addition to tithe, he continued to give 10 percent of unexpected increase in income as well to Sabbath School Investment. This resulted in gifts of thousands of dollars and served as an amazing reminder of the many ways God provides for the needs of His people. Another elderly couple recycled cardboard and other materials. This project alone has contributed more than $10,000 to Sabbath School Investment through the years.
+
+Some professional photographers, artists, hairdressers, typists, com puter programmers, etc. in regular employ are able to do “moonlighting” work after hours, and so earn extra funds for Investment. There is no end to the ideas that can work when we are in partnership with the Lord. He is pleased to add His blessing to the many varied ways for developing increased resources beyond our usual income. He can improve our opportunities for such tasks, as well as assist us in performing them with skill and efficiency.

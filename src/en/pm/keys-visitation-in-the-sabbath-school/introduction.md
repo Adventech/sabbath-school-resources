@@ -1,0 +1,3 @@
+### Visitation in the Sabbath School
+
+This book is your key to unlocking the secrets of using visitation to bring souls to Christ. Creating a successful visitation program is an art. Fortunately, it is an art that can be acquired by any dedicated Christian. In this practical book you will discover valuable advice for making your Sabbath School’s visitation program a success. Learn useful tips about whom to visit, how to prepare for a visit, visitation do’s and don’ts, and much more.

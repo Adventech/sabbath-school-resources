@@ -1,0 +1,3 @@
+### Sabbath School Action Units
+
+Would you like to create the ideal Sabbath School class – one with a warm and caring atmosphere, where members and visitors alike feel welcome and cared for? This booklet outlines Sabbath School Action Units, a simple plan to organize, equip, and mobilize the church to accomplish its mission and to support its members and the community. Learn how your church can become a place where the prayer lists are updated, members are trained in soul winning, and Sabbath School members discuss how the lesson pertains to life and witnessing opportunities.

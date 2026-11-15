@@ -1,0 +1,3 @@
+### Investment Secretary
+
+With God as an Investment partner, you cannot fail. This book explains Sabbath School Investment and gives practical advice for carefully and prayerfully choosing an Investment plan. It also explains the role and duties of the Investment secretary, provides examples of Investment projects and outlines how to introduce an Investment program to the church. This book is your go-to guide for starting or maintaining an Investment program.

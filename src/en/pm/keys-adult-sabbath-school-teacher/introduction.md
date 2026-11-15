@@ -1,0 +1,3 @@
+### Adult Sabbath School Teacher
+
+Teaching an effective Sabbath School class is a skill you can learn. Whether you are a new or an experienced Sabbath School teacher, this booklet has information you can use to run a successful class. You will learn valuable skills including making the most of the lesson planner, innovative ways to keep your members motivated, tips for improving participation, and more. Read this book to expand your teaching skills and learn how you can contribute to the spiritual growth of each Sabbath School class member.

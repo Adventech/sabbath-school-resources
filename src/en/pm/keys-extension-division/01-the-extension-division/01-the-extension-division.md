@@ -1,0 +1,11 @@
+---
+title: The Extension Division
+---
+
+Most Christians desire to associate with fellow Christians in organized religious experiences. Yet, because of cir cumstances, many who love Sabbath School are deprived of regular attendance. Thus, the General Conference Sabbath School and Personal Ministries Department has adopted a plan whereby some of the blessings of Sabbath School can come to these individuals. The plan is known as the “extension division.” This division keeps people from becoming com pletely isolated from the worship, study, and service of the main body of believers. It includes traveling workers, on-duty workers, and national service personnel.
+
+These groups of people have something in common. They are all kept from the blessings of a fully-organized Sabbath School much of the time. This may be because of age, infirmity, illness, impassable roads, or other handicaps. It may also be because of legitimate and unavoidable duties, as in the case of conference workers who must travel from place to place, and of medical workers who must be on duty at the Sabbath School hour. Youth who are called into the service of their country and are in training camps or on field duty where regular attendance at Sabbath School is not possible should be included.
+
+All who are thus prevented from enjoying regular attendance at a fully-organized Sabbath School are eligible for membership in the extension division. Upon their desire to do so, they may be enrolled and are then counted as members of the Sabbath School, the same as members of any other division.
+
+There are many thousands in Sabbath School extension divi sions throughout the world. Many more should be enrolled in this division, either by their local Sabbath School or by the conference or mission Sabbath School. It meets the needs of each individual, for it binds him or her not only to the Word, but also to other members who are more favorably situated in the matter of companionship. Above all, in every instance the presence of God may be enjoyed as His Word is studied.

@@ -1,0 +1,7 @@
+---
+title: Preparing for Decision Day
+---
+
+In every well-taught lesson pupils are being prepared for decision day, but for maximum effectiveness more specific planning should precede the chosen day. During the program and at class time for a period of several weeks in advance, the pupils may be reminded of Jesus’ love for them and of His invitation to come to Him. Stories and illustrations can help to make plain what it means to confess their sins and to receive Jesus into their hearts by faith. References such as Matthew 18:1-5, 11-14; 19:13-15; 1 John 1:9; 2:2-4, 12; and Ephesians 6:1-3 may be helpful if carefully explained in simple terms. To prepare and encourage children ahead of time to give their hearts to Christ is to make it much easier for them to take a public stand for Him on decision day.
+
+Children and junior youth are a primary concern in planning for decision day, but there may be older youth and adults who attend Sabbath School who have never made a public commit ment to follow Jesus. Whether children and youth have never given their hearts to Christ or have become discouraged and despond ent, concerned teachers and leaders should be alert to their needs and should gently and tactfully urge them to make a new or renewed consecration. Decision day should, and can, bring a great blessing to all ages in the Sabbath School.

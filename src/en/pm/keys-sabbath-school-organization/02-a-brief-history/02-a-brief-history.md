@@ -1,0 +1,12 @@
+---
+title: A Brief History
+---
+
+When, at the prompting of Jethro, Moses set leaders over groups of ten, and others over groups of fifty, he established an early model for small-group Sabbath Schools. The early Christian church spread rapidly by means of similar small groups of believers following Pentecost. The disciples fostered small groups of believers, led by the Holy Spirit for Bible study, prayer, and ministry (Acts 2).
+
+In reformation times, men like Gerhardt Groot established Christian schools with groups dedicated to prayer, meditation, Bible study, and ministry. Martin Luther realized that proclamation alone was not enough to bring about the reformation. He first designed a catechism to teach children how to pray. The Gospel spread to other countries through similar means under the leadership of men like Columba and Zinzendorf. The Wesleys formed small groups for Christian edification and service. Robert Raikes started a Sunday School movement in England designed first to teach children of the streets how to read so they could study the Bible.
+
+Early pioneers in the Seventh-day Adventist church recognized the need and potential for believers to fellowship together around the Word of God, and to band together for service. The worldwide Sabbath School organization of today is the outgrowth of more than a century of prayerful study and experience on the part of Sabbath School workers. The first Sabbath Schools were independent units, sustaining no relationship with one another. This was as early in our denominational history as 1853 to 1855. Not until 1870, and the years following, did a single organization develop, with a superintendent and teachers for various classes according to age. In 1877 the State Sabbath School Association was formed. This organization brought together all the Sabbath Schools within the state. The General Conference session of 1878 recognized the value of such an organization and thereby formed the General Conference Sabbath School Association. In the same year ten other state associations were organized. Also at that time a system of reporting was devised. By the close of 1878 the first statistical report showed 177 Sabbath Schools with 5,851 members.
+
+> <callout></callout>
+> “Organization, coupled with God’s strength, will increase its vitality, promote its growth, multiply its power for good, and ensure its permanency.”
