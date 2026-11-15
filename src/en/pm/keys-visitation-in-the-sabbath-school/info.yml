@@ -1,8 +1,14 @@
 title: Visitation in the Sabbath School
 kind: book
-description: This book is your key to unlocking the secrets of using visitation to bring souls to Christ. Creating a successful visitation program is an art. Fortunately, it is an art that can be acquired by any dedicated Christian. In this practical book you will discover valuable advice for making your Sabbath School’s visitation program a success. Learn useful tips about whom to visit, how to prepare for a visit, visitation do’s and don’ts, and much more.
-primaryColor: "#102D41"
-primaryColorDark: "#0A1C29"
+description: >-
+  This book is your key to unlocking the secrets of using visitation to bring
+  souls to Christ. Creating a successful visitation program is an art.
+  Fortunately, it is an art that can be acquired by any dedicated Christian. In
+  this practical book you will discover valuable advice for making your Sabbath
+  School’s visitation program a success. Learn useful tips about whom to visit,
+  how to prepare for a visit, visitation do’s and don’ts, and much more.
+primaryColor: '#102D41'
+primaryColorDark: '#0A1C29'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +21,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-527-7
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-visitation-in-the-sabbath-school/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-visitation-in-the-sabbath-school/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-visitation-in-the-sabbath-school/assets/cover.png

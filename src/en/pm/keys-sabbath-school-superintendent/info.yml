@@ -1,8 +1,11 @@
 title: The Sabbath School Superintendent
 kind: book
-description: The Sabbath School Superintendent provides a clear look at the duties and responsibilities of the superintendent, as well as step-by-step examples and guidelines for planning an effective Sabbath school program.
-primaryColor: "#103D41"
-primaryColorDark: "#0A2629"
+description: >-
+  The Sabbath School Superintendent provides a clear look at the duties and
+  responsibilities of the superintendent, as well as step-by-step examples and
+  guidelines for planning an effective Sabbath school program.
+primaryColor: '#103D41'
+primaryColorDark: '#0A2629'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +18,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-500-0
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-superintendent/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-superintendent/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-superintendent/assets/cover.png

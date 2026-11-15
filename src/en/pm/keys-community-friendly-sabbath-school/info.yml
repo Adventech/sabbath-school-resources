@@ -1,8 +1,14 @@
 title: Community Friendly Sabbath School
 kind: book
-description: If you would like to draw interested guests from your community to Sabbath School, this book is for you. This is your guide for discovering how your Sabbath School can draw honest seekers of truth. Learn innovate ways you can make your class community-friendly. This book is a must-read for Sabbath School superintendents, leaders, teachers, and anyone who wants to help their Sabbath School grow.
-primaryColor: "#41102D"
-primaryColorDark: "#290A1C"
+description: >-
+  If you would like to draw interested guests from your community to Sabbath
+  School, this book is for you. This is your guide for discovering how your
+  Sabbath School can draw honest seekers of truth. Learn innovate ways you can
+  make your class community-friendly. This book is a must-read for Sabbath
+  School superintendents, leaders, teachers, and anyone who wants to help their
+  Sabbath School grow.
+primaryColor: '#41102D'
+primaryColorDark: '#290A1C'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +21,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-522-2
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-community-friendly-sabbath-school/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-community-friendly-sabbath-school/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-community-friendly-sabbath-school/assets/cover.png

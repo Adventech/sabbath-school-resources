@@ -1,8 +1,16 @@
 title: Sabbath School Action Units
 kind: book
-description: Would you like to create the ideal Sabbath School class – one with a warm and caring atmosphere, where members and visitors alike feel welcome and cared for? This booklet outlines Sabbath School Action Units, a simple plan to organize, equip, and mobilize the church to accomplish its mission and to support its members and the community. Learn how your church can become a place where the prayer lists are updated, members are trained in soul winning, and Sabbath School members discuss how the lesson pertains to life and witnessing opportunities.
-primaryColor: "#3C1539"
-primaryColorDark: "#260D24"
+description: >-
+  Would you like to create the ideal Sabbath School class – one with a warm and
+  caring atmosphere, where members and visitors alike feel welcome and cared
+  for? This booklet outlines Sabbath School Action Units, a simple plan to
+  organize, equip, and mobilize the church to accomplish its mission and to
+  support its members and the community. Learn how your church can become a
+  place where the prayer lists are updated, members are trained in soul winning,
+  and Sabbath School members discuss how the lesson pertains to life and
+  witnessing opportunities.
+primaryColor: '#3C1539'
+primaryColorDark: '#260D24'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +23,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-524-6
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-action-units/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-action-units/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-action-units/assets/cover.png

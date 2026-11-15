@@ -1,8 +1,11 @@
 title: Decision Days
 kind: book
-description: Learn how to reach the young people in your church on to help personal level for Christ. This book addresses the need for Sabbath School work and for increasing a radical challenge want to make a decision to follow Christ.
-primaryColor: "#2B371B"
-primaryColorDark: "#1B2211"
+description: >-
+  Learn how to reach the young people in your church on to help personal level
+  for Christ. This book addresses the need for Sabbath School work and for
+  increasing a radical challenge want to make a decision to follow Christ.
+primaryColor: '#2B371B'
+primaryColorDark: '#1B2211'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +18,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-528-4
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-decision-days/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-decision-days/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-decision-days/assets/cover.png

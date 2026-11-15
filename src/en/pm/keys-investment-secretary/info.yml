@@ -1,8 +1,11 @@
 title: Investment Secretary
 kind: book
-description: With God as an investment partner, you cannot fail. This booklet explains Sabbath School Investment and gives practical advice for careful and prayerfully choosing an investment plan.
-primaryColor: "#104130"
-primaryColorDark: "#0A291E"
+description: >-
+  With God as an investment partner, you cannot fail. This booklet explains
+  Sabbath School Investment and gives practical advice for careful and
+  prayerfully choosing an investment plan.
+primaryColor: '#104130'
+primaryColorDark: '#0A291E'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +18,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-523-9
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-investment-secretary/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-investment-secretary/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-investment-secretary/assets/cover.png

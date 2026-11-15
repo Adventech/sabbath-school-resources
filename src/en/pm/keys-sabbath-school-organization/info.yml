@@ -1,8 +1,11 @@
 title: Sabbath School Organization
 kind: book
-description: Coupled with God's strength, Sabbath school will increase its vitality, promote its growth, and multiply its power for good. This book is your go-to guide for organizing your church's Sabbath School program.
-primaryColor: "#3F1316"
-primaryColorDark: "#270C0E"
+description: >-
+  Coupled with God's strength, Sabbath school will increase its vitality,
+  promote its growth, and multiply its power for good. This book is your go-to
+  guide for organizing your church's Sabbath School program.
+primaryColor: '#3F1316'
+primaryColorDark: '#270C0E'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +18,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-500-0
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-organization/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-organization/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sabbath-school-organization/assets/cover.png

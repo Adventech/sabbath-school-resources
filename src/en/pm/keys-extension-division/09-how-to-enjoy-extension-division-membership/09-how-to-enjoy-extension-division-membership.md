@@ -19,7 +19,8 @@ title: How to Enjoy Extension Division Membership
 
 The extension division members will be greatly benefited by subscribing to LEAD magazine because they are often without the help and inspiration available to those attending the regular Sabbath School, where the superintendents and teachers pass on to them the material they have gleaned from this valuable resource. Encourage extension division pupils to subscribe to LEAD.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/keys-extension-division/09-how-to-enjoy-extension-division-membership/image.png)
 
 “As a means of intellectual training, the opportunities of the Sabbath are invaluable. Let the Sabbath school lesson be learned, not by a hasty glance at the lesson scripture on Sabbath morning, but by careful study for the next week on Sabbath afternoon, with daily review or illustration during the week. Thus the lesson will become fixed in the memory, a treasure never to be wholly lost.”*
 
