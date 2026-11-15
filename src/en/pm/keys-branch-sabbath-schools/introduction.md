@@ -1,0 +1,3 @@
+### Branch Sabbath Schools
+
+Are you looking for a way to witness to friends and family members who might not feel comfortable stepping inside a church building? Branch Sabbath Schools are a great way to introduce community members to the Gospel in a casual setting. This book highlights ways you can start a Branch Sabbath School in your community and begin transforming lives through the discovery of spiritual truths.

@@ -1,0 +1,15 @@
+---
+title: Job Description of the Investment Secretary
+---
+
+- Be responsible for promoting Investment in all divisions on a regu lar monthly schedule, commencing ideally on the second Sabbath in January, and concluding on the second Sabbath in November.
+- From the Sabbath School and Personal Ministries Department of your conference or mission, order adequate supplies of suitable materials to be distributed throughout all divisions. These would include items such as: (1) Investment project leaflets for adults and other leaflets for the children. Each of these brochures contains many ideas for Investment. These are available from the General Conference through your local conference or mission. (2) Other supplies such as money banks, coin holders, goal charts, and awards may be available in your conference or mission from time to time. Inquire of your Sabbath School and Personal Ministries Department.
+- Meet with the Sabbath School Council to plan for the year’s activi ties and to set a suitable Investment goal for the Sabbath School. Avoid goals that are so high that they discourage or so low that they provide no challenge. We suggest a goal of about 10 percent above your attainment of the previous year. It would be well also to have a goal for percentage of members involved. The success of your Sabbath School depends on getting the vast majority doing something toward the overall goal.
+- Encourage members to place their Investment in a special con tainer provided. If this is not available, use the regular tithe and offering envelope, but be sure to mark it “Investment”—otherwise it will not be credited to the Investment fund. The special projects would then not benefit.
+- Ask the church treasurer to report to you regularly so that you can keep the Sabbath School informed of the monthly progress. Armed with this information, you can keep the goal charts up to date.
+- Assist the division leaders in the selection of suitable goal devices. It is not only the children who appreciate an informative device.
+- Constantly be alert for Investment success stories from among your Sabbath School members, as well as from other areas. You will find these quite inspirational during your monthly presentations. At times you may have members tell their own success stories, or you may choose to interview members. Keep the stories brief and bright. Avoid the ten dency that sometimes creeps in to turn this period into a sales pitch for the various articles that may be for sale!\
+Occasionally meet with the Sabbath School teachers to solicit their support. Some classes work together on a pre-selected project. Or teachers can make suggestions that will help individuals select an appropriate plan on which to work.
+- Attend conference- or mission-sponsored training programs for Investment leaders. You are bound to pick up some new ideas, as well as much inspiration as you mingle with other leaders.
+- Report to the Conference the return of health food labels that qualify for refunds. Report blanks should be available from your local conference or mission.
+- Constantly pray for the success of the Investment program.

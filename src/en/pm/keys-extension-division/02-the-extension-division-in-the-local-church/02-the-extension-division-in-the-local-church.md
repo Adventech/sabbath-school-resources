@@ -1,0 +1,5 @@
+---
+title: The Extension Division in the Local Church
+---
+
+An extension division should be organized in every local Sabbath School, even if there is only one person to be cared for in this way. Where there are not more than two or three in the extension division, the Sabbath School secretary, or an assistant, may care for them. Quarterly supplies are sent, or preferably delivered personally, to the members by the secretary or the assistant secretary. Occasionally, this officer will meet with the extension division member in his or her home or arrange for someone else to do so. But if the number who join the extension division exceeds three, it is best to elect an extension division leader who will make these members a matter of per sonal responsibility. This leader may then give much time and attention to building up their interest and participation in systematic Bible study and mission stewardship.

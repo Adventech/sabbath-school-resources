@@ -1,0 +1,3 @@
+### Community Friendly Sabbath School
+
+If you would like to draw interested guests from your community to Sabbath School, this book is for you. This is your guide for discovering how your Sabbath School can draw honest seekers of truth. Learn innovate ways you can make your class community-friendly. This book is a must-read for Sabbath School superintendents, leaders, teachers, and anyone who wants to help their Sabbath School grow.

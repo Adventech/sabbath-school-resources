@@ -1,0 +1,3 @@
+### Sabbath School Welcome and Ushering
+
+Welcoming churches are growing churches. This book gives you the tools to help your church grow by giving you the tools to create a Sabbath School atmosphere that keeps visitors coming back. You’ll learn about selecting and training receptionists, the art of making people feel welcome, and do’s and don’ts of successful welcoming and ushering. If you want to make your Sabbath School more welcoming, check out the great ideas in this book.

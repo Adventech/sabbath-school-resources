@@ -1,0 +1,7 @@
+---
+title: Election of Sabbath School Leaders
+---
+
+Sabbath School leaders may be elected by the church, and nominated by the same committee or ministry placement team, that guides in the selection of officers and placement of ministries for the church. The leaders to be chosen at the annual election may include the general superintendent and assistant superintendents, adult teachers—an assistant superintendent for membership having special responsibility for missing members and prospective members, and an assistant superintendent for evangelism having charge of Branch Sabbath School evangelism, Vacation Bible School, Community Guest Days, Decision Days, Neighborhood Bible Clubs, Story Hours, etc.
+
+A Sabbath School secretary and assistants may be needed as well as leaders for adult, youth, earliteen, junior, primary, kindergarten, and beginner divisions. Additional officers may be needed such as leader for the extension division (with assistants where needed), an Investment secretary, and a Vacation Bible School director. The Sabbath School council appoints division teachers, secretaries, greeters, assistant division leaders, music directors, and pianists and/or organists. Vacancies occurring between annual elections are filled by the Sabbath School council. Small Sabbath Schools may not need all these officers.

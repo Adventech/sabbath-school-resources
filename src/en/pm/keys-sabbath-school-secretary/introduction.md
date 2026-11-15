@@ -1,0 +1,3 @@
+### Sabbath School Secretary
+
+The work of the Sabbath School secretary supports the entire Sabbath School team and is vitally important to a successful program. This book provides advice and guidelines on the responsibilities and duties of a Sabbath School secretary. Learn about progress reports, keeping records, ordering supplies, and much more. This book is a must-read for all Sabbath School secretaries.

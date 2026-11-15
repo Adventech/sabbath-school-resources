@@ -1,0 +1,15 @@
+---
+title: The Search for Members of the Extension Division
+---
+
+Another duty and privilege of the extension division leader is to monitor the church membership record to determine who from among them is attending the Sabbath School. If the school keeps a membership checkup file, the task will be easy. Extension division leaders should concern themselves principally with those who are church members but not Sabbath School members. If no record system has been maintained, the extension division leader should get a list of church members from the church clerk and try to contact all who are not enrolled in the Sabbath School, and, where appropriate, invite them to become members of the extension division.
+
+If extension division members exceed ten to fifteen, there should be one or more assistants to aid the leader in caring for their Sabbath School needs. Those individuals who, with help and encouragement, could come regularly to the main Sabbath School should be urged to do so. If necessary, after visits by the extension division leader or assistant, such persons should be referred to the pastor and to the Sabbath School superintendent for further contacts.
+
+Where one or more assistants are required to care for the extension division, it is in the best interest of the division to have regular meetings of the leaders to plan their work and to check results. Each assistant should report two or three times per quarter to the leader, who, in turn, makes regular reports of division activity and results to the Sabbath School Council. Thus, this division can be kept in intimate touch with the rest of the school.
+
+Two excellent times for regular meetings of the extension division leader and assistants are two weeks before the end of the quarter, when supplies for the following quarter can be assigned and plans laid to visit each member of the division and about two weeks after the beginning of the following quarter, when reports of contacts and needs of individuals may be discussed.
+
+Another way in which the extension division leader can profitably foster this work is to arrange for Sabbath School members, either adult or young people, to meet occasionally with extension division members. Care should be exercised in choosing such visi tors. Occasionally, a group of good singers might go to share inspiring music.
+
+Often extension division members are located in a community in which a Branch Sabbath School may be organized. The extension division leader should foster and encourage such projects. In the report to the Sabbath School Council, the leader may suggest possibili ties for Branch Sabbath Schools and solicit cooperation in plan ning and organizing for them. Many such small branch schools have served to bring in new church members, and, in some cases, churches have been organized from these small beginnings.
