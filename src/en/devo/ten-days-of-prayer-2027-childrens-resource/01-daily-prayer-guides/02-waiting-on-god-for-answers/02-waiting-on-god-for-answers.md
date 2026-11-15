@@ -38,13 +38,15 @@ God kept His promise to Daniel, and God keeps His promises to us, too.
 
 Circle the things that help us trust God:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-02-waiting-on-god-for-answers/image1.jpg)
 
 **2. Waiting for God’s promise**
 
 Color the pictures that show patience:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-02-waiting-on-god-for-answers/image2.jpg)
 
 **3. My waiting prayer**
 

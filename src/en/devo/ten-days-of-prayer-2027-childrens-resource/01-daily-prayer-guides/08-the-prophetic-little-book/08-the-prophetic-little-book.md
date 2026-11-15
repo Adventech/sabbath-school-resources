@@ -34,13 +34,15 @@ We can learn from them, too. When we do not understand something in the Bible, w
 
 Circle the correct picture:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-08-the-prophetic-little-book/image1.jpg)
 
 **2. Sweet or Bitter?**
 
 Color with red what is sweet and with blue what is bitter:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-08-the-prophetic-little-book/image2.jpg)
 
 **3. Learning From God**
 

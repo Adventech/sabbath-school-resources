@@ -38,13 +38,15 @@ And one day, when the harvest is ready, Jesus will come again and take His peopl
 
 Circle the things that are ready to harvest:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-09-three-angels-at-the-end/image1.jpg)
 
 **2. Stay close to Jesus**
 
 Color the pictures that help you stay close to Jesus:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-09-three-angels-at-the-end/image2.jpg)
 
 **3. Get ready for Jesus**
 

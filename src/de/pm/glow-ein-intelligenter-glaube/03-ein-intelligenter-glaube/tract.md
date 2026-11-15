@@ -24,6 +24,7 @@ Die Bibel geht davon aus, dass Gott der zentrale Akteur auf der Bühne der Gesch
 
 Wenn ein Traum eines antiken Königs das Ergebnis des tödlichsten Krieges in der modernen Menschheitsgeschichte vorhersagen kann, welche Gewissheit kann Ihnen die Bibel über Gottes Existenz in dieser ungewissen Welt geben? Mein Großvater Franz glaubte und vertraute der Bibel während seiner Jahre an der russischen Front. Heute, als Wissenschaftler, der die biblische Geschichte durch Archäologie erforscht, habe ich das Privileg, zunehmende Beweise für einen intelligenten Glauben zu bezeugen.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/de/pm/glow-ein-intelligenter-glaube/03-ein-intelligenter-glaube/image.png)
 
 Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson, Inc. Used by permission. All rights reserved.Cover design: ©www.typofire.com

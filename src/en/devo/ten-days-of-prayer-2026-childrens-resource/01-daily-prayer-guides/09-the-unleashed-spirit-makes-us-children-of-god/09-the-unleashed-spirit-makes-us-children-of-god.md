@@ -7,7 +7,8 @@ date: 15/01/2026
 
 “Look at the fountains! What a beautiful place this is!” Luca exclaimed as he ran to examine a huge fountain with flower designs in the center of the Plaza.
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-09-the-unleashed-spirit-makes-us-children-of-god/image1.png)
 
 “There are so many people here. Over there I see some kind of amphitheater, and many of the redeemed are listening very attentively to someone speaking,” Luca said, trying to see and hear as much as he could, as quickly as possible.
 
@@ -21,7 +22,8 @@ At that moment, applause and hallelujahs resounded throughout the plaza. The spe
 
 “Come on,” Orel said, taking Luca by the hand. Both of them, almost running, went after a man dressed in a white robe with a red border at the hem. They found him behind the amphitheater.
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-09-the-unleashed-spirit-makes-us-children-of-god/image2.png)
 
 “Paul! Paul!” Orel called out toward the man. “Wait for us—we want to speak with you.”
 
@@ -43,7 +45,8 @@ The man, Paul, stopped, looked at them intently, and smiled merrily.
 
 Orel brought up a verse on the floating glass—Romans 8:14, “For those who are led by the Spirit of God are the children of God.”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-09-the-unleashed-spirit-makes-us-children-of-god/image3.png)
 
 “Paul, please explain to us—how did the Spirit transform people into children of God?”
 
@@ -57,13 +60,15 @@ Orel brought up a verse on the floating glass—Romans 8:14, “For those who ar
 
 “Exactly!” Paul said. “Even I was adopted. Can you imagine what my life would have been if Jesus had not found me on the road to Damascus? I shudder just thinking about it.”
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-09-the-unleashed-spirit-makes-us-children-of-god/image4.png)
 
 “Let’s give thanks to God for having considered us worthy of His grace,” Orel said. “Dear Paul, I think you must go back to the amphitheater now—there are some of the redeemed signaling for you to return to them.”
 
 “Oh yes! Excuse me, my friends… duty calls!” Paul winked at Luca and walked away.
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-09-the-unleashed-spirit-makes-us-children-of-god/image5.png)
 
 “Paul is a man of great intellectual ability,” Orel said. “On Earth, God used him to preach to the mighty and powerful. Here in heaven, his abilities are increased, and he is able to converse about fascinating things even with the angels. Everyone wants to hear him!”
 
@@ -75,7 +80,8 @@ Orel brought up a verse on the floating glass—Romans 8:14, “For those who ar
 
 Color the picture of Paul speaking in the New Jerusalem. In the box, write: **“In Heaven I will meet my favorite Bible characters.”** Cut out the drawing and place it somewhere visible in your home or room.
 
-![](lets-get-to-work.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-09-the-unleashed-spirit-makes-us-children-of-god/lets-get-to-work.png)
 
 ### Let’s Pray!
 

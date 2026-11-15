@@ -96,7 +96,8 @@ May we become a people of the Word—not merely readers of Scripture, but people
 
 Lord, may the Word we open each day open us to You.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/02-the-discipline-of-feeding-the-soul-with-truth/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 

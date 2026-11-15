@@ -5,7 +5,8 @@ date: 08/01/2026
 
 “We’ve run several hundred miles!” said Luca as he came up to Orel. “It’s incredible that I don’t feel tired—in fact, I want to keep running!”
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-02-the-unleashed-spirit-gives-us-extraordinary-abilities/image1.png)
 
 “Your human abilities have been restored to their maximum potential here, dear Luca,” Orel replied as he looked at the floating map and searched around the beautiful Garden where they were.
 
@@ -13,7 +14,8 @@ date: 08/01/2026
 
 “In the beginning, God created Adam and Eve perfect. They had all their abilities at their highest level and were very healthy,” said Orel.
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-02-the-unleashed-spirit-gives-us-extraordinary-abilities/image2.png)
 
 “However, when they disobeyed God, they turned away from Him, and sin disrupted God’s beautiful plan for them”.
 
@@ -31,7 +33,8 @@ The man stood up and began to laugh loudly. “It’s not your fault, little boy
 
 “Bezalel! What a privilege to meet you,” said Luca.
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-02-the-unleashed-spirit-gives-us-extraordinary-abilities/image3.png)
 
 “The privilege is mine,” Bezalel replied as he looked at Orel with interest, who was quickly searching for something on the floating glass with his fingers.
 
@@ -39,7 +42,8 @@ The man stood up and began to laugh loudly. “It’s not your fault, little boy
 
 The two leaned in and read it easily.
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-02-the-unleashed-spirit-gives-us-extraordinary-abilities/image4.png)
 
 At the top it said Exodus 31:1–5: “Then the Lord said to Moses, ‘See, I have chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah, and I have filled him with the Spirit of God, with wisdom, with understanding, with knowledge and with all kinds of skills—to make artistic designs for work in gold, silver and bronze, to cut and set stones, to work in wood, and to engage in all kinds of crafts.’”
 
@@ -59,7 +63,8 @@ At the top it said Exodus 31:1–5: “Then the Lord said to Moses, ‘See, I ha
 
 Orel and Luca said goodbye to Bezalel, who continued carefully examining the beautiful crystal wall.
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-02-the-unleashed-spirit-gives-us-extraordinary-abilities/image5.png)
 
 “Ready to meet the next person?” Orel asked, while a red dot blinked on the floating map.
 

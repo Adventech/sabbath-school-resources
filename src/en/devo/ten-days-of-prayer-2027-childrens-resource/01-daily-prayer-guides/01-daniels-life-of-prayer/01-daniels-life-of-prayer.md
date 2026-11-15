@@ -38,19 +38,22 @@ We can be like Daniel. We can talk to God every day—not only when we need some
 
 Circle the picture that shows prayer:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-01-daniels-life-of-prayer/image1.jpg)
 
 **2. Daniel prayed three times every day**
 
 Color the pictures that show Daniel’s moments of prayer:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-01-daniels-life-of-prayer/image2.jpg)
 
 **3. Find the way to God**
 
 Help Daniel reach the end of the maze so he can go to his time of prayer.
 
-![](image3.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-01-daniels-life-of-prayer/image3.jpg)
 
 ### My Devotional Adventure
 

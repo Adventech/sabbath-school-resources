@@ -7,7 +7,8 @@ Bushes full of flowers and fruits all lined up in perfect order, divided by thei
 
 “We have arrived at the Heavenly Meadow!” Orel said, pointing toward the bushes. “Although there are delicious fruit trees scattered throughout the New Jerusalem, here almost every variety of fruit and vegetables are planted and harvested to feed all the residents of the Holy City.”
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-06-the-unleashed-spirit-motivates-us-to-live-in-health/image1.png)
 
 “Wow! I just hope broccoli tastes good here!” Luca laughed loudly. “On Earth, we used to eat meat, but I see that here no one needs that.”
 
@@ -21,7 +22,8 @@ Bushes full of flowers and fruits all lined up in perfect order, divided by thei
 
 “There’s no need to remember the sad past! Everything is new here!” the man said, extending a hand to Luca. “My name is John. On Earth they called me John the Baptist, but here in heaven everyone is already baptized by the Holy Spirit.” John laughed joyfully. “So, I don’t have much baptizing work to do here, right?”
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-06-the-unleashed-spirit-motivates-us-to-live-in-health/image2.png)
 
 “John the Baptist! What an enormous privilege!” Luca said with excitement. “The one who prepared the way for Jesus to come to Earth. Wow! My name is Luca, and this is Orel.”
 
@@ -29,7 +31,8 @@ Bushes full of flowers and fruits all lined up in perfect order, divided by thei
 
 Orel came closer to Luca, holding the floating glass where a Bible verse was highlighted. “Here’s an interesting verse about our friend John.” With his finger he pointed to Luke 1:15 and read, “…for he will be great in the sight of the Lord. He is never to take wine or other fermented drink, and he will be filled with the Holy Spirit even before he is born.”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-06-the-unleashed-spirit-motivates-us-to-live-in-health/image3.png)
 
 “What memories!” John said. “My father Zechariah couldn’t believe it, and God took away his voice until the day I was born. We still tease him about that…”
 
@@ -43,7 +46,8 @@ Orel came closer to Luca, holding the floating glass where a Bible verse was hig
 
 “I had a tragic ending on Earth… They cut off my head, and my eyes closed… until I was resurrected with the righteous and saw my Savior in the clouds of heaven. Everything I suffered on Earth seems insignificant compared to what we live here in heaven with Jesus.”
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-06-the-unleashed-spirit-motivates-us-to-live-in-health/image4.png)
 
 “Wow!” Luca said. “I don’t know if I could have endured everything you went through, John…”
 
@@ -55,7 +59,8 @@ Orel came closer to Luca, holding the floating glass where a Bible verse was hig
 
 “We’ll have many opportunities to keep talking, dear John,” Orel said as the red dot blinked again on the floating map. “Luca, it’s time to go. Let’s go!”
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-06-the-unleashed-spirit-motivates-us-to-live-in-health/image5.png)
 
 “Thank you, John, for explaining more about the Holy Spirit,” Luca said. “I’m sure we’ll meet again.”
 

@@ -38,19 +38,22 @@ Just like a lamp helps us see in the dark, God’s Word helps our hearts know th
 
 Circle correct the picture.
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-05-the-sure-word-of-prophecy/image1.jpg)
 
 **2. The Bible Is like a light**
 
 Color the pictures that remind us of God’s Word:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-05-the-sure-word-of-prophecy/image2.jpg)
 
 **3. Follow the light**
 
 Help the child find the way to God.
 
-![](image3.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-05-the-sure-word-of-prophecy/image3.jpg)
 
 ### My Devotional Adventure
 

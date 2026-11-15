@@ -38,13 +38,15 @@ God’s prophecy came true: Jesus came to save us. And now He wants everyone to 
 
 Circle the correct picture:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-06-israel-and-prophecy/image1.jpg)
 
 **2. Jesus shows love**
 
 Color only the pictures that show Jesus’ love:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-06-israel-and-prophecy/image2.jpg)
 
 **3. Tell someone about Jesus**
 

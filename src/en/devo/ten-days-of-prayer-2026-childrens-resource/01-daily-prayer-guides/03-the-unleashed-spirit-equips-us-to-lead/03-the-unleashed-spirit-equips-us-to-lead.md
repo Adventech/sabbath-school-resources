@@ -9,7 +9,8 @@ The blinking red dot on the map stopped at the edge of a great river. There were
 
 “We are on the riverbank of the Water of Life,” Orel quickly replied. “This river flows through the entire New Jerusalem, and the most amazing part is that it comes straight from the very throne of God!”
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-03-the-unleashed-spirit-equips-us-to-lead/image1.png)
 
 “Wow! What a beautiful place,” said Luca as he ran to hug the leg of a giraffe that was eating fruit from a huge tree by the river.
 
@@ -23,7 +24,8 @@ Luca noticed something special about this man. His face shone with a gentle ligh
 
 “Who are you?” Luca asked. “Somehow I feel like I know you.”
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-03-the-unleashed-spirit-equips-us-to-lead/image2.png)
 
 “You are standing before the famous Moses,” Orel replied.
 
@@ -35,7 +37,8 @@ Luca followed him to the riverbank and was amazed at the perfection and calmness
 
 “There’s one particular scene from Moses’ life that will help us understand the Holy Spirit.” Luca read aloud Numbers 11:16–17, “The Lord said to Moses: ‘Bring me seventy of Israel’s elders who are known to you as leaders and officials among the people. Have them come to the tent of meeting, that they may stand there with you. I will come down and speak with you there, and I will take some of the power of the Spirit that is on you and put it on them. They will share the burden of the people with you so that you will not have to carry it alone.’”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-03-the-unleashed-spirit-equips-us-to-lead/image3.png)
 
 “Oh!” said Moses. “I remember writing that so many years ago. Praise be to our good God who fulfilled everything He promised us! Luca, I’m amazed at your ability with ancient Hebrew… Astounding!”
 
@@ -45,7 +48,8 @@ Luca followed him to the riverbank and was amazed at the perfection and calmness
 
 “God unleashed His Spirit upon me to lead His people through the Red Sea and the desert. The problems were huge! We had no food, little water, and there were dangerous animals that wanted to harm us. The people spoke against God. For this reason, the Lord chose other men to help me lead the Hebrew people, and He gave His Spirit to all of them too, so they could do things the right way.
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-03-the-unleashed-spirit-equips-us-to-lead/image4.png)
 
 “The Spirit of God equipped us to bring the people to Canaan—the Promised Land. I didn’t enter that land, but I entered this heavenly land! God keeps His promises! The Holy Spirit gives us the ability to lead the people of God!”
 
@@ -55,7 +59,8 @@ Luca followed him to the riverbank and was amazed at the perfection and calmness
 
 Orel noticed this and said, “Luca, it’s time to go. We must reach a very distant place.” He pointed to the floating map. Now the map was no longer flat. There were small glowing spheres, and a red dot rested on one of them.
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-03-the-unleashed-spirit-equips-us-to-lead/image5.png)
 
 “Are we going to another planet?” Luca asked excitedly.
 

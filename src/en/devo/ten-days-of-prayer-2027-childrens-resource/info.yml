@@ -1,9 +1,12 @@
 title: 2027 Ten Days of Prayer Children’s Resource
 kind: devotional
-subtitle: "God Keeps His Promises"
-description: "God Keeps His Promises is a devotional resource created to help children discover the wonderful truths found in God’s Word and learn that God is always faithful."
-primaryColor: "#3A2217"
-primaryColorDark: "#24150F"
+subtitle: God Keeps His Promises
+description: >-
+  God Keeps His Promises is a devotional resource created to help children
+  discover the wonderful truths found in God’s Word and learn that God is always
+  faithful.
+primaryColor: '#3A2217'
+primaryColorDark: '#24150F'
 startDate: 08/01/2027
 endDate: 18/01/2027
 progressTracking: automatic
@@ -14,3 +17,10 @@ credits:
     value: Pr. Francesco Marquina and Angie Valdez, MPH
   - name: Produced by
     value: Adventist Children’s Ministries
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/assets/cover.png

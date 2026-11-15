@@ -9,7 +9,8 @@ The floating map showed they had arrived...
 
 “I’m sure he’ll show up soon,” Luca said, gazing at the tall wall of the city, which was made of jasper. The wall reflected varied colors—red, yellow, brown, and dark blue. “Look at the wall—it’s truly amazing.”
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-08-the-unleashed-spirit-drives-us-to-mission/image1.png)
 
 “Not just the wall—have you seen the foundations?” Orel asked, looking all around as he kept watch for the person who, according to the map, should be nearby.
 
@@ -19,7 +20,8 @@ Here is jasper, like in the wall, and these green ones must be emeralds. And the
 
 Out of nowhere, a man appeared behind Luca and said, “Little boy, you have a very good eye for details—and I must add, a very curious mind.”
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-08-the-unleashed-spirit-drives-us-to-mission/image2.png)
 
 “Luca, let me introduce you to Philip the Evangelist,” Orel said with a wide smile. “He always enjoys making dramatic entrances and today is no exception. For a moment, I thought my map had an error. But how good to find you, Philip—or was it you who found us?”
 
@@ -35,7 +37,8 @@ Out of nowhere, a man appeared behind Luca and said, “Little boy, you have a v
 
 “That’s right!” Orel said. “Here’s a special moment we want to know about. I’ll read Acts 8:29. The Bible says, ‘The Spirit told Philip, “Go to that chariot and stay near it.”’ Did the Spirit really lead you directly to a person to evangelize them?”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-08-the-unleashed-spirit-drives-us-to-mission/image3.png)
 
 “Oh yes! It was definitely the Holy Spirit!” Philip quickly responded. “Ever since I met Jesus, my heart burned with the desire for Him to return soon. Listening to the apostles, I understood that for Him to return, the gospel had to be preached in every nation, tribe, language, and people.
 
@@ -45,7 +48,8 @@ Out of nowhere, a man appeared behind Luca and said, “Little boy, you have a v
 
 “I was just about to tell you,” Philip said. “The Holy Spirit led me to preach to an Ethiopian man. He had traveled far to reach Israel and learn about Jesus, but no one in Israel had explained it to him, and he was returning home confused and discouraged.
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-08-the-unleashed-spirit-drives-us-to-mission/image4.png)
 
 “The Spirit identified those who sincerely longed to know Jesus and sent us to meet them,” Philip said joyfully. “The rest of the story is the Spirit unleashing Himself in their lives, transforming them into disciples of Jesus and driving them to fulfill the mission...”
 
@@ -55,13 +59,15 @@ Out of nowhere, a man appeared behind Luca and said, “Little boy, you have a v
 
 “Pleased to meet you, friends of Philip,” the Ethiopian said. “Forgive me for having to take Philip away, but I have gathered more than 500 people who came to Jesus in Ethiopia—thanks to God and to my missionary work—and now they are also here in heaven! They all want to thank Philip. So, I must take him with me. Don’t worry—we’ll have plenty of time to talk and get to know each other better.”
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-08-the-unleashed-spirit-drives-us-to-mission/image5.png)
 
 “500 redeemed! Wow!” Luca and Orel exclaimed at the same time. “No problem—we’ll see you soon, Philip.”
 
 Orel lit up his floating map, tapped a few buttons, and the familiar red light began to blink…
 
-![](image6.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-08-the-unleashed-spirit-drives-us-to-mission/image6.png)
 
 “You won’t want to miss the next character,” Orel said. “Even I am excited to go meet him. Are you ready?”
 

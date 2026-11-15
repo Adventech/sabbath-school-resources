@@ -5,7 +5,8 @@ date: 11/01/2026
 
 “Wow! Super wow! What is this place?” Luca asked with great curiosity. “It’s all so beautiful! And what is that over there?”
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-05-the-unleashed-spirit-restores-us-despite-our-mistakes/image1.png)
 
 “We are in the throne room of God in the New Jerusalem,” Orel said with deep reverence.
 
@@ -27,7 +28,8 @@ date: 11/01/2026
 
 “Really? I can’t believe it! King David himself—what a privilege!” Luca exclaimed.
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-05-the-unleashed-spirit-restores-us-despite-our-mistakes/image2.png)
 
 “Yes, I’m real,” David laughed joyfully. “But in heaven, I am not a king. There is only one King and Lord, our Savior Jesus.”
 
@@ -35,7 +37,8 @@ Orel lit up the floating glass to show a Bible text. “This time I found it qui
 
 David read aloud 1 Samuel 16:13, “So Samuel took the horn of oil and anointed him in the presence of his brothers, and from that day on the Spirit of the Lord came powerfully upon David. Samuel then went to Ramah.”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-05-the-unleashed-spirit-restores-us-despite-our-mistakes/image3.png)
 
 “I remember that day,” said David. “My brothers and my father were so surprised…”
 
@@ -47,7 +50,8 @@ David read aloud 1 Samuel 16:13, “So Samuel took the horn of oil and anointed 
 
 “I did terrible things. As king, I was supposed to be the spiritual example for the people of Israel, but for a long time I became proud, deceitful, and even a criminal. I killed an innocent, honorable man just to take his wife.”
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-05-the-unleashed-spirit-restores-us-despite-our-mistakes/image4.png)
 
 Orel and Luca listened very attentively to David’s words.
 
@@ -61,13 +65,15 @@ Orel and Luca listened very attentively to David’s words.
 
 “That’s right, little one. God is good—so good that He allows me to be near His throne and the angelic choir,” David said, looking reverently at the place of the throne. “I’m composing some songs for the choir; hopefully, one day the angels will sing them for our God.”
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-05-the-unleashed-spirit-restores-us-despite-our-mistakes/image5.png)
 
 “Of course we will sing your songs, David,” Orel said with a big smile. “The angels know of your great musical talent. Perhaps soon you’ll join us as well. Time has flown quickly, Luca, we must leave for another place.”
 
 The map already showed a blinking red dot to the east of the New Jerusalem.
 
-![](image6.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-05-the-unleashed-spirit-restores-us-despite-our-mistakes/image6.png)
 
 “I’ll visit you again, David,” Luca said. “Thank you so much!”
 

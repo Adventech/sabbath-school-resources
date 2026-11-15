@@ -96,7 +96,8 @@ Ellen G. White beautifully captures this spirit: “Our bodies are to be regarde
 
 The sanctified life is formed through ordinary practices offered to God. Every meal, every walk, every night’s rest, and every act of self-control becomes an opportunity to honor Him. For the sanctified steward, even ordinary habits become acts of worship through which God shapes Christlike character. As Paul concludes, “Therefore glorify God in your body” (1 Corinthians 6:20, NKJV).
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/04-the-discipline-of-healthy-living/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 

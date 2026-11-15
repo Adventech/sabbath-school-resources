@@ -38,13 +38,15 @@ God is always ready to listen because He loves us.
 
 Circle the correct picture:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-03-daniels-prayer/image1.jpg)
 
 **2. Daniel’s prayer has four parts**
 
 (1) Thanking God, (2) asking for help, (3) saying “I’m sorry” and (4) asking only for things. Color the pictures that show this process:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-03-daniels-prayer/image2.jpg)
 
 **3. My Prayer today**
 

@@ -7,19 +7,22 @@ date: 10/01/2026
 
 Luca looked everywhere while holding Orel’s hand firmly. They were flying through the vastness of space. Luca had seen incredible things! They passed close to stars made of fire, and nothing happened to them. Wow!
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-04-the-unleashed-spirit-always-leads-us-to-the-bible/image1.png)
 
 At first, Luca had been counting the number of planets, but after a while, he lost track of the endless lights, colors, and flashes of the stars. They had already been traveling for several days. This was out of this world!
 
 “We’ve arrived,” said Orel as they approached a huge sky-blue planet with rings and several moons. “We’re going to enter here,” he said, pointing to a part of the planet. Their descent was quick. In just minutes, they were standing in a beautiful valley full of enormous trees with delicious-looking fruit.
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-04-the-unleashed-spirit-always-leads-us-to-the-bible/image2.png)
 
 “I’ve been waiting for you,” said a calm voice. “I’ve been here for a few days. My friend Moses told me you were coming, so I took a break to meet you.”
 
 “Thank you so much for waiting for us!” Orel quickly replied. “Dear Luca, I present to you Joshua, the successor of Moses and the man who led the Hebrews into Canaan, the Promised Land, at that time.”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-04-the-unleashed-spirit-always-leads-us-to-the-bible/image3.png)
 
 “Wow! You were one of my favorite Bible characters! What a privilege to meet you, Joshua!” Luca said happily. “I think you were the favorite of many people on Earth.”
 
@@ -33,7 +36,8 @@ Orel began to read Deuteronomy 34:9, “Now Joshua son of Nun was filled with th
 
 “Let me show you,” Joshua said, searching for another text in Orel’s floating glass. “I wrote it in my book of the Bible. Here, here it is—the secret, in Joshua 1:8–9.”
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-04-the-unleashed-spirit-always-leads-us-to-the-bible/image4.png)
 
 He began to read with great emotion, “Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.”
 
@@ -53,7 +57,8 @@ He began to read with great emotion, “Keep this Book of the Law always on your
 
 “We have to go, Luca. I already have our next destination,” Orel said, showing the floating map with another blinking red dot. “It seems we’re going back to the New Jerusalem.”
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-04-the-unleashed-spirit-always-leads-us-to-the-bible/image5.png)
 
 “Oh, how nice!” Joshua said. “I’ll be heading back there soon. I’m in a race with my mission partner, I think you know him, his name is Caleb. On Earth, he loved conquering mountains. Here, he wants to be the first to explore all the worlds!” Joshua laughed heartily. “Well, I must go too. Caleb is already a few days ahead of me. Safe travels, friends!”
 
@@ -65,7 +70,8 @@ And once again, they traveled faster than the speed of light through the univers
 
 Read Hebrews 1:2 and paint the image of the great journey through the universe. In your own handwriting, write in the box the phrase: **“I will travel through the universe.”** Cut out the image and place it somewhere visible in your house or room.
 
-![](lets-get-to-work.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-04-the-unleashed-spirit-always-leads-us-to-the-bible/lets-get-to-work.png)
 
 ### Let’s Pray!
 

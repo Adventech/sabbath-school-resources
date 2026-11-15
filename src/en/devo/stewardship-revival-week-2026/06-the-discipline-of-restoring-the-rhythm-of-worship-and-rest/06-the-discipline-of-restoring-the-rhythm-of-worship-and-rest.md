@@ -91,7 +91,8 @@ The author of Hebrews speaks of a future Sabbath â€œrest for the people of Godâ€
 
 We live in a restless world, yet every Sabbath whispers eternity into the present, calling us back to the assurance that we belong to God. The rhythm of worship and rest forms the soul as we learn to rest in God.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/06-the-discipline-of-restoring-the-rhythm-of-worship-and-rest/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 

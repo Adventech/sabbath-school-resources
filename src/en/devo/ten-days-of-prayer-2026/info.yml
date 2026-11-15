@@ -1,12 +1,26 @@
 title: 2026 Ten Days of Prayer
 kind: devotional
-subtitle: "Unleashed!"
-description: "Ten Days of Prayer initiative (formerly called Operation Global Rain) was adopted by the world church in 2010. Churches in over a hundred countries have received rich blessings through Ten Days of Prayer which occurs every January. God is faithful! The Ten Days experience can’t be quantified. Hearts are surrendered, souls convicted, and requests for prayer have been answered. We invite you to be part of this special initiative. This year it will be held from January 7-17, 2026."
-primaryColor: "#412710"
-primaryColorDark: "#29180A"
+subtitle: Unleashed!
+description: >-
+  Ten Days of Prayer initiative (formerly called Operation Global Rain) was
+  adopted by the world church in 2010. Churches in over a hundred countries have
+  received rich blessings through Ten Days of Prayer which occurs every January.
+  God is faithful! The Ten Days experience can’t be quantified. Hearts are
+  surrendered, souls convicted, and requests for prayer have been answered. We
+  invite you to be part of this special initiative. This year it will be held
+  from January 7-17, 2026.
+primaryColor: '#412710'
+primaryColorDark: '#29180A'
 startDate: 07/01/2026
 endDate: 17/01/2026
 progressTracking: automatic
 credits:
   - name: Author
     value: Don MacLafferty
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026/assets/cover.png

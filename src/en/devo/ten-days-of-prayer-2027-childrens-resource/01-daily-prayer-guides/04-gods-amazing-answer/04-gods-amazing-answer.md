@@ -38,13 +38,15 @@ God answered Daniel’s prayer, and God continues to keep His promises to us.
 
 Circle the picture that shows God’s promise coming true:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-04-gods-amazing-answer/image1.jpg)
 
 **2. Waiting for God’s plan**
 
 Color the things that help us wait patiently:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-04-gods-amazing-answer/image2.jpg)
 
 **3. My promise picture**
 

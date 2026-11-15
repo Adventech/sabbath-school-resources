@@ -99,7 +99,8 @@ Whenever God’s people put Him first, their priorities begin to reflect His kin
 
 Tithing is not the ceiling of generosity but the floor of faithfulness. Through this discipline God teaches us to put Him first. The discipline of tithing forms the heart by teaching us to put God first. And as we repeatedly place Him first, the Holy Spirit forms within us the character of Christ.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/07-the-discipline-of-tithing/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 

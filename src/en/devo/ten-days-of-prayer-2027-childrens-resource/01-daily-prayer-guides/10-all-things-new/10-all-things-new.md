@@ -40,13 +40,15 @@ And someday, Jesus will finish what He has begun. He will come again and make ev
 
 Circle the happy things:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-10-all-things-new/image1.jpg)
 
 **2. A new heart**
 
 Draw a heart on the picture that shows an act of love:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-10-all-things-new/image2.jpg)
 
 **3. My new Earth picture**
 

@@ -5,7 +5,8 @@ date: 16/01/2026
 
 “Luca!… I’ve been calling you for ten minutes… Don’t make me come upstairs…”
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-10-the-spirit-is-unleashed-on-earth/image1.png)
 
 Luca slowly opened his eyes. “Where am I?” he asked in a soft voice.
 
@@ -19,13 +20,15 @@ Luca slowly opened his eyes. “Where am I?” he asked in a soft voice.
 
 “I think you had a very special dream,” Mom replied. “But you’ll have time to tell me later. For now, let’s pray and thank God for watching over you during the night.”
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-10-the-spirit-is-unleashed-on-earth/image2.png)
 
 They both knelt at the side of the bed and prayed. Luca got ready for school. His mom had his breakfast lunchbox prepared, and his dad was waiting in the car to take him to school before heading to work.
 
 Sitting in the car, Luca asked, “Dad, who would you like to meet in heaven?”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-10-the-spirit-is-unleashed-on-earth/image3.png)
 
 “Oh, many people,” Dad answered while driving. “Moses, David, and Paul…”
 
@@ -57,7 +60,8 @@ The Spirit had been unleashed in Luca’s life and was doing His transforming wo
 
 “Hi Luca, my name is Amanda,” the girl replied shyly.
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-10-the-spirit-is-unleashed-on-earth/image4.png)
 
 “Amanda, would you like to study the Bible with me and some of my friends?”
 
@@ -67,7 +71,8 @@ The Spirit had been unleashed in Luca’s life and was doing His transforming wo
 
 Though Luca didn’t know it, in one of the empty desks at the back sat Orel, smiling.
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-10-the-spirit-is-unleashed-on-earth/image5.png)
 
 “You will be great in the Lord, dear Luca,” Orel thought. “Just a little longer, and we will meet again to live incredible things in heaven with Jesus.”
 

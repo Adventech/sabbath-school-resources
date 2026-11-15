@@ -104,7 +104,8 @@ A healthy church is a community where grace flows freely, encouragement is inten
 
 A healthy church is a community where grace flows freely, encouragement is intentional, and Christ is formed in His people.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/03-discipline-of-growing-in-grace-together/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 

@@ -7,7 +7,8 @@ date: 13/01/2026
 
 “Gates of pearls! Wow! If you look at them from one side, they look pinkish… If you tilt your head, they turn violet… And if you look at them straight on, they seem whitish with a touch of greenish-blue.”
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-07-the-unleashed-spirit-strengthens-us-in-suffering/image1.png)
 
 “Impressive, isn’t it?” Orel said. “There are twelve gates—three on each side of the City—and every one of them is just as beautiful. I’ve already seen them all.”
 
@@ -19,7 +20,8 @@ Not far from them stood a man, facing the horizon with his head lifted high.
 
 “Orel… his robe has the same red border at the bottom as the one John was wearing,” Luca said curiously. “I haven’t seen many robes like that. Mine is completely white. What does it mean?”
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-07-the-unleashed-spirit-strengthens-us-in-suffering/image2.png)
 
 “Hello, Stephen,” Orel said. “We’re glad to find you.”
 
@@ -37,7 +39,8 @@ Not far from them stood a man, facing the horizon with his head lifted high.
 
 Luca read aloud. It was in ancient Greek, but by now he was used to reading ancient biblical languages: “But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.”
 
-![](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-07-the-unleashed-spirit-strengthens-us-in-suffering/image3.png)
 
 “That was the last moment of my life on Earth,” Stephen said thoughtfully. “I went through much suffering for my faith in Jesus. At that time there were many people with evil intentions against those of us who followed Him.”
 
@@ -49,7 +52,8 @@ Luca read aloud. It was in ancient Greek, but by now he was used to reading anci
 
 “At the end of my earthly life—in the moment of greatest fear and suffering—the Spirit was unleashed upon me and gave me the vision of Jesus waiting for me in heaven. With that assurance in mind, I felt nothing of my enemies’ attack… I closed my eyes and fell asleep in the rest of the righteous.
 
-![](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-07-the-unleashed-spirit-strengthens-us-in-suffering/image4.png)
 
 “When I opened my eyes again, I was restored, and I found Jesus right here, at this very gate of the City, and He welcomed me! That’s why I come here so often. It reminds me of how good Jesus has been to me. He Himself gave me this robe with the red border. I feel so undeserving of such honor.”
 
@@ -59,7 +63,8 @@ Luca read aloud. It was in ancient Greek, but by now he was used to reading anci
 
 “It was my privilege to share this moment with you,” Stephen said with a big smile. “Come back anytime.”
 
-![](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2026-childrens-resource/01-daily-prayer-guides-07-the-unleashed-spirit-strengthens-us-in-suffering/image5.png)
 
 “Where are we going now, Orel?” Luca asked, looking at the blinking red dot to the south of the City. “Another spiritual adventure? I’m learning so much from these conversations! Who will surprise us next? Let’s go!”
 

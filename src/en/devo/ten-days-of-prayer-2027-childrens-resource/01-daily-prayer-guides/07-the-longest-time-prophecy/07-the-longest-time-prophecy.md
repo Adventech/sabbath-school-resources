@@ -40,13 +40,15 @@ One day, Jesus’ work in heaven will be finished, and He will come again!
 
 Circle the correct picture:
 
-![](image1.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-07-the-longest-time-prophecy/image1.jpg)
 
 **2. Jesus forgives me**
 
 Color the pictures that show asking Jesus for forgiveness:
 
-![](image2.jpg)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/ten-days-of-prayer-2027-childrens-resource/01-daily-prayer-guides-07-the-longest-time-prophecy/image2.jpg)
 
 **3. My clean heart**
 

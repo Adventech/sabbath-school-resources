@@ -2,5 +2,12 @@ title: Das Ende der Welt?
 kind: book
 subtitle: Giving Light to Our World
 description: Literature that helps transform the world
-primaryColor: "#412410"
-primaryColorDark: "#29160A"
+primaryColor: '#412410'
+primaryColorDark: '#29160A'
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/de/pm/glow-das-ende-der-welt/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/de/pm/glow-das-ende-der-welt/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/de/pm/glow-das-ende-der-welt/assets/cover.png

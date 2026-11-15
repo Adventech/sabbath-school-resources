@@ -89,7 +89,8 @@ Imagine a church where needs are noticed, gifts are used, compassion is normal, 
 
 Service is not just something Christians do. It is one of God’s primary ways of shaping who we become. We become Christlike by serving as Christ served.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/05-the-discipline-of-participating-in-the-mission-of-christ/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 
