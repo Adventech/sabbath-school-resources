@@ -47,6 +47,24 @@ credits:
     value: E. Edward Zinke
   - name: Distribution
     value: Sharon Tennyson
+style:
+  blocks:
+    inline:
+      all:
+        text:
+          typeface: FreightTextProBook-Regular
+    nested:
+      all:
+        text:
+          typeface: FreightTextProBook-Regular
+  segment:
+    title:
+      text:
+        typeface: AR-Slab-26-Bold
+  resource:
+    title:
+      text:
+        typeface: FranklinGothicCondensed
 covers:
   landscape: >-
     https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/cover-landscape.png
@@ -54,3 +72,79 @@ covers:
     https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/cover-square.png
   portrait: >-
     https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/cover.png
+fonts:
+  - name: AR-Didone-11-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/AR-Didone-11-Regular.ttf
+    attributes: regular
+  - name: AR-Slab-26-Bold
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/AR-Slab-26-Bold.ttf
+    attributes: bold
+  - name: FreightTextProBlack-Italic
+    weight: 900
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProBlack-Italic.ttf
+    attributes: black-italic
+  - name: FreightTextProBlack-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProBlack-Regular.ttf
+    attributes: regular
+  - name: FreightTextProBold-Italic
+    weight: 700
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProBold-Italic.ttf
+    attributes: bold-italic
+  - name: FreightTextProBold-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProBold-Regular.ttf
+    attributes: regular
+  - name: FreightTextProBook-Italic
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProBook-Italic.ttf
+    attributes: regular-italic
+  - name: FreightTextProBook-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProBook-Regular.ttf
+    attributes: regular
+  - name: FreightTextProLight-Italic
+    weight: 300
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProLight-Italic.ttf
+    attributes: light-italic
+  - name: FreightTextProLight-Regular
+    weight: 300
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProLight-Regular.ttf
+    attributes: light
+  - name: FreightTextProMedium-Italic
+    weight: 500
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProMedium-Italic.ttf
+    attributes: medium-italic
+  - name: FreightTextProMedium-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProMedium-Regular.ttf
+    attributes: regular
+  - name: FreightTextProSemibold-Italic
+    weight: 600
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProSemibold-Italic.ttf
+    attributes: semiBold-italic
+  - name: FreightTextProSemibold-Regular
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/FreightTextProSemibold-Regular.ttf
+    attributes: regular
+  - name: FranklinGothicCondensed
+    weight: 400
+    src: >-
+      https://sabbath-school-resources-assets.adventech.io/en/explore/adventist-review-2026-11/assets/fonts/Franklin%20Gothic%20Condensed.ttf
+    attributes: regular
