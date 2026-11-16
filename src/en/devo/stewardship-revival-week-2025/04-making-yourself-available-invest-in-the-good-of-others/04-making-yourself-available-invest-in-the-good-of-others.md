@@ -10,7 +10,7 @@ The Bible describes David like this: “David was the youngest. The three oldest
 
 But how did David, a simple shepherd, become a giant slayer and a hero? It was not a mere chance or coincidence. David developed some special characteristics. Would you like to accomplish more every day? Here is one key characteristic of David: He made himself available by investing in the good of others. Let’s reflect on how availability can unlock breakthrough living in our own journey.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/04-making-yourself-available-invest-in-the-good-of-others/image1.png)
 
 ### I Will Go
@@ -35,7 +35,7 @@ Helping others or doing what’s right often means giving something up. We all h
 
 We should be wise in the use of our resources. However, when we help others, give money for God’s mission through tithes and offerings, or dedicate our lives to serve Jesus, God promises to reward our sacrifices and bless us (Proverbs 19:17; Malachi 3:9, 10; Mark 10:29, 30). He always finds a way to give us much more than we previously had. It’s like the little boy who gave his basket of food to Jesus. Jesus multiplied his food to feed a huge crowd, and the boy had a surplus to bring back home.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/04-making-yourself-available-invest-in-the-good-of-others/image2.png)
 
 ### Ready for Something New
@@ -52,7 +52,7 @@ We have learned that David became a giant slayer and developed a special bond wi
 
 In whatever field of service we find ourselves, in every encounter we make, it's not just about completing tasks or fulfilling assignments. It’s about adding value to the life of people. Cultivate meaningful relationships that uplift and strengthen others. This is His good purpose!
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/04-making-yourself-available-invest-in-the-good-of-others/image3.png)
 
 ### Going Deeper

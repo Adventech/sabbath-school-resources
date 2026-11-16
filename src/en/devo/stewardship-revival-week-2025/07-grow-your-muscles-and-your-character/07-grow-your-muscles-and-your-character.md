@@ -14,7 +14,7 @@ She started off strong, full of energy, running her first few meters confidently
 
 Let’s look at how David prepared _outside_ the battlefield—how he built his strength and character long before his big moment arrived. From David’s experience, we can learn that **preparation happens in the shadows**. Without training, we can miss the breakthrough God has for us. Would you take the risk?
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/07-grow-your-muscles-and-your-character/image1.png)
 
 ### Growing in Strength
@@ -33,7 +33,7 @@ We need our bodies to achieve both big and small tasks. We don’t have to be gi
 
 What good habits can you start today, and which ones do you need to stop to stay strong?
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/07-grow-your-muscles-and-your-character/image2.png)
 
 ### Growing in Faith
@@ -59,7 +59,7 @@ If their employment is sedentary, they have a distaste for other branches of lab
 
 Her counsel remains remarkably relevant today. In a world where physical activity is often optional, we must intentionally care for the body God has given us—not only for our health but also for clarity of mind and balance in life.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/07-grow-your-muscles-and-your-character/image3.png)
 
 ### Start Today!
@@ -72,7 +72,7 @@ God’s messenger, Ellen White, warns about the danger of this passive approach:
 
 Sharpen yourself spiritually, mentally, and physically. Take hold of this promise: “By faithfulness in that which is least, they acquire strength to be faithful in greater matters” (_From Eternity Past_, p. 148). Remember these words of apostle Paul: “For physical training is of some value” (1 Timothy 4:8). If you aspire to something great in life and in service to God, begin now by being faithful in the small things. And for some of us, that might mean pulling out that long-unused pair of sneakers from the back of the closet!
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/07-grow-your-muscles-and-your-character/image4.png)
 
 ### Going Deeper

@@ -96,15 +96,13 @@ May we become a people of the Word—not merely readers of Scripture, but people
 
 Lord, may the Word we open each day open us to You.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/02-the-discipline-of-feeding-the-soul-with-truth/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 
 1. What voices most shape your thinking today?
-
 2. How can you better steward time for God’s Word each day?
-
 3. What truth do you need to move from understanding to obedience?
 
 ### ^[Appeal]({"style": {"text": {"color":"#5E0C1E"}}})

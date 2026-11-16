@@ -10,7 +10,7 @@ An owner does make a difference. Have you ever wondered how David was so brave w
 
 Are you ready to stop living like a stray and start walking with the confidence of one who is known, chosen, and fiercely cared for?
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/05-acknowledging-the-owner/image1.png)
 
 ### Who Is the Owner?
@@ -33,7 +33,7 @@ Even when Goliath tried to intimidate David by calling him a puny little dog and
 
 The Bible tells us that God's protection, care, and intervention come with His ownership, kind of like a bundle. Zechariah 2:8 gives us a beautiful picture: “For whoever touches you touches the apple of his eye." When something passes by your eyes, it is hard not to blink. Your reaction is automatic, which is called a reflex. In the same way, when we are in danger, God intervenes right away as if it is His reflex because we are the apple of His eye. We are His precious property.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/05-acknowledging-the-owner/image2.png)
 
 ### We’re Not Owners—We Are Stewards
@@ -51,7 +51,7 @@ The greatest blessing that we can bring to our fellow man is to make the good ne
 
 The soldiers in Saul’s army were afraid because they didn’t see God as the true Owner of Israel and the battle. When we act as though we own everything and try to control everything and everyone, we become anxious, fearful, and stressed. But when we remember that God owns it all, we live with peace and are courageous, just like David. We’re not owners—we are stewards. Let God be God. Our battles belong to the Lord. Regular tithing helps us internalize this essential truth about God’s ownership and who we are.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/05-acknowledging-the-owner/image3.png)
 
 ### Going Deeper

@@ -87,15 +87,13 @@ _^[This is the daily invitation: to grow, to surrender, to walk with the Spirit 
 
 _^[Where is all of this leading? Paul tells us in Romans 8:29: “To be conformed to the image of His Son” (NKJV). This is the destination—Christlikeness. Stewardship is not about what we manage; it is about who we become. God is not merely producing managers. He is forming Christlike lives.]({"style": {"text": {"color":"#436F83"}}})_
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/01-sanctified-stewardship/image.png)
 
 ### ^[Reflection Questions]({"style": {"text": {"color":"#5E0C1E"}}})
 
 1. In what areas of your life do you tend to think of stewardship as management rather than transformation?
-
 2. What would it look like for you to more intentionally cooperate with God’s work in your life this week?
-
 3. When you consider your daily routines (time, habits, conversations), what do they reveal about who you are becoming?
 
 ### ^[Appeal]({"style": {"text": {"color":"#5E0C1E"}}})
