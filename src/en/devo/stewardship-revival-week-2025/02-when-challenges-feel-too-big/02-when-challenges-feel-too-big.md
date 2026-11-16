@@ -14,7 +14,7 @@ Let’s look at the terrifying challenge that David faced on the day he became a
 
 What can this terrifying moment—the day David became a national hero— teach us about the seemingly impossible challenges we face in our own lives and mission today? Let’s dive in and discover how breakthrough living can happen even when challenges feel too big to overcome.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/02-when-challenges-feel-too-big/image1.png)
 
 ### Scary Challenges
@@ -61,7 +61,7 @@ With the support of everyone, it is much easier to move forward with mission. Te
 
 Local church communities or the church at large can suffer from diffusion of responsibility, or the bystander eject. Individuals are assuming that someone else is taking the responsibility to witness, serve, and support. It may result in a stagnation in mission.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/02-when-challenges-feel-too-big/image2.png)
 
 ### Challenges for Growth
@@ -77,7 +77,7 @@ We can’t stop some “giant” challenges from coming our way, but with God’
 
 Ellen White makes an appeal for personal involvement in mission for our time: “The world is to be warned. What are we doing as individuals to bring the light before others? God has left to every man his work; everyone has a part to act, and we cannot neglect this work except at the peril of our souls” (_Selected Messages_, vol. 1, p. 126). How would we respond?
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/02-when-challenges-feel-too-big/image3.png)
 
 ### Going Deeper

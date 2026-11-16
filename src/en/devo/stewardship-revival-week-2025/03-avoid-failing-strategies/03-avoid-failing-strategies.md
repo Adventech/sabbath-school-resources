@@ -10,7 +10,7 @@ Life’s challenges—and especially the mission we’re called to in this gener
 
 So, how do we avoid wasting time, energy, and resources on failing strategies? Today, we’ll learn about failing strategies from the story of King Saul and his army, who had to face a giant challenge but chose the wrong strategies! By examining their mistakes, we can uncover key lessons to help us avoid the same pitfalls—and unlock breakthrough living in our own lives and missions.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/03-avoid-failing-strategies/image1.png)
 
 ### Trusting in the Wrong Thing First
@@ -43,7 +43,7 @@ Talking about your challenges is alright, but it’s not enough. As we grow up o
 
 For example, a church member might make thoughtful contributions every week during Sabbath School on the quarterly theme of personal devotion. But that extensive knowledge means little if, throughout the week, that same person fails to get out of bed to spend unrushed time with God before starting the day’s activities.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/03-avoid-failing-strategies/image2.png)
 
 ### Use Winning Strategies
@@ -67,7 +67,7 @@ Is it possible that God’s people in this generation are trapped in the failing
 
 Be careful about what strategies we use to solve our problems; not all are right in God’s sight! The safest plan is to depend first on God, face our challenges, and do what is right. Remember to always pray and read the Bible for wisdom.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/03-avoid-failing-strategies/image3.png)
 
 ### Going Deeper

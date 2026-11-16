@@ -12,7 +12,7 @@ Today, we celebrate the brilliance of these two men, recognizing their innovativ
 
 Centuries earlier, David became a giant slayer, a hero in Israel, changing the path of the national history and his personal story because he used what he had in his hands. Today, let’s appreciate how embracing what’s in our hands can unlock the next step in our life and mission—and lead us into our own breakthrough moment.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/08-use-what-is-in-your-hands/image1.png)
 
 ### Different, but Not Left Out
@@ -42,7 +42,7 @@ There are four ways to discover your gifts and talents:
 3. **Try Different Things.** Trial and error help us discover what we are good at and what we enjoy. Explore! Practice! Sometimes, we will fail or won’t like something. That’s fine, it’s part of the growing process. We are acquiring experiences. Remember that a weak performance can be transformed through much practice. David likely took years to practice the sling.
 4. **Do a Spiritual Gift Test.** Some surveys can help us discover what we’re good at. Just be honest; there are no wrong answers. You can do an online spiritual gift inventory and discover your three top gifts here: https://spiritual-gift.org/.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/08-use-what-is-in-your-hands/image2.png)
 
 ### How to Use What’s in Your Hand?
@@ -67,7 +67,7 @@ Jesus told a story of a master who distributed his wealth among his servants bef
 
 Jesus is coming soon, and to those who have used their gifts, talents, and money wisely, He will say: “Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!” (Matthew 25:23). Use wisely what is in your hands.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/08-use-what-is-in-your-hands/image3.png)
 
 ### Going Deeper

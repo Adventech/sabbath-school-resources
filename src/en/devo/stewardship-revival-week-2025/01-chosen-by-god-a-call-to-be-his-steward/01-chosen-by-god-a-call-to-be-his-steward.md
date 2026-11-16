@@ -8,7 +8,7 @@ When we tell the story of David to our children, we usually focus on the section
 
 David’s story started long before the battle with Goliath. One of the remarkable moments in his life was when he was chosen by God. If we aspire for a victorious life through breakthrough living, it is essential to pause and explore this critical question: How does God choose His champions? After all, if one is not selected to run a race, there is no possibility of winning it! Let’s talk about God’s selection.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/01-chosen-by-god-a-call-to-be-his-steward/image1.png)
 
 ### God Makes the Selection
@@ -31,7 +31,7 @@ Life teaches an important lesson: Just because someone does not choose you, it d
 
 One time, Jesus told His disciples that they were His friends, His buddies, and then He announced: “You did not choose me, but I chose you and appointed you so that you might go and bear fruit—fruit that will last” (John 15:16). This means God has handpicked all of us to go out on a mission, and He promises good results. How encouraging is it to know that God has chosen you to be on His team?
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/01-chosen-by-god-a-call-to-be-his-steward/image2.png)
 
 ### Three Big Lessons from the Selection of David
@@ -47,7 +47,7 @@ Ellen White, God’s prophetess for our time, tells us in her book _Patriarchs a
 Gender, language, social background, or color does not matter for God’s selection. He loves everyone, and He chooses those who love Him for great responsibilities. Even if you don't look like the “one,” you can be the one when God has chosen.
 3. **God’s timing is different.** Even though God chose David, he did not become king right away. David probably did not fully understand Samuel’s action. He only knew that God had chosen him, and he moved ahead. He had to trust God and be patient for 15 long years before he became king.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/01-chosen-by-god-a-call-to-be-his-steward/image3.png)
 
 ### Chosen as God’s Steward
@@ -68,7 +68,7 @@ However, through perfect obedience, Jesus became the new steward, the One under 
 
 As members of the human race, we are all chosen to be His stewards. As for us who have received salvation in Jesus, He has entrusted His wealth to us (Matthew 25:14). We are His treasure. No one is left out!
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/01-chosen-by-god-a-call-to-be-his-steward/image4.png)
 
 ### Going Deeper
