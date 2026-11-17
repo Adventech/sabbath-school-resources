@@ -14,7 +14,7 @@ Do you know that what you believe about yourself will shape what you accomplish?
 
 The story of David reminds us that breakthrough living begins when you stop letting others write your story. He did not always trust what others said about him. Let’s explore how to stop letting others define us and start living the story God has written for us.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/06-dont-always-believe-what-others-say-about-you/image1.png)
 
 ### Be Careful of Others' Evaluations
@@ -35,7 +35,7 @@ The third person who made fun of David was Goliath. He laughed when he saw David
 
 How people look at us tells us how much they believe in our capacity. When they ignore us or pay little attention to what we have to say, it tells us that we are not important to them. Do we abandon our good plan when this happens? For David, people’s views of him were always secondary. He understood that his value did not decrease based on someone’s inability to see his worth.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/06-dont-always-believe-what-others-say-about-you/image2.png)
 
 ### How Do You See Yourself?
@@ -48,7 +48,7 @@ God has given everyone something different but still valuable: “There are diff
 The Bible tells us that our future is not doomed because of our past. God has a good plan for us. He even takes care of our past disappointments: “He heals the brokenhearted and binds up their wounds” (Psalm 147:3).\
 The prophet Isaiah describes what has often happened in our personal lives: “Even youths grow tired and weary, and young men stumble and fall” (Isaiah 40:30). We all go through some hard times and mistakes. Even when we make mistakes or mess up, God gives us a second chance. He said, “They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint” (Isaiah 40:31). Our future doesn’t have to be a repetition of our past. No one must stay stuck. Change is possible: "Those who hope in the LORD will renew their strength” (Isaiah 40:31).\
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/06-dont-always-believe-what-others-say-about-you/image3.png)
 
 ### The Sabbath—A Reminder of Our Personal Value
@@ -69,7 +69,7 @@ David, the giant slayer, did not allow human opinions to stop him. He trusted Go
 
 We are “fearfully and wonderfully made” (Psalm 139:14), and Jesus paid the highest price, His life, to save you. So next time someone says something hurtful, calls you names, or makes you feel like you’re a “strange chick,” remember: You’re an eagle. Soar high.
 
-{"style":{"image":{"aspectRatio":1.778}}}
+{"style":{"block":{"padding":{"start":"none","end":"none"},"rounded":false},"wrapper":{"padding":{"start":"none","end":"none"}},"image":{"aspectRatio":1.778}}}
 ![](https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2025/06-dont-always-believe-what-others-say-about-you/image4.png)
 
 ### Going Deeper
