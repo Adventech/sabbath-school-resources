@@ -50,7 +50,7 @@ subtitle: Week 12
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going to this quarter.
 
-```=Mission Fast Facts #12
+```=Mission Fast Fact #12
 
 How did your pastor get to church today? It can be hard for many pastors in country (rural) areas of Côte d’Ivoire to get to their churches at certain times. When the rainy season comes, the roads, which are sometimes very bumpy, become muddy, or flooded. Some pastors rely on motorbikes or public transport to reach their churches.
 

@@ -50,7 +50,7 @@ subtitle: Week 8
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
 
-```=Mission Fast Facts #8
+```=Mission Fast Fact #8
 
 In Nigeria, children are included as preachers during special meetings about Jesus for the community. The young preachers love to invite their friends to come to the meetings with their families. Please pray for these children who love to tell others about Jesus.
 

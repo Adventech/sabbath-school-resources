@@ -50,7 +50,7 @@ subtitle: Week 10
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
 
-```=Mission Fast Facts #10
+```=Mission Fast Fact #10
 
 In Côte d’Ivoire, pastors can talk freely about Jesus and teach from the Bible. They use many creative ways to tell others about His love. Some use their smartphones (WhatsApp) to send devotionals and sermon recordings. These are very helpful in areas where not many people can read or write.
 

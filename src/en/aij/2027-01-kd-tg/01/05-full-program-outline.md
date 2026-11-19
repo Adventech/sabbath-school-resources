@@ -52,7 +52,7 @@ subtitle: Week 1
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share your first **Mission Fast Fact** for this quarter, which will introduce the countries and areas that your offering will be going to this quarter. Show the quarterly Offering Chart you’ve made, and encourage the children to give each week to God’s important work happening in this part of the world.
 
-```=Mission Fast Facts #1
+```=Mission Fast Fact #1
 
 This quarter’s offering is going to the West Central Africa Division of the world church. This covers the beautiful countries of Benin, Burkina Faso, Cameroon, Cape Verde, Central African Republic, Chad, Congo, Côte d’Ivoire, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Guinea- Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, and Togo. Find some of these places on your map.
 
