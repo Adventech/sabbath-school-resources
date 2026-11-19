@@ -50,7 +50,7 @@ subtitle: Week 2
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
 
-```=Mission Fast Facts #2
+```=Mission Fast Fact #2
 
 In Côte d’Ivoire, churches meet in lots of different spaces. Some have well-built concrete structures, while others gather under simple lamb shelters. The weather is usually hot, with lots of water in the air. Windows are open, and fans are used in some city churches. While some parents may sit together, many do not, and the children usually have a special place to sit at church.
 

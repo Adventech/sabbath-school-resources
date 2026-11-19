@@ -50,7 +50,7 @@ subtitle: Week 5
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
 
-```=Mission Fast Facts #5
+```=Mission Fast Fact #5
 
 The people of Burkina Faso have had many troubles. Many families have had to leave their homes because of fighting. They live in tents with other people who have lost their homes. They cannot farm the lands they used to. There is also little food or clean water in many areas. Many children are hungry and sick. The people in this country are young. Please pray for them.
 

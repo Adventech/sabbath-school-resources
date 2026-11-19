@@ -50,7 +50,7 @@ subtitle: Week 4
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
 
-```=Mission Fast Facts #4
+```=Mission Fast Fact #4
 
 Ghana is a beautiful country with mountains, lakes, rainforests, waterfalls, and natural parklands. Children learn a lot about nature when they visit the green forests and do the canopy walks. They also learn about how the sea and lakes never mix, and the sand beds. Ghana is home to nearly 1,000 types of butterflies and many colorful birds.
 

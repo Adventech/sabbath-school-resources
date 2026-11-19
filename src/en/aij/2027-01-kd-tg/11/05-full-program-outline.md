@@ -53,7 +53,7 @@ subtitle: Week 11
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
 
-```=Mission Fast Facts #11
+```=Mission Fast Fact #11
 
 In Ghana, Adventist children can go to public school. When they get to their final year in Junior High, it becomes hard for Adventist children, as there are times when classes are on Sabbath. Please pray that this changes so they don’t miss important school time.
 

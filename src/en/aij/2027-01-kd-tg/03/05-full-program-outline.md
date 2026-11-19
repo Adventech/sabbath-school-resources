@@ -50,7 +50,7 @@ subtitle: Week 3
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about this quarter’s mission offering.
 
-```=Mission Fast Facts #3
+```=Mission Fast Fact #3
 
 In Ghana, children learn about God through parents, friends, family members, and special programs by children’s ministries. Children in some areas can go to an Adventist Vacation Bible School (VBS) during school holiday time to learn about God. Adventist churches run soup kitchens, give out books and pamphlets about God, and run health clinics for people in their communities.
 
