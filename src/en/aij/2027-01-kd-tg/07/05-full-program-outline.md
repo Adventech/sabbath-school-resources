@@ -54,7 +54,7 @@ Share yours also, and praise God for making food for us to enjoy, and to keep us
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
 
-```=Mission Fast Facts #7
+```=Mission Fast Fact #7
 
 Have you ever seen a picture of a pygmy hippopotamus? These awesome animals of West Africa are just like regular hippos, but are much smaller and rarer. A pygmy hippo is about the size of a domestic pig, but much heavier. Even though they are quite solid, they can run surprisingly fast! They live in rainforests, rivers, and swamps. They are very shy and only come out at night.
 

@@ -50,7 +50,7 @@ subtitle: Week 13
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going to this quarter.
 
-```=Mission Fast Facts #13
+```=Mission Fast Fact #13
 
 In Cameroon, Adventist children and their families show special love and help to children who used to be child soldiers for a fighting group called Boko Haram. The government opened a center for these children, and church families visit with food and the things they need. They also share a message of peace and healing through Jesus. Let’s pray for these children and those trying to help them heal.
 

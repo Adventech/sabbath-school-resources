@@ -50,7 +50,7 @@ subtitle: Week 9
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
 
-```=Mission Fast Facts #9
+```=Mission Fast Fact #9
 
 In Ghana, the most common foods are maize, rice grains, and root tubers such as cassava. Fufu is a popular dish (enjoyed in many West African countries) made from a mash of cooked cassava and green plantains. Children enjoy these with soups and stews that have lots of seasoning and flavor. Peanut soup is also popular. Most foods in Ghana are seasonal, so children only get to enjoy them when they grow.
 

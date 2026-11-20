@@ -50,7 +50,7 @@ subtitle: Week 6
 
 **^[SHARE:]({"style": {"text": {"color":"#E6B349"}}})** Share a **Mission Fast Fact** about where the offering is going this quarter.
 
-```=Mission Fast Facts #6
+```=Mission Fast Fact #6
 
 In Côte d’Ivoire, children wear custom-made, colorful wax print clothes (pagne) in bold patterns for church, weddings, or festivals. On special days, children dress in miniature versions of traditional outfits made of woven cloth with headscarves. But for daily wear, they often put on second-hand Western-style clothes mixed with local trends.
 
