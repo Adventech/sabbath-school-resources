@@ -1,0 +1,3 @@
+### The Missionary Program for the Local Church
+
+The missionary program of the local church must be driven by a vision for the involvement of all church members in finishing God’s work. It should be based Jesus’ passion for every lost person. This booklet will help you learn how to work with other ministry departments and church officers to involve members in spreading the message about Jesus’ soon return.

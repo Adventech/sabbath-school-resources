@@ -1,0 +1,9 @@
+---
+title: "Prisons: Valleys of Dry Bones"
+---
+
+Ezekiel gives the best description of the religious, social, and emotional temperaments of prisons when he said, “The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which [was] full of bones, And caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, [they were] very dry. And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest. Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD” (Ezekiel 37:1-4, KJV).
+
+A prison is a valley of dry bones. Some of these bones [inmates] are very dry, and many have been disconnected from God. They have been isolated from society, caged up like animals, treated like lepers, labeled as misfits, branded with an X for the rest of their lives. As Dr. G. Murdoch, a professor at Andrews Theological Seminary, would say in the common vernacular, “They are considered the least of the leastest.” This valley of bones suggests hopelessness. Prisoners feel like they are on an island of loneliness, forgotten and doomed to perish, unless someone from the free world comes and brings them hope.
+
+America’s prisons have proven themselves to be unsafe places which Satan claims as his dominion. Satan knows that Christ has a special love and a natural affinity for prisoners. Consequently, he devises every scheme imaginable to keep the veil of darkness over their heads. It is his desire that the veil of darkness will never be lifted and prisoners will forever be enslaved to sinful practices. Yet in reality Christ lifted the veil on Calvary and made Satan’s claims of dominion of non-effect and his kingdom defunct.

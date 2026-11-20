@@ -1,0 +1,31 @@
+---
+title: Biblical, Adventist, and Recent History of Small Groups
+---
+
+The Bible story and the experience of the church both confirm that from the very beginning of human history to the present, small groups of one kind or another have been part of the divine plan for the human family.
+
+- The family unit was the first and most important small group ordained by God. As far away as many individual families might be today from His ideal because of sin, the family is still the backbone of society worldwide.
+- After the Exodus, God gave His approval to the suggestion of Jethro that Moses should divide the entire new nation of Israel (perhaps as many as two million men and women or more) into groups of ten, not just to make Moses’ work easier, but to make God more accessible to the people (Exodus 18, note especially verse 23).
+- Although Jesus had many disciples, He invested much of His time and energy in developing His own small group of twelve. (Mark 3:13-15; Luke 6:12,13). He taught them to be completely dependent on Him and on each another.
+
+This arrangement was clearly an excellent means of intensive training and personal development for the disciples. It served as a model for the church of the future in which they would be leaders. And, at the time, it also provided mutual support and encouragement both for the disciples and Jesus Himself. He was there when they needed Him; and, though they let Him down occasionally, they were usually there when He needed them. For this He was grateful (Luke 22:28).
+
+- The New Testament church was a small group church. Partly because the close relationships which bound Christ’s first disciples together could only be sustained in small groups, and partly because Jewish animosity made it difficult for them to meet regularly in public places, believers met together in each other’s homes. While they also met together in larger numbers whenever and wherever they could, the essence and genius of the apostolic church was this network of small groups to which everyone belonged. These small groups played an important part in the amazing numerical growth of the church after Pentecost from 120 to over 10,000 believers in a few months, and the development of its unique fellowship (Acts 1:15; 4:4; 5:42 etc.).
+
+Nero’s decree against Christianity in A.D. 64 also meant that it was impossible for Christians to build any sort of meeting place we might call a church, because Christian assembly was illegal. Yet the church not only survived, but thrived throughout the Roman empire without church buildings for 250 years until the time of Constantine.
+
+- The spiritual decline in the church which followed the apostolic period and resulted in almost total apostasy was due in part to changes in its structure which occurred simultaneously with changes in doctrine. The emperor Constantine was responsible not only for the first civil law concerning Sunday observance; he also erected several of the earliest church buildings in the Roman Empire. In spite of the New Testament teaching that God now lives in and among His people rather than in buildings, his basilicas were designated as sacred places to be used only for religious purposes and clergy were appointed to serve in them. Thus began a trend which led to the inevitable consequence that buildings, rather than homes, gradually became the center of church life. It also helped to create the unscriptural distinction between clergy and laity which remains with us to this day. Ever since, church life has revolved largely around buildings instead of people, and ministry has been seen as the responsibility of priests and pastors instead of every Christian.
+- Since the time of the early church, small groups have played an important part in reformation and revival. Nearly every major revival in the Christian church has been associated with a return to the establishment of many small groups usually in private homes for Bible study, prayer, and the discussion of spiritual things.
+- The Seventh-day Adventist Church began with a strong emphasis on small groups, partly because of its Methodist roots and partly because of the inspired counsel of Ellen White. For example, during her visit to Australia a major Christian revival took place in Melbourne, at the height of which 2000 small groups were meeting in homes all over the city. She subsequently wrote: “The formation of small companies as a basis of Christian effort has been presented to me by One who cannot err.”<sup>1</sup>
+- Thousands of Christian congregations throughout the world have experienced outstanding numerical and spiritual growth in recent years. Almost without exception, small groups have played, and continue to play, a very significant role in those congregations.
+- In countries such as China where the church has been persecuted and threatened with extinction, it has not only survived, but flourished, through the ministry of small groups, despite the absence of professional pastoral leadership.
+- It is clear, then, that small groups have always been part of God’s plan for men and women.
+
+As the plan of salvation has unfolded through human history, three events stand out above all the others in their importance. They are the Exodus, the First Advent, and the Second Advent. On each of these three occasions—the establishment of the nation of Israel, the establishment of the Christian church, and the gathering and preparing of God’s people before the kingdom of God is finally established—we see that small groups were and are ordained by God to play a very significant part.
+
+Ours is the privilege and responsibility of living just before the third and last of these great events. As the Day of the Lord draws nearer, we can expect the Holy Spirit to lead the church to the spiritual and numerical growth that we have dreamed of and prayed for. Small groups, used by God, will probably do more than anything else to prepare us for that experience and keep us together until the Day of the Lord arrives. What better reason could there be than this, for us to ask God to help us to see small groups as He sees them, to guide us in organizing them, and to help us to experience their full potential!
+
+---
+
+{"style": {"text": {"size": "sm"}}}
+<sup>1</sup> Testimonies, vol. 7, pp. 21, 22.

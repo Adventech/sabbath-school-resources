@@ -1,0 +1,5 @@
+---
+title: 2. Know your Lord
+---
+
+We do not preach about something, we are to preach about a Person, Jesus Christ. Paul does not say “what,” but “Whom we preach . . .” (Colossians 1:27, 28). Don’t preach the cross, but the Christ crucified on it. All truth and all preaching are to be associated with Jesus. He appointed the twelve “that they might be with Him and that He might send them out to preach” (Mark 3:44, NIV). Notice, they first had to be with Him before He sent them out to preach. Not until we have spent much time with Him are we prepared to preach about Him. There is nothing harder than giving to others what you don’t have, trying to share a Jesus you don’t know. Fill your soul with Jesus. Then let your sermon be an overflowing. When you do this you have a compulsion to preach. You can hardly wait to preach.

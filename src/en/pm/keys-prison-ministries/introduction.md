@@ -1,0 +1,3 @@
+### Prison Ministries
+
+Prisons can be dark, gloomy places unless Prison Ministries volunteers are willing to share Jesus – the Light of the world. If your church would like to become involved with this vital ministry, this book is your guide to getting started. It covers the steps to starting a ministry, inmate attitudes toward religion, prison subculture, ideas for outreach, and much more. If you want to communicate God’s grace to those behind prison walls, Keys to Prison Ministries is your complete toolkit.

@@ -1,0 +1,3 @@
+### Small Group Ministry
+
+Small groups have always been part of God’s plan for church members. Small group Bible study is a great way to build relationships between participants and God. This booklet walks you through the life cycle of small groups. It outlines how to effectively incorporate small groups into your church, the characteristics of successful leaders, an overview of meetings, and how to bring small groups to maturity and begin a new cycle. To think big, think small groups!
