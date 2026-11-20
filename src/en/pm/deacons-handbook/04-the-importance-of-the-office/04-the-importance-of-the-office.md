@@ -1,0 +1,57 @@
+---
+title: The Importance of the Office
+subtitle: Chapter 4
+---
+
+To be a deacon or deaconess is to accept the calling of a servant in the community of faith. To be involved in the service of Jesus at any level of His calling is to follow Him, who said, “For even the Son of Man did not come to be served, but to serve” (Mark 10:45). No greater example in service can we have than that of Jesus, who introduced a new dynamic in human structure and relations: fulfillment comes not from power but service; leadership derives its authority not from position but servanthood. “Our Lord Jesus Christ came to this world as the unwearied servant of man’s necessity. He ‘took our infirmities, and bare our sicknesses,’ that He might minister to every need of humanity (Matt 8:17). The burden of disease and wretchedness and sin He came to remove. It was His mission to bring to men complete restoration; He came to give them health and peace and perfection of character” (MH 17).
+
+The call of Jesus is to be like Him in service. It is not enough to take the title of deacon, elder, pastor, teacher, or president. Take the towel instead, wash the feet of another; take the bread and share it with others (John 13:3–17). In these and other acts of self-effacement, Jesus gave us an example of service. Without becoming a servant, there could be no ministry. In servanthood begins the work of a deacon.
+
+That’s how the first deacons in the early church were appointed.
+
+When the church grew rapidly, and meeting various needs of the believers—spiritual and physical—became too heavy so as to lessen the time for evangelism, the apostles felt a need for additional help. They concluded, “It is not desirable that we should leave the word of God and serve tables.” So they told the church, “Therefore, brethren, seek out from among you seven men of good reputation, full of the Holy Spirit and wisdom, whom we may appoint over this business” (Acts 6:2, 3).
+
+The Bible does not tell us much about these seven men. They all had Greek names. One of them is mentioned as a Gentile converted to Judaism (v. 5). It was a custom of those days for Palestinian Jews to assume Greek names, but the Bible does not inform us how many of the seven were Palestinian Jews or how many were Hellenists (people from outside Palestine). What seems certain is that the seven were chosen from those who were at least familiar with Greek culture. For example, Stephen: “Though a Jew by birth, he spoke the Greek language and was familiar with the customs and manners of the Greeks” (AA 97).
+
+Although Acts 6 does not call these seven male “deacons,” they were nevertheless chosen to care for “the daily distribution” and to “serve [at] tables” (Acts 6:1, 2). Because the Greek terms that describe these services have their root in the word _diákonos_, these seven men were recognized from the beginning as the first “deacons” of the Christian church. Ellen G. White agrees: “By prayer and the laying on of hands, seven chosen men were solemnly set apart for their duties as deacons” (AA 89). She further attests the effect of the introduction of deacons on the growth of the church: the “ingathering of souls was due both to the greater freedom secured by the apostles and to the zeal and power shown by the seven deacons” (AA 89). Stephen, of course, was “the foremost of the seven deacons [and] was a man of deep piety and broad faith” (AA 97).
+
+### Qualifications For Deacons
+
+Although the work of the deacons began with the ordination of the seven in Acts 6, it was only later as the church grew both in geography and strength that formal qualifications of the deacons were dealt with. A deacon’s qualifications, only slightly less than those of an elder, are mentioned in 1 Timothy 3:8–13: “Deacons must be reverent, not double-tongued, not given to much wine, not greedy for money, holding the mystery of the faith with a pure conscience . . . .
+
+Let deacons be the husbands of one wife, ruling their children and their own houses well. For those who have served well as deacons obtain for themselves a good standing and great boldness in the faith which is in Christ Jesus.”
+
+White’s comments on the deacon’s work and qualification are worthy of note: “The fact that these brethren had been ordained for the special work of looking after the needs of the poor, did not exclude them from teaching the faith. On the contrary, they were fully qualified to instruct others in the truth, and they engaged in the work with great earnestness and success.
+
+“The appointment of the seven to take the oversight of special lines of work, proved a great blessing to the church. These officers gave careful consideration to individual needs as well as to the general financial interests of the church, and by their prudent management and their godly example they were an important aid to their fellow officers in binding together the various interests of the church into a united whole” (AA 89).
+
+### Work of Deaconesses
+
+Men were not the only ones serving as deacons or servants of the church. Women were included in the lists of officials in the early Christian church. Paul speaks of one such: “I commend to you Phoebe our sister, who is a servant of the church in Cenchrea, that you may receive her in the Lord in a manner worthy of the saints, and assist her in whatever business she has need of you; for indeed she has been a helper of many and of myself also” (Rom 16:1, 2).
+
+The name Phoebe means “bright and radiant,” and from Paul’s brief comments about her, it seems that those words did indeed characterize her personality and her Christian life. Paul commends her to the church at Rome in three different ways: as a sister in Christ, as a servant, and as a helper of many, including himself. To refer to Phoebe as “our sister” meant that she was a devoted member of the family of God, and the context makes clear that she was especially dear to the apostle. To refer to her as a servant beloved by those she served in her home church at Cenchrea, and probably in the mother church at Corinth as well, is significant, for the word “servant” translates _diákonos_, the root from which we get _deacon_. By the time Paul wrote this, “deacon” was already recognized as a church office, and women had already begun to serve in this office (see Phil 1:1; 1 Tim 3:10).
+
+Therefore, the service of women as deaconesses had already become a reality in the early church, even as the church spread far and wide during the missionary journeys of Paul. The New Testament also mentions other women who served the cause of the gospel, such as Evodia and Syntyche (Phil 4:2, 3), Tabitha praised for her almsgiving (Acts 9:46), Lydia (Acts 16:14) recognized for her hospitality to Paul and his companions, and Priscilla, involved in missionary work (Rom 16:3). Female deacons are mentioned in the salutations of the epistle to the Philippians (1:1), and the first epistle to Timothy (3:8, 12). So women have been recognized as early as men for the use of their talents and gifts in the ministry of the church.
+
+### Election of Deacons and Deaconesses
+
+The nature of the responsibility and the seriousness of the work involved require that the local church exercise utmost care in the election of deacons and deaconesses. The basic qualifications have already been mentioned earlier, and the body charged with the election of the deacons and deaconesses should review these. As Paul says, “let these also first be tested; then let them serve as deacons, being found blameless” (1 Tim 3:10).
+
+Once their qualification as a deacon or deaconess has been attested, their names are presented to the church membership to vote, accepting them as a deacon or a deaconess. In addition to the qualifications already mentioned, there are other aspects to be taken into account in the election procedures.
+
+1. The local church cares for the election. The election is done by church members through a nominating committee that elects all officials who will serve the church. The procedures governing the organization of the nominating committee are provided in the _Church Manual_, chapter 9.
+2. A deacon or deaconess should be a member of the church in regular and good standing.
+3. The term of office shall generally be one year, except where the church in a business meeting votes to have election every two years.
+4. Opportunities for service should be granted to the youth, according to their spiritual gifts, to keep them committed and involved in the leadership and mission of the church. Providing such opportunities to youth helps them understand better the nature and mission of the church, and mature in their spiritual life.
+
+### Ordination of Deacons and Deaconesses
+
+The newly elected deacons and deaconesses cannot begin to so function until an ordained pastor currently credentialed by the conference has ordained them. The ordination service should be simple and performed in the presence of the congregation. The pastor shall present a summary statement describing the functions of deacons and deaconesses as outlined in the Bible, and the primary functions they are authorized to perform. After a short exhortation to faithfulness in service, the pastor, assisted by an elder, will ordain the deacons and deaconesses by prayer and the laying on of hands. It is suggested that the ordination of deacons and deaconesses be performed at the same time during the same service. They serve for the period they are elected. When they are reelected, they need not be ordained again. Elders subsequently elected as deacons need not be ordained again as the elder’s ordination covers the deacon’s office as well.
+
+As long as they remain members in regular standing, deacons and deaconesses, once ordained, do not have to be ordained again should they transfer their membership to another church. When their term of office expires, they may be reelected, should the congregation so desire.
+
+The Seventh-day Adventist Church ordains its deacons and deaconesses for the ministry of the local church. They are “not authorized to preside at any of the ordinances of the church or business meetings and cannot perform the marriage ceremony or officiate at the reception or transfer of members” (_Church Manual_, 77).
+
+### Conclusion
+
+After the calling of the disciples and the apostles, the New Testament history of the church recognizes the establishment of the deacons as essential to strengthen the ministry of the church and proceed with the various services needed to build the community of faith and care for its spiritual and physical needs. Therefore the importance of the office of the deacon and deaconess should not be minimized. Indeed, much prayer and spiritual nurture on the part of the whole local church should be involved in the selection and ordination of these “servants” of the church. The ministry of these “servants” helps the church as the body of Christ and as the community of faith to fulfill the intent and purpose for which the church was established. As in the Jerusalem church, the deacons today “by their prudent management and their godly example . . . [can be] an important aid to their fellow officers in binding together the various interests of the church into a united whole” (AA 89).

@@ -18,6 +18,11 @@
     view: folio
     resources:
       - en-pm-keys-*
+  - group: Handbooks
+    view: folio
+    resources:
+      - en-pm-elders-handbook
+      - en-pm-deacons-handbook
   - group: Studying Together
     view: folio
     resources:
