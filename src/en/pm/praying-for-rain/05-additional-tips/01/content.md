@@ -1,0 +1,11 @@
+---
+title: Prepare Your Heart
+---
+
+This section includes advice to prepare you for your role and help you avoid some potential pitfalls.
+
+It is critical that you, as the prayer leader, be prepared and come to the prayer session with a heart emptied of self and filled with the Holy Spirit. The one who waits to prepare until the last minute will not be as effective as the one who comes to the prayer session after having spent quality time in the presence of God.
+
+“An intensity such as never before was seen is taking possession of the world. In amusement, in moneymaking, in the contest for power, in the very struggle for existence, there is a terrible force that engrosses body and mind and soul. In the midst of this maddening rush, God is speaking. He bids us come apart and commune with Him. ‘Be still, and know that I am God.’ Ps. 46:10. **Many, even in their seasons of devotion, fail of receiving the blessing of real communion with God. They are in too great haste**. With hurried steps they press through the circle of Christ’s loving presence, pausing perhaps a moment within the sacred precincts, but not waiting for counsel. They have no time to remain with the divine Teacher. With their burdens they return to their work. **These workers can never attain the highest success until they learn the secret of strength. They must give themselves time to think, to pray, to wait upon God** for a renewal of physical, mental, and spiritual power. They need the uplifting influence of His Spirit. Receiving this, they will be quickened by fresh life. The wearied frame and tired brain will be refreshed, the burdened heart will be lightened. **Not a pause for a moment in His presence, but personal contact with Christ, to sit down in companionship with Him—this is our need**.” Education, p. 260, 261
+
+“**Prayer is the breath of the soul. It is the secret of spiritual power**. No other means of grace can be substituted and the health of the soul be preserved. . . . Neglect the exercise of prayer, or engage in prayer spasmodically, now and then, as seems convenient, and you lose your hold on God.” Messages to Young People, p. 249
