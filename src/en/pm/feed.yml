@@ -23,6 +23,7 @@
     resources:
       - en-pm-elders-handbook
       - en-pm-deacons-handbook
+      - en-pm-sabbath-school-handbook
   - group: Studying Together
     view: folio
     resources:
@@ -36,6 +37,7 @@
   - group: Sharing books
     view: folio
     resources:
+      - en-pm-sword-of-the-spirit
       - en-pm-final-hope
       - en-pm-hope-beyond-tomorrow
       - en-devo-hope-for-troubled-times
