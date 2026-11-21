@@ -1,6 +1,10 @@
 ---
   title: Personal Ministries
   groups:
+  - group: All Things New
+    view: tile
+    resources:
+      - en-pm-all-things-new
   - group: Global TMI
     view: folio
     resources:
@@ -57,3 +61,4 @@
     view: folio
     resources:
       - en-pm-discipling-nurturing-retention
+      - en-pm-total-member-involvement
