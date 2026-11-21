@@ -1,9 +1,21 @@
 title: Sabbath School Handbook
 kind: book
 subtitle: Guidelines for Sabbath School Personnel
-description: This handbook explains how to initiate and conduct a great Sabbath School program in the local church. It provides a great overview of the tools and objectives that combine to make it a success.
-primaryColor: "#393118"
-primaryColorDark: "#241F0F"
+description: >-
+  This handbook explains how to initiate and conduct a great Sabbath School
+  program in the local church. It provides a great overview of the tools and
+  objectives that combine to make it a success.
+primaryColor: '#393118'
+primaryColorDark: '#241F0F'
 credits:
   - name: Prepared by
-    value: Sabbath School and Personal Ministries Department General Conference of Seventh-day Adventists
+    value: >-
+      Sabbath School and Personal Ministries Department General Conference of
+      Seventh-day Adventists
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/assets/cover.png

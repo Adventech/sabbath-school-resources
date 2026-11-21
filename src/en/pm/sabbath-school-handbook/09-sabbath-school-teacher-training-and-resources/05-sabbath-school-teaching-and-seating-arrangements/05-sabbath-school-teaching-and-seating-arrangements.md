@@ -12,16 +12,21 @@ Nevertheless, some innovation and creative thinking will always find ways and me
 
 #### Questions and Answer
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/09-sabbath-school-teacher-training-and-resources-05-sabbath-school-teaching-and-seating-arrangements/image1.png)
 
 #### Discussion Arrangement
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/09-sabbath-school-teacher-training-and-resources-05-sabbath-school-teaching-and-seating-arrangements/image2.png)
 
-![The focus is on the teacher, but the students can see each other.](image3.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![The focus is on the teacher, but the students can see each other.](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/09-sabbath-school-teacher-training-and-resources-05-sabbath-school-teaching-and-seating-arrangements/image3.png)
 
 ### Small Groups
 
-![The focus is on the members of the group, and the teacher facilitates the group work when necessary.](image4.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![The focus is on the members of the group, and the teacher facilitates the group work when necessary.](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/09-sabbath-school-teacher-training-and-resources-05-sabbath-school-teaching-and-seating-arrangements/image4.png)
 
-![Small groups, but with the teacher as the focus. Students can still see the teacher and each other.](image5.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![Small groups, but with the teacher as the focus. Students can still see the teacher and each other.](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/09-sabbath-school-teacher-training-and-resources-05-sabbath-school-teaching-and-seating-arrangements/image5.png)

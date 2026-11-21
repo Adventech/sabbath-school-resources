@@ -1,8 +1,15 @@
 title: Small Group Ministry
 kind: book
-description: Small groups have always been part of God’s plan for church members. Small group Bible study is a great way to build relationships between participants and God. This booklet walks you through the life cycle of small groups. It outlines how to effectively incorporate small groups into your church, the characteristics of successful leaders, an overview of meetings, and how to bring small groups to maturity and begin a new cycle. To think big, think small groups!
-primaryColor: "#41101B"
-primaryColorDark: "#290A11"
+description: >-
+  Small groups have always been part of God’s plan for church members. Small
+  group Bible study is a great way to build relationships between participants
+  and God. This booklet walks you through the life cycle of small groups. It
+  outlines how to effectively incorporate small groups into your church, the
+  characteristics of successful leaders, an overview of meetings, and how to
+  bring small groups to maturity and begin a new cycle. To think big, think
+  small groups!
+primaryColor: '#41101B'
+primaryColorDark: '#290A11'
 author: sspm
 credits:
   - name: Copyright
@@ -15,3 +22,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-589-5
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-small-group-ministry/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-small-group-ministry/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-small-group-ministry/assets/cover.png

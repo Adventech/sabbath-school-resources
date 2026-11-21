@@ -1,11 +1,10 @@
 title: The Sword of the Spirit
 kind: book
-primaryColor: "#16223C"
-primaryColorDark: "#0E1525"
+primaryColor: '#16223C'
+primaryColorDark: '#0E1525'
 credits:
   - name: Copyright
-    value: >-
-      Copyright © 2007 by It Is Written
+    value: Copyright © 2007 by It Is Written
   - name: Author
     value: Shawn Boonstra
   - name: Editor
@@ -14,3 +13,10 @@ credits:
     value: Steve Creitz
   - name: ISBN
     value: 978-0-8280-2870-7
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/sword-of-the-spirit/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/sword-of-the-spirit/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/sword-of-the-spirit/assets/cover.png

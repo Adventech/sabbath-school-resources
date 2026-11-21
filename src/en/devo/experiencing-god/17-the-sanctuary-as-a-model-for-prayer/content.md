@@ -6,7 +6,8 @@ title: The Sanctuary as a Model for Prayer
 > The Israelite sanctuary described in Exodus was designed by God to portray the entire process of salvation. The sanctuary symbols also provide a possible model for your personal prayers./
 As you pray, imagine yourself passing through the courtyard and into the tabernacle itself.
 
-![The Sanctuary Model](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![The Sanctuary Model](https://sabbath-school-resources-assets.adventech.io/en/devo/experiencing-god/17-the-sanctuary-as-a-model-for-prayer/image.png)
 
 ### Key
 

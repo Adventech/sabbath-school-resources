@@ -51,7 +51,8 @@ The developmental process functions through three primary entities:
 
 **The Sabbath School Publications Board.** The Sabbath School Publications Board is the governing body for Sabbath School publications. The membership is approved by ADCOM, the publisher. The Sabbath School Publications Board authorizes all Sabbath School publications for the world Seventh-day Adventist Church.
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/04-worldwide-sabbath-school-policies/image1.png)
 
 **Manuscript Evaluation Committees.** Manuscript evaluation committees in each division, and at General Conference headquarters, read manuscripts, offer suggestions, and make recommendations about the feasibility of publishing the manuscripts considered. Once manuscripts are approved for publication, they are sent to divisions for translation, if needed, and printing.
 
@@ -75,7 +76,8 @@ At the General Conference level, the promotion and programming of Sabbath School
 
 ### How Sabbath School Offerings Are Used
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/04-worldwide-sabbath-school-policies/image2.png)
 
 ### Sabbath School Officers
 

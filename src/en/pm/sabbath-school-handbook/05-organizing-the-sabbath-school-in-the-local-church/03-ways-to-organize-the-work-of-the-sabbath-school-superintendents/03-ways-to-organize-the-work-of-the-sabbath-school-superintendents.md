@@ -36,10 +36,12 @@ The forms on the next pages may be helpful in planning Sabbath School programs. 
 
 This form may be used to plan the activities around which you will build Plan Sheet Plan Sheet Plan Sheet Plan Sheet Plan Sheet your Sabbath School programs for the year. Include Rally Days, Visitors Days, Thirteenth Sabbaths, etc.
 
-![](image1.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/05-organizing-the-sabbath-school-in-the-local-church-03-ways-to-organize-the-work-of-the-sabbath-school-superintendents/image1.png)
 
 #### Planning Sheet for a Quarter
 
 Use this form to plan the programs for each quarter of the year. Plan programs well in advance. This will help your Sabbath School run smoothly and effectively.
 
-![](image2.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/05-organizing-the-sabbath-school-in-the-local-church-03-ways-to-organize-the-work-of-the-sabbath-school-superintendents/image2.png)

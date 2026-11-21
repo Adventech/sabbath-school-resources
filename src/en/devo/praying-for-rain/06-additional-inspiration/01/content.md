@@ -22,7 +22,8 @@ The Bible contains many examples of the four themes we emphasize in prayer. Thes
 
 ### The Sanctuary Model
 
-![The Sacntuary Model](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![The Sacntuary Model](https://sabbath-school-resources-assets.adventech.io/en/devo/praying-for-rain/06-additional-inspiration-01/image.png)
 
 “Your way, O God, is in the sanctuary.” Ps. 77:13
 

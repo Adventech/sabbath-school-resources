@@ -64,4 +64,5 @@ The adult division also provides specialized program arrangements and materials 
 
 **Extension Division.** This is the section of the adult Sabbath School that cares for the needs of shut-ins and people in isolated areas who cannot regularly attend Sabbath School. The Extension Division provides them with Sabbath School Bible Study Guides and makes provision for their needs.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/05-organizing-the-sabbath-school-in-the-local-church-02-divisions-and-classes/image.png)

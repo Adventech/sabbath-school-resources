@@ -98,7 +98,8 @@ Another modification would be to vary the lesson study time. It could come befor
 
 The segments represent the nature of the activity and the time spent. The size of any segment may vary from week to week.
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/sabbath-school-handbook/08-sabbath-school-programs-01-sabbath-school-programs/image.png)
 
 #### Quick Things You Can Do to Make Your Sabbath School Program More Dynamic
 

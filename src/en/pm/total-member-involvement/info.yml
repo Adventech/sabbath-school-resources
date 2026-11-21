@@ -1,9 +1,12 @@
 title: Total Member Involvement
 kind: book
 subtitle: A Call to Serve
-description: "More than simply a call to serve, this book presents simple and practical ways for each member to enlist as a worker for God, whether it is on the other side of the ocean or on the other side of the street."
-primaryColor: "#3A2E17"
-primaryColorDark: "#241D0F"
+description: >-
+  More than simply a call to serve, this book presents simple and practical ways
+  for each member to enlist as a worker for God, whether it is on the other side
+  of the ocean or on the other side of the street.
+primaryColor: '#3A2E17'
+primaryColorDark: '#241D0F'
 credits:
   - name: Copyright
     value: Copyright © 2017 by Review and Herald® Publishing Association
@@ -21,3 +24,10 @@ credits:
     value: Mike Bond
   - name: Cover Design
     value: Mike Bond
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/total-member-involvement/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/total-member-involvement/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/total-member-involvement/assets/cover.png

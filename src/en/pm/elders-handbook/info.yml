@@ -1,11 +1,26 @@
 title: Elder’s Handbook
 kind: book
-description: "The work of elders is unique among church leaders. As overseers, they are responsible for everything that is related to the work of the church. As such, the training and directing of elders fall under the Ministerial Association. Because elders work closely with people in all aspects of the church, this handbook includes material from representatives of each department. To the elders in their ministry to the church, the General Conference Ministerial Association leadership and their counterparts in the world divisions present this updated edition of the 1997 Elder’s Handbook. Because this handbook is to be used worldwide, it was sent to General Conference departmental directors, elders, pastors, and administrators for review, input, and suggestions. In consideration of elders in different parts of the world serving in congregations of varying sizes, these basic principles should be applied contextually and locally."
-primaryColor: "#101441"
-primaryColorDark: "#0A0C29"
+description: >-
+  The work of elders is unique among church leaders. As overseers, they are
+  responsible for everything that is related to the work of the church. As such,
+  the training and directing of elders fall under the Ministerial Association.
+  Because elders work closely with people in all aspects of the church, this
+  handbook includes material from representatives of each department. To the
+  elders in their ministry to the church, the General Conference Ministerial
+  Association leadership and their counterparts in the world divisions present
+  this updated edition of the 1997 Elder’s Handbook. Because this handbook is to
+  be used worldwide, it was sent to General Conference departmental directors,
+  elders, pastors, and administrators for review, input, and suggestions. In
+  consideration of elders in different parts of the world serving in
+  congregations of varying sizes, these basic principles should be applied
+  contextually and locally.
+primaryColor: '#101441'
+primaryColorDark: '#0A0C29'
 credits:
   - name: Copyright
-    value: Copyright © 2016 by Ministerial Association General Conference of Seventh-day Adventists®
+    value: >-
+      Copyright © 2016 by Ministerial Association General Conference of
+      Seventh-day Adventists®
   - name: ISBN
     value: 0-9634968-2-4
   - name: Principal Contributor
@@ -15,4 +30,13 @@ credits:
   - name: Layout and Design
     value: Erika Miike
   - name: Ministerial Association staff at the General Conference office
-    value: Jonas Arrais, Robert Costa, Alfredo Garcia-Marenko, Willie E. Hucks, Anthony Kent, Derek Morris, Jerry Page, Janet Page, and Cathy Payne.
+    value: >-
+      Jonas Arrais, Robert Costa, Alfredo Garcia-Marenko, Willie E. Hucks,
+      Anthony Kent, Derek Morris, Jerry Page, Janet Page, and Cathy Payne.
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/elders-handbook/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/elders-handbook/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/elders-handbook/assets/cover.png

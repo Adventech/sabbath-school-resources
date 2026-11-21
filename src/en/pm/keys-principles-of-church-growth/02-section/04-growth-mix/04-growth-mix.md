@@ -14,7 +14,8 @@ Yet in the growing churches this process is not confined to just one evangelisti
 
 Few people are won to Christ through one exposure. They need multiple exposures to the gospel. This is why it is imperative that a church not put all its eggs in one basket. They need multiple approaches for the many varied minds that exist in their community. Process evangelism is best illustrated by the following diagram:
 
-![](image.png)
+{"style":{"image":{"aspectRatio":1.778}}}
+![](https://sabbath-school-resources-assets.adventech.io/en/pm/keys-principles-of-church-growth/02-section-04-growth-mix/image.png)
 
 On a scale of 1-10, the 1 represents a person who is extremely negative about the Seventh-day Adventist Church. He is the one who sees the sign on the church, spits, and walks on the other side. In contrast, the 10 represents a person ready to jump in the baptistery. Everyone is somewhere on this scale in their relationship to the church.
 

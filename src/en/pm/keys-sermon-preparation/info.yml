@@ -1,8 +1,13 @@
 title: Sermon Preparation
 kind: book
-description: If you have been asked to preach a sermon, but you don’t know where to begin, this resource is your guide to success. This book contains seven things to know before you begin to preach and ten steps to preparing a sermon. You will discover how to choose a topic, select supporting texts, organize your information, find illustrations, and more.
-primaryColor: "#313A18"
-primaryColorDark: "#1F240F"
+description: >-
+  If you have been asked to preach a sermon, but you don’t know where to begin,
+  this resource is your guide to success. This book contains seven things to
+  know before you begin to preach and ten steps to preparing a sermon. You will
+  discover how to choose a topic, select supporting texts, organize your
+  information, find illustrations, and more.
+primaryColor: '#313A18'
+primaryColorDark: '#1F240F'
 author: sspm
 credits:
   - name: Copyright
@@ -17,3 +22,10 @@ credits:
     value: Linda McDonald
   - name: ISBN
     value: 978-1-57756-691-5
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sermon-preparation/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sermon-preparation/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/keys-sermon-preparation/assets/cover.png

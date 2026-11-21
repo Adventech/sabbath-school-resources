@@ -1,11 +1,15 @@
 title: Deacon’s and Deaconess’s Handbook
 kind: book
-description: "This handbook deals with the ministry of deacons and deaconesses of the Seventh-day Adventist Church."
-primaryColor: "#411013"
-primaryColorDark: "#290A0C"
+description: >-
+  This handbook deals with the ministry of deacons and deaconesses of the
+  Seventh-day Adventist Church.
+primaryColor: '#411013'
+primaryColorDark: '#290A0C'
 credits:
   - name: Copyright
-    value: Copyright © 2015 by Ministerial Association General Conference of Seventh-day Adventists®
+    value: >-
+      Copyright © 2015 by Ministerial Association General Conference of
+      Seventh-day Adventists®
   - name: ISBN
     value: 1-57847-097-8
   - name: Principal Contributor
@@ -15,4 +19,13 @@ credits:
   - name: Layout and Design
     value: Erika Miike
   - name: Ministerial Association staff at the General Conference office
-    value: Jonas Arrais, Robert Costa, Alfredo Garcia-Marenko, Willie E. Hucks, Anthony Kent, Derek Morris, Jerry Page, Janet Page, and Cathy Payne.
+    value: >-
+      Jonas Arrais, Robert Costa, Alfredo Garcia-Marenko, Willie E. Hucks,
+      Anthony Kent, Derek Morris, Jerry Page, Janet Page, and Cathy Payne.
+covers:
+  landscape: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/deacons-handbook/assets/cover-landscape.png
+  square: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/deacons-handbook/assets/cover-square.png
+  portrait: >-
+    https://sabbath-school-resources-assets.adventech.io/en/pm/deacons-handbook/assets/cover.png
