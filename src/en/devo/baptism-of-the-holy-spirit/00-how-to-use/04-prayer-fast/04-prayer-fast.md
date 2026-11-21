@@ -1,0 +1,7 @@
+---
+title: Prayer Fast
+---
+
+Whether you participate in the 10 Days devotional for 10 days or 10 weeks I also recommend one other important activity, which I call a Prayer Fast. In order to get the most out of the first 10 days, which will also powerfully impact the full 10 weeks, I recommend that each participant limit all secular activity as much as possible for those first 10 days. For example; do not watch secular television programs, listen to secular music, play secular games, surf the internet, discuss secular subjects with friends, etc. Try to keep your focus on as many spiritual subjects and activities as possible such as spiritual music, spiritual television programs, Bible study, etc. What this does is clear one’s mind so God can better communicate with us. This kind of Prayer Fast will go a long way in greatly enhancing the 10 day and 10 week spiritual experience, and impact on your life.
+
+You may also want to fast from some physical food. Some individuals choose to omit one meal, omit sweets, or eat less food at each meal during the first 10 days. These kinds of limitations will also enhance the spiritual impact of the 10 days and 10 weeks devotional study, prayer and fellowship.

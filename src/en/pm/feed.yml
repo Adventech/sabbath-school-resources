@@ -1,8 +1,7 @@
 ---
   title: Personal Ministries
   groups:
-  - group: All Things New
-    view: tile
+  - group: OneVoice27
     resources:
       - en-pm-all-things-new
   - group: Global TMI

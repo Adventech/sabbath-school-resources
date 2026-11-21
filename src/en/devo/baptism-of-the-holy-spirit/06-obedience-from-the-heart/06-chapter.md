@@ -1,0 +1,52 @@
+---
+title: Obedience from the Heart
+subtitle: Day 6
+---
+
+There are two purposes for the infilling of the Holy Spirit: to reflect Jesus in our life (1 John 3:24; 2 Corinthians 3:3), and to gain a power for witnessing (Acts 1:8). In my book, Spirit Baptism & Evangelism, I present the relationship of Spirit baptism and power for witnessing. In this chapter we will focus on the first purpose; reflecting Jesus” character.
+
+### Jesus and God’s Ten Commandment Law
+
+Jesus and God’s law are inseparable. In fact, it was Jesus before His incarnation Who gave Moses the Ten Commandments. The God who gave the commandments revealed Himself to Moses as the “I AM” (Exodus 3:14). Jesus claimed to be the “I AM” of the Old Testament (John 8:58). Comparing 1Corinthians 10:1-4 and Nehemiah 9:12-14, it is very clear that it was Jesus who descended in the cloud on Mt. Sinai and met with Moses.
+
+The Holy Spirit was also very much involved when God gave the Ten Commandments to Moses. In fact, it was the Spirit who wrote the commandments on the tables of stone. This becomes clear when we compare Jesus’ statements where He equated the “finger of God” with the “Spirit of God” (Matthew 12:28, Luke 11:20). Hence, the same Holy Spirit who wrote the Ten Commandments on tables of stone will today write God’s law on the heart of God’s Spirit filled children (2 Corinthians 3:3).
+
+Isaiah foretold that the Messiah would magnify the law, (Isaiah 42:21). Jesus lived and practiced the law of God in His life, clearly stating that His purpose was to fulfill the righteous requirements of the law, not destroy or do away with it (Matthew 5:17).
+
+The professed Christian can participate in two kinds of obedience. First is what I call “external” obedience. This obedience occurs when the believer obeys the law of God simply because God says to obey it. This type of obedience is actually legalism not being from the heart. The second form of obedience is what I call “internal” obedience. This obedience occurs because of a deep, inner desire within the believer to obey God. External obedience without heart obedience is unacceptable to God (Psalm 51:16-17; Matthew 15:8).
+
+I came across an illustration many years ago that I think clarifies the difference between external and internal obedience. Let’s say my father died, and I am not sure if I should mourn his death or not, so I go to a friend and ask his advice. We discuss whether or not I should mourn. My friend finally says; “After all he was your father and you are his son. So I think you should mourn his death.” On his advice, I begin mourning his death. I think it becomes obvious that my mourning in this case would not be genuine mourning from the heart. Rather it would be external mourning because it was my obligation as my father’s son to mourn his death. True mourning would come spontaneously from the heart. I couldn’t help but mourn if it was genuine mourning. The same is true of obedience to God. When one is in right relationship with God through the infilling of the Spirit obedience springs naturally and spontaneously from the heart without hardly even thinking about it. Temptations to disobey will come. However, they will be very much weakened in influence by the strong desire God has placed in the heart to obey.
+
+In the Old Testament God promised to give His children a “new heart” and “caused “ them to “walk” in His statutes (Ezekiel 36:26-27). This promise is fulfilled under the New Covenant where God said “I will put my laws into their mind, and write them in their hearts;…”, (Hebrews 8:10). Paul further points out that God’s law is written in our heart by the Holy Spirit (2 Corinthians 3:3).
+
+David understood this when he wrote:
+
+“…quicken thou me according to thy word….Make me to understand the way of thy precepts:…strengthen thou me according to thy word….Remove from me the way of lying: and grant me thy law graciously….Make me to go in the path of thy commandments;…Incline my heart unto thy testimonies, and not to covetousness. Turn away mine eyes from beholding vanity; and quicken thou me in thy way. Stablish thy word unto thy servant,…” (Psalm 118:25-38).
+
+### The Baptism of the Holy Spirit and God’s Law
+
+This brings us to the subject under discussion. Through the baptism or infilling of the Holy Spirit, God’s law is written in our hearts and we obey from the heart. This does not fully happen when we accept Christ and are baptized by water. Paul states that we must be “filled with the Spirit”. This filling with the Spirit refers to being baptized of the Spirit or being anointed by the Spirit. Spirit infilling, baptism, and anointing refer to the same experience in the Christian’s life.
+
+This experience of Spirit infilling is essential for the believer. Paul indicates that if we are willing God will first establish us in Christ, then anoint us with His Spirit, which will result in being sealed by the Spirit (2 Corinthians 1:21-22; Ephesians 1:12-13). Any obedience outside of that coming from the infilling of the Spirit will ultimately result in pharisaical, external obedience rather than from the heart. Why? It is because the law is not being written in the heart, which occurs when one continues to experience the infilling of the Spirit. The wise man stated; “The desire of the righteous is only good…” (Proverbs 11:23). Paul speaks of the true believer obeying “from the heart” and becoming “servants” or slaves to righteousness (Romans 6:17-18).
+
+Since having God’s law written in our heart is so important, how can we know if this has happened? Let me give a simple example. Most of us have televisions in our homes. Let’s say we are watching a program that has an interesting story line but includes adultery (seventh commandment), foul language (third commandment), murder (sixth commandment), deceit (ninth commandment), and theft (eighth commandment). If I am able, without much difficulty, to overlook these sinful activities and enjoy the program, then the law of God is not in my heart. If the law was there I would be appalled at the sins being displayed in front of me and I could not enjoy the program.
+
+The characteristics that describe those in Zion who are ready to meet Christ at His second coming include “stoppeth his hears from hearing of blood, and shutteth his eyes from seeing evil;” (Isaiah 33:14). Those Christians who have received the infilling of the Spirit, and have allowed God to write His law in their heart do not stop watching such programs because the law says not to. Rather they stop watching because they are strongly compelled to from within and cannot enjoy the program because of the evil portrayed. However, if a believer resists this repulsion to sin that the Spirit gives him, and continues to participate in it through any of the senses, the repulsion will weaken. The Spirit will soon be grieved until eventually he returns to the state he was in before having received the Spirit’s infilling.
+
+### God’s Sealing Work
+
+The sealing process is seen in a vision in Ezekiel (Ezekiel 9:1-7). A mark was placed upon the foreheads of all that sighed and cried for the abominations that were done in the city Jerusalem (referring to the world). The word “abominations” refers to things morally disgusting, things that belong to the worship of idols, homosexuality, and other perversions. Those who receive God’s mark have experienced the law of God written in their hearts, which causes the sinful acts in the world to be repulsive to them. This mark in Ezekiel is the same as the seal of Revelation, which is placed in the forehead of those who will be ready to meet Jesus when He returns (Revelation 7:1-3).
+
+All who are ready to meet Christ when He returns will have had God’s law sealed or written in their hearts (Isaiah 8:16). All who have God’s law written in their hearts will have received the baptism of the Holy Spirit.
+
+If it does not appear that God’s law is in your heart, you still have hope. First, ask God’s forgiveness; second, seek the Spirit’s infilling. By seeking the baptism of the Spirit we heed God’s counsel; “Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness; it may be ye shall be hid in the day of the LORD’s anger” (Zephaniah 2:3). How urgent it is that we follow Paul’s command to be “filled with the Spirit”. This is the only hope if we desire to stand in the great day of Christ’s second coming. Then and only then will we have God’s law written in our hearts. Only by the Spirit of God is His love placed in our hearts (Romans 5:5), which is the only true motive for obedience to His commandments (John 14:15, Romans 6:17). Then, and only then, will we love righteousness and hate sin.
+
+Ellen White described what happens when we choose to be filled with the Spirit and allow God to write His law in our hearts. “All true obedience comes from the heart. It was heart work with Christ. And if we consent, He will so identify Himself with our thoughts and aims, so blend our hearts and minds into conformity to His will, that when obeying Him we shall be but carrying out our own impulses. The will, refined and sanctified, will find its highest delight in doing His service. When we know God, as it is our privilege to know Him, our life will be a life of continual obedience. Through an appreciation of the character of Christ, through communion with God, sin will become hateful to us” (Desire of Ages, p. 668)
+
+### Jesus Living in the Believer
+
+When this happens Jesus is truly living His life in us. We will be reflecting His character and doing His works. We will assuredly be experiencing what John described in 1 John 3:24:
+
+“And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.”
+
+These will truly “know” their Lord for they have experienced His abiding presence every moment of every day. When their Lord comes they will not hear the words spoken to them, which is spoken to the foolish virgins who did not have the extra oil—infilling of the Holy Spirit (Matthew 25:12). Those who allow Christ to dwell in them through the infilling of His Spirit will have experienced the consummation of their marriage to Him. Christ “knows” His true bride.

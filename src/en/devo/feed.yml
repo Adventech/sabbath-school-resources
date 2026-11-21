@@ -37,6 +37,11 @@
       - en-devo-ten-days-of-prayer-2026-childrens-resource
       - en-devo-ten-days-of-prayer-2025
       - en-devo-ten-days-of-prayer-2025-childrens-resource
+  - group: Revival & Reformation
+    view: folio
+    resources:
+      - en-devo-experiencing-god
+      - en-devo-praying-for-rain
   - group: Youth Week of Prayer
     view: folio
     resources:
@@ -45,6 +50,7 @@
   - group: Devotional Resources
     view: folio
     resources:
+      - en-devo-baptism-of-the-holy-spirit
       - en-devo-as-light-lingers
       - en-devo-the-way-back-to-altar
       - en-devo-test
