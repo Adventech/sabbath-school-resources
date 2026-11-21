@@ -1,0 +1,7 @@
+---
+title: Cycle of Evangelism
+---
+
+This leaflet will emphasize the utilization and coordination of the many departments and entities in the church to do outreach. All of these in themselves can be a tremendous blessing. However, we do not want to forget to include the long-proven “cycle of evangelism,” where the whole church systematically cultivates ongoing friendships in the community, continuously strives toward meeting their holistic needs, sows seeds of truth, and then harvests their interests in one or two yearly evangelistic campaigns.
+
+Of course there will be some harvesting baptisms throughout the year from continual cultivation and sowing by all departments, as the Lord adds to the church daily (Acts 2:47), but for greater results, decision meetings are usually needed. Focusing unitedly on specific dates for these meetings motivates members to work harder than usual to prepare interests. Friendships which develop can often lead to personal Bible studies before the public effort begins, which can more solidly prepare candidates for baptism. We would caution, however, that the public meetings should not be forced on new friends that are not yet ready to attend meetings. Many developing interests and personal Bible studies have been lost by trying to move people too quickly. Much prayer is needed to determine whether the time is right, whether they are ripe enough for possible picking at the time of the scheduled campaign.

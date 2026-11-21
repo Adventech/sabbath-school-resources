@@ -1,0 +1,19 @@
+---
+title: How to Display Passion for the Lost
+---
+
+Now that you have imbibed the passion of this Christ and you have been expressing it in your sermons week by week, what else can you do to see the passion absorbed by the rest of the church? Sermons are basic and are probably the easiest part of the process, but this passion must then build into the entire fabric of the church. How does one communicate the passion in the every day life of the church?
+
+Here are several practical suggestions. First of all, if the leader has the passion for the lost, the leader will be actively seeking the lost. For example, if one preaches about reaching the lost, but is not actively reaching out in one’s personal life to bring lost people to Jesus, then the church will observe a contradiction between the life of the leader and the words of the leader. When such disparity exists, the words spoken from the pulpit will fall on unhearing ears.
+
+There must be consistency between what the pastor preaches and what the pastor lives. The life reveals how the passion is lived out. Members will catch what they see their leader doing. If the leader is bringing neighbors to church, then the members will, too. If the leader is giving Bible studies, so will the members. Consistency here is absolute.
+
+Secondly, tell stories that illustrate the passion. I am not talking about stories that are sermonic illustrations, but stories told throughout the church. They may be told in the missionary period before worship, or at social gatherings. Churches are always telling stories. Make certain your stories are consistent with the passion for the lost. For example, back in the days when I pastored and had prayer meeting, I would always ask for prayer requests. I made certain that I also mentioned, without naming names, the people I was studying with. Telling members the stories of people who are interested in the message always helps to convey this passion for the lost as the very basic ingredient of the church.
+
+Thirdly, the leader conveys this passion in all his personal contacts within the church. As the pastor visits with different families, the talk always moves to passion for the lost. Whether it is sharing the name of a lost acquaintance that needs prayer, or some other avenue, the leader never allows a visit to conclude unless some time is spent communicating the passion.
+
+As this passion begins to spread beyond the church pastor to many of the lay leaders in the church, their collective passion will then have an impact on what is happening in the local church. For example, when nominating committee time rolls around, people are selected for church office because they are demonstrating in their lives the passion of God for the lost. The church will not put people into major positions of leadership who are not living this Great Commission mandate. Obviously, this cannot be done until the culture of evangelism has begun to consume the church leadership.
+
+Sadly many churches select leaders on the basis of money, power, and influence. What is suggested here is a total abandonment of that approach and an acceptance of the passion of God as the determining factor. In other words, if you had two equally qualified leaders, you would choose the one with the greatest passion for the lost. This of course cannot be legislated, but is something that will occur as the passion of God consumes the church.
+
+Consistency in all aspects of the church is the next necessity as the church takes the passion for the lost as its focus. The local church budget will now reflect the priority of God for the lost. It will now assign funds in a way that reflects this priority. The church will not be consumed with just maintaining a building, but instead will become passionate about how that building can be used to assist Jesus in reaching the lost.

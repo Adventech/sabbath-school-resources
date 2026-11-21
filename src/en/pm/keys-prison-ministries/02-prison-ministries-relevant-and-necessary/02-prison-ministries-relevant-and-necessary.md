@@ -1,0 +1,26 @@
+---
+title: Prison Ministries - Relevant and Necessary?
+---
+
+The litigious society in which we live dictates to legislators and prison officials the need to rid society of an individual guilty of felonious behavior. The physical depositories are known as prisons, which are considered to be instruments of control. The word “correction” signifies a change in behavior and suggests rehabilitation. However, this is a misnomer. In reality the attitude is simply out of sight, out of mind. Although an individual has been eliminated from society for a season (and 98.6 percent of incarcerated felons eventually return to society) the work of regeneration must be initiated within the hearts of offenders behind the walls lest they return to society worse off than they were at the time of incarceration.
+
+The church has not been in sync with the significance and the relevancy of ministering behind the walls. Maybe that’s because it is not a glorious ministry—or is it because inmates don’t pay tithe to the church, or have no apparent accountability to church hierarchy? Perhaps for all these reasons, ministry to inmates has been put on a back burner with little interest in making it a priority in the Seventh-day Adventist Church.
+
+The significance of Prison Ministries is clearly stated in Matthew 25:35-40: “For I was an hungered, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: Naked, and ye clothed me: I was sick, and ye visited me: I was in prison and ye came unto me. Then shall the righteous answer him, saying, Lord, when saw we thee an hungered, and fed thee? Or thirsty, and gave thee drink? When saw we thee a stranger, and took thee in? Or naked, and clothed thee? Or when saw we thee sick, or in prison, and came unto thee? And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto the least of these my brethren, ye have done it to me” (KJV).
+
+Matthew 25 presents the fact that when we open the door to the needy and suffering we are welcoming unseen angels and inviting the companionship of heavenly beings. Christ says, “It was I who was hungry and thirsty. It was I who was a stranger. It was I who was sick. It was I who was in prison. While you were feasting at your bountifully spread table, I was famishing in the hovel or the empty street. While you were at ease in your luxurious home, I had not where to lay My head. While you crowded your wardrobe with rich apparel, I was destitute. While you pursued your pleasures, I languished in prison.”<sup>4</sup>
+
+Jesus reaffirmed the importance of Prison Ministries and its relevancy to the church when He hung on the cross between two thieves. In fact, He was a prison chaplain on Death Row where He changed the sentence of one thief to receiving eternal life. He died a criminal death on a cruel Roman instrument of torture called a cross, which was reserved for the vilest of offenders. He took upon Himself a death sentence so that prisoners behind the walls, as well as prisoners of sin, might have the opportunity to be paroled into the Kingdom of God. He has a natural affinity for prisoners and the disenfranchised.
+
+We are the best communicators of God’s grace to those who are behind prison walls. We are the conduit pipes in which His love flows to those who have been ostracized by society. Jesus admonishes us to throw out the nets and fish. The net will reveal a vast variety of fish. It is not the duty of Christ’s workers to clean any of the fish that have been caught in the net. That is the job of the Holy Spirit.
+
+Inmates who are caught in the Gospel net will respond to God’s invitation in various ways. Some inmates will respond to the invitation to hear about Jesus just to get out of the monotonous drudgery of being locked up in a cell for countless hours. Others will respond because they hear that some females are coming into the prison and perhaps this is a way to establish an acquaintance. Others will respond to the call purely for male companionship with friends whom they anticipate will be there. However, there will be some who will come because they love the Lord and are eager to hear a word from the Lord’s messengers. In spite of their motives for coming to the worship services, the transforming power of the Gospel, through the aid of the Holy Spirit, can subdue the vilest of sinners and make them soldiers of the cross.
+
+Jesus commands us “to loose the bands of wickedness, to undo the heavy burdens, to let the oppressed go free, and that ye break every yoke” (Isaiah 58:6, KJV). We are “To preach good tidings unto the meek . . . to bind up the broken hearted, to proclaim liberty to the captives, and the opening of the prison to those that are bound” (Isaiah 61:1, KJV).
+
+Setting the captives free and opening the prison doors does not suggest that they will exit the prison the moment they accept Christ. However, it does suggest that when inmates accept Jesus their minds are no longer imprisoned but set free. The shackles have been loosed, the burdens lifted, the yokes broken, and the power of the saving Gospel of Christ has made them new creatures.
+
+---
+
+{"style": {"text": {"size": "sm"}}}
+<sup>4</sup> For more information, Google: Randall G. Shelden; Prison Industrial Complex; and “California’s Crowded Prisons.”

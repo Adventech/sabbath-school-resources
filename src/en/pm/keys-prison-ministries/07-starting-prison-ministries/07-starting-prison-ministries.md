@@ -1,0 +1,26 @@
+---
+title: Starting Prison Ministries
+---
+
+Prison Ministries is a ministry that is fostered by the Personal Ministries Department at all levels in the Seventh-day Adventist Church (local church, conference, union, division, and General Conference). The Prison Ministries Coordinator, if not the Personal Ministries Director, operates under the auspices of the Personal Ministries Department at whatever level of the church he/she works. Every Prison Ministries Coordinator must be consecrated, faithful, and determined. He/she will exclude self, love Christ, trust in God’s promises, and carry the zeal of Christ as he/she labors for the incarcerated.
+
+Prison Ministries workers must be one who can love inmates in spite of their failure to act in accordance with the law, and who can empathize with the inmates they are seeking to help. Workers must be willing to make Prison Ministries a priority. This ministry requires sacrifice and a conviction that they would rather be at the prison, laboring for the souls of inmates, than to be serving anywhere else in the world. As Prison Ministries workers lead others to Christ, hopefully they will continue to grow spiritually themselves.
+
+To form a Prison Ministries team, the Prison Ministries Coordinator makes a public call before the entire church, soliciting the help of individuals who are interested in sharing the love of Christ with the incarcerated. The coordinator then develops a team, including alternates to safeguard against member burnout. Usually the Prison Ministries team is composed of 5 to 25 members. The coordinator organizes for service by training and teaching the team how to work with inmates. Each team member must be informed of volunteer and visitation policies at the anticipated institution of labor. It is the responsibility of the Prison Ministries Coordinator to secure a copy of these policies from the Department of Corrections in the city and state where services will be provided. The team members must be familiar with the rules and regulations pertaining to the ministry they will provide.
+
+After the team has been thoroughly trained, the coordinator develops a proposal to be presented to the chaplain, volunteer coordinator, jail superintendent, or warden regarding the anticipated services that can be provided at the designated institution. The proposal should be developed in a manner that would entail religious, social, and emotional components. Diversity has a broader appeal, and it is an entering wedge when the doors are shut for religious programming. Services that can effectively be offered include:
+
+- literacy programs
+- GED preparation
+- teaching general life skills
+- teaching parenting skills
+- AA meetings
+- specific types of counseling, including family, career, and vocational
+
+Prisons are overflowing with those who dropped out of high school in the 10th grade or before. Nearly 50 percent of the prison population is functionally illiterate. Consequently, offering literacy programs is often a logical entry point. Once the door is opened by providing institutional needs not designated as religious, opportunities will usually emerge for the team to provide religious services for the inmates as well.
+
+Although the Prison Ministries Coordinator will have familiarized the team with Department of Corrections volunteer policies, the prison where the team will be working will provide training germane to the rules and regulations pertaining to that particular institution. They will do background checks, provide ID badges, and assign the team a time to conduct their services. Once a designated time has been given to enter the prison, be on time and be consistent. Failure to keep appointments can result in termination of the opportunity to provide services.
+
+Organization is vital for effective Prison Ministries. Appoint a coordinator who will be responsible for making assignments, for communicating with Department of Corrections and Jail Facilities personnel, and for being the spokesman for the church regarding Prison Ministries issues. In addition, an assistant coordinator should be appointed who will evaluate the work of the Prison Ministries team, make reports, plan weekly programs, supervise the religious services, and make sure that the team follows Department of Corrections Policy. A musically gifted person should also be appointed who will be responsible for coordinating weekly music for the services and scheduling musicians to lead out in praise and worship. The team will be rounded out by having several members who can serve as Bible teachers/lay preachers to preach and teach the Word of God. These individuals should be good Bible students who are totally consecrated to God.
+
+When ministering to the inmates during worship, don’t talk down to them. Relate to them as equals. Allow for class interaction and testimonies. The teacher/preacher should guide the meeting. Never let inmates control the worship service. Reciprocal courtesy is expected between the teacher and the inmates. Try to start on time and end on time because in a correctional institution, timing is critical.

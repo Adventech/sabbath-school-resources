@@ -1,0 +1,9 @@
+---
+title: Counterfeit Revival Culture
+---
+
+We do not promote or support any of the non- biblical prayer disciplines or methods of prayer rooted in the spiritual formation movement, mysticism, or the occult—such as contemplative prayer, centering prayer, repetitive prayers, prayer labyrinths, etc.
+
+Mark Finley writes, in the book Lord, Revive Us Again, “Satan’s concern in the last days is not the unsaved world. He already has them in his grasp. His concern is Christians. By bringing deceptions into the church, he will mislead millions” (p. 75).
+
+“**Before the final visitation of God’s judgments upon the earth there will be among the people of the Lord such a revival of primitive godliness as has not been witnessed since apostolic times**. . . . The enemy of souls desires to hinder this work; and before the time for such a movement shall come, **he [Satan] will endeavor to prevent it by introducing a counterfeit**. In those churches which he can bring under his deceptive power he will make it appear that God’s special blessing is poured out; there will be manifest what is thought to be great religious interest. Multitudes will exult that God is working marvelously for them, when the work is that of another spirit. Under a religious guise, Satan will seek to extend his influence over the Christian world. . . . There is an emotional excitement, a mingling of the true with the false, that is well adapted to mislead. **Yet none need be deceived**. In the light of God’s word it is not difficult to determine the nature of these movements. Wherever men neglect the testimony of the Bible, turning **away from those plain, soul-testing truths which require self-denial and renunciation of the world, there we may be sure that God’s blessing is not bestowed. . . . ‘Ye shall know them by their fruits.’**” The Great Controversy, p. 464

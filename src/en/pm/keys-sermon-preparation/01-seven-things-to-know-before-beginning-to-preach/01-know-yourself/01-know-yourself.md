@@ -1,0 +1,5 @@
+---
+title: 1. Know yourself
+---
+
+What is your purpose for preaching? A wrong purpose would be to feel important or to feel power or control over listeners. Ask yourself if are you walking the walk or just talking the talk? Are you a seven-day Christian or just a seventh-day Christian. People respond to a good preacher rather than to a very able one who is not good and does not practice what he or she preaches. A good preacher is one who daily knows and loves Christ, knows and loves people, and is willing to work hard to bring the two together. Any other purpose is out of place in the pulpit. Preaching is putting the hands of your people into the hand of God, and to do that you must have hold of both. To do that you must follow the counsel Paul gave to Timothy, “pursue righteousness, godliness, faith, love, endurance, and gentleness” and to be “without spot or blame” (1 Timothy 6:11, 14, NIV).

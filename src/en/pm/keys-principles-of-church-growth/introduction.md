@@ -1,0 +1,3 @@
+### Principles of Church Growth
+
+The 21st century Seventh-day Adventist Church faces a daunting challenge in its attempt to evangelize the world for Jesus. Principles of Church Growth outlines how your church can foster a culture of evangelism where reaching the lost permeates the entire fabric of the local church. Explore tried and true methods for success and discover how you can put these methods to work for your church. You will learn about meeting felt needs, how to display a passion for the lost, how to utilize the laity, and much more. If you would like to help your church grow, check out Principles of Church Growth.

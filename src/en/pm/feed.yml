@@ -1,6 +1,9 @@
 ---
   title: Personal Ministries
   groups:
+  - group: OneVoice27
+    resources:
+      - en-pm-all-things-new
   - group: Global TMI
     view: folio
     resources:
@@ -18,6 +21,12 @@
     view: folio
     resources:
       - en-pm-keys-*
+  - group: Handbooks
+    view: folio
+    resources:
+      - en-pm-elders-handbook
+      - en-pm-deacons-handbook
+      - en-pm-sabbath-school-handbook
   - group: Studying Together
     view: folio
     resources:
@@ -31,6 +40,7 @@
   - group: Sharing books
     view: folio
     resources:
+      - en-pm-sword-of-the-spirit
       - en-pm-final-hope
       - en-pm-hope-beyond-tomorrow
       - en-devo-hope-for-troubled-times
@@ -50,3 +60,4 @@
     view: folio
     resources:
       - en-pm-discipling-nurturing-retention
+      - en-pm-total-member-involvement
