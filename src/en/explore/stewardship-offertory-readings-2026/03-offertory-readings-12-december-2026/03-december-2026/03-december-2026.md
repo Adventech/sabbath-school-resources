@@ -1,6 +1,6 @@
 ---
 title: Eternity in Our Hearts
-date: 20/12/2026
+date: 19/12/2026
 ---
 
 “Will what I do today make a difference in eternity?”
