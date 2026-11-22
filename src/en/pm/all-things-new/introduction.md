@@ -1,0 +1,3 @@
+### All Things New: Prophecies of Hope
+
+All Things New: Prophecies of Hope introduces you to a message that has crossed centuries, empires, and cultures without losing its relevance. Here you will discover that biblical prophecies are not inaccessible enigmas, but a coherent revelation of God’s purpose for the world. These pages reveal the great conflict between good and evil and point to Jesus Christ: the Best Friend, Savior, and Leader a person can have, capable of giving meaning to the present and hope for the future. Love triumphs. Justice triumphs over evil. Suffering will come to an end.
