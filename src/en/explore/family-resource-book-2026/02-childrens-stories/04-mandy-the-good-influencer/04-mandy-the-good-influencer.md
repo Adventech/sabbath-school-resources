@@ -70,4 +70,5 @@ That night, Mandy wrote in her journal: “Being a good influencer is better tha
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Orathai Chureson**, PhD, is the director of the Department of Children’s Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

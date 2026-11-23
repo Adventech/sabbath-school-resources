@@ -44,4 +44,7 @@ As a Church we believe our faith calls us to:
 
 (The above statement is informed by principles expressed in the following scriptural passages: Gen 1:26-28; 2:18-25; Lev 18:20; 2 Sam 13:1-22; Matt 18:6-9; 1 Cor 5:1-5; Eph 6:1-4; Col 3:18-21; 1 Tim 5:5-8.)
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was voted during the Spring Meeting of the General Conference Executive Committee on Tuesday, April 1, 1997, in Loma Linda, California.

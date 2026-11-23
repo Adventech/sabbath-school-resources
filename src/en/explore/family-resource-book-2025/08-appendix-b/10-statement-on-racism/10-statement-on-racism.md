@@ -16,4 +16,7 @@ The standard for Seventh-day Adventist Christians is acknowledged in the churchâ
 
 Any other approach destroys the heart of the Christian gospel.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This public statement was released by the General Conference president, Neal C. Wilson, after consultation with the 16 world vice presidents of the Seventh-day Adventist Church, on June 27, 1985, at the General Conference session in New Orleans, Louisiana.

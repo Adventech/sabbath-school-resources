@@ -90,4 +90,7 @@ White, E. G. (1903). Education. Pacific Press Publishing Association.
 
 White, E. G. (1890). Patriarchs and prophets. Review and Herald Publishing Association.
 
-_Jongimpi Papu, PhD, DMin, is a Vice President and Director of Family Ministries of the Southern Africa-Indian Ocean Division of Seventh-day Adventists in Pretoria, South Africa._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Jongimpi Papu**, PhD, DMin, is a Vice President and Director of Family Ministries of the Southern Africa-Indian Ocean Division of Seventh-day Adventists in Pretoria, South Africa._

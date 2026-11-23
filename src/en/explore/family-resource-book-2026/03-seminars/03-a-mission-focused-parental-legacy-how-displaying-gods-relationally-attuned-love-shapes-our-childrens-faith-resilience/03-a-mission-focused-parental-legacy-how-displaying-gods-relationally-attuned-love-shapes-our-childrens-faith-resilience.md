@@ -117,6 +117,7 @@ When parents commit to displaying God’s attuned, healing love—by His grace�
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**César De León**, PhD, Licensed Marriage and Family Therapist and **Carolann De León** RN, MS in Marriage and Family Therapy, MAPM, are directors of the Department of Family Ministries of the North American Division of Seventh-day Adventists, Columbia, Maryland, USA._
 
 ---

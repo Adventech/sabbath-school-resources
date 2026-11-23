@@ -42,4 +42,7 @@ Nolte, A. (2017). The poems of Mascha Kaléko (p. 101). Fomite.
 
 Hasel, F. (2024). Love is! A journey of grief, grace, and gratitude (pp. 46-51). Cascade Books. Hasel, F. (2024). Love is! A journey of grief, grace, and gratitude (pp. 67-70). Cascade Books. Vroegop, M. (2019). Dark clouds, deep mercy: Discovering the grace of lament. Crossway.
 
-_Frank M. Hasel, PhD is an Associate Director for the Biblical Research Institute at the General Conference of Seventh-day Adventists, Silver Spring, MD, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Frank M. Hasel**, PhD is an Associate Director for the Biblical Research Institute at the General Conference of Seventh-day Adventists, Silver Spring, MD, USA._

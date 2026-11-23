@@ -52,4 +52,7 @@ As the transgender phenomenon must be evaluated by Scripture, the following bibl
 
 <sup>5</sup> Cross-dressing, also referred to as transvestite behavior, is prohibited in Deuteronomy 22:5.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was voted during the Spring Meeting of the General Conference Executive Committee on Wednesday, April 11, 2017, in Silver Spring, Maryland.

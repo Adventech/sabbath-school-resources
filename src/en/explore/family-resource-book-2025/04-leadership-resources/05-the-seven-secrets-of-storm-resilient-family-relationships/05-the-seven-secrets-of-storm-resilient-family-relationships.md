@@ -116,4 +116,7 @@ Olson, D. H., & DeFrain, J. (2006). Marriages & families: Intimacy, diversity, a
 
 Schwarz, C. A. (1996). Natural church development: A guide to eight essential qualities of healthy churches. Churchsmart Resources.
 
-_Gabor Mihalec, PhD is the Director of the Department of Family Ministries at the Hungarian Union Conference of Seventh-day Adventists in Pecel, Hungary._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Gabor Mihalec**, PhD is the Director of the Department of Family Ministries at the Hungarian Union Conference of Seventh-day Adventists in Pecel, Hungary._

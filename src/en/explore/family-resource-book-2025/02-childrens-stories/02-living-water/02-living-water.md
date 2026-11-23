@@ -28,4 +28,7 @@ Let’s Pray. Dear God, thank you very much for the water you created to keep us
 
 NOTE: Watch the balloon experiment at https://youtu.be/r-LOG7qxTz8?si=78wTpKc9Dn2-vc6T
 
-_Noemi Durán Royo, PhD, is the Director of the Geoscience Research Institute for the Inter-European Division Branch Office in Sagunto Valencia, Spain._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Noemi Durán Royo**, PhD, is the Director of the Geoscience Research Institute for the Inter-European Division Branch Office in Sagunto Valencia, Spain._

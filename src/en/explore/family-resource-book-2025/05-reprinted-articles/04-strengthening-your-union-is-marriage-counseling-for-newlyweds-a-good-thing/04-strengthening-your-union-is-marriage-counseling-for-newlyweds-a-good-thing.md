@@ -27,6 +27,9 @@ In light of both biblical teachings and psychological research, newlyweds should
 
 Please know you are in our prayers as you trust God to help you manage your differences early. This will give you the best opportunity for a successful marriage relationship.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 _Reprinted from an article that first appeared in the September 6, 2024 issue of Adventist World. used with permission._

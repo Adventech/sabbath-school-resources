@@ -224,4 +224,7 @@ Sabbath School and Personal Ministries Department. (2024). Alive in Jesus Sabbat
 
 White, E. G. (1977). Mind, character, and personality: Guidelines to mental and spiritual health (Vol. 1). Southern Publishing Association.
 
-_Sven Östring, PhD, MAPL is the Director of Ministry and Strategy in the South Pacific Division in Wahroonga, Australia._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Sven Östring**, PhD, MAPL is the Director of Ministry and Strategy in the South Pacific Division in Wahroonga, Australia._

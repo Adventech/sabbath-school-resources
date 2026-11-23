@@ -60,4 +60,7 @@ White, E. G. (1952). Adventist home. Review and Herald Publishing Association. h
 
 Wright, H. N. (1992). The premarital counseling handbook. Moody Press.
 
-_Galina Stele, DMin is the Director of the Department of Women’s Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Galina Stele**, DMin is the Director of the Department of Women’s Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

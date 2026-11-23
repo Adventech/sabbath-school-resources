@@ -29,4 +29,5 @@ This shows us what happens when we compare! Comparing ourselves to others can ma
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Mildred Weiss**, PGDipEd, B.S. in Nutrition, is a Freelance Project Manager from Lacombe, Alberta, Canada._

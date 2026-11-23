@@ -74,4 +74,5 @@ to achieve a consistent application of a “clear and respectful” standard in 
 {"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Fundamental Beliefs of Seventh-day Adventists, “Marriage and Family,” No. 23.
 
+{"style": {"text": {"size": "sm"}}}
 These guidelines were approved and voted by the General Conference of Seventh-day Adventists, Spring Meeting 2014.

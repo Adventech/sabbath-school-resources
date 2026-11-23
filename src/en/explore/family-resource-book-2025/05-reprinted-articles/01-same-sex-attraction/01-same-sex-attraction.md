@@ -23,6 +23,9 @@ Only when we begin with a biblical perspective—a God-centered view of life tha
 
 We assure you the Seventh-day Adventist Church is not against you or anyone who feels like you. on the contrary, we love you and want to see you saved in God’s kingdom. What we are clearly for, though, is what’s in the Word of God (Matt. 4:4). We know it will be difficult for you to deal with your feelings (your orientation) going forward. Still, the truth is, whether you’re dealing with same-sex or heterosexual feelings, you will need to manage your feelings to honor God. “. . .but with God all things are possible” (Matt. 19:26). You remain in our prayers.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 _Reprinted from an article that first appeared in the October 19, 2023 issue of Adventist World. Used with permission._

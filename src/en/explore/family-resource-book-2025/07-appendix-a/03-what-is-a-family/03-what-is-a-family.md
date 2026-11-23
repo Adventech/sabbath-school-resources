@@ -21,4 +21,7 @@ Beyond the usual family demographics one can also stimulate people to think abou
 - Who will be your family from now until you or they die?
 - From whom could you borrow money and not feel like you had to pay it back right away?
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _Reprinted from Family Ministries Handbook: The complete how-to guide for local church leaders. (2003). Lincoln, NE: AdventSource. Used with permission_
