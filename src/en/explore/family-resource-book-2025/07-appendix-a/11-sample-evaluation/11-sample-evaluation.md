@@ -48,4 +48,7 @@ Marital Status:
 
 **Thank you for your honest comments, they will help us in planning future workshops!**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _©2025 Permission granted to copy for local church use._

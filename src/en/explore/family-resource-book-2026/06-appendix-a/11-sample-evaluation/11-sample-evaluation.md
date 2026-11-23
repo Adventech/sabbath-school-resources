@@ -12,7 +12,7 @@ title: Sample Evaluation
 
 `5. How could this workshop be improved?`
 
-6. on a scale from 1 to 5, with 1 being generally dissatisfied and 5 being very satisfied, how would you rate this workshop? Check one.
+6\. On a scale from 1 to 5, with 1 being generally dissatisfied and 5 being very satisfied, how would you rate this workshop? Check one.
 
 - [ ] 1 Generally Dissatisfied
 - [ ] 2 Somewhat Dissatisfied
@@ -20,7 +20,7 @@ title: Sample Evaluation
 - [ ] 4 Generally Satisfied
 - [ ] 5 Very Satisfied
 
-7. Who made this evaluation?
+7\. Who made this evaluation?
 
 Your age group:
 
@@ -48,4 +48,7 @@ Marital Status:
 
 **Thank you for your honest comments, they will help us in planning future workshops!**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _©2025 Permission granted to copy for local church use._

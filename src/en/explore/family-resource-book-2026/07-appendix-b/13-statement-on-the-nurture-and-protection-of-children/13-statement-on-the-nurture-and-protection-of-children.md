@@ -22,4 +22,7 @@ Children who have been personally victimized or who have witnessed disturbing ev
 
 (This statement has been informed by the principles expressed in the following biblical passages: Lev. 18:6; 2 Sam. 13:1-11; 1 Kings 17:17-23; Ps. 9: 9, 12, 16-18; 11:5-7; 22:24; 34:18; 127:3-5; 128:3- 4; Prov. 31:8-9; Is. 1:16-17; Jer. 22:3; Matt. 18:1-6; 21:9, 15-16; Mark 9:37; 10:13-16; Eph. 6:4; Col. 3:21; 1Tim. 5:8; Heb. 13:3.)
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was approved by the General Conference of Seventh-day Adventists Executive Committee on June 23, 2010 in Atlanta, Georgia.

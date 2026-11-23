@@ -36,4 +36,7 @@ While not condoning abortion, the Church and its members are called to follow th
 
 The issue of abortion presents enormous challenges, but it gives individuals and the Church the opportunity to be what they aspire to be, the fellowship of brothers and sisters, the community of believers, the family of God, revealing His immeasurable and unfailing love.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was voted by the General Conference of Seventh-day Adventists Executive Committee at the Annual Council Session in Silver Spring, Maryland on October 16, 2019.

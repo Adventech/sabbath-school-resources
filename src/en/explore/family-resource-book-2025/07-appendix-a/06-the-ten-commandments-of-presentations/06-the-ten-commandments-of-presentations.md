@@ -13,4 +13,7 @@ title: The Ten Commandments of Presentations
 9. **Motivate** – End your presentation with a call to action. Tell your audience exactly what they can do in response to your presentation.
 10. **Take A Deep Breath, and Relax!** – Don’t huddle over the lectern. If you are standing behind one, stand up tall. Move around. Use gestures for emphasis. Remember how you say something is as important as what you have to say.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _Reprinted from Family Ministries Handbook: The complete how-to guide for local church leaders. (2003). Lincoln, NE: AdventSource. Used with permission_
