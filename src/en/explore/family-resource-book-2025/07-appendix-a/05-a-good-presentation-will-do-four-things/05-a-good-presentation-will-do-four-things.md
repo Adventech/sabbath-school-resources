@@ -1,5 +1,6 @@
 ---
 title: A Good Presentation Will Do Four Things
+markdownTitle: '^[A Good Presentation Will Do Four Things]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 1. **Inform** – People should learn something they did not know prior to attending your presentation.

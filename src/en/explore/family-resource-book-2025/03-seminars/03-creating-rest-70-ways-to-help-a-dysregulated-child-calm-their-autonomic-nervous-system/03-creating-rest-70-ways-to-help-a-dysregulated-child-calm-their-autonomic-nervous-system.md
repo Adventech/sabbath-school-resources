@@ -1,14 +1,14 @@
 ---
 title: "Creating Rest: 70 Ways to Help a Dysregulated Child Calm Their Autonomic Nervous System"
+markdownTitle: '^[Creating Rest: 70 Ways to Help a Dysregulated Child Calm Their Autonomic Nervous System]({"style": {"text": {"color": "#E2672A"}}})'
+subtitle: Bryan Cafferky, Heather Beeson & Elizabeth James
 ---
 
-_By Bryan Cafferky, Heather Beeson & Elizabeth James_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#E2672A"}}})
 
 Psalms 23:1-3, Ephesians 4:2-3, 2 Timothy 1:7, 2 Thessalonians 3:16, Psalm 4:8
 
-### Purpose
+### ^[Purpose]({"style": {"text": {"color": "#E2672A"}}})
 
 This workshop will teach parents 70 different sensory-related activities to help their child calm down during times of distress. Parents will learn about their child’s autonomic nervous system (ANS), what dysregulation looks like in children, and how to support their child’s dysregulation through various sensory experiences. Through interactive presentations and experiential activities, parents will gain valuable insights and practical strategies for offering their children rest during times of distress.
 
@@ -27,7 +27,7 @@ Upon successful completion of this experiential workshop, participants will:
 - One facilitator per breakout group (10-12 parents in each group)
 - Items necessary to experience 2-4 different sensory-related techniques from each of the seven sensory systems, see appendix at the end of this seminar.
 
-### Workshop Outline (~ 3 HOURS)
+### ^[Workshop Outline (~ 3 HOURS)]({"style": {"text": {"color": "#E2672A"}}})
 
 #### 1. Introduction (10 minutes)
 
@@ -114,21 +114,21 @@ Common sensory processing preferences and differences (e.g., hypersensitivity, h
 - Encouragement to collaborate with a child to create a Calm-Down Kit.
 - Open to other questions, comments, or concerns.
 
-### Main Point
+### ^[Main Point]({"style": {"text": {"color": "#E2672A"}}})
 
 Parents can use sensory-related activities to help distressed children regulate their autonomic system (ANS).
 
-### Dysregulation
+### ^[Dysregulation]({"style": {"text": {"color": "#E2672A"}}})
 
 Children’s dysregulation is a normal, biological, and expected phenomenon. Dysregulation refers to the difficulty of managing our emotions and behaviors—usually linked with powerful physiological changes. Children show us they are dysregulated in different ways. Some children exhibit external behaviors such as loud outbursts or aggressive (even destructive) behaviors, difficulty during transitions, or impulsive behaviors (Beauchaine, 2012; Ersan, 2020; Liu, 2004; Zeman et al., 2002). Other children may reveal their dysregulation through internalized experiences such as stomachaches or headaches, withdrawal, intense sadness or anxiety, or lack of concentration (Bowie, 2010; Liu et al., 2011; Rapport et al., 2001; Rothenberg et al., 2020). Our long-term goal as parents is to (a) better understand how our children experience dysregulation and (b) help our children repeatedly practice emotional regulation skills so they become increasingly more effective at managing distress.
 
-### Accumulation of Distress
+### ^[Accumulation of Distress]({"style": {"text": {"color": "#E2672A"}}})
 
 Each stressor, no matter how small, can contribute to children feeling overwhelmed. Even though some people may blame the last drop of water for causing a cup to overflow, dysregulation is actually the result of an accumulation of stressors which had already filled their cup up to the brim (Cole et al., 1994; Epel et al., 2018; Lampert et al., 2016). Example cumulative stressors might be tension at home or frustrations at school, feeling isolated or misunderstood, feeling too hot, itchy, sick or in pain, disrupted sleep, lack of hydration, nutritional deficiencies, changes in the predictability of their daily routine, cognitive impairments, neurobiological differences, or genetic predispositions (e.g. Brobeck et al., 2007; Cummings, 1994; Evans & Kim, 2007; Hatherly et al., 2023; Keluskar et al., 2021).
 
 Parents may need to look past the most recent triggering event and instead become curious about what might be underneath the surface of the water that is contributing to the child’s dysregulation (e.g., Glei et al., 2007). These are not bad children giving you a hard time; rather, they are good children having a hard time. and the underlying reason why adults become upset with dysregulated children is because we sometimes have difficulty regulating ourselves! (Carrère & Bowie, 2012; Zimmer-Gembeck et al., 2022).
 
-### Autonomic Nervous System (Sympathetic and Parasympathetic Activation)
+### ^[Autonomic Nervous System (Sympathetic and Parasympathetic Activation)]({"style": {"text": {"color": "#E2672A"}}})
 
 Children’s dysregulation is directly linked to their survival mechanisms of fight, flight, freeze, or fawn. in God’s elegant design, He created humans with an autonomic nervous system (ANS) with built-in survival responses in order to help keep us safe (Elbers et al., 2018; McCorry, 2007; Musser et al., 2011). There are two sides to this ANS: the sympathetic nervous system, which prepares us for survival actions, and the parasympathetic nervous system, which helps us “rest and digest.”
 
@@ -138,7 +138,7 @@ In contrast, a perception of safety (including the perception of met needs) resu
 
 Guess what? Adults have autonomic nervous systems too! Most adults also have a desire to experience calmness, but it can be incredibly difficult to remain calm when someone nearby is not calm. So when parents perceive their child is too loud, too disruptive, or too destructive (or any other undesired emotions or behaviors linked with dysregulation), we might perceive that child’s dysregulation as a “threat” to our peace, our comfort, our plans for the day, how other people will perceive us as parents, or how children are expected to behave in our family (e.g. Joosen et al., 2013; McLaughlin et al., 2014; Rutherford et al., 2015). This parallel process between children and parents makes sense biologically: first, children become dysregulated because of their environment, and then that distress is caught by the parents, who also become dysregulated—including the instantaneous physiological changes linked to our own survival reactions (Rutherford et al., 2015)! So, how can we help our children (and ourselves) when they experience dysregulation?
 
-### Seven Sensory Systems
+### ^[Seven Sensory Systems]({"style": {"text": {"color": "#E2672A"}}})
 
 Children perceive and interact with their world through seven primary sensory systems (Smith, 2008): visual, auditory, tactile, gustatory, olfactory, proprioceptive, and vestibular.
 
@@ -152,13 +152,13 @@ Children perceive and interact with their world through seven primary sensory sy
 
 It is through these seven primary sensory systems that children will perceive danger or safety—resulting in sympathetic or parasympathetic activation of their ANS (e.g., Malik-Hasbrook, 2023). Certain sensory inputs, such as tactile stimulation (playing with interesting textured materials or deep pressure from squeezing or hugging), proprioceptive input (from activities like swinging or rolling), or olfactory input (smelling the differences between wood, rock, flowers, etc.) can have a calming effect on children (or quite the opposite!). By understanding these seven sensory systems, parents can intentionally provide pleasant sensory-related activities to promote an experience of security and comfort, which helps children regulate their autonomic nervous system (Lynch & Simpson, 2004; Mouton-Odum & Golomb, 2021).
 
-### Children Have Different Sensory Preferences
+### ^[Children Have Different Sensory Preferences]({"style": {"text": {"color": "#E2672A"}}})
 
 Each child has distinct sensory preferences, needs, and processing, which means two children may respond dissimilarly to the same sensory stimuli because each child benefits from their unique sensory diet (Camarata et al., 2020; Thompson & Raisor, 2013). For example, some children may experience hyposensitivity (also known as under-responsivity), which is decreased sensitivity or responsiveness to certain sensory stimuli compared to typical children (e.g., Watling et al., 2001). These children may experience an intense desire (sensory craving) for more of a specific sensory experience (e.g., soft, green, or wet). This desire is usually linked to sensory seeking behaviors in order to achieve an increased level of sensory stimulation.
 
 In contrast, other children may experience hypersensitivity (also known as oversensitivity), which is increased sensitivity or heightened response to certain sensory stimuli compared to typical children (e.g., Schulz & Stevenson, 2019; Tomchek & Dunn, 2007). These children may exhibit a protective response (sensory defensiveness) to certain sensory input they perceive as unpleasant or uncomfortable (e.g., itchy, bright, or wet; e.g., Cascio et al., 2016). This reaction to unpleasant stimuli often leads to sensory avoidant behaviors in order to reduce their overall discomfort or distress.
 
-### Pleasant Sensory Experiences Provide Calmness For A Dysregulated Child
+### ^[Pleasant Sensory Experiences Provide Calmness For A Dysregulated Child]({"style": {"text": {"color": "#E2672A"}}})
 
 If parents can better understand their child’s unique sensory palate and accompanying sensory needs, then parents can intentionally facilitate preferred sensory activities which offer calmness to their children (parasympathetic response) during times of distress (Lynch & Simpson, 2004; Yack et al., 2002). Even better, if a parent can regularly meet their child’s sensory needs, this provides opportunities for the child to regulate their autonomic nervous system before an accumulation of stressors can build up to tip the child into dysregulation (Thompson & Raisor, 2013). Thus, parents can employ sensory-related activities for both prevention and intervention.
 
@@ -168,7 +168,7 @@ Furthermore, when parents participate with their children in these sensory-relat
 
 Dysregulation is the natural result of our inability to manage distress (e.g., Cole et al., 1994), but after this workshop, you, as parents, will have the knowledge and experience necessary to help children (and yourselves) become more effective at harnessing our seven sensory systems to help regulate our autonomic nervous system (all part of God’s elegant design) in order to manage distress better.
 
-### Biblical Inspiration
+### ^[Biblical Inspiration]({"style": {"text": {"color": "#E2672A"}}})
 
 “The Lord is my shepherd; I shall not want. He makes me to lie down in green pastures; He leads me beside the still waters. He restores my soul; He leads me in the paths of righteousness for His name’s sake” (Psalms 23:1-3).
 
@@ -190,7 +190,7 @@ Dysregulation is the natural result of our inability to manage distress (e.g., C
 
 “Cast your burden on the Lord, and He shall sustain you; He shall never permit the righteous to be moved” (Psalm 55:22).
 
-### Potential Online Resources to Consider
+### ^[Potential Online Resources to Consider]({"style": {"text": {"color": "#E2672A"}}})
 
 https://beacons.ai/drbeckyatgoodinside https://www.instagram.com/drbeckyatgoodinside/?hl=en https://drdansiegel.com/book/the-whole-brain-child/
 

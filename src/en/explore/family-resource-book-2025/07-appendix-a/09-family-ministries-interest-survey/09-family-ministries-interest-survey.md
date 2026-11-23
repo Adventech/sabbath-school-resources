@@ -1,5 +1,6 @@
 ---
 title: Family Ministries Interest Survey
+markdownTitle: '^[Family Ministries Interest Survey]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 **Your age group:**

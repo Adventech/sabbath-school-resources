@@ -1,10 +1,10 @@
 ---
 title: Integrating Back to the Altar with Alive in Jesus
+markdownTitle: '^[Integrating Back to the Altar with Alive in Jesus]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Sven Östring
 ---
 
-BY SVEN ÖSTRING
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#00AABB"}}})
 
 Deuteronomy 6:6-9
 
@@ -14,7 +14,7 @@ This integration view starkly contrasts the dualistic approach that we naturally
 
 As Adventists, we pride ourselves on noting that we hold to an integrated and holistic view of human nature. However, the theological roots for unity and integration go much deeper. It finds it in the very nature of God Himself. It takes us back to God’s revelation of Himself to Moses.
 
-### The Theological Foundations of Integration
+### ^[The Theological Foundations of Integration]({"style": {"text": {"color": "#00AABB"}}})
 
 We find the true foundations of integration in Moses’ teaching for the Israelites when he stated:
 
@@ -34,11 +34,11 @@ God’s vision is for us to live spiritually integrated family lives, to integra
 
 As leaders within the church, we need to apply God’s vision of integration into our ministry and identify ways in which we can integrate our discipleship initiatives and programs to maximize our effectiveness for the kingdom of God.
 
-### Integrating The Back to The Altar With The Alive in Jesus
+### ^[Integrating The Back to The Altar With The Alive in Jesus]({"style": {"text": {"color": "#00AABB"}}})
 
 An excellent opportunity for discipleship and ministry integration identified within the South Pacific is the opportunity to integrate the Back to the Altar initiative with the new Alive in Jesus Sabbath School curriculum. The Back to the Altar initiative identifies the need for Seventh-day Adventist disciples and families to return to both personal and family worship in the context of discipleship and mission. The Alive in Jesus Sabbath School curriculum has been developed by the General Conference Sabbath School and Personal Ministries department to provide an updated curriculum for discipling children that integrates best educational practice with Bible narrative and truth. in order to highlight the opportunity and value of integrating these two disciple-making initiatives, let us consider them separately.
 
-### The Back to The Altar Initiative
+### ^[The Back to The Altar Initiative]({"style": {"text": {"color": "#00AABB"}}})
 
 The Seventh-day Adventist movement has been statistically tracking the level of personal and family worship and engagement with discipleship amongst its members and churches. This is because the Adventist movement understands that Jesus has given a mission to make disciples (Matthew 28:18–20) and calls people to worship Him as Creator (Revelation 14:6,7).
 
@@ -119,7 +119,7 @@ The Bible illustrates how the Holy Spirit integrates this service using the anal
 
 This survey of the Back to the Altar principles demonstrates that the initiative is Biblical, comprehensive, and based on Jesus’ own example.
 
-### The Alive in Jesus Sabbath School Curriculum
+### ^[The Alive in Jesus Sabbath School Curriculum]({"style": {"text": {"color": "#00AABB"}}})
 
 Sabbath School is one of the key discipleship processes within the Seventh-day Adventist movement, which includes the discipleship of our children and teenagers. The current GraceLink curriculum was originally launched over 20 years ago and has provided Sabbath School teachers with resources for children aged between 0 and 12 years (Evans, 2002; General Conference of Seventh- day Adventists, 2016). Due to the need to increase Biblical literacy and strengthen the disciple- making process for children, the global Seventh-day Adventist church has recognized the need to develop a new Sabbath School curriculum for children. This curriculum incorporates research into stages of faith development with best education practices and has increased the discipleship scope for children between 0 and 18 years (Sabbath School and Personal Ministries Department, 2024). The foundation of the Alive in Jesus curriculum is the Bible. Jesus Himself illustrated the foundational nature of His teachings in His well-known parable:
 
@@ -154,7 +154,7 @@ and sinners shall be converted to You” (Psalm 51:12,13).
 
 This missional response flows from understanding the heart and mission of Jesus Himself.
 
-### Discipleship Overlap
+### ^[Discipleship Overlap]({"style": {"text": {"color": "#00AABB"}}})
 
 Having summarised the principles of the Back to the Altar initiative and the pillars of the Alive in Jesus curriculum and their Biblical basis, it is now possible to identify how these initiatives overlap from a discipleship perspective. The table below identifies how each of the Alive in Jesus pillars can be matched with the Back to the Altar principles:
 
@@ -174,7 +174,7 @@ With further theological reflection, it is possible to discern that there are ev
 
 The strong connection between the Back to the Altar principles and the Alive in Jesus pillars shows that both programs are based on the same underlying discipleship principles. It also reveals the opportunity of integrating these two discipleship programs and suggests that there is value in doing so.
 
-### Complementary Discipleship Contributions
+### ^[Complementary Discipleship Contributions]({"style": {"text": {"color": "#00AABB"}}})
 
 These initiatives can also complement each other by making distinct and valuable contributions to the discipleship process
 
@@ -182,7 +182,7 @@ The Back to the Altar principles provide a structured discipleship checklist tha
 
 The contribution of the Alive in Jesus curriculum is that it provides a structured journey through the Bible specifically developed for the faith development of children. Thus, it directly contributes to Back to the Altar principles of discovering Jesus in His word, loving your family sacrificially, and living your God-given mission. It resources family worship and the discipleship of children in an engaging way.
 
-### Practical Recommendations For Integrating Back to The Altar and Alive in Jesus
+### ^[Practical Recommendations For Integrating Back to The Altar and Alive in Jesus]({"style": {"text": {"color": "#00AABB"}}})
 
 Based on the significant discipleship overlap as well as complementary features of both the Back to the Altar initiative and the Alive in Jesus Sabbath School curriculum, there are several practical recommendations that I would like to propose for families to integrate these discipleship programs effectively.
 
@@ -200,13 +200,13 @@ Parents will need to balance the use of repetition in going through the Back to 
 
 As parents go through the daily readings and activities in the Alive in Jesus study guides, it is valuable for them to highlight wherever the Alive in Jesus reading links with the Back to the Altar principles. This enables the principles to be drawn out in fresh and creative ways.
 
-### Discipleship Resource Recommendations
+### ^[Discipleship Resource Recommendations]({"style": {"text": {"color": "#00AABB"}}})
 
 The Alive in Jesus curriculum provides a wealth of discipleship resources for parents and children (Sabbath School and Personal Ministries Department, 2024). I strongly recommend that Children’s Ministry Directors at every administrative level of the church encourage parents to invest in these resources for their families as much as possible within their budget.
 
 Altar webpage provides The Way Back to the Altar training workbook, which leads participants through the Biblical and Spirit of Prophecy on which the initiative is based. This can be used for initial training in the Back to the Altar principles. to facilitate the daily application of the Back to the Altar principles, I recommend that Personal Ministries and Children’s Ministry Directors in the local Mission and Conferences produce and distribute Back to the Altar bookmarks that provide a checklist of the principles for quick reference. Families can use these bookmarks to either mark their place in their Bibles or Alive in Jesus study guides.
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#00AABB"}}})
 
 Jesus has given the Seventh-day Adventist church the commission to make disciples in the context of the Three Angels’ Messages. Within this commission is the call to develop an integrated, holistic approach to making disciples who worship God as their Creator with their whole being. We can come back to our own personal and family altars and become alive in Jesus. Integrating the Back to the Altar initiative and Alive in Jesus curriculum in our homes is valuable and essential to fulfilling the mission that Jesus has given us.
 

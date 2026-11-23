@@ -1,10 +1,10 @@
 ---
 title: Teaching Creation to Our Children
+markdownTitle: '^[Teaching Creation to Our Children]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Joseph Kidder and Katelyn Campbell Weakley
 ---
 
-_By Joseph Kidder and Katelyn Campbell Weakley_
-
-### The Marvel of Creation
+### ^[The Marvel of Creation]({"style": {"text": {"color": "#00AABB"}}})
 
 Revelation and nature both testify that the universe is an incredible place. As scientists discover fact after fact about the natural world, this truth becomes even more evident. For example, the sequences of genes found within every living thing that gives characteristic makeup, such as DNA, are quite small. Yet if all the DNA in your body were unraveled and laid end to end, it would measure 34 billion miles long: that’s the length it would take to travel to and from Pluto six times! Speaking of our solar system, scientists have determined that our sun accounts for 99.86% of the total mass of our solar system; in fact, Earth could fit inside the sun 1.3 million times! Scientists have also estimated that there may be as many as three sextillion stars in the universe (300,000,00 0,000,000,000,000,000), which is more than the total grains of sand found on Earth (Sundermier, 2016). Nature is truly amazing!
 
@@ -16,13 +16,13 @@ This article intends to give parents, guardians, and educators ideas for teachin
 
 This article examines the principles of teaching children about Creation. However, these principles can be used in teaching any passage of Scripture or doctrine.
 
-### The Faith Formation of Children
+### ^[The Faith Formation of Children]({"style": {"text": {"color": "#00AABB"}}})
 
 In their article entitled “Best Practices in Children’s Faith Formation,” John Roberto and Katie Pfiffner state that “effective faith formation with children respects the ways children learn today by offering learning activities that are experiential, image-rich, multi-sensory, interactive, engaging, and varied in learning” (Roberto & Pfiffner, 2021). There are lessons to be learned through doing everyday life.
 
 As events transpire, as your family experiences life together, see what connections to scripture you can find. What lessons of morality can be learned? What aspects of God’s character can be seen? Pray that God would open your eyes to see what lessons you can bring out of everyday life and then simply begin sharing them with your children. Ask them questions about what they see and experience. Ask them how it connects to what they know of God and the Bible. Point out Christian values and morals. As you practice having these conversations with your children, it will gradually become part of your daily routine, and your children will eagerly engage.
 
-### The Biblical Teaching of Creation
+### ^[The Biblical Teaching of Creation]({"style": {"text": {"color": "#00AABB"}}})
 
 #### The Creation of The World
 
@@ -44,7 +44,7 @@ We were also created to love God. Deuteronomy 6:5 states, “You shall love the 
 
 Given all these reasons, we were created to bring God glory, which is the lesson we must pass on to our children. “You are worthy, O Lord, to receive glory and honor and power; for You created all things, and by Your will they exist and were created” (Revelation 4:11). God deserves praise and honor. Our voices were meant to be raised to Him in awe and appreciation. For these reasons, God intended our existence: that we might know God, love Him, be loved by Him, and give Him praise, honor, and glory (Revelation 7:10-12).
 
-### Teaching The Creative Power of God
+### ^[Teaching The Creative Power of God]({"style": {"text": {"color": "#00AABB"}}})
 
 God’s Creation was not done haphazardly; it was all meticulously designed. Jesus Himself says, “Consider the lilies of the field, how they grow: they neither toil nor spin and yet I say to you that even Solomon in all his glory was not arrayed like one of these” (Matthew 6:28a-29). This means there is much for us to marvel at and appreciate in God’s creation. It also means there is much to learn and teach. Here are several ways to guide your child in understanding key concepts related to God’s creative power.
 
@@ -76,7 +76,7 @@ Psalm 119:11 says, “Your word I have hidden in my heart, that I might not sin 
 
 When teaching stories, lessons, and ideas from the Bible, it is wise to incorporate some Scripture memorization. Children learn well through repetition, making the memorization of Bible verses a very useful tool for helping children grasp the concepts found in the Creation story. The Creation account in Scripture is very lyrical and full of important concepts: “So God created man in His own image; in the image of God He created him; male and female He created them” (Genesis 1:27). Pick a key verse or two to help your child learn and internalize the Creation story.
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#00AABB"}}})
 
 In the account of the creation of the world, the explanation for why and how the world and humanity came to be is found. It explains our supreme Creator’s existence and tells who He is. in fact, all of nature testifies of His power and character. Ellen White writes of this beautiful phenomenon, saying,
 

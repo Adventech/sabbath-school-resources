@@ -1,5 +1,6 @@
 ---
 title: Statement on Child Sexual Abuse
+markdownTitle: '^[Statement on Child Sexual Abuse]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 Child sexual abuse occurs when a person older or stronger than the child uses his or her power, authority, or position of trust to involve a child in sexual behavior or activity. Incest, a specific form of child sexual abuse, is defined as any sexual activity between a child and a parent, a sibling, an extended family member, or a step/surrogate parent.

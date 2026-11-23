@@ -1,8 +1,8 @@
 ---
 title: "Strengthening Your Union: Is Marriage Counseling for Newlyweds a Good Thing?"
+markdownTitle: '^[Strengthening Your Union: Is Marriage Counseling for Newlyweds a Good Thing?]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <callout>Question</callout>
 > We’ve been married for 18 months, and our relationship has mostly been good. Quite frequently, though, we get annoyed at each other and sometimes it takes us a good day or two before we’re back to relating to each other in a “normal” way. Is it too early in our marriage to get counseling or is this something that can wait until later?

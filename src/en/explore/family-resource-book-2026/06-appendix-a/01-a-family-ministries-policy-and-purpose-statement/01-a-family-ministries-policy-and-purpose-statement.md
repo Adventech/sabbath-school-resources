@@ -1,5 +1,6 @@
 ---
 title: A Family Ministries Policy and Purpose Statement
+markdownTitle: '^[A Family Ministries Policy and Purpose Statement]({"style": {"text": {"color": "#2B3241"}}})'
 ---
 
 The congregation and staff of the:

@@ -3,7 +3,7 @@ title: "A Delicate Balance: Digital Distractions And Modern Marriage"
 subtitle: Willie and Elaine Oliver
 ---
 
-**Q.** How can we restore balance in our marriage when digital habits formed during the pandemic have blurred work and home life, leaving us with little undivided attention for each other? I’m concerned the current routine may cause lasting harm to our marriage relationship. What steps can we take to reconnect and set healthier boundaries with technology?
+^[**Q.** How can we restore balance in our marriage when digital habits formed during the pandemic have blurred work and home life, leaving us with little undivided attention for each other? I’m concerned the current routine may cause lasting harm to our marriage relationship. What steps can we take to reconnect and set healthier boundaries with technology?]({"style": {"text": {"color": "#FF8900"}}})
 
 **A.** Let’s be honest—phones and devices have become a real challenge for marriages today. We’re constantly checking notifications, scrolling through social media, and staying connected to work, often at the expense of truly connecting with our spouse. But marriage isn’t just another relationship we can multitask our way through. It’s something sacred that deserves our full attention and presence.
 
@@ -21,7 +21,7 @@ There’s also this phenomenon called “absent presence”—being physically t
 
 Social media adds another layer of complexity. We see everyone else’s highlight reels and start comparing our real marriages to these curated online presentations. No wonder so many couples feel dissatisfied when they measure their everyday reality against someone else’s carefully filtered posts.
 
-### BLURRED LINES
+### ^[BLURRED LINES]({"style": {"text": {"color": "#FF8900"}}})
 
 The numbers tell a sobering story. The average American checks their phone 96 times each day—that’s roughly every 10 minutes. Imagine trying to have a meaningful conversation with someone when you’re both being interrupted every few minutes. It’s nearly impossible to build the kind of deep connection that marriages need.
 
@@ -31,7 +31,7 @@ What makes this more challenging is that we don’t really have established soci
 
 Research also shows interesting gender differences in how couples experience digital distractions. Women often report feeling more distressed when their partners use phones during couple time, while men may be more likely to bring work-related digital activities into family life. These different patterns can create additional misunderstandings and conflicts.
 
-### HELPFUL STRATEGIES
+### ^[HELPFUL STRATEGIES]({"style": {"text": {"color": "#FF8900"}}})
 
 So how do we turn this around? How can we achieve greater balance in our marriages in this digital age? Here are some strategies that really work:
 

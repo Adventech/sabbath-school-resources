@@ -1,5 +1,6 @@
 ---
 title: Statement on Human Relations
+markdownTitle: '^[Statement on Human Relations]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 Seventh-day Adventists deplore and seek to combat all forms of discrimination based on race, tribe, nationality, color, or gender. We believe that every person was created in the image of God, who made all nations of one blood (Acts 17:26). We endeavor to carry on the reconciling ministry of Jesus Christ, who died for the whole world so that in Him “there is neither Jew nor Greek” (Gal. 3:28). Any form of racism eats the heart out of the Christian gospel.

@@ -1,5 +1,6 @@
 ---
 title: Preface
+markdownTitle: '^[Preface]({"style": {"text": {"color": "#0D6EEF"}}})'
 ---
 
 Let’s be honest—our phones buzz more than our doorbells these days. Our kids know their way around TikTok better than they know their way to meaningful conversation. And somewhere between managing screen time and monitoring online activity, many of us wonder if we’re losing the battle for our families’ hearts and minds.

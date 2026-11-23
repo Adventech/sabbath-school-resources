@@ -1,8 +1,8 @@
 ---
 title: "Dealing with Loss: Learning to Grieve When Death Shatters Your Life"
+markdownTitle: '^[Dealing with Loss: Learning to Grieve When Death Shatters Your Life]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Frank M. Hasel
 ---
-
-_By Frank M. Hasel_
 
 Note from author: in this article, I share my story of dealing with the death of my wife and, much of what I share is taken from my book, Love Is! A Journey of Grief, Grace, and Gratitude (Eugene, OR: Cascade Books, 2024).
 

@@ -1,5 +1,6 @@
 ---
 title: “Well, Nah!” Jo-Nah
+markdownTitle: '^[“Well, Nah!” Jo-Nah]({"style": {"text": {"color": "#5E2A53"}}})'
 subtitle: Mindy Salyers
 ---
 

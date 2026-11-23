@@ -1,8 +1,8 @@
 ---
 title: We Have Teenagers, Please Help! Guiding Principles From A Biblical Perspective
+markdownTitle: '^[We Have Teenagers, Please Help! Guiding Principles From A Biblical Perspective]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <callout>Question</callout>
 > My husband and I are parents of teenage boys with lots of energy. They are constantly pushing the boundaries. What can we do to help them use more self-control? Are they possibly rebelling because we are holding the reigns too tightly? We welcome your insights and perspectives.

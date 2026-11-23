@@ -1,15 +1,16 @@
 ---
 title: "Guarding Our Homes: Helping Families Manage The Intrusion Of Technology"
+markdownTitle: '^[Guarding Our Homes: Helping Families Manage The Intrusion Of Technology]({"style": {"text": {"color": "#0D6EEF"}}})'
 subtitle: César And Carolann De León
 ---
 
 _This sermon equips families to protect their hearts from digital invasion by nurturing discernment, boundaries, and Christ-centered relationships in the home._
 
-### THE TEXT
+### ^[THE TEXT]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Romans 12:2
 
-### INTRODUCTION
+### ^[INTRODUCTION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 We live in a digital age where technology is no longer just a tool—it has become the very environment in which we exist. Smartphones, social media, video games, and endless online content are now constant companions. Families no longer simply live in homes; they live in digital ecosystems.
 
@@ -19,7 +20,7 @@ Ellen G. White, though she lived in a pre-digital era, foresaw these principles.
 
 This sermon aims to support families in managing the intrusion of technology—not by rejecting it altogether, but by stewarding it wisely and keeping Christ at the center of the home.
 
-### THE SUBTLE POWER OF TECHNOLOGY
+### ^[THE SUBTLE POWER OF TECHNOLOGY]({"style": {"text": {"color": "#0D6EEF"}}})
 
 **1. The Silent Intruder**
 
@@ -41,7 +42,7 @@ Ellen White warned in _The Great Controversy_: “It is a law both of the intell
 
 What are our children beholding? Hours of YouTube scrolling? TikTok dances? Violent games? If by beholding we become changed, then technology is discipling our children faster than we are.
 
-### GOD’S DESIGN FOR FAMILIES
+### ^[GOD’S DESIGN FOR FAMILIES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 **1. Families as the First Discipleship Space**
 
@@ -71,7 +72,7 @@ Today, technology can rob us of presence. We are “together-ish” but not genu
 
 “Parents should guard their children from those influences,” wrote White in the book, _Child Guidance_, “which would lead them away from God. This is their sacred duty” (White, 1954, p. 114). Today, that sacred duty includes allowing God to give us the wisdom to guide our children and teens in the wise use of technology—that, left unchecked, can isolate rather than unite the hearts of families to God and to one another.
 
-### THE DANGERS OF UNCHECKED TECHNOLOGY
+### ^[THE DANGERS OF UNCHECKED TECHNOLOGY]({"style": {"text": {"color": "#0D6EEF"}}})
 
 **1. Addiction and Idolatry**
 
@@ -107,7 +108,7 @@ Today, our enemy is masterfully prowling and devouring the minds, bodies, and so
 
 As parents become more intentional about seeking divine wisdom to know how they can successfully provide emotionally and spiritually nurturing alternatives to the hours of time their children spend on their phones, the Holy Spirit will continue to ignite a desire for personal spiritual revival that can swell into a spiritual revival within the family. Through their enthusiastic and joyful example, parents can invite their children into a sweet and meaningful experience of personal and family prayer rituals, as well as daily rhythms of Scripture reading and meditation—perhaps even on a phone app. Brief and highly interesting morning and evening family worship rituals—by God’s grace—can become moments of deep connection and affection that the whole family can look forward to.
 
-### SEVEN STRATEGIES FOR FAMILIES
+### ^[SEVEN STRATEGIES FOR FAMILIES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 **1. Establish Christ-centered Boundaries**
 
@@ -165,7 +166,7 @@ Above all, remind your family that technology is a tool, not a savior. The world
 
 _In Heavenly Places_, Ellen White writes, “Keep Christ before your children by singing songs to His glory, by seeking Him in prayer, and by reading from His Word, so that He will seem to them an ever-present Guest. Then they will love Him, and will be brought so closely in unison with Him that they will breathe out His Spirit. They will feel a _new relationship_ to one another in Christ.” (White, 1967, italics applied).
 
-### ILLUSTRATIONS
+### ^[ILLUSTRATIONS]({"style": {"text": {"color": "#0D6EEF"}}})
 
 **The Lost Dinner Table**: A father once said, “We don’t eat dinner together anymore. Everyone grabs their plate and retreats to their room with their phone. We live in the same house, but we’re strangers.” Compare that to Psalm 128:3, which describes the family table as a place of blessing: “Your children will be like olive shoots around your table.”
 
@@ -173,7 +174,7 @@ _In Heavenly Places_, Ellen White writes, “Keep Christ before your children by
 
 **Jesus and Interruptions**: In Mark 5, Jesus was on His way to heal Jairus’s daughter when He was interrupted by a bleeding woman. He didn’t see it as an intrusion, but as a ministry. We must not let technology rob us of the holy interruptions God is providentially allowing into our lives.
 
-### A CALL TO FAMILIES
+### ^[A CALL TO FAMILIES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Families must wake up. Technology is not in and of itself, evil, but if left unchecked, it will disciple our children faster than we will.
 
@@ -185,7 +186,7 @@ Ellen White’s words in Child Guidance echo like a trumpet: “Parents should g
 
 Every family member must guard the soul avenues—eyes, ears, hearts—from the evolving digital invasion that, used indiscriminately, can snuff out spiritual commitment and devotion to God and His love-driven service for others.
 
-### CONCLUSION
+### ^[CONCLUSION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Joshua declared: “Choose for yourselves this day whom you will serve… But as for me and my household, we will serve the Lord” (Joshua 24:15).
 
@@ -209,7 +210,7 @@ As Daniel determined to not defile himself, I invite you to do the same. Parents
 
 Parents, may God enable you to model and display Christ’s healing love to every member of your family, first and foremost—and _also_ to every precious soul God puts in your sphere of influence—so that we _all—as a united family in Christ_—will anticipate the day Christ will lead us to our heavenly home, where nothing corruptible and destructive will ever touch our minds our souls and our families, ever again.
 
-### CLOSING PRAYER
+### ^[CLOSING PRAYER]({"style": {"text": {"color": "#0D6EEF"}}})
 
 _“Lord, we confess that we have allowed technology to occupy too much of our time, minds, hearts and families. Forgive us for the times we have chosen screens over Scripture, devices over discipleship, and worthless entertainment over meaningful engagement with one another. Help us to reclaim our time, our priorities, our conversations, our attention and authentic love for You. Teach us to use technology wisely for Your glory, for sharing your transformative love, and for the edification of our families and communities. May Your Word and Your presence be central in our hearts and homes. May our families be places of joy and peace where love is practiced, and where Your presence is more satisfying than any screen. In Jesus’ name we pray, Amen.”_
 
@@ -220,7 +221,7 @@ _**César De León**, PhD, Licensed Marriage and Family Therapist and **Carolann
 
 ---
 
-### REFERENCES
+### ^[REFERENCES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 White, E. G. (1889). _Testimonies for the Church_ (Vol. 5). Review and Herald Publishing Association.
 

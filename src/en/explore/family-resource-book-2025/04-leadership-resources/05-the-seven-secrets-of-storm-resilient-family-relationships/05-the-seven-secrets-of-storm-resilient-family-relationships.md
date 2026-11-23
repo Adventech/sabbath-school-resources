@@ -1,8 +1,8 @@
 ---
 title: The Seven Secrets of Storm-Resilient Family Relationships
+markdownTitle: '^[The Seven Secrets of Storm-Resilient Family Relationships]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Gabor Mihalec
 ---
-
-_By Gabor Mihalec_
 
 Since 2020, our lives have undergone significant changes. Initially, we thought the pandemic posed only a health and economic threat, but since then, we’ve come to realize it has also severely strained our relationships. Couple therapists are busier than ever before, and internationally, divorce rates have surged. Domestic abuse has become rampant in many places, prompting the UN to classify it as a “shadow pandemic” alongside COVID-19. This was followed by the Russian- Ukrainian conflict and a subsequent surge in inflation, energy crisis, uncertainty, and threat. It’s no wonder families and relationships feel more burdened than in previous decades.
 
@@ -10,7 +10,7 @@ What sets apart those couples and families who have buckled under the pressure o
 
 The findings of this research are summarized in the book “Storm Proof Love,” (Mihalec, 2021), which I wrote with a focus on making each chapter equivalent to a 1.5-hour seminar, suitable for in-person or online delivery. The chapters end with exercises to enhance interactivity, which are conducted with participating couples during the seminar.
 
-### 1. Expressing Emotions
+### ^[1. Expressing Emotions]({"style": {"text": {"color": "#00AABB"}}})
 
 Couples whose relationships strengthened during times of crisis were skilled at involving each other in their emotional world. Even if they experienced negative emotions (fear, uncertainty, sadness), expressing them brought them closer together because it elicited empathy in the other person.
 
@@ -20,7 +20,7 @@ But how do we talk about our emotions if no one has taught us how? The technique
 
 Once you have become proficient in emotional broadcasting as a sports commentator, it’s time for the next step. Now, move from the commentator’s seat to the coach’s seat, and don’t just observe what’s happening on the field; be the ones who determine what happens on the field! Instead of being observers, let’s become the directors of our emotional lives and regain control over our emotions!
 
-### 2. Keep Calm Even in Challenging Situations
+### ^[2. Keep Calm Even in Challenging Situations]({"style": {"text": {"color": "#00AABB"}}})
 
 Couples who thrive under pressure take responsibility for their own tension and process it within themselves rather than projecting it onto each other.
 
@@ -32,7 +32,7 @@ Because of our intellectual capacity for speech, we easily lose touch with our o
 
 Self-soothing is a learnable skill! It’s not about being naturally fiery or calm, but about what behavioral patterns we have reinforced within ourselves over the years. and if we’re capable of exploding, then we’re capable of extinguishing the fire too.
 
-### 3. Intimate Bonding
+### ^[3. Intimate Bonding]({"style": {"text": {"color": "#00AABB"}}})
 
 Stress affects our sexuality in various ways. For some, it increases their appetite, while others completely lose interest in intimacy. This change often leads in two different directions within a relationship. Strong couples understand how stress affects their own and their partner’s sexual experiences, and they strive to create intimate moments, even in changed circumstances, where they can express tenderness towards each other.
 
@@ -40,7 +40,7 @@ So, let’s pause for a moment and think back to a difficult, emotionally taxing
 
 Understanding from the partner who has lost their sexual appetite towards the sexually active partner is crucial in such situations. If you know what sex means to your partner on deeper levels, you can handle their approach in a way that provides intimacy without having to engage in intercourse. If you say to them, “I can’t believe it! Seriously, you’re only thinking about sex at a time like this? Just leave me alone. Can’t you see I’m not in the mood?” This will surely drive a wedge between you two. But you could also say, “Honey, I can see that you would really enjoy being intimate right now, and I would too if we weren’t in this situation. But I wouldn’t be able to relax right now. However, you need to know that you’re very important to me, and I’m glad you’re my husband.” After such a response, the couple’s strong bond remains intact without engaging in intercourse.
 
-### 4. Financial Security
+### ^[4. Financial Security]({"style": {"text": {"color": "#00AABB"}}})
 
 During crises, tension often prevails in families living from one month to the next. in contrast, households that have made reserves tend to have a calmer and more loving atmosphere.
 
@@ -54,7 +54,7 @@ Our own research has supported this observation. There was a clear correlation b
 
 A family budget plan is an excellent tool for this process. There are many definitions of a budget, but the one I like best is budgeting, which means telling your money where to go instead of wondering where it went at the end of the month.
 
-### 5. Order and Personal Grooming
+### ^[5. Order and Personal Grooming]({"style": {"text": {"color": "#00AABB"}}})
 
 When faced with something we cannot control, we can better cope with it by starting to control what we do have power over.
 
@@ -64,7 +64,7 @@ Interestingly, drug prevention programs targeting children have also drawn atten
 
 We couldn’t choose to have a pandemic, war, or other measures affecting us. But we can decide whether to clean up, shave, and follow a routine in difficult situations.
 
-### 6. Emotional Availability
+### ^[6. Emotional Availability]({"style": {"text": {"color": "#00AABB"}}})
 
 While the previous five steps are very practical, the last two are more about factors that determine the atmosphere, the climate of the relationship, and the long-term result of repeated decisions.
 
@@ -74,7 +74,7 @@ We are creatures designed for attachment! Our brains are wired to need the close
 
 The paradigm shift was brought about by a psychologist named John Bowlby, who extended attachment theory from childhood to adulthood. in contrast to the previous position, Bowlby spoke of “effective dependence” and that one sign and source of strength is our ability to turn to others for emotional support ‘from the cradle to the grave. This idea was further developed by the late Sue Johnson, who completely rephrased everything we thought about love. Thanks to her work we now know that love is actually the most irresistible survival mechanism of the human species. Not because it prompts but because love compels us to emotionally bond with those few, most valuable people who provide us with a safe haven amidst life’s storms. Love is the fortress whose purpose is to provide us with emotional protection so that we can cope with the vicissitudes of existence. The need for emotional attachment is coded into our genes and our bodies. It is just as fundamental to health and happiness as the need for food, physical safety, and sex (Johnson, 2016).
 
-### 7. Hope Factor
+### ^[7. Hope Factor]({"style": {"text": {"color": "#00AABB"}}})
 
 As a pastor and couples therapist, perhaps this was the most exciting part of the research for me. Is there any connection between faith, spirituality, and whether a relationship progresses or declines in crisis? The numbers convincingly confirm that spirituality is an important component of relationship resilience, the ability to cope with difficulties. It is also clear that couples who live out their faith together (spiritually compatible) are more likely to be on a path of growth than those who do not engage in any religious life or do not live it in harmony with each other (spiritually incompatible couples). Depending on our personal attitude, faith can be a resource in a relationship, but it can also be a serious source of conflict. in the case of couples on a growing path, faith tends to be more of a resource.
 
@@ -96,7 +96,7 @@ We can summarize the seven factors as follows:
 
 ![7 Hope Factors](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2025/04-leadership-resources-05-the-seven-secrets-of-storm-resilient-family-relationships/image.png)
 
-### Storm-resilient Training Plan
+### ^[Storm-resilient Training Plan]({"style": {"text": {"color": "#00AABB"}}})
 
 We’ve looked at the seven secrets of storm-resistant family and love relationships, and now the question remains: How can you make your relationship storm-resistant too? I like to imagine this as a barrel with seven staves, each representing one of the seven factors listed and each of varying lengths. What determines how much water the barrel can hold? The answer is very simple: The water will spill out at the lowest stave (Schwarz, 1996). Therefore, we must recognize the weakest point of our relationship and develop it so that the imaginary barrel can hold as much water as possible, meaning our relationship becomes as storm-resistant as possible.
 

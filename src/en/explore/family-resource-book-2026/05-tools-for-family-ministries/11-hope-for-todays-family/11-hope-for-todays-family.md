@@ -1,5 +1,6 @@
 ---
-title: Hope for Today's Family
+title: Hope for Today’s Family
+markdownTitle: '^[Hope for Today’s Family]({"style": {"text": {"color": "#00B3B2"}}})'
 ---
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-11-hope-for-todays-family/image.png)

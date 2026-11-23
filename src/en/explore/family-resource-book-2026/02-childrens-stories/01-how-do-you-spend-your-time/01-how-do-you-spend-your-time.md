@@ -1,5 +1,6 @@
 ---
 title: How Do You Spend Your Time?
+markdownTitle: '^[How Do You Spend Your Time?]({"style": {"text": {"color": "#5E2A53"}}})'
 subtitle: Dawn Jacobson-Venn
 ---
 
@@ -35,7 +36,7 @@ When the sun began to set, Ella prayed, “Jesus, thank You for helping me make 
 
 “Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things” Philippians 4:8, NIV.
 
-### REFLECTION QUESTIONS FOR KIDS,
+### ^[REFLECTION QUESTIONS FOR KIDS,]({"style": {"text": {"color": "#5E2A53"}}})
 
 _If shared in a lesson study for Sabbath School or Adventurer Club meeting._
 

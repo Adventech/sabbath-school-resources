@@ -1,5 +1,6 @@
 ---
 title: A Good Presentation Will Do Four Things
+markdownTitle: '^[A Good Presentation Will Do Four Things]({"style": {"text": {"color": "#2B3241"}}})'
 ---
 
 1. **Inform** – People should learn something they did not know prior to attending your presentation.
@@ -7,14 +8,14 @@ title: A Good Presentation Will Do Four Things
 3. **Touch the Emotions** – Information that only informs the head never makes a change in attitude or behavior.
 4. **Move to Action** – If participants leave your presentation without a desire to DO something different –you have wasted your time and theirs!
 
-### Handouts
+### ^[Handouts]({"style": {"text": {"color": "#2B3241"}}})
 
 - Distribute only when they are relevant to the presentation.
 - Sometimes it’s best not to distribute handouts until the end of the meeting: the audience shouldn’t be rustling papers while you are speaking.
 - Your audience should not read ahead and tune you out.
 - Don’t just copy someone else’s presentation for your handouts.
 
-### Introduction
+### ^[Introduction]({"style": {"text": {"color": "#2B3241"}}})
 
 - Find out who will introduce you.
 - Write your own introduction.

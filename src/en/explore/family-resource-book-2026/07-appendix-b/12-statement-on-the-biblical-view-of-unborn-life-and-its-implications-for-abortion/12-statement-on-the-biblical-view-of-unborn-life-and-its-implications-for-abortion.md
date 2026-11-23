@@ -1,5 +1,6 @@
 ---
 title: Statement on the Biblical View of Unborn Life and Its Implications for Abortion
+markdownTitle: '^[Statement on the Biblical View of Unborn Life and Its Implications for Abortion]({"style": {"text": {"color": "#B13523"}}})'
 ---
 
 Human beings are created in the image of God. Part of the gift that God has given us as humans is procreation, the ability to participate in creation along with the Author of life. This sacred gift should always be valued and treasured. in God’s original plan every pregnancy should be the result of the expression of love between a man and a woman committed to each other in marriage. A pregnancy should be wanted, and each baby should be loved, valued, and nurtured even before birth. Unfortunately, since the entrance of sin, Satan has made intentional efforts to mar the image of God by defacing all of God’s gifts—including the gift of procreation. Consequently, individuals are at times faced with difficult dilemmas and decisions regarding a pregnancy.

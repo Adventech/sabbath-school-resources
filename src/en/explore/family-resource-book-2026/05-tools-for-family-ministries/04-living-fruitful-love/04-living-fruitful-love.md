@@ -1,5 +1,6 @@
 ---
 title: Living Fruitful Love
+markdownTitle: '^[Living Fruitful Love]({"style": {"text": {"color": "#00B3B2"}}})'
 subtitle: 2021 Family Togetherness Week Of Prayer
 ---
 
