@@ -417,4 +417,7 @@ Reprinted from Chapter 19, originally published in Family: Contemporary Issues o
 
 _Telma Witzig, MA, is a psychologist with focus on family relationships. She is licensed in Switzerland, Germany, and Brazil._
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

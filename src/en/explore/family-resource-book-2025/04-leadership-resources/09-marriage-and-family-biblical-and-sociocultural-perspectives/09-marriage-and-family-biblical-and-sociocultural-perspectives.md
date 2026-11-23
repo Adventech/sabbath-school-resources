@@ -114,4 +114,7 @@ White, E. G. (1902). Testimonies for the church (Vol. 7). Pacific Press.
 
 Wilkins, M. J. (2004). The NIV Application Commentary: Matthew. Zondervan.
 
-_Boubakar Sanou, DMin, PhD is an Associate Professor of Mission and Intercultural Leadership at the Seventh-day Adventist Theological Seminary at Andrews University in Berrien Springs, MI, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Boubakar Sanou**, DMin, PhD is an Associate Professor of Mission and Intercultural Leadership at the Seventh-day Adventist Theological Seminary at Andrews University in Berrien Springs, MI, USA._

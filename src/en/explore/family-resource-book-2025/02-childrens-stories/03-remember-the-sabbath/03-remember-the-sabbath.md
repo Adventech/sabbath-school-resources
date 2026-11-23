@@ -40,4 +40,7 @@ God loves us so much that He made the Sabbath Day. He also knew that we might fo
 
 **Let’s Pray Together**: Dear Heavenly Father, thank You for creating such a beautiful world for us to live in. Thank You for giving us the Sabbath, a day to rest, worship You, and enjoy time with our family and friends. Help us to remember this special day each week and keep it holy, just like You taught us. in Jesus' name. Amen.
 
-_Dawn Jacobson-Venn, MA, is the Senior Editorial Assistant for the Department of Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Dawn Jacobson-Venn**, MA, is the Senior Editorial Assistant for the Department of Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

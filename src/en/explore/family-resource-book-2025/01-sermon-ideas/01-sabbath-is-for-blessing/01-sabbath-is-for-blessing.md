@@ -168,4 +168,7 @@ White, E. G. (1940). The desire of ages (p. 289). Pacific Press Publishing Assoc
 
 White, E. G. (1957). Counsels for the church (p. 267). Review and Herald Publishing Association. White, E. G. (1958). Patriarchs and prophets (p. 48). Pacific Press Publishing Association.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

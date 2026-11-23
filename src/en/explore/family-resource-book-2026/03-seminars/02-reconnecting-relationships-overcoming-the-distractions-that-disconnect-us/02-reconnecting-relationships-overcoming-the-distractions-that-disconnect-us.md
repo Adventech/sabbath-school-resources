@@ -192,6 +192,7 @@ There are many stressors and distractions that can disconnect us from one anothe
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Heather Beeson**, DMFT, MA, LMFT, is an Assistant Professor for the Department of Counseling and Family Sciences, and the Director for the Doctor of Marital and Family Therapy Program for Loma Linda University School of Behavioral Health, Loma Linda, California, USA._
 _**Elizabeth James**, DMFT, MA, LMFT, LPCC is an Assistant Professor for Counseling and Family Sciences, and the Coordinator for the Marital and Family Therapy MS Online Program for Loma Linda University School of Behavioral Health, Loma Linda, California, USA._
 _**Bryan Cafferky**, PhD, MDiv, LMFT, CFLE is an Associate Professor in the School of Behavioral Health at Loma Linda University, Loma Linda, California, USA._

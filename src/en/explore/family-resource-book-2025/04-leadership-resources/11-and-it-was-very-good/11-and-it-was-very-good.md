@@ -64,4 +64,7 @@ Davidson, R. M. (2015). The nature of the human being from the beginning: Genesi
 
 Pope, S. (2019). If it feels good, do it. Marriage Inspiration. https://bit.ly/IfItFeelsGoodDoIt
 
-_Gina Wahlen, M.A. is the Editor and Project Manager for the Office of the President at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Gina Wahlen**, M.A. is the Editor and Project Manager for the Office of the President at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

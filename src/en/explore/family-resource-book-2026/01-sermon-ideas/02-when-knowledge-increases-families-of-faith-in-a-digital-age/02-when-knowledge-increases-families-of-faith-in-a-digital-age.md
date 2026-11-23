@@ -172,6 +172,7 @@ If so, let’s lift our eyes from our screens and turn our hearts toward heaven,
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Delbert Baker**, PhD, and **Susan Baker**, DSc are a ministry team who are seasoned educators, wellness advocates, authors, and an experienced pastoral team. They have served as a ministry team for more than 50 years on multiple continents. Dr. Delbert Baker currently serves as the Director of Research and Development for the Regional Conference Retirement Plan. Dr. Susan Baker, a physical therapist and educator, is retired._
 
 ---

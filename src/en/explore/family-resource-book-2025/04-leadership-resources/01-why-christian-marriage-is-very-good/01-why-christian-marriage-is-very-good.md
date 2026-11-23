@@ -190,4 +190,7 @@ We often say that if most people knew what having a good marriage entailed, most
 
 Reprinted from Chapter 1, originally published in Family: Contemporary Issues on Marriage and Parenting, Volume 3 of the Biblical Research Institute Studies in Biblical Ethics series, edited by Ekkehardt Mueller and Elias Brasil de Souza, 2023. Used with permission.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

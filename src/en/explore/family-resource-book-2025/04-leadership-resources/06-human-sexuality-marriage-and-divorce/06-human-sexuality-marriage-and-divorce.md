@@ -224,4 +224,7 @@ Seventh-day Adventist Church. (2024). Well-being and value of children. Adventis
 
 Seventh-day Adventist Church. (2024). Seventh-day Adventist Church manual (21st ed.). General Conference of Seventh-day Adventists.
 
-_Ekkehardt Mueller, ThD, DMin, is a retired associate director of the Biblical Research Institute of the General Conference of Seventh-day Adventists. He lectures internationally._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Ekkehardt Mueller**, ThD, DMin, is a retired associate director of the Biblical Research Institute of the General Conference of Seventh-day Adventists. He lectures internationally._
