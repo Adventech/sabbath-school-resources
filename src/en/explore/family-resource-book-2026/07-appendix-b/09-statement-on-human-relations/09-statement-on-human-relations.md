@@ -8,4 +8,7 @@ One of the most troubling aspects of our times is the manifestation of racism an
 
 The equality of all people is one of the tenets of our church. Our Fundamental Belief No. 13 states: “in Christ we are a new creation; distinctions of race, culture, learning and nationality, and differences between high and low, rich and poor, male and female, must not be divisive among us. We are all equal in Christ, who by one Spirit has bonded us into one fellowship with Him, and with one another; we are to serve and be served without partiality or reservation.”
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was approved and voted by the General Conference of Seventh-day Adventists Administrative Committee (ADCOM) and was released by the Office of the President, Robert S. Folkenberg, at the General Conference session in Utrecht, the Netherlands, June 29-July 8, 1995.

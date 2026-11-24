@@ -55,13 +55,9 @@ There can also be post-traumatic growth after abuse for some. Post-traumatic gro
 Counselors who treat men who have been sexually abused are able to help men address issues as they relate to relationships.
 
 - Social competence
-
 - Self-esteem
-
 - Communication skills
-
 - Educate his partner to improve understanding of challenges and how to help in overcoming sexual and trust issues.
-
 - Conduct pre-marital counseling
 
 The best way to overcome past betrayal is to develop a trusting, healthy relationship with someone. Sometimes, couples need help to get to that point.
@@ -124,4 +120,7 @@ Tedeschi, R. G., Shakespeare-Finch, J., Taku, K., & Calhoun, L. G. (2018). Postt
 
 Wark, J., & Viz, J. (2018). Effects of child abuse on the parenting of male survivors. Trauma, Violence, & Abuse, 19(5), 499–511. https://doi.org/10.1177/1524838016673600
 
-_Alina Baltazar, PhD, MSW, LMSW, CFLE, CCTP-I, CCTP-F is the MSW Program Director & Professor in the School of Social Work and Co-Associate Director for the Institute for the Prevention of Addictions at Andrews University, and also a psychotherapist who treats mental illness in children/adolescents and families in Berrien Springs, MI, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Alina Baltazar**, PhD, MSW, LMSW, CFLE, CCTP-I, CCTP-F is the MSW Program Director & Professor in the School of Social Work and Co-Associate Director for the Institute for the Prevention of Addictions at Andrews University, and also a psychotherapist who treats mental illness in children/adolescents and families in Berrien Springs, MI, USA._

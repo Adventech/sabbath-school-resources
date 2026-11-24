@@ -152,4 +152,7 @@ Schäfer, H. (1982). Mach ein Fenster dran! Beispiele für die Wahrheiten der Bi
 
 Schäfer, H. (1987). in Bildern reden: Beispiele für die Wahrheiten der Bibel. Christliches Verlagshaus. Seamands, D. (1991). Healing for damaged emotions. Victor Books.
 
-_Ekkehardt Mueller, ThD, DMin, is a retired associate director of the Biblical Research Institute of the General Conference of Seventh-day Adventists. He lectures internationally._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Ekkehardt Mueller**, ThD, DMin, is a retired associate director of the Biblical Research Institute of the General Conference of Seventh-day Adventists. He lectures internationally._

@@ -59,6 +59,7 @@ As leaders and committed Seventh-day Adventists, we are called to prayerfully an
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Keldie Paroschi**, PhD, is an associate director of the Biblical Research Institute at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 ---

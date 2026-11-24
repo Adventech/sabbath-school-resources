@@ -46,4 +46,7 @@ Let’s open our Bibles in Matthew 19:26
 
 Grigonis, R. (2019, August 20). Little miracle: How God used a spider to save a Marine. Fr. Hugh Duffy’s Blog. https://www.fatherduffy.com/god-and-the-spider/
 
-_Mildred Weiss, PGDipEd, B.S. in Nutrition, is a Freelance Project Manager from Lacombe, Alberta, Canada._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Mildred Weiss**, PGDipEd, B.S. in Nutrition, is a Freelance Project Manager from Lacombe, Alberta, Canada._

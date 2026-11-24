@@ -13,4 +13,7 @@ The family ministries leader designs a ministry to families that will meet the s
 7. Communicate with the congregation. Family ministries should not be perceived simply as an annual event. Keep the importance of good family skills alive by use of posters, the church newsletter and/or bulletin throughout the year.
 8. Share your plans with the conference family ministries director.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _Reprinted from Family Ministries Handbook: The complete how-to guide for local church leaders. (2003). Lincoln, NE: AdventSource. Used with permission_

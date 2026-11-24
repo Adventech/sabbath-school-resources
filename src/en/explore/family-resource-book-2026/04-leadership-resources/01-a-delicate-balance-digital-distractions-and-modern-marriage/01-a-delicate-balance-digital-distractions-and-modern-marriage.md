@@ -66,4 +66,5 @@ Reprinted from an article that first appeared in the August 1, 2025 issue of _Ad
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhD, LCPC, CFLE are Directors of the Department of Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

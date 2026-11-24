@@ -22,4 +22,7 @@ Then move to the agenda. Remember that you are modeling family.
 
 An important resource for Family Ministries leader is the Family Ministries Planbook. A new edition of this resource book is published every year and includes programs, sermon outlines, seminars and much more that can be used as part of your yearly program.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _Reprinted from Family Ministries Handbook: The complete how-to guide for local church leaders. (2003). Lincoln, NE: AdventSource. Used with permission_

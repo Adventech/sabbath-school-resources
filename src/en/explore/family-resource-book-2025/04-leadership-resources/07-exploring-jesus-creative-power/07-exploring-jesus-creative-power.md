@@ -114,4 +114,7 @@ God is our Creator, and we are made in His image—this is our most fundamental 
 
 Reprinted from an article first appeared in the September 2024 issue of Ministry,® International Journal for Pastors, www.MinistryMagazine.org. Used by permission. 
 
-_Sven Östring, PhD, MAPL is the Director of Ministry and Strategy in the South Pacific Division in Wahroonga, Australia._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Sven Östring**, PhD, MAPL is the Director of Ministry and Strategy in the South Pacific Division in Wahroonga, Australia._

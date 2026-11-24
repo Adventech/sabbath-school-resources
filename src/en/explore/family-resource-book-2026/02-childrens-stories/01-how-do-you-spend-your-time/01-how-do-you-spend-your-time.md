@@ -45,4 +45,5 @@ _If shared in a lesson study for Sabbath School or Adventurer Club meeting._
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Dawn Jacobson-Venn**, MA is the Senior Editorial Assistant for the Department of Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

@@ -80,4 +80,5 @@ So, when you hear that quiet voice of God inviting you to spend time alone with 
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Mindy Salyers**, LCMHC-A, MSC, BA, is an Elementary Educator, School Counselor and Certified OLWEUS Trainer in the USA._

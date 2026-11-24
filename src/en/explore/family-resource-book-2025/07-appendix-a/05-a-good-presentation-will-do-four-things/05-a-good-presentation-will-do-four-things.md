@@ -22,4 +22,7 @@ title: A Good Presentation Will Do Four Things
 - Pronounce any unusual words– check accuracy of all information.
 - Don’t make assertions that are not true.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _Reprinted from Family Ministries Handbook: The complete how-to guide for local church leaders. (2003). Lincoln, NE: AdventSource. Used with permission_

@@ -80,4 +80,7 @@ NOTE FROM THE AUTHORS
 
 During the prepubescent stage, boys learn a _boy code_ that teaches them to be strong, competitive, and sexually aggressive. in contrast, girls learn a _girl code_ that teaches them to be nice, cooperative, and sexually modest. There are also significant differences in levels and types of hormones in boys and girls. Testosterone levels in boys and high estrogen levels in girls, these hormones set the stage for secondary sexual characteristics such as pubic hair, breast and hip development, muscles, etc. Most boys find their masculine identity in male-typical behavior, and girls in female-typical behavior. These behaviors tend to be impacted by parental values and spiritual teachings.
 
-_César De León, PhD, Licensed Marriage and Family Therapist and Carolann De León RN, MS in Marriage and Family Therapy, MAPM, are directors of the Department of Family Ministries of the North American Division of Seventh-day Adventists, Columbia, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**César De León**, PhD, Licensed Marriage and Family Therapist and Carolann De León RN, MS in Marriage and Family Therapy, MAPM, are directors of the Department of Family Ministries of the North American Division of Seventh-day Adventists, Columbia, Maryland, USA._

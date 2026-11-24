@@ -10,4 +10,7 @@ The monogamous union in marriage of a man and a woman is affirmed as the divinel
 
 to this biblical view of marriage the Seventh-day Adventist Church adheres without reservation, believing that any lowering of this high view is to that extent a lowering of the heavenly ideal. Because marriage has been corrupted by sin, the purity and beauty of marriage as it was designed by God needs to be restored. Through an appreciation of the redemptive work of Christ and the work of His Spirit in human hearts, the original purpose of marriage may be recovered and the delightful and wholesome experience of marriage realized by a man and a woman who join their lives in the marriage covenant.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was approved and voted by the General Conference of Seventh-day Adventists Administrative Committee (ADCOM) on April 23, 1996.

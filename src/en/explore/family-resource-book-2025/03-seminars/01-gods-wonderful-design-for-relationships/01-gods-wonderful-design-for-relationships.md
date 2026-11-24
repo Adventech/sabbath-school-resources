@@ -92,4 +92,7 @@ Cozolino, L. (2014). The neuroscience of human relationships: Attachment and the
 
 Covey, S. R. (1989). The 7 habits of highly effective people: Powerful lessons in personal change. Simon & Schuster. White, E. G. (1905). The ministry of healing. Pacific Press Publishing Association.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

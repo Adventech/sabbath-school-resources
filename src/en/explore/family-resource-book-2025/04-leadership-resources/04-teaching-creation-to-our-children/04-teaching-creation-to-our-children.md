@@ -110,6 +110,9 @@ White, E. G. (1890). Patriarchs and prophets (p. 44). Review and Herald Publishi
 
 White, E. G. (1888). The great controversy (p. 678). Pacific Press Publishing Association.
 
-_Joseph Kidder, DMin is a Professor of Practical and Applied Theology and Discipleship at the Seventh-day Adventist Theological Seminary at Andrews University in Berrien Springs, Michigan, USA._
+---
 
-_Katelyn Campbell Weakley, MDiv, MSW is the pastor of the Mount Tabor Seventh-day Adventist Church, Portland, Oregon, USA._
+{"style": {"text": {"size": "sm"}}}
+_**Joseph Kidder**, DMin is a Professor of Practical and Applied Theology and Discipleship at the Seventh-day Adventist Theological Seminary at Andrews University in Berrien Springs, Michigan, USA._
+
+_**Katelyn Campbell Weakley**, MDiv, MSW is the pastor of the Mount Tabor Seventh-day Adventist Church, Portland, Oregon, USA._
