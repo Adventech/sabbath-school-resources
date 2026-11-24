@@ -1,8 +1,8 @@
 ---
 title: Meaningful Anniversary Traditions
+markdownTitle: '^[Meaningful Anniversary Traditions]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <p>Question</p>
 > Our third wedding anniversary is coming up soon and my wife and I have been talking about making our anniversaries meaningful. Please share some ideas that will help us accomplish this goal.

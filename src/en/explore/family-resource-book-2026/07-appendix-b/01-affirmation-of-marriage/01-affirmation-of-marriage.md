@@ -1,5 +1,6 @@
 ---
 title: Affirmation of Marriage
+markdownTitle: '^[Affirmation of Marriage]({"style": {"text": {"color": "#B13523"}}})'
 ---
 
 Issues related to marriage can be seen in their true light only as they are viewed against the background of the divine ideal for marriage. Marriage was divinely established in Eden and affirmed by Jesus Christ to be both monogamous and heterosexual, a lifelong union of loving companionship between a man and a woman. in the culmination of His creative activity, God fashioned humankind as male and female in His own image; and He instituted marriage, a covenant-based union of the two genders physically, emotionally, and spiritually, spoken of in Scripture as “one flesh.”

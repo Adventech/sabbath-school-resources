@@ -1,5 +1,6 @@
 ---
 title: Statement on Homosexuality
+markdownTitle: '^[Statement on Homosexuality]({"style": {"text": {"color": "#B13523"}}})'
 ---
 
 The Seventh-day Adventist Church recognizes that every human being is valuable in the sight of God, and we seek to minister to all men and women in the spirit of Jesus. We also believe that by God’s grace and through the encouragement of the community of faith, an individual may live in harmony with the principles of God’s Word.

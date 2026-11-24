@@ -1,24 +1,24 @@
 ---
 title: Exploring Jesus’ Creative Power
+markdownTitle: '^[Exploring Jesus’ Creative Power]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Sven Östring
 ---
-
-_By Sven Östring_
 
 The intellectual ground held by both those who believe in biblical Creation and those who believe in atheistic evolution is certainly a space fraught with dangers for ministers like you and me. Some of us ministers, being trained theologically, do not feel well-equipped to address fascinating yet complex scientific topics like the genetic code, phylogenetic trees, and paleontological evidence. When faced with such difficult issues, we may fall back on just teaching people the basic gospel message. Others of us may recognize the need to address the area of Creation but run unprepared into the fray. Sometimes, we create more chaos than clarity. The question is, Is there an effective way to disciple people regarding Creation?
 
-### The Importance of Addressing Creation
+### ^[The Importance of Addressing Creation]({"style": {"text": {"color": "#00AABB"}}})
 
 It is important to discuss Creation for several reasons. First, researcher David Kinnaman has identified that a significant number of millennials leave the church because they feel that our congregations are shallow, anti-science, and not a place that allows for the expression of any doubt.<sup>1</sup> His research demonstrates that avoiding the topic of Creation is not an effective discipleship strategy.
 
 Second, the beliefs that we hold regarding our origins affect our picture of God and, consequently, our relationship with Him. For example, a minister may feel that it is intellectually necessary to fully integrate biblical Creation with evolution, which will result in the position known as theistic evolution. The negative impact of theistic evolution, though, is that it cultivates the view that God restricts Himself to following the natural laws that we normally observe in nature. Over time, such a view can subconsciously diminish our confidence and awareness that God can perform supernatural miracles in our lives.
 
-### Clearing Up Some Misconceptions
+### ^[Clearing Up Some Misconceptions]({"style": {"text": {"color": "#00AABB"}}})
 
 to begin with, it is worthwhile to clear up some misconceptions. First, there is a belief that science and Christianity are fundamentally in conflict. However, this is an unfortunate misunderstanding. Science starts from the position that the universe has an orderly structure that our rational human minds can understand. Since God is the intelligent Designer of both the structure of the universe and our minds, He provides the rational foundation that science needs to be successful. That means that science and Christianity are not fundamentally in conflict.<sup>2</sup>
 
 Second, many people believe that the critical issue is scientific evidence. Evolutionists will point to what they believe is a growing mountain of scientific data that supports evolution. Creationists, on the other hand, will offer scientific evidence that they claim indicates a recent Creation. However, the real issue is not primarily scientific evidence<sup>3</sup> because we are all dealing with the same physical data. Rather, the fundamental issue, therefore, in the dialogue between Creation and evolution is about the nature and existence of God and the way He acts in the universe. It is important to recognize that we are dealing with theological issues, not scientific ones. This means that, as ministers with theological training, we are actually well-equipped to address fundamental concerns.
 
-### Practical Steps to Effective Discipleship on Creation
+### ^[Practical Steps to Effective Discipleship on Creation]({"style": {"text": {"color": "#00AABB"}}})
 
 Let’s now turn to seven practical steps that we can take to effectively disciple people in our congregations with respect to Creation.
 
@@ -70,7 +70,7 @@ Second, you can direct people in your congregation to your denominational stand 
 
 Leadership does not mean that you try to coerce or force people to believe what you might believe. It means being courageous and honest about what you and your denomination believe the Bible is teaching. Leading people to worship Jesus as Creator is what the Bible is calling us to do: “and he said with a loud voice, ‘Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water’ ” (Rev. 14:7, ESV).
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#00AABB"}}})
 
 God is our Creator, and we are made in His image—this is our most fundamental relationship with Him. While the topic of Creation may be daunting at times, it is an exciting and spiritually fulfilling area to explore. Take courage in the fact that the Holy Spirit will guide you as you disciple people into a deeper understanding of Jesus’ creative work and power.
 

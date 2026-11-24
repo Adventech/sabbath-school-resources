@@ -3,7 +3,7 @@ title: "Digital Dementia: The Alarming Impact Of Over-Connectedness"
 subtitle: Zeno L. Charles-Marcel And Peter N. Landless
 ---
 
-**Q:** I hear that excess use of digital devices can lead to cognitive dysfunction. Are all age groups at risk?
+^[**Q:** I hear that excess use of digital devices can lead to cognitive dysfunction. Are all age groups at risk?]({"style": {"text": {"color": "#FF8900"}}})
 
 **A:** Digital dementia and digital isolation are two emerging conditions associated with the overuse and misuse of digital technologies, particularly smartphones, tablets, and computers. These phenomena are becoming increasingly common across all age groups, raising concerns about health, education, and family worldwide.
 

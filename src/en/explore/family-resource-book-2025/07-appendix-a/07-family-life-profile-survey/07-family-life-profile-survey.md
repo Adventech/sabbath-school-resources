@@ -1,5 +1,6 @@
 ---
 title: Family Life Profile Survey
+markdownTitle: '^[Family Life Profile Survey]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 `Name`

@@ -1,14 +1,14 @@
 ---
 title: Strong as a Brick Wall
+markdownTitle: '^[Strong as a Brick Wall]({"style": {"text": {"color": "#5E2A53"}}})'
+subtitle: Mildred Weiss
 ---
 
-_By Mildred Weiss_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#5E2A53"}}})
 
 Matthew 19:26
 
-### Props
+### ^[Props]({"style": {"text": {"color": "#5E2A53"}}})
 
 Pictures of animals or a variety of stuffed or toy animals that look life-like.
 

@@ -1,14 +1,14 @@
 ---
 title: A Garden Wedding
+markdownTitle: '^[A Garden Wedding]({"style": {"text": {"color": "#5E2A53"}}})'
+subtitle: Elaine Oliver
 ---
 
-_By Elaine Oliver_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#5E2A53"}}})
 
 Genesis 2:18-25
 
-### Materials
+### ^[Materials]({"style": {"text": {"color": "#5E2A53"}}})
 
 Bible, flowers, picture of a bride and groom
 

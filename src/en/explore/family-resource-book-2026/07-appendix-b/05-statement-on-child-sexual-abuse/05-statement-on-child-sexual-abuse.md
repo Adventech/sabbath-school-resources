@@ -1,5 +1,6 @@
 ---
 title: Statement on Child Sexual Abuse
+markdownTitle: '^[Statement on Child Sexual Abuse]({"style": {"text": {"color": "#B13523"}}})'
 ---
 
 Child sexual abuse occurs when a person older or stronger than the child uses his or her power, authority, or position of trust to involve a child in sexual behavior or activity. Incest, a specific form of child sexual abuse, is defined as any sexual activity between a child and a parent, a sibling, an extended family member, or a step/surrogate parent.
@@ -15,31 +16,18 @@ The Adventist Christian community is not immune from child sexual abuse. We beli
 As a Church we believe our faith calls us to:
 
 1. Uphold the principles of Christ for family relationships in which the self-respect, dignity, and purity of children are recognized as divinely mandated rights.
-
 2. Provide an atmosphere where children who have been abused can feel safe when reporting sexual abuse and can feel that someone will listen to them.
-
 3. Become thoroughly informed about sexual abuse and its impact upon our own church community.
-
 4. Help ministers and lay leaders to recognize the warning signs of child sexual abuse and know how to respond appropriately when abuse is suspected or a child reports being sexually abused.
-
 5. Establish referral relationships with professional counselors and local sexual assault agencies who can, with their professional skills, assist abuse victims and their families.
-
 6. Create guidelines/policies at the appropriate levels to assist church leaders in:
-
-- Endeavoring to treat with fairness persons accused of sexually abusing children,
-
-- Holding abusers accountable for their actions and administering appropriate discipline.
-
+	- Endeavoring to treat with fairness persons accused of sexually abusing children,
+	- Holding abusers accountable for their actions and administering appropriate discipline.
 7. Support the education and enrichment of families and family members by:
-
-- Dispelling commonly held religious and cultural beliefs which may be used to justify or cover up child sexual abuse.
-
-- Building a healthy sense of personal worth in each child which enables him or her to respect self and others.
-
-- Fostering Christlike relationships between males and females in the home and in the church.
-
+	- Dispelling commonly held religious and cultural beliefs which may be used to justify or cover up child sexual abuse.
+	- Building a healthy sense of personal worth in each child which enables him or her to respect self and others.
+	- Fostering Christlike relationships between males and females in the home and in the church.
 8. Provide caring support and a faith-based redemptive ministry within the church community for abuse survivors and abusers while enabling them to access the available network of professional resources in the community.
-
 9. Encourage the training of more family professionals to facilitate the healing and recovery process of abuse victims and perpetrators.
 
 (The above statement is informed by principles expressed in the following scriptural passages: Gen 1:26-28; 2:18-25; Lev 18:20; 2 Sam 13:1-22; Matt 18:6-9; 1 Cor 5:1-5; Eph 6:1-4; Col 3:18-21; 1 Tim 5:5-8.)

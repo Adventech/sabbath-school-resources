@@ -1,5 +1,6 @@
 ---
 title: Sample Evaluation
+markdownTitle: '^[Sample Evaluation]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 `1. What inspired you most about this workshop?`

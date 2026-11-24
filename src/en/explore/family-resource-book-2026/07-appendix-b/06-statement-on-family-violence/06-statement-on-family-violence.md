@@ -1,5 +1,6 @@
 ---
 title: Statement on Family Violence
+markdownTitle: '^[Statement on Family Violence]({"style": {"text": {"color": "#B13523"}}})'
 ---
 
 Family violence involves an assault of any kind-verbal, physical, emotional, sexual, or active or passive neglect-that is committed by one person or persons against another within a family, whether they are married, related, living together or apart, or divorced. Current international research indicates that family violence is a global problem. It occurs between individuals of all ages and nationalities, at all socioeconomic levels, and in families from all types of religious and non-religious backgrounds. The overall rate of incidence has been found to be similar for city, suburban, and rural communities.
@@ -15,31 +16,18 @@ Regrettably, family violence occurs in many Christian homes. It can never be con
 It is our belief that the Church has a responsibility-
 
 1. to care for those involved in family violence and to respond to their needs by:
-
-- Listening to and accepting those suffering from abuse, loving and affirming them as persons of value and worth.
-
-- Highlighting the injustices of abuse and speaking out in defense of victims both within the community of faith and in society.
-
-- Providing a caring, supportive ministry to families affected by violence and abuse, seeking to enable both victims and perpetrators to access counseling with Seventh-day Adventist professionals where available or other professional resources in the community.
-
-- Encouraging the training and placement of licensed Seventh-day Adventist professional services for both church members and the surrounding communities.
-
-- Offering a ministry of reconciliation when the perpetrator’s repentance makes possible the contemplation of forgiveness and restoration in relationships. Repentance always includes acceptance of full responsibility for the wrongs committed, willingness to make restitution in every way possible, and changes in behavior to eliminate the abuse.
-
-- Focusing the light of the gospel on the nature of husband-wife, parent-child, and other close relationships, and empowering individuals and families to grow toward God’s ideals in their lives together.
-
-- Guarding against the ostracism of either victims or perpetrators within the family or church community, while firmly holding perpetrators responsible for their actions.
-
+	- Listening to and accepting those suffering from abuse, loving and affirming them as persons of value and worth.
+	- Highlighting the injustices of abuse and speaking out in defense of victims both within the community of faith and in society.
+	- Providing a caring, supportive ministry to families affected by violence and abuse, seeking to enable both victims and perpetrators to access counseling with Seventh-day Adventist professionals where available or other professional resources in the community.
+	- Encouraging the training and placement of licensed Seventh-day Adventist professional services for both church members and the surrounding communities.
+	- Offering a ministry of reconciliation when the perpetrator’s repentance makes possible the contemplation of forgiveness and restoration in relationships. Repentance always includes acceptance of full responsibility for the wrongs committed, willingness to make restitution in every way possible, and changes in behavior to eliminate the abuse.
+	- Focusing the light of the gospel on the nature of husband-wife, parent-child, and other close relationships, and empowering individuals and families to grow toward God’s ideals in their lives together.
+	- Guarding against the ostracism of either victims or perpetrators within the family or church community, while firmly holding perpetrators responsible for their actions.
 2. to strengthen family life by:
-
-- Providing family life education which is grace-oriented and includes a biblical understanding of the mutuality, equality, and respect indispensable to Christian relationships.
-
-- Increasing understanding of the factors that contribute to family violence.
-
-- Developing ways to prevent abuse and violence and the recurring cycle often observed within families and across generations.
-
-- Rectifying commonly held religious and cultural beliefs which may be used to justify or cover up family violence. For example, while parents are instructed by God to redemptively correct their children, this responsibility does not give license for the use of harsh, punitive disciplinary measures.
-
+	- Providing family life education which is grace-oriented and includes a biblical understanding of the mutuality, equality, and respect indispensable to Christian relationships.
+	- Increasing understanding of the factors that contribute to family violence.
+	- Developing ways to prevent abuse and violence and the recurring cycle often observed within families and across generations.
+	- Rectifying commonly held religious and cultural beliefs which may be used to justify or cover up family violence. For example, while parents are instructed by God to redemptively correct their children, this responsibility does not give license for the use of harsh, punitive disciplinary measures.
 3. to accept our moral responsibility to be alert and responsive to abuse within the families of our congregations and our communities, and to declare that such abusive behavior is a violation of Seventh-day Adventist Christian standards. Any indications or reports of abuse must not be minimized but seriously considered. For church members to remain indifferent and unresponsive is to condone, perpetuate, and possibly extend family violence.
 
 If we are to live as children of the light, we must illuminate the darkness where family violence occurs in our midst. We must care for one another, even when it would be easier to remain uninvolved.

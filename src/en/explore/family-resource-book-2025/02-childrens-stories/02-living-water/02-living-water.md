@@ -1,14 +1,14 @@
 ---
 title: Living Water
+markdownTitle: '^[Living Water]({"style": {"text": {"color": "#5E2A53"}}})'
+subtitle: Noemi Durán Royo
 ---
 
-_By Noemi Durán Royo_
-
-### The Texts
+### ^[The Texts]({"style": {"text": {"color": "#5E2A53"}}})
 
 Genesis 1:2, John 4:14
 
-### Props
+### ^[Props]({"style": {"text": {"color": "#5E2A53"}}})
 
 Small plant in a pot, small watering can, glass with water, balloon filled with air, balloon half-filled with water and half-filled with air, lighter/candle.
 

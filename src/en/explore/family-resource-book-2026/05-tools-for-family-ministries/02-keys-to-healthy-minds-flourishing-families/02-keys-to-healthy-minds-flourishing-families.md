@@ -1,5 +1,6 @@
 ---
 title: "Keys to Healthy Minds: Flourishing Families"
+markdownTitle: '^[Keys to Healthy Minds: Flourishing Families]({"style": {"text": {"color": "#00B3B2"}}})'
 subtitle: 2023 Family Togetherness Week Of Prayer
 ---
 

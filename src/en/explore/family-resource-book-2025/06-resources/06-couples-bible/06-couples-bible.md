@@ -1,6 +1,9 @@
 ---
-title: Couple's Bible
+title: Couple’s Bible
+markdownTitle: '^[Couple’s Bible]({"style": {"text": {"color": "#90C140"}}})'
 ---
+
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-06-couples-bible/image.png)
 
 _Safeliz, 2019, 1,500 pages_
 

@@ -3,7 +3,7 @@ title: "The Sacred Space Of Family Time: Resisting The Tyranny Of The Ring"
 subtitle: Willie and Elaine Oliver
 ---
 
-**Q.** With three teenage children involved in multiple activities at church and school and a very busy husband always on the go, it feels like our family connection time is constantly evaporating. The biggest offender on our time is a ringing phone that gets answered. What can we do about this dilemma?
+^[**Q.** With three teenage children involved in multiple activities at church and school and a very busy husband always on the go, it feels like our family connection time is constantly evaporating. The biggest offender on our time is a ringing phone that gets answered. What can we do about this dilemma?]({"style": {"text": {"color": "#FF8900"}}})
 
 **A.** In our hyperconnected world, the seemingly innocent act of answering a phone during family time has profound implications that span biblical wisdom, sociological patterns, and psychological well-being. The compulsion to respond to every ring represents a modern intrusion into sacred spaces that deserves careful examination.
 

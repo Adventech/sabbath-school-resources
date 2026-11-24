@@ -1,5 +1,6 @@
 ---
 title: Rebuilding the Family Altar
+markdownTitle: '^[Rebuilding the Family Altar]({"style": {"text": {"color": "#00B3B2"}}})'
 subtitle: 2022 Family Togetherness Week Of Prayer
 ---
 

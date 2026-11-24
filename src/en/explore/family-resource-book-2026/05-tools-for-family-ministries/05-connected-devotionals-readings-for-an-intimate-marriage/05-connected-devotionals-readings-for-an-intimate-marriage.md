@@ -1,5 +1,6 @@
 ---
 title: "Connected: Devotionals Readings for an Intimate Marriage"
+markdownTitle: '^[Connected: Devotionals Readings for an Intimate Marriage]({"style": {"text": {"color": "#00B3B2"}}})'
 ---
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-05-connected-devotionals-readings-for-an-intimate-marriage/image.png)

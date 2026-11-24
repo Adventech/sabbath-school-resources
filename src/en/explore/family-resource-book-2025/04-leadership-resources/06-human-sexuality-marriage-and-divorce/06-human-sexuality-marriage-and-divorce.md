@@ -1,10 +1,10 @@
 ---
 title: Human Sexuality, Marriage, and Divorce
+markdownTitle: '^[Human Sexuality, Marriage, and Divorce]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Ekkehardt Mueller
 ---
 
-_By Ekkehardt Mueller_
-
-### I. The Present-day Situation
+### ^[I. The Present-day Situation]({"style": {"text": {"color": "#00AABB"}}})
 
 Our current age is, among other things, characterized by an enormous emphasis on sexuality and gender issues in which all former norms and conventions seem to be questioned.
 
@@ -14,7 +14,7 @@ The gender and queer revolutions<sup>6</sup> have affected marriage. Either marr
 
 The reader may easily discern that much of gender theory and teaching about sexuality is based on an evolutionary model of the origin of life and humanity and on a form of humanism in which the human being is understood to be autonomous and quasi its own center to the exclusion of the supernatural, that is God.
 
-### II. The Biblical Model For Marriage and Sexuality: Creation and Relationship With God
+### ^[II. The Biblical Model For Marriage and Sexuality: Creation and Relationship With God]({"style": {"text": {"color": "#00AABB"}}})
 
 The Biblical model is quite different. Instead of self-sufficient humanity, there are God and human beings. According to Scripture, humans were created by God and did not come into existence through a long evolutionary process with the survival of the fittest.
 
@@ -24,7 +24,7 @@ Human beings were created as one male and one female–Adam and Eve (Gen 1:26-31
 
 While the creation account indicates a plurality in God (“Let us make man in our image”– Gen 1:26), the NT is very clear that Jesus is also the Creator. For instance, Colossians 1:13-14 speaks about God’s “Son of His love in whom we have redemption through His blood.” “He is the image of the invisible God, the firstborn [that is the king–see Ps 89:27] over all creation. For by Him all things were created that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or principalities or powers. All things were created through Him and for Him. and He is before all things, and in Him all things consist.” Thus, we are not only talking about a transcendent Creator God but the immanent Jesus Christ who has created us. and it is this Jesus who has promised His followers abundant life (John 10:10) if they love Him and keep His commandments (John 14:21; 15:10). Therefore, it is more than reasonable to follow the OT commandments pertaining to marriage and sexuality as well as Jesus’ instructions in the NT. They are given to guarantee a fulfilled and blessed life as singles and as married couples.
 
-### III. Some Definitions
+### ^[III. Some Definitions]({"style": {"text": {"color": "#00AABB"}}})
 
 We must stop for a moment and briefly define concepts related to sexuality and sexual activity from a biblical perspective.
 
@@ -44,7 +44,7 @@ _4. Adultery and sexual immorality._
 
 Biblically, the term “adultery” (moicheia) and its verb “to commit adultery” describe a sexual relation with a person other than one’s spouse (Exod 20:14; John 8:3).<sup>11</sup> in OT times, a person involved in adultery was liable for capital punishment (Lev 20:10; Deut 22:22; see also John 8:5). The term “sexual immorality” (porneia) and its related terms typically describe the overarching problem of sexuality gone wrong and includes issues such as adultery, bestiality, incest, and others.<sup>12</sup> to claim that the meaning of porneia surpasses sexual sins does not define the biblical term biblically and would allow for all kinds of maneuvers to accommodate one’s own view. Neither “adultery” nor “sexual immorality” can be redefined, for instance, as “violence” without being unfaithful to Scripture. Although sexuality may at times be violent, the terms mentioned above focus on the sexual aspect.
 
-### IV. Unacceptable Sexual Behavior in Genesis After The Fall
+### ^[IV. Unacceptable Sexual Behavior in Genesis After The Fall]({"style": {"text": {"color": "#00AABB"}}})
 
 Genesis 1 and 2 describe humanity and marriage in positive terms. This changes with the entrance of sin into the world. People are sinners in an environment affected by sin, and they create chaos. There is no direct report that the Ten Commandments were given to the antediluvians and the patriarchs, but it can be assumed that these people knew at least partially the divine law: Cain’s murder was absolutely horrible. Lying, even under difficult circumstances is not endorsed. on the other hand, we hear that Abraham obeyed God’s commandments (Gen 26:5). Regarding sexuality, the following non-acceptable acts are mentioned in Genesis:
 
@@ -63,7 +63,7 @@ Jesus and the NT also oppose the different types of sexual immorality mentioned 
 
 At the end the question for us is if we are willing to follow Jesus and His Word, confess our shortcomings, and ask Him for forgiveness and help for living a new and fulfilled life as He has promised.
 
-### V. Reasons for Divorce
+### ^[V. Reasons for Divorce]({"style": {"text": {"color": "#00AABB"}}})
 
 Now we turn to the problem of divorce. Divorce has become widespread, and the reasons why it is sought vary. Divorce rates in Christian circles almost match those in non-Christian and secular circles. Many couples are unhappy and suffering. Even those who have been married for decades are not exempt from getting a divorce. in 2018, Kathy McCoy wrote: “The Baby Boomers, who started turning 50 in 1996, haven’t been quite so reluctant to divorce [as their parents have]— either in youthful or mature marriages. That may explain, at least in part, the increase in gray divorce. in 1990, 5 out of 1,000 married people over 50 divorced. By 2010, it was 10 out of 1,000...According to a recent study, those who have been divorced before are more likely to divorce again, and those in marriages of shorter duration are more likely to divorce...For those over 50, the rate of divorce for those who are in remarriages is 2.5 times higher than for those in first marriages. and those in remarriages of less than 10 years duration are nearly 10 times more likely to divorce than those married 40 years or more . . .” (McCoy).<sup>14</sup>
 
@@ -111,7 +111,7 @@ With the inclusion of violence–physical and/or psychological–and neglect as 
 
 Finally, one does not need to change the biblical theology of marriage to deal with difficult cases in a caring way. There are several cases in which Ellen G. White had to deal with divorce. What can be learned from her is that in some cases an easy fix was not possible, and we may have to leave the involved spouses alone in the sense that we cannot regulate all cases. But E. G. White clearly supported Scripture by stating: “Nothing but the violation of the marriage bed can either break or annul the marriage vow...Men are not at liberty to make a standard of law for themselves, to avoid God’s law and please their own inclination. They must come to God’s great moral standard of righteousness...God gave only one cause why a wife should leave her husband, or the husband leave his wife, which was adultery” (AH 341-342). If we attempt “to update” Scripture, we are indirectly claiming that the Bible is not sufficient and God has not foreseen the future, including our current era, or is not speaking to us today through His Word. Furthermore, if we change, add to, or take away from Scripture (Rev 22:18-19) as in the case of divorce, why should we not do it also in other cases? Why would we keep, for instance, Sabbath instead of Sunday, still practice foot washing, and still be opposed to the sexual revolution in its various forms (e.g., incest, orgies, prostitution, adultery)? But if we decide to do that, we make ourselves lords over the Word of God, replace Jesus as the Master with ourselves, and may change anything that comes to mind.
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#00AABB"}}})
 
 Sexuality gone wrong is a difficult issue and typically causes much pain for those involved. Jesus is compassionate and cares for all His suffering children. He also upholds the importance of marriage as a divine gift which can bring with it many blessings. So must we do. Human hardness of heart and depravity are not to overrule God’s ideal. The divine plan regarding sexuality and marriage is very good and must be supported. However, so must also be those who suffer from the problem of sin. The Lord of the resurrection can forgive sins, revive dying marriages, and give hope to the afflicted.
 

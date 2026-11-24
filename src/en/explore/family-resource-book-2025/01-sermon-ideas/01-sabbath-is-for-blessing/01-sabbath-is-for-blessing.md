@@ -1,14 +1,14 @@
 ---
 title: Sabbath is for Blessing
+markdownTitle: '^[Sabbath is for Blessing]({"style": {"text": {"color": "#0D6EEF"}}})'
+subtitle: Willie and Elaine Oliver
 ---
 
-_By Willie and Elaine Oliver_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Luke 6:1-11 ESV
 
-### I. Introduction
+### ^[I. Introduction]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Today, we gather to explore a profound and philosophical truth that lies at the heart of our faith and practice as Seventh-day Adventist Christians. Our focus and attention is on Luke 6:1-11, a passage that unwraps and unpacks Jesus’ teachings about the Sabbath and challenges us to appreciate, recognize, and understand its true purpose in our lives today.
 
@@ -20,7 +20,7 @@ As we take a deep dive into this text, we’ll see how Jesus—as the Lord of th
 
 Our sermon today is titled, Sabbath is for Blessing; let us pray: “Dear God, as we study Your Word today, open our hearts and minds to understand Your purpose for the Sabbath. Help us to see this day through Your eyes and to experience the blessings You intend for us and our families today. in Jesus’ name, Amen.”
 
-### II. Background and Context of Luke 6:1-11
+### ^[II. Background and Context of Luke 6:1-11]({"style": {"text": {"color": "#0D6EEF"}}})
 
 to fully appreciate, grasp, and value the significance of this passage, we need to understand its historical and cultural context. The events described in Luke 6:1-11 take place during Jesus’ ministry in Galilee, likely in the second year of His public work.
 
@@ -30,7 +30,7 @@ In their zeal to protect the sanctity of the Sabbath, the Pharisees had created 
 
 It’s in this context that Jesus challenges the prevailing understanding of the Sabbath. His actions and teachings, to be sure, serve to reinstate, restore, and reestablish the true meaning and purpose of this holy day.
 
-### III. Exegesis of The Passage
+### ^[III. Exegesis of The Passage]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Let’s now examine the text in detail.
 
@@ -50,7 +50,7 @@ Jesus’ response highlights several important points:
 
 #### B. Healing on The Sabbath (luke 6:6-11)
 
-“on another Sabbath, he entered the synagogue and was teaching, and a man was there whose right hand was withered. and the scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, so that they might find a reason to accuse him. But he knew their thoughts, and he said to the man with the withered hand, ‘Come and stand here.’ and he rose and stood there. and Jesus said to them, ‘I ask you, is it lawful on the Sabbath to do good or to do harm, to save life or to destroy it?’ and after looking around at them all he said to him, ‘Stretch out your hand.’ and he did so, and his hand was restored. But they were filled with fury and discussed with one another what they might do to Jesus” (Luke 6:6-11, ESV).
+“On another Sabbath, he entered the synagogue and was teaching, and a man was there whose right hand was withered. and the scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, so that they might find a reason to accuse him. But he knew their thoughts, and he said to the man with the withered hand, ‘Come and stand here.’ and he rose and stood there. and Jesus said to them, ‘I ask you, is it lawful on the Sabbath to do good or to do harm, to save life or to destroy it?’ and after looking around at them all he said to him, ‘Stretch out your hand.’ and he did so, and his hand was restored. But they were filled with fury and discussed with one another what they might do to Jesus” (Luke 6:6-11, ESV).
 
 In this second Sabbath incident, Jesus is teaching in the synagogue when He encounters a man with a withered hand. The Pharisees and teachers of the law are watching Jesus closely, hoping to catch Him breaking their Sabbath regulations.
 
@@ -58,7 +58,7 @@ Jesus, aware of their thoughts, brings the man to the center of attention and po
 
 By healing the man’s hand, Jesus demonstrates that doing good and showing compassion is not only permissible on the Sabbath but is, in fact, central to its observance. This action further emphasizes Jesus’ authority as Lord of the Sabbath and His mission to restore God’s original intent for this holy day.
 
-### IV. Key Themes and Teachings
+### ^[IV. Key Themes and Teachings]({"style": {"text": {"color": "#0D6EEF"}}})
 
 From our exegesis of Luke 6:1-11, we can identify several key themes and teachings:
 
@@ -74,7 +74,7 @@ By declaring Himself “Lord of the Sabbath,” Jesus asserts His divine authori
 
 Jesus emphasizes that the Sabbath is a day for doing good and showing compassion. His healing of the man with the shriveled hand demonstrates that acts of mercy and kindness are not only permitted but encouraged on this holy day. This teaching aligns with the prophet Isaiah’s vision of true Sabbath-keeping: “If you turn back your foot from the Sabbath, from doing your pleasure on my holy day, and call the Sabbath a delight and the holy day of the Lord honorable; if you honor it, not going your own ways, or seeking your own pleasure, or talking idly; then you shall take delight in the Lord, and I will make you ride on the heights of the earth; I will feed you with the heritage of Jacob your father, for the mouth of the Lord has spoken” (Isaiah 58:13-14, ESV).
 
-### V. Ellen White’s Perspective on The Sabbath
+### ^[V. Ellen White’s Perspective on The Sabbath]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Ellen G. White offers valuable insights on the Sabbath that align with and expand upon Jesus’ teachings in Luke 6:1-11. Let’s examine some of her counsel:
 
@@ -104,7 +104,7 @@ Ellen White warns against the kind of legalistic Sabbath-keeping that Jesus conf
 
 These insights from Ellen White reinforce the biblical teaching that the Sabbath is a day for blessing, rest, worship, and doing good. They challenge us to approach Sabbath-keeping not as a legalistic obligation, but as a joyful response to God’s love and care for us and His creation. We keep the Sabbath by spending more concentrated and sustained time with God through worship and fellowship with others engaging in the same activity.
 
-### VI. Contemporary Application
+### ^[VI. Contemporary Application]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Now that we’ve explored the biblical text and Ellen White’s insights, let’s consider how we can apply these teachings in our contemporary context.
 
@@ -148,7 +148,7 @@ As we seek to apply these Sabbath principles in our lives, we might face challen
 
 Remember, Jesus’ example shows us that the Sabbath is about more than just following rules—it’s about embodying the love and compassion of God. When we approach the Sabbath with this mindset, we open ourselves up to experiencing its full blessing in our lives and giving us the opportunity to be a blessing to others.
 
-### VII. Conclusion
+### ^[VII. Conclusion]({"style": {"text": {"color": "#0D6EEF"}}})
 
 As we conclude our study of Luke 6:1-11, we’re reminded that the Sabbath is indeed for blessing. Jesus, as Lord of the Sabbath, invites us to experience the full richness of this divine gift. It’s a day for rest, worship, doing good, and strengthening our relationships with God and each other.
 

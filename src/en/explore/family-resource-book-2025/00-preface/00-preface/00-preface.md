@@ -1,5 +1,6 @@
 ---
 title: Preface
+markdownTitle: '^[Preface]({"style": {"text": {"color": "#0D6EEF"}}})'
 ---
 
 Genesis 1 and 2 reminds us of the profound beauty and significance of God’s creation. in the beginning, God established three fundamental institutions that continue to shape our lives and faith today: marriage, family, and the Sabbath. These divine gifts, rooted in the Creation story, offer us a framework for understanding our purpose, fostering relationships, and nurturing connection with our Creator.

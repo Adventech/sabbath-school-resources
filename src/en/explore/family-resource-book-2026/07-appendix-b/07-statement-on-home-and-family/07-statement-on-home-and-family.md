@@ -1,5 +1,6 @@
 ---
 title: Statement on Home and Family
+markdownTitle: '^[Statement on Home and Family]({"style": {"text": {"color": "#B13523"}}})'
 ---
 
 The health and prosperity of society is directly related to the well-being of its constituent parts-the family unit. Today, as probably never before, the family is in trouble. Social commentators decry the disintegration of modern family life. The traditional Christian concept of marriage between one man and one woman is under assault. The Seventh-day Adventist Church, in this time of family crisis, encourages every family member to strengthen his or her spiritual dimension and family relationship through mutual love, honor, respect, and responsibility.

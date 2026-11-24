@@ -1,5 +1,6 @@
 ---
 title: Statement on Racism
+markdownTitle: '^[Statement on Racism]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 One of the odious evils of our day is racism, the belief or practice that views or treats certain racial groups as inferior and therefore justifiably the object of domination, discrimination, and segregation.
