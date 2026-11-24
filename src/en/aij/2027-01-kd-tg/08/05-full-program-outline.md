@@ -74,7 +74,7 @@ When we do things “with love” we do them in a loving, caring, helpful way.
 
 Listen to and sing the **1 Corinthians 16:14 Scripture Song.**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/8-1-corinthians-16-14.mp3] “1 Corinthians 16:14” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/8-1-corinthians-16-14.mp3?updated] “1 Corinthians 16:14” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
