@@ -72,7 +72,7 @@ Share that “marvelous” means very good, amazing, or awesome.
 
 Listen to and sing the **1 Chronicles 16:12 Scripture Song.**
 
-!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/13-1-chronicles-16-12.mp3] “1 Chronicles 16:12” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
+!a[https://sabbath-school-resources-assets.adventech.io/en/aij/2027-01-kd-tg/assets/13-1-chronicles-16-12.mp3?updated] “1 Chronicles 16:12” {"credits":[{"key":"Writer","value":"Sean Nebblett"}],"title": "Credits","copyright":"Copyright © 2026 General Conference Corporation® of Seventh-day Adventists."}
 
 {"style": {"block": {"backgroundColor": "#ECF0E8", "padding": {"top": "sm", "start": "sm", "end":"sm", "bottom": "sm"}}, "text": {"color": "#4d4d4f", "size": "sm"}}}
 **SECRET SURPRISE BOX** (7 MINUTES)
