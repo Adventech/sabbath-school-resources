@@ -1,5 +1,6 @@
 ---
 title: The Family Ministries Leader
+markdownTitle: '^[The Family Ministries Leader]({"style": {"text": {"color": "#2B3241"}}})'
 ---
 
 The family ministries leader designs a ministry to families that will meet the specific needs of the congregation and community. This section provides planning support for family ministries leaders. Planning is critical for ministering to the individuals and families in the congregation. Family ministries is also an excellent way to reach out to families in the community. The family ministries leader is a member of the local church board and integrates family ministries activities to the whole church program. Listed below are responsibilities and activities.

@@ -1,8 +1,8 @@
 ---
 title: Same-sex Attraction
+markdownTitle: '^[Same-sex Attraction]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <callout>Question</callout>
 > I am 19-years-old, in my second year of college. From the time I was a pre-teen I felt different than most of my peers. As I entered my teens my friends showed great interest in girls, while I continued to experience same-sex attraction. I grew up in church and was baptized at 15. I love Jesus and want to be His faithful follower. Since starting college I’ve been pressured by friends to embrace a gay identity and be true to myself, they say. Is it possible to do this and remain a faithful disciple of Jesus?

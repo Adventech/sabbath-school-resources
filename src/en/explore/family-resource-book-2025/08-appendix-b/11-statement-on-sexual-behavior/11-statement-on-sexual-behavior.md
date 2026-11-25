@@ -1,5 +1,6 @@
 ---
 title: Statement on Sexual Behavior
+markdownTitle: '^[Statement on Sexual Behavior]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 In His infinite love and wisdom God created mankind, both male and female, and in so doing based human society on the firm foundation of loving homes and families.

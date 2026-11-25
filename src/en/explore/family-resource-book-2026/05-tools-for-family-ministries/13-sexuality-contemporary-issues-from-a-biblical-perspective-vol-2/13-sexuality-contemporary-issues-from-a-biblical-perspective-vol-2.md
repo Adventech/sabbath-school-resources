@@ -1,5 +1,6 @@
 ---
 title: "Sexuality: Contemporary Issues from a Biblical Perspective, Vol 2"
+markdownTitle: '^[Sexuality: Contemporary Issues from a Biblical Perspective, Vol 2]({"style": {"text": {"color": "#00B3B2"}}})'
 ---
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-13-sexuality-contemporary-issues-from-a-biblical-perspective-vol-2/image.png)

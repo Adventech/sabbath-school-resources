@@ -1,5 +1,6 @@
 ---
 title: Family Life Profile
+markdownTitle: '^[Family Life Profile]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 `Church`

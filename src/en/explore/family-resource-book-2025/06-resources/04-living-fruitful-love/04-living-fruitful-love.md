@@ -1,6 +1,10 @@
 ---
 title: Living Fruitful Love
+markdownTitle: '^[Living Fruitful Love]({"style": {"text": {"color": "#90C140"}}})'
+subtitle: 2021 Family Togetherness Week Of Prayer
 ---
+
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-04-living-fruitful-love/image.png)
 
 _By Willie and Elaine Oliver, With Karen Holford_
 

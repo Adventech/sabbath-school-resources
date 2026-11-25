@@ -9,7 +9,7 @@ Now imagine that you decide to implement a more drastic approach. _I’m going t
 
 Many of us, however, try to follow a similar approach regarding spiritual nurture. We stuff ourselves each Sabbath, assuming the spiritual food will last until the next Sabbath we worship. Is it surprising, then, we don’t get the spiritual results we are aiming for?
 
-### FROM GENERATION TO GENERATION
+### ^[FROM GENERATION TO GENERATION]({"style": {"text": {"color": "#FF8900"}}})
 
 The transmission of the knowledge of God and its implications for living on this earth were the center of family unit dynamics in ancient Israel. Teaching within a family setting was not theoretical but led to an experience of daily connection with God through praise and prayer. “From generation to generation we will proclaim your praise,” wrote Asaph (Ps. 79:13, NIV).
 
@@ -21,7 +21,7 @@ At the same time, it is important to note that teaching one’s children would b
 
 For a committed parent, any instance at home, out in nature, or in the marketplace can become an opportunity to impress a lesson on younger minds.
 
-### KNOWING WHO GOD IS
+### ^[KNOWING WHO GOD IS]({"style": {"text": {"color": "#FF8900"}}})
 
 After God outlined the goal and the results of paying heed to His teachings—“Obey, O Israel, willingly and faithfully, that it may go well with you and that you may increase greatly” (verse 3, Tanakh)—He pronounced the words that became the most well-known confession for Jewish people even today. “Hear, O Israel: The Lord our God, the Lord is one!” (verse 4). Or: “The Lord is our God, the Lord alone” (Tanakh).
 
@@ -31,7 +31,7 @@ Even before formal or informal teaching takes place, parents must grasp the bibl
 
 Acknowledging the uniqueness of God is a worthy first step. It is not, however, an end in and of itself. On the contrary, it should move the believer to engage with that unique God in a unique way.
 
-### ENGAGING WITH GOD
+### ^[ENGAGING WITH GOD]({"style": {"text": {"color": "#FF8900"}}})
 
 Once the believer acknowledges the uniqueness of God, God Himself calls His people to love Him with all they are and have. “You shall love the Lord your God with all your heart, with all your soul, and with all your strength” (Deut. 6:5). Unlike the Greek notion of gods well beyond the comprehension of human earthlings, forever detached, forever unreachable, God calls His people to engage with Him in a loving relationship framed by our way of thinking, feeling, and acting. There is no aspect in our lives—our thoughts, affections, hobbies, projects, our lifework—that is beyond the possibility of interacting with the Master of the universe.
 
@@ -45,7 +45,7 @@ One of the tragedies of many young people growing up in Christian homes is perha
 
 Through heartfelt discussions, open-heart testimonies, and Bible-based prayer, daily family worship can become an outstanding opportunity for teaching younger generations to love the Lord with all they are and have, and in everything they do.
 
-### ALWAYS A TEACHING MOMENT
+### ^[ALWAYS A TEACHING MOMENT]({"style": {"text": {"color": "#FF8900"}}})
 
 After God is acknowledged, God’s words dwell in the parents’ heart, and the family unit itself learns to engage with Him in a wholistic loving relationship, effective formal and informal teaching can take place.
 
@@ -64,7 +64,7 @@ Reprinted from an article that first appeared in the August 3, 2024 issue of _Ad
 
 ---
 
-### NOTES
+### ^[NOTES]({"style": {"text": {"color": "#FF8900"}}})
 
 {"style": {"text": {"size": "sm"}}}
 <sup>1</sup> Texts credited to Tanakh are from Tanakh: A New Translation of the Holy Scriptures According to the Traditional Hebrew Text. Copyright © The Jewish Publication Society of America, 1985, 1999.

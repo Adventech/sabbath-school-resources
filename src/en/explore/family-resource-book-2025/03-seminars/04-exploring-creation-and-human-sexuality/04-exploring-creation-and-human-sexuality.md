@@ -1,24 +1,24 @@
 ---
 title: Exploring Creation and Human Sexuality
+markdownTitle: '^[Exploring Creation and Human Sexuality]({"style": {"text": {"color": "#E2672A"}}})'
+subtitle: César and Carolann De León
 ---
 
-By César and Carolann De León
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#E2672A"}}})
 
 Genesis 1:26-27
 
-### Seminar Overview
+### ^[Seminar Overview]({"style": {"text": {"color": "#E2672A"}}})
 
 In this seminar, we will explore God’s design for human sexuality and how the Fall resulted in destructive consequences that have affected and shaped this experience through the centuries. We will discuss how God’s image can be reflected ontologically and vocationally through all aspects of our human relationships, including our sexuality.
 
-### Introduction
+### ^[Introduction]({"style": {"text": {"color": "#E2672A"}}})
 
 God’s intended design for expressing and experiencing ourselves as sexual beings first within an emotionally caring, trustworthy family and, later, in a loving, person-centered relationship. Sexuality and spirituality are intricately connected and must not be separated (Balswick & Balswick, 2014). We were created as sexual beings. Giving and receiving love and experiencing sexual pleasure is an intricate part of human life. Sexuality is a core component of our human experience. It plays an important role in a person’s physical health. From the beginning, God created humanity, male and female, reflecting His own image. “Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.’ So God created mankind in his own image, in the image of God he created them; male and female he created them” (Genesis 1:26-27 NIV).
 
 Theologically, human sexuality can only be understood as a reflection of God’s design for creation. Since we believe that God created our sexuality, the deepest meaning and understanding we can find can best be discovered by returning to the Creator-Designer’s realm.
 
-### Fundamental Biblical Views of Gender and Sexuality
+### ^[Fundamental Biblical Views of Gender and Sexuality]({"style": {"text": {"color": "#E2672A"}}})
 
 - Male and Female are different genders in God’s plan (Gen. 1:27).
 - Let’s keep in mind that Eve comes to her existence because of Adam’s sacrifice in giving up one of his ribs (Gen. 2:21). Therefore, authentic sexuality is expressed in an atmosphere of love and sacrifice (Eph. 5:25-33).
@@ -39,7 +39,7 @@ Sexuality is ontologically rich because it is also informed by the following fac
 8. Culture
 9. Our family
 
-### We Express God’s Image Ontologically and Vocationally Through Our Sexuality
+### ^[We Express God’s Image Ontologically and Vocationally Through Our Sexuality]({"style": {"text": {"color": "#E2672A"}}})
 
 - Ontologically: We coexist, harmonize, love, cohabit, fructify, multiply.
 - Vocationally: We make a commitment (covenant), extend grace, empower, and experience holistic intimacy with our spouse.
@@ -48,20 +48,20 @@ Sexuality is ontologically rich because it is also informed by the following fac
 - _Sexuality embodies our physiological and spiritual identities._ Men and women are both bearers of the image of God.
 - Sexuality and spirituality are intrinsically connected and should not be separated. (Adam and Eve, being created in the image of God, were created with gender and the faculties to be sexual human beings with the ability to procreate children).
 
-### God’s Plan For Human Sexuality
+### ^[God’s Plan For Human Sexuality]({"style": {"text": {"color": "#E2672A"}}})
 
 - God’s intended design for expressing and experiencing sexuality occurs within a mutually loving, other-centered monogamous marriage that enjoys an emotional, spiritual, and physical bond sealed by a lifelong covenant commitment.
 - We were designed with an innate capacity to experience sexual arousal and pleasure within the context of a marital relationship.
 - God’s intended design for expressing and experiencing ourselves as sexual beings occurs first within the context of an emotionally caring, trustworthy family and, later in our development, within a mutually loving and respectful marriage relationship.
 - “Marriage should be honored by all, and the marriage bed kept pure, for God will judge the adulterer and all the sexually immoral” (Heb. 13:4).
 
-### Post-fall Sexuality
+### ^[Post-fall Sexuality]({"style": {"text": {"color": "#E2672A"}}})
 
 - The Biblical account doesn’t end with the creation story. It is followed by the fall. From Genesis to the New Testament, we witness the effects of the fall on human sexuality.
 - Depersonalized, body-centered sex seems to be hijacking relationship-focused sexuality in our current culture.
 - The interplay between social attitudes and beliefs, cultural structures, and biological factors shapes the inauthentic sexuality inherent in our fallen human condition (Balswick & Balswick, 2014, p. 217).
 
-### The Meaning of Sexuality Has Changed Through The Ages
+### ^[The Meaning of Sexuality Has Changed Through The Ages]({"style": {"text": {"color": "#E2672A"}}})
 
 - **1625-1660 Puritan Era**: Sex was considered good. Monogamy and marital fidelity were appreciated.
 - **1800s Victorian Era**: Everything that appeared to be sexual was repressed, including sexual desires. Women were not to experience sexual desires during intercourse. Sexual desires were pathologized.
@@ -70,7 +70,7 @@ Sexuality is ontologically rich because it is also informed by the following fac
 - **1980s**: Women recognized that they had been robbed of the intimate emotional aspect of sexuality. The issue of virginity resurfaces. A growing fear of the AIDS epidemic and venereal diseases generated certain sexual self-consciousness. “I like sex, but I’m not willing to die for it.”
 - **2000**: Witnessed a growing acceptance of diverse sexual orientations and gender identities, with LGBTQ+ rights gaining more mainstream visibility and support. There was an increased openness in discussing sexuality, partly fueled by the internet and social media, which provided platforms for sex education, exploration, and expression. Hook-up culture became more prevalent, especially among young adults, facilitated by the rise of dating apps and changing attitudes towards casual relationships.
 
-### A Distorted Sexuality
+### ^[A Distorted Sexuality]({"style": {"text": {"color": "#E2672A"}}})
 
 Modernism and post-modernism left us with a very humanistic and reductionistic view of sexuality, where human sexuality emerges as part of a complex interactive process of development between biological and sociocultural factors.
 
@@ -86,21 +86,21 @@ Modernism and post-modernism left us with a very humanistic and reductionistic v
 
 “Parents leave maladies as a legacy to their children. As a rule, every intemperate man who rears children transmits his inclinations and evil tendencies to his offspring; he gives them disease from his own inflamed and corrupted blood. Licentiousness, disease, and imbecility are transmitted as an inheritance of woe from father to son and from generation to generation, and this brings anguish and suffering into the world and is no less than a repetition of the fall of man” (White, 1951, p. 173).
 
-### Sexual Brokenness
+### ^[Sexual Brokenness]({"style": {"text": {"color": "#E2672A"}}})
 
 - Sexual brokenness can take a variety of forms as a result of various types of generational trauma experienced through familial, sociocultural, biological, and spiritual influences.
 - When individuals have the disadvantage of living through traumatic circumstances that result in devastating sexual breakdown, especially when sexual encounters have been early and non-consensual, deep emotional scaring can make sexual healing a long-term process.
 - Some individuals have sexual curiosity and just want to experiment and follow cultural trends.
 - Some individuals are born with genetic variances that are reflected in their physiologically complex gender package.
 
-### The Divine Ideal For Our Sexuality Remains
+### ^[The Divine Ideal For Our Sexuality Remains]({"style": {"text": {"color": "#E2672A"}}})
 
 - The sexual authenticity God intended for us is a goal worth striving for.
 - “Authentic sexuality is most attainable for those who are born with a “normal” genetic and physiological makeup, who are socialized in a home where parents display healthy attitudes toward sexuality, and who live in a community where social values are consistent with biblical teaching” (Balswick & Balswick, 2014).
 - Because the meaning of sexuality is highly informed by sociological factors, it is imperative that our families and our Christian communities live out and display God’s plan for human sexuality.
 - “The more the various groups to which the individual belongs consciously reflect God’s ideal for sexuality, the more internally coherent will be his development of authentic sexuality” (Balswick & Balswick, 2014, p. 22).
 
-### Summary
+### ^[Summary]({"style": {"text": {"color": "#E2672A"}}})
 
 #### Authentic Sexual Expression
 
