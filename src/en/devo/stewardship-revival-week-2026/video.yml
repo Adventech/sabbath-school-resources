@@ -1,0 +1,28 @@
+---
+  video:
+    - artist: GC Stewardship Ministries
+      clips:
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw01.mp4
+          target: en/devo/stewardship-revival-week-2026/01-sanctified-stewardship
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw01.webp
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw02.mp4
+          target: en/devo/stewardship-revival-week-2026/02-the-discipline-of-feeding-the-soul-with-truth
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw02.webp
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw03.mp4
+          target: en/devo/stewardship-revival-week-2026/03-discipline-of-growing-in-grace-together
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw03.webp
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw04.mp4
+          target: en/devo/stewardship-revival-week-2026/04-the-discipline-of-healthy-living
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw04.webp
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw05.mp4
+          target: en/devo/stewardship-revival-week-2026/05-the-discipline-of-participating-in-the-mission-of-christ
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw05.webp
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw06.mp4
+          target: en/devo/stewardship-revival-week-2026/06-the-discipline-of-restoring-the-rhythm-of-worship-and-rest
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw06.webp
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw07.mp4
+          target: en/devo/stewardship-revival-week-2026/07-the-discipline-of-tithing
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw07.webp
+        - src: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw08.mp4
+          target: en/devo/stewardship-revival-week-2026/08-the-discipline-of-offering
+          thumbnail: https://sabbath-school-resources-assets.adventech.io/en/devo/stewardship-revival-week-2026/assets/srw08.webp
