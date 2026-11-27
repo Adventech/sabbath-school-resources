@@ -1,10 +1,13 @@
 import bibleSearchBCV from "@Adventech/bible-tools/bible_tools_bcv.js"
 import { superscript } from "./blocks/index.js"
 import { getLanguageInfoSync } from "../deploy/deploy-languages.js"
+import { protectLinks, restoreLinks } from "./links.js"
 
 let languageInfoGlobal = {}
 
-export const getBibleData = function (resourcePath, text) {
+export const getBibleData = function (resourcePath, originalText) {
+    // Do not detect Bible references inside existing hyperlinks
+    const { text, links } = protectLinks(originalText)
     let outputText
     let bibleData = []
     let bibleVersionsArray = []
@@ -56,6 +59,6 @@ export const getBibleData = function (resourcePath, text) {
         }
     }
 
-    return {text: outputText ?? text, bibleData}
+    return {text: restoreLinks(outputText ?? text, links), bibleData}
 }
 
