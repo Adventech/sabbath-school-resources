@@ -1,5 +1,6 @@
 ---
 title: Statement on Homosexuality
+markdownTitle: '^[Statement on Homosexuality]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 The Seventh-day Adventist Church recognizes that every human being is valuable in the sight of God, and we seek to minister to all men and women in the spirit of Jesus. We also believe that by God’s grace and through the encouragement of the community of faith, an individual may live in harmony with the principles of God’s Word.
@@ -8,4 +9,7 @@ Seventh-day Adventists believe that sexual intimacy belongs only within the mari
 
 Jesus affirmed the dignity of all human beings and reached out compassionately to persons and families suffering the consequences of sin. He offered caring ministry and words of solace to struggling people, while differentiating His love for sinners from His clear teaching about sinful practices. As His disciples, Seventh-day Adventists endeavor to follow the Lord’s instruction and example, living a life of Christ-like compassion and faithfulness.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was voted during the Annual Council of the General Conference Executive Committee on Sunday, October 3, 1999 in Silver Spring, Maryland. Revised by the General Conference Executive Committee, October 17, 2012.

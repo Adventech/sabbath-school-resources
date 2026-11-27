@@ -1,11 +1,12 @@
 ---
 title: "Reconnecting Relationships: Overcoming The Distractions That Disconnect Us"
+markdownTitle: '^[Reconnecting Relationships: Overcoming The Distractions That Disconnect Us]({"style": {"text": {"color": "#FF533E"}}})'
 subtitle: Heather Gayle Beeson, Elizabeth James, Bryan Cafferky, Shondel Mishaw, and Monique Willis
 ---
 
 _Gain relational tools to ease digital, communication, and caregiving pressures—and restore meaningful connection in the home._
 
-### PURPOSE
+### ^[PURPOSE]({"style": {"text": {"color": "#FF533E"}}})
 
 The purpose of this workshop is to help couples and families reconnect with one another. This is not intended to replace psychotherapy or marital counseling for couples who are in distress and needing greater support in improving their relationships. Rather, this workshop aims to provide psychoeducation and support couples and families navigating the everyday stressors which can lead to disconnection and distance in relationships.
 
@@ -13,7 +14,7 @@ This workshop is intended for couples who want to improve the health of their re
 
 The facilitator should have some experience providing relationship education or have worked in a mental health or other service setting. Ideally, referrals to mental health services would be available for couples and families needing greater support and care beyond the scope of a one-day workshop. Although several elements of this workshop borrow from attachment theory and the Gottman Method Couple Therapy (GMCT), introducing these workshop resources is not a substitute for couples receiving quality mental health services.
 
-### WORKSHOP OUTCOMES
+### ^[WORKSHOP OUTCOMES]({"style": {"text": {"color": "#FF533E"}}})
 
 - Improved knowledge and awareness of common sources of disconnection that can create distance in relationships.
 - Acquisition of tools and skills that can support reconnection in couple and family relationships.
@@ -21,12 +22,12 @@ The facilitator should have some experience providing relationship education or 
 - Ability to implement strategies discussed in workshop at home as a couple/ family to reconnect and create rituals of connection.
 - Increased confidence in personal ability to seek connection and respond to connection seeking within the family unit.
 
-### RESOURCES NEEDED
+### ^[RESOURCES NEEDED]({"style": {"text": {"color": "#FF533E"}}})
 
 - One facilitator per 10-12 couples
 - Digital or printed copies of worksheets (in appendix)
 
-### WORKSHOP OUTLINE
+### ^[WORKSHOP OUTLINE]({"style": {"text": {"color": "#FF533E"}}})
 
 **1. INTRODUCTION (20 MINUTES)**
 
@@ -82,13 +83,13 @@ The facilitator should let couples know that the workshop is coming to a close a
 - The facilitator should hand out referrals for therapeutic services as needed.
 - The facilitator should be the last one to leave, answering any questions and offering support as needed.
 
-### SEMINAR INTRODUCTION
+### ^[SEMINAR INTRODUCTION]({"style": {"text": {"color": "#FF533E"}}})
 
 **MAIN POINT**
 
 Couples are faced with a myriad of stressors which can create distance and disconnection in relationships. This workshop aims to remedy this disconnection by providing practical tools and resources to improve relational connection.
 
-### GOTTMAN METHOD COUPLE THERAPY
+### ^[GOTTMAN METHOD COUPLE THERAPY]({"style": {"text": {"color": "#FF533E"}}})
 
 Gottman Method Couple Therapy (GMCT) is a researched based approach to addressing couple relationships. After decades of work with couples, Drs. John and Julie Gottman began developing a theory for improving couples’ relationships. The theory examines three couple systems: (1) the friendship system, (2) the conflict management system, and (3) the creation of shared meaning system (Gottman & Gottman, 2017). John Gottman cites General Systems Theory as the underlying theoretical orientation of Gottman Method Couple Therapy (Gottman & Gottman 2014). Strong relationships are created by strengthening the friendship, conflict, and creating of shared meaning systems. A part of this work is the process of discovering the way in which familial history and the couple’s current homeostasis maintains both resilience and conflict. By understanding couple history and couple norms, practitioners can support couples in discovering new methods of connection to reduce relational conflict.
 
@@ -96,7 +97,7 @@ Strong friendships are created through building love maps (basic understanding o
 
 GMCT ideas are frequently offered in couples’ workshops and are effective in reducing distress, with the greatest benefits observed when the friendship system and conflict management system are included in the skill building process (e.g. Babcock, Gottman, Ryan, & Gottman, 2013). Relationship education programs and workshops are most successful when the couple attends together, are able to access therapy if needed, are currently safe (e.g., no intimate partner violence), and are able to continually practice the skills taught (Stanley et al., 2019). The current workshop aims to integrate the research and science of GMCT with a user-friendly, skill-oriented approach, to teaching couples practical skills to rebuild connections in their relationships.
 
-### COMMON CAUSES OF DISCONNECTION
+### ^[COMMON CAUSES OF DISCONNECTION]({"style": {"text": {"color": "#FF533E"}}})
 
 Couples face many stressors and are often pulled in many directions - experiencing disconnection through various pathways, including dysfunctional communication patterns, mismatched attachment styles, digital distractions, and the emotional toll of caregiver stress. These sources of disconnection are not exhaustive, nor are they the only sources of disconnection. The following sections explore how these factors contribute to relational strain by offering strategies and skills to support reconnection and resilience.
 
@@ -186,12 +187,13 @@ The impact of caregiving is complex, and it is essential to recognize that careg
 - **_Remain Affectionate_** - showing affection and regularly expressing feelings of positivity and appreciation for the other partner.
 - **_Use Relational Tools_** - use positive communication and managing conflict tools, where couples listen actively and engage in practices that soften conversations during conflict.
 
-### CONCLUSION
+### ^[CONCLUSION]({"style": {"text": {"color": "#FF533E"}}})
 
 There are many stressors and distractions that can disconnect us from one another. By increasing our awareness of these distractions, we are able to better mitigate the impact of such stressors. The tools and exercises in this workshop can be one step toward increasing connection, improving communication, and limiting the impact of common stressors. Couples and families should continue to build tools to ensure they remain thoughtful of one another. In a busy world with so many responsibilities it is easy to lose sight of what matters most, our families, our loved ones, and our communities.
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Heather Beeson**, DMFT, MA, LMFT, is an Assistant Professor for the Department of Counseling and Family Sciences, and the Director for the Doctor of Marital and Family Therapy Program for Loma Linda University School of Behavioral Health, Loma Linda, California, USA._
 _**Elizabeth James**, DMFT, MA, LMFT, LPCC is an Assistant Professor for Counseling and Family Sciences, and the Coordinator for the Marital and Family Therapy MS Online Program for Loma Linda University School of Behavioral Health, Loma Linda, California, USA._
 _**Bryan Cafferky**, PhD, MDiv, LMFT, CFLE is an Associate Professor in the School of Behavioral Health at Loma Linda University, Loma Linda, California, USA._
@@ -257,7 +259,7 @@ Zoromba, M. A., Atta, M. H. R., Ali, A. S., El, G. H. E., & Amin, S. M. (2024). 
 
 ```
 
-### WORKSHEETS LIST
+### ^[WORKSHEETS LIST]({"style": {"text": {"color": "#FF533E"}}})
 
 The worksheets on the following pages should be given as handouts. The worksheets include:
 

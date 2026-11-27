@@ -1,5 +1,6 @@
 ---
 title: "Real Family Talk: Answers to Questions About Love, Marriage and Sex"
+markdownTitle: '^[Real Family Talk: Answers to Questions About Love, Marriage and Sex]({"style": {"text": {"color": "#90C140"}}})'
 ---
 
 _By Willie and Elaine Oliver_

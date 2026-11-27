@@ -1,8 +1,8 @@
 ---
 title: "Strengthening Your Union: Is Marriage Counseling for Newlyweds a Good Thing?"
+markdownTitle: '^[Strengthening Your Union: Is Marriage Counseling for Newlyweds a Good Thing?]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <callout>Question</callout>
 > We’ve been married for 18 months, and our relationship has mostly been good. Quite frequently, though, we get annoyed at each other and sometimes it takes us a good day or two before we’re back to relating to each other in a “normal” way. Is it too early in our marriage to get counseling or is this something that can wait until later?
@@ -27,6 +27,9 @@ In light of both biblical teachings and psychological research, newlyweds should
 
 Please know you are in our prayers as you trust God to help you manage your differences early. This will give you the best opportunity for a successful marriage relationship.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 _Reprinted from an article that first appeared in the September 6, 2024 issue of Adventist World. used with permission._

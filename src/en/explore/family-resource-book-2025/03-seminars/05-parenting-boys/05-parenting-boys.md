@@ -41,9 +41,7 @@ Leaving them to be taught by the world has led the world into a chaotic situatio
 Parenting a boy has unique needs and can sometimes present challenges that may be overlooked or neglected. These needs that are not easily noticed require consistent parental attention for a healthy development of masculinity.ced require consistent parental attention for a healthy development of masculinity. Failure to address a boy’s unique need may lead, but not limited to a:
 
 - Failure to adapt to the changing cultural roles that require men to take on new responsibilities.
-
 - Lack of adequate preparation for young men to become leaders of their families, a role that is highly expected in many cultures. It is crucial to properly prepare these young men for this leadership role since it is not automatically given to them.
-
 - The failure of fathers to take responsibility and lead has led to unhappy and divided homes and nations.
 
 Prov. 19:18 "Chasten your son while there is hope" encourages parents to give focused attention to raising boys and preparing them to be leaders in their family, the Church, and society.
@@ -64,11 +62,8 @@ These and many more unique challenges of raising boys indicate that they need th
 Both adolescent girls and boys experience physical and emotional changes in their development. The process of their brain development affects all their emotional reactions; they learn via trial and error and, most of the time, experience the consequences of their mistakes.
 
 - Adolescent boys need understanding, care, and unconditional love as they go through the turbulence of physical and emotional changes. Parent’s involvement in the life of an adolescent is vital.
-
 - Adolescents experience increased pressure from social media in this generation. They are bombarded with so many voices and information, some of which are harmful and destructive to their identity formation.
-
 - At this stage, adolescents are neither children nor adults. They are in the transition period from childhood to adulthood.
-
 - Adolescents are in the fifth stage of their psychosocial development, that Erick Erickson calls Identity vs. Identity confusion in psychosocial development. It is a stage of seeking to know who they are by exploring their interests, roles, values, and direction (Trips, 2024).
 
 Unfortunately, during this time, adolescents are also expected to make significant life decisions and choices about career, values, religion, hobbies, etc. which some later regret when their judgments become more stable. Proper guidance and regular healthy conversations with parents can lessen the undesired outcome of adolescent thinking, attitudes, and actions, which are a result of evil forces and physiological and emotional changes that are going on in their minds and bodies.
@@ -120,15 +115,10 @@ The best example of a well-established moral compass is seen in the life of Jose
 Any noble job cannot go without obstacles and so it is with parenting. These obstacles can paralyze the spiritual, cognitive, and even physical development of our children. Some of these obstacles are, but not limited to:
 
 - The great controversy
-
 - Maturation
-
 - Social Media influence
-
 - Parents overload
-
 - Peer pressure
-
 - Marital Conflict.
 
 Regardless of how these obstacles are introduced to the parenting process, they all can threaten the parenting exercise. The good news is that the word of God is full of promises to encourage parents in their journey; some of these promises are found in Philippians 1:6, 4: 6-7, Proverbs 22:6, and Isaiah 54: 13. God is faithful to all His promises.
@@ -179,4 +169,7 @@ White, E. G. (2013). Education. Nabu Press.
 
 White, E. G. (2024). The ministry of healing: Direction for healthful living. Remnant Publications.
 
-_Winfrida Aneth Mitekaro, PhD, is the Director of the Department of Family Ministries at the East-Central Africa Division of Seventh-day Adventists in Nairobi, Kenya._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Winfrida Aneth Mitekaro**, PhD, is the Director of the Department of Family Ministries at the East-Central Africa Division of Seventh-day Adventists in Nairobi, Kenya._

@@ -1,8 +1,8 @@
 ---
 title: Children of Divorced Parents
+markdownTitle: '^[Children of Divorced Parents]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Telma Witzig, Willie Oliver, and Elaine Oliver
 ---
-
-_By Telma Witzig, Willie Oliver, and Elaine Oliver_
 
 Despite God’s clear intent from the beginning of time for a husband and wife to hold fast to each other and become one flesh (Gen 2:24), the plague of divorce has afflicted the human family throughout history. Without a doubt, God’s plan was for the family—including a husband and wife and their children—to become a place where human relations could flourish, and where children could be nurtured as productive members of society and an integral part of the family of God.<sup>1</sup>
 
@@ -14,7 +14,7 @@ While avoiding divorce is still the preferable option, we encourage those who ha
 
 After a brief overview of the biblical perspective and some general observations on divorce, this study will address four aspects: the children—the main theme of this paper—the parents, suggestions for healing, and the role of the church in the process of divorce and healing.
 
-### Biblical Perspective
+### ^[Biblical Perspective]({"style": {"text": {"color": "#00AABB"}}})
 
 In His discussion with the Pharisees, Jesus made very clear God’s expectation for marriage to be permanent. Matthew’s record offers:
 
@@ -28,7 +28,7 @@ The apostle Paul, in his letter to the Galatians, admonishes, “Bear one anothe
 
 Old Testament texts also admonish the people of Israel not to forget the needy, making special mention of orphans: “You shall not afflict any widow or fatherless child. If you afflict them in any way, and they cry at all to Me, I will surely hear their cry; and My wrath will become hot” (Exod 22:22–24; see also Deut 14:28–29; 24:19–21; Zech 7:10). While punishment is threatened for those who oppress orphans, a special blessing is promised to those who care for them: “If you do not oppress the stranger, the fatherless, and the widow, and do not shed innocent blood in this place, or walk after other gods to your hurt, then I will cause you to dwell in this place, in the land that I gave to your fathers forever and ever” (Jer 7:6–7). in the Psalms God is described as the defender and protector of the fatherless (Pss 10:14; 68:5; 146:9). Thus, we should also support children of divorce who need to be protected and helped with their burdens, by visiting them and taking them into our homes if necessary—essentially being an active parent and defender of these vulnerable children.
 
-### General Observations
+### ^[General Observations]({"style": {"text": {"color": "#00AABB"}}})
 
 Mark Earley, an attorney, guest columnist for The Christian Post, and former politician, says, “This Christmas nearly one quarter of young adults between 18 and 35 will have to decide which parent to visit for the holidays—that is, if they are lucky enough to maintain a relationship with both of them. These are the children of the no-fault divorce generation, many of whom continue to be weighed down by the baggage of their parents’ separation.”<sup>5</sup>
 
@@ -46,7 +46,7 @@ A marriage may also come to an end when an unbelieving mate no longer desires to
 
 Yet, couples continue to divorce for many reasons that have nothing to do with either of these causes, and that could actually be remedied if they took the time to get the right help.
 
-### The Children
+### ^[The Children]({"style": {"text": {"color": "#00AABB"}}})
 
 In this part of the chapter, the short- and long-term effects of divorce on children will be discussed, as well as the needs of children.
 
@@ -118,7 +118,7 @@ In the time of Malachi, a wife could hardly divorce her husband. So God addresse
 
 Only when both parents remain faithful to their marriage vows can the children be given the security which provides the basis for godly living. The family was intended to be the school in which God’s way of life was practiced and learned (Exod. 20:12; Deut. 11:19). Because a divine institution was being threatened Malachi urged that none be faithless to the wife of his youth.<sup>32</sup>
 
-### The Parents
+### ^[The Parents]({"style": {"text": {"color": "#00AABB"}}})
 
 Since the well-being of little children depends almost totally on the welfare of their parents, this section of the study explores the effects of divorce on parents, as well as their needs. The objective is to provide a less distressed environment for children by sharing some guidelines to benefit parents in reducing conflict when divorce cannot be avoided.
 
@@ -164,7 +164,7 @@ Third, the way to get through a divorce more effectively is by learning from oth
 
 A divorce recovery group can be very helpful, as someone else in the group may be likely to have the answer to a question one has, or know exactly who to refer one to for help. Individuals do not have to go through divorce alone.<sup>36</sup>
 
-### Suggestions For Healing
+### ^[Suggestions For Healing]({"style": {"text": {"color": "#00AABB"}}})
 
 In this section, some suggestions for healing are given—mainly for children, but also for parents going through a divorce.
 
@@ -226,7 +226,7 @@ A relative can validate a teenager’s feelings by sharing his/her own experienc
 
 Parents who are going through a separation need support themselves from friends and acquaintances—not only during but also after the process. It is worthy of note that the well-being of parents is a basic requirement for the well-being of the children.
 
-### The Role of The Church in The Process of Divorce and Healing
+### ^[The Role of The Church in The Process of Divorce and Healing]({"style": {"text": {"color": "#00AABB"}}})
 
 It is important to review the role of the church in rehabilitating children during and after the process of divorce. However, it is also crucial for the church to support and help equip families before there is a divorce, given that intact families provide the best place for children to grow and develop into contributing members of society.<sup>42</sup>
 
@@ -260,7 +260,7 @@ When the church welcomes individuals (and their families) who are divorced or ar
 
 Without a doubt, providing a meaningful ministry for children and single adults tailored to their needs, including those who are single because of divorce, would tremendously help them regain their sense of belonging and would definitely accelerate their healing process.<sup>46</sup> But although church programs can be very helpful for children of divorced parents, individual church members reaching out to them, befriending them, inviting them to their homes and their activities—for example, game nights—and their ministries to the local congregation, the wider church, and to guests may make all the difference and can be a God-given blessing to them.
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#00AABB"}}})
 
 The goal of this study was mainly to help parents, children/youth, pastors, youth leaders, and church members deal effectively with children whose parents have divorced. The objective was not to write a theological treatise, but rather to give practical advice on the subject by explaining the process of divorce from a child’s perspective and how the crisis may be managed with a degree of success.
 
@@ -417,4 +417,7 @@ Reprinted from Chapter 19, originally published in Family: Contemporary Issues o
 
 _Telma Witzig, MA, is a psychologist with focus on family relationships. She is licensed in Switzerland, Germany, and Brazil._
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

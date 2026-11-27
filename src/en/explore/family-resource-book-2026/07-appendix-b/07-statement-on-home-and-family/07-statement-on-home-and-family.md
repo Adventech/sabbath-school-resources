@@ -1,5 +1,6 @@
 ---
 title: Statement on Home and Family
+markdownTitle: '^[Statement on Home and Family]({"style": {"text": {"color": "#B13523"}}})'
 ---
 
 The health and prosperity of society is directly related to the well-being of its constituent parts-the family unit. Today, as probably never before, the family is in trouble. Social commentators decry the disintegration of modern family life. The traditional Christian concept of marriage between one man and one woman is under assault. The Seventh-day Adventist Church, in this time of family crisis, encourages every family member to strengthen his or her spiritual dimension and family relationship through mutual love, honor, respect, and responsibility.
@@ -8,4 +9,7 @@ The church’s Bible-based Fundamental Belief No. 22 states the marital relation
 
 Ellen G. White, one of the founders of the church, stated: “The work of parents underlies every other. Society is composed of families, and is what the heads of families make it. Out of the heart are the ‘issues of life’ (Prov.4:23); and the heart of the community, of the church, and of the nation is the household. The well-being of society, the success of the church, the prosperity of the nation, depend upon home influences.” -The Ministry of Healing, p. 349.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This public statement was released by the General Conference president, Neal C. Wilson, after consultation with the 16 world vice presidents of Seventh-day Adventists, on June 27, 1985, at the General Conference session in New Orleans, Louisiana.

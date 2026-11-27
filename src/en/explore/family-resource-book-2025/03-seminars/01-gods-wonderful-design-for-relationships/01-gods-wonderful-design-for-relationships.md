@@ -1,14 +1,14 @@
 ---
-title: God's Wonderful Design for Relationships
+title: God’s Wonderful Design for Relationships
+markdownTitle: '^[God’s Wonderful Design for Relationships]({"style": {"text": {"color": "#E2672A"}}})'
+subtitle: Willie and Elaine Oliver
 ---
 
-_By Willie and Elaine Oliver_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#E2672A"}}})
 
 Genesis 1 and 2
 
-### Statement of Purpose
+### ^[Statement of Purpose]({"style": {"text": {"color": "#E2672A"}}})
 
 This seminar is intended to be a Bible study to help participants glean a biblical perspective of God’s intention for human relationships. While it does make some references to contemporary relationship science, its primary purpose is to examine what the Bible says about relationships and how today’s Christians can find the relevance of biblical principles to guide all their relationships in contemporary times.
 
@@ -16,7 +16,7 @@ God’s creation was a breathtaking masterpiece! Every choice God made was flawl
 
 In the 19th century, the majority of infants in orphanages succumbed to a condition known as marasmus (consumption) within their first year of life. Despite the pleasant environment, the babies’ health declined, leading to a loss of interest in life, weakened immune systems, and eventual death. After careful observation, doctors from the United Nations prescribed a simple yet effective solution. They recommended that nurses pick up the babies, hug them, play with them, and talk to them for ten minutes every hour. This seemingly non-scientific approach, now recognized as an evidence-based attachment or bonding theory, proved to be remarkably successful in curing the babies (Bick & Nelson, 2016, pp. 177-196). in all humans, God has a divinely embedded the need to love and be loved, to be in healthy and happy relationships. We have been hardwired for connection; in other words, meaningful relationships are essential for our well-being (Cozolino, 2014).
 
-### Male and Female in The Image of God
+### ^[Male and Female in The Image of God]({"style": {"text": {"color": "#E2672A"}}})
 
 When a baby is born, the first thing her parents and other relatives around her exclaim is, “She looks just like...” People often want to connect the image of the child to themselves. Genesis 1 and 2 make clear that human beings are created in God’s image. Adam and Eve were created differently from other beings called into existence (Gen. 1:24,25). They were given unique social skills, which are unlike anything else in God’s creation. Humans look just like our Creator; we are created in His image.
 
@@ -32,7 +32,7 @@ While the population of single adults has skyrocketed over the last three decade
 
 What do you think God is communicating about His love and regard for humankind in His act of creation?
 
-### God’s Covenant Relationship With Humans
+### ^[God’s Covenant Relationship With Humans]({"style": {"text": {"color": "#E2672A"}}})
 
 From the very first mention of the creation of human beings, the Bible establishes God’s desire to be in close relationship and communion with us. “Then God said, ‘Let Us make man in Our image according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over all the earth and over every creeping thing that creeps on the earth’” (Gen. 1:26).
 
@@ -44,7 +44,7 @@ Despite God’s attempt to repair the relationship with humanity, people persist
 
 What can you do each day to enhance your relationships by emulating God’s example of loving you?
 
-### The Need For Relationship Is Embedded in Humankind
+### ^[The Need For Relationship Is Embedded in Humankind]({"style": {"text": {"color": "#E2672A"}}})
 
 Before the creation of Eve, Adam had no one of his kind to relate to. Adam could not just relate to himself or procreate by himself. This meant that unless something more was a part of God’s plan for the world’s creation, the human species would not survive. So, in God’s sequence at this juncture of His creation—the creation of man—He said it was not good (Gen. 2:18). to be sure, God’s plan for the human race would not work unless that plan were carried to completion.
 
@@ -68,7 +68,7 @@ Paul further shares: “Therefore, as the elect of God, holy and beloved, put on
 
 What will you do each day to communicate to everyone in your inner and outer circles that you are a disciple of Jesus Christ?
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#E2672A"}}})
 
 When we think about God’s wonderful design for relationships, we tend to think about marriage and family. and while marriage and family were very much a part of God’s ideal for relationships at creation—demonstrated by the union of Adam and Eve in the Garden of Eden— God’s intent for relationship goes beyond the borders of the home to include every human being created in His image, which we should relate to with Love and compassion as representatives of Jesus Christ. Peter—one of Jesus’ disciples—offers: “and above all things have fervent love for one another, for love will cover a multitude of sins. Be hospitable to one another without grumbling” (1 Peter 4:8, 9).
 
@@ -92,4 +92,7 @@ Cozolino, L. (2014). The neuroscience of human relationships: Attachment and the
 
 Covey, S. R. (1989). The 7 habits of highly effective people: Powerful lessons in personal change. Simon & Schuster. White, E. G. (1905). The ministry of healing. Pacific Press Publishing Association.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

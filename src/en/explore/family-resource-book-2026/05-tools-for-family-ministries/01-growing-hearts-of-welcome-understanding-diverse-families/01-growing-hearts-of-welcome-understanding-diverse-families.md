@@ -1,5 +1,6 @@
 ---
 title: "Growing Hearts of Welcome: Understanding Diverse Families"
+markdownTitle: '^[Growing Hearts of Welcome: Understanding Diverse Families]({"style": {"text": {"color": "#00B3B2"}}})'
 subtitle: 2024 Family Togetherness Week Of Prayer
 ---
 

@@ -3,7 +3,7 @@ title: "Good Communication: The Blood Of Relationships"
 subtitle: Willie and Elaine Oliver
 ---
 
-**Q.** One of my pet peeves is when my husband and I are at home at the end of the day, catching up with each other, when the phone rings in the middle of what I am saying and he answers it. Our lives are so busy it feels like we are passing each other as two ships in the night. I wish he would set better boundaries and protect our time together from interruptions. What do you think?
+^[**Q.** One of my pet peeves is when my husband and I are at home at the end of the day, catching up with each other, when the phone rings in the middle of what I am saying and he answers it. Our lives are so busy it feels like we are passing each other as two ships in the night. I wish he would set better boundaries and protect our time together from interruptions. What do you think?]({"style": {"text": {"color": "#FF8900"}}})
 
 **A.** Good communication is like the blood of relationships. Every facet of the living organism of your relationship hinges on good, healthy communication. If your blood circulation gets impeded or cut off to any part of your body, that part of your body begins to change color, tingle, or even go numb. If it continues, the part will begin to die, and eventually be forever harmed.
 
@@ -28,4 +28,5 @@ Reprinted from an article that first appeared in the March 1, 2024 issue of _Adv
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhD, LCPC, CFLE are Directors of the Department of Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

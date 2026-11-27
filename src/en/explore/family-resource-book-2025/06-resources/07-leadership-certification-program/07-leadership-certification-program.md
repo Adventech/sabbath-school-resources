@@ -1,6 +1,9 @@
 ---
 title: Leadership Certification Program 2.0
+markdownTitle: '^[Leadership Certification Program 2.0]({"style": {"text": {"color": "#90C140"}}})'
 ---
+
+![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-07-leadership-certification-program/image.png)
 
 _General Conference Adventist Family Ministries_
 

@@ -1,5 +1,6 @@
 ---
 title: An Affirmation of God’s Gift of Sexuality
+markdownTitle: '^[An Affirmation of God’s Gift of Sexuality]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 Human beings are created in the image of a relational God and designed to enjoy an intimate relationship with their Creator and one another (Gen. 1:26, 27; Matt. 22:37-39; John 17:3; 1 John 4:11, 12). From the beginning, God fashioned humankind in two genders, male and female (Gen. 1:27). Magnificent expressions of His creative genius, the man and woman evoked His deepest satisfaction and passionate acclaim. Both were sexual creatures by their very nature, and God intended that they would rejoice in their maleness or femaleness. His creative work was “very good” (Gen. 1:31)! There was nothing incomplete or shameful about what He had made. Maleness and femaleness afford a primary basis for human beings to define their personhood and their relationships with God and each other (Ps. 8:3-6; 100:3; Is. 43:1, 3, 4; Jer. 1:5; 1 John 4:7, 8).
@@ -18,4 +19,7 @@ As a result of sin, sexuality has been devalued and, in many cases, wrenched apa
 
 While condemning as sin our selfish failures to reflect God-given norms for sexuality, Scripture demonstrates Jesus’ readiness to forgive those who repent of sexual sins. God’s renewing power and love have enabled many to experience a transformation from sexual brokenness to healing, wholeness, and peace (Luke 7:36-50; John 4:4-28; 8:1-11).
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement originated at the World Commission on Human Sexuality, October 1997. It was approved and voted by four departmental world advisories in March 2001; Departments of Family Ministries, Health Ministries, Women’s Ministries and Chaplaincy Ministries.

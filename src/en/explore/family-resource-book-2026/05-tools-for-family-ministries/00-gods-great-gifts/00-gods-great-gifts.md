@@ -1,5 +1,6 @@
 ---
 title: God’s Great Gifts
+markdownTitle: '^[God’s Great Gifts]({"style": {"text": {"color": "#00B3B2"}}})'
 subtitle: 2025 Family Togetherness Week Of Prayer
 ---
 

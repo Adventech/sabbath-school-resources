@@ -1,5 +1,6 @@
 ---
 title: Sample Evaluation
+markdownTitle: '^[Sample Evaluation]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 `1. What inspired you most about this workshop?`
@@ -48,4 +49,7 @@ Marital Status:
 
 **Thank you for your honest comments, they will help us in planning future workshops!**
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _©2025 Permission granted to copy for local church use._

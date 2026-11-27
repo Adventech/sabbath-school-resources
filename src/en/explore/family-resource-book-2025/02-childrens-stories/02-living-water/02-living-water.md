@@ -1,14 +1,14 @@
 ---
 title: Living Water
+markdownTitle: '^[Living Water]({"style": {"text": {"color": "#5E2A53"}}})'
+subtitle: Noemi Durán Royo
 ---
 
-_By Noemi Durán Royo_
-
-### The Texts
+### ^[The Texts]({"style": {"text": {"color": "#5E2A53"}}})
 
 Genesis 1:2, John 4:14
 
-### Props
+### ^[Props]({"style": {"text": {"color": "#5E2A53"}}})
 
 Small plant in a pot, small watering can, glass with water, balloon filled with air, balloon half-filled with water and half-filled with air, lighter/candle.
 
@@ -28,4 +28,7 @@ Let’s Pray. Dear God, thank you very much for the water you created to keep us
 
 NOTE: Watch the balloon experiment at https://youtu.be/r-LOG7qxTz8?si=78wTpKc9Dn2-vc6T
 
-_Noemi Durán Royo, PhD, is the Director of the Geoscience Research Institute for the Inter-European Division Branch Office in Sagunto Valencia, Spain._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Noemi Durán Royo**, PhD, is the Director of the Geoscience Research Institute for the Inter-European Division Branch Office in Sagunto Valencia, Spain._

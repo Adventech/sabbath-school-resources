@@ -1,18 +1,18 @@
 ---
 title: Christian Marriage Must Represent Christ
+markdownTitle: '^[Christian Marriage Must Represent Christ]({"style": {"text": {"color": "#0D6EEF"}}})'
+subtitle: Ekkehardt Mueller
 ---
 
-_By Ekkehardt Mueller_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Ephesians 5:22-33
 
-### Introduction
+### ^[Introduction]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Some time ago, the sports section of a newspaper reported about Emil and Dana Zatopek. They were born on the same day, September 19, 1922. Both were outstanding athletes, she a javelin thrower, he a long-distance runner. They were the first married couple to become Olympic champions at the Summer Olympics in Helsinki—on the same day—July 24, 1952. They celebrated their 75th birthday together. Dana was the younger of the two. Their mothers clarified this on their wedding day in 1948. “I was born shortly after midnight,” Emil said, “Dana wasn’t born until seven in the morning.” By then, Dana adds, her parents’ world was in order again, “because her husband had to be older.”<sup>1</sup> This couple had a lot in common, and the picture printed in the newspaper showed a harmonious-looking older couple. Marriage is a divine gift and is supposed to be a reminder of Paradise.
 
-### The Text: Ephesians 5:22-33
+### ^[The Text: Ephesians 5:22-33]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Let’s look at what Paul has to say about marriage in Ephesians 5:22-33. This is a passage of Scripture that seems to be somewhat unpopular these days:
 
@@ -22,7 +22,7 @@ Husbands, love your wives, as Christ loved the church and gave himself up for he
 
 This passage sounds offensive to many people. to this day, many women chafe at it, and many men misuse the passage because they get stuck on the second verse and see their wives as subordinates, while they desire to rule and reign without restraint, regardless of the consequences.
 
-### I. Comments on the Context
+### ^[I. Comments on the Context]({"style": {"text": {"color": "#0D6EEF"}}})
 
 **1. The Church**
 
@@ -32,7 +32,7 @@ Ephesians 5:22-33 has two different dimensions. on the one hand, the passage spe
 
 In addition, Paul is also concerned with the family in a broader sense. That is why he does not only speak of husbands and wives, but immediately afterward our passage also of parents and children and of slaves and their masters (Eph 6:1-9). He has something to say to everyone on God’s behalf. Harmony should reign at all levels of relationships. That is why everyone is addressed. When Paul speaks to women, he also sets the men straight. When he demands obedience from children, he also warns fathers against overstepping boundaries.
 
-### II. Remarks on the Text and Application
+### ^[II. Remarks on the Text and Application]({"style": {"text": {"color": "#0D6EEF"}}})
 
 **1. Christ and The Church**
 
@@ -117,7 +117,7 @@ In Eph 5, the wife is urged to submit to her husband in verse 22. Again, to subm
 
 When the passage speaks about the subordination of wives, this does not mean that they are inferior. The text implies a wife is free to accept equality with her husband in marriage and family and—metaphorically speaking—to let him chair the committee while both have the same voting rights. The text never says: “Let the man subjugate his wife.” It seems that verse 33 defines what submitting means, namely respect and honor. The more the husband loves his wife as Christ loved the church, the easier it will be for his wife to respect him.
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#0D6EEF"}}})
 
 God wants our marriages to be harmonious and happy. This is the point of Ephesians 5. God does not want to put a heavy yoke on any of us and make our lives sour. God wants our best. We realize that our natural tendency is to take rather than to give, to dominate rather than to back down, to be loved rather than to love. and yet, we know we will not get anywhere with such an attitude.
 
@@ -152,4 +152,7 @@ Schäfer, H. (1982). Mach ein Fenster dran! Beispiele für die Wahrheiten der Bi
 
 Schäfer, H. (1987). in Bildern reden: Beispiele für die Wahrheiten der Bibel. Christliches Verlagshaus. Seamands, D. (1991). Healing for damaged emotions. Victor Books.
 
-_Ekkehardt Mueller, ThD, DMin, is a retired associate director of the Biblical Research Institute of the General Conference of Seventh-day Adventists. He lectures internationally._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Ekkehardt Mueller**, ThD, DMin, is a retired associate director of the Biblical Research Institute of the General Conference of Seventh-day Adventists. He lectures internationally._

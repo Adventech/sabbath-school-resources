@@ -1,8 +1,8 @@
 ---
 title: Same-sex Attraction
+markdownTitle: '^[Same-sex Attraction]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <callout>Question</callout>
 > I am 19-years-old, in my second year of college. From the time I was a pre-teen I felt different than most of my peers. As I entered my teens my friends showed great interest in girls, while I continued to experience same-sex attraction. I grew up in church and was baptized at 15. I love Jesus and want to be His faithful follower. Since starting college I’ve been pressured by friends to embrace a gay identity and be true to myself, they say. Is it possible to do this and remain a faithful disciple of Jesus?
@@ -23,6 +23,9 @@ Only when we begin with a biblical perspective—a God-centered view of life tha
 
 We assure you the Seventh-day Adventist Church is not against you or anyone who feels like you. on the contrary, we love you and want to see you saved in God’s kingdom. What we are clearly for, though, is what’s in the Word of God (Matt. 4:4). We know it will be difficult for you to deal with your feelings (your orientation) going forward. Still, the truth is, whether you’re dealing with same-sex or heterosexual feelings, you will need to manage your feelings to honor God. “. . .but with God all things are possible” (Matt. 19:26). You remain in our prayers.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 _Reprinted from an article that first appeared in the October 19, 2023 issue of Adventist World. Used with permission._

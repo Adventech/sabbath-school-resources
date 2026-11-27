@@ -1,10 +1,11 @@
 ---
 title: Statement on Transgenderism
+markdownTitle: '^[Statement on Transgenderism]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 The increasing awareness of the needs and challenges that transgender men and women experience and the rise of transgender issues to social prominence worldwide raise important questions not only for those affected by the transgender phenomenon but also for the Seventh-day Adventist Church. While the struggles and challenges of those identifying as transgender people have some elements in common with the struggles of all human beings, we recognize the uniqueness of their situation and the limitation of our knowledge in specific instances. Yet, we believe that Scripture provides principles for guidance and counsel to transgender people and the Church, transcending human conventions and culture.
 
-### The Transgender Phenomenon
+### ^[The Transgender Phenomenon]({"style": {"text": {"color": "#612E52"}}})
 
 In modern society, gender identity typically denotes “the public (and usually legally recognized) lived role as boy or girl, man or woman,” while sex refers “to the biological indicators of male and female.”<sup>1</sup> Gender identification usually aligns with a person’s biological sex at birth. However, misalignment may happen at the physical and/or mental-emotional levels.
 
@@ -16,7 +17,7 @@ They may describe themselves as being trapped in a wrong body. Transgenderism, f
 
 Due to contemporary trends to reject the biblical gender binary (male and female) and replace it with a growing spectrum of gender types, certain choices triggered by the transgender condition have come to be regarded as normal and accepted in contemporary culture. However, the desire to change or live as a person of another gender may result in biblically inappropriate lifestyle choices. Gender dysphoria may, for instance, result in cross-dressing, <sup>5</sup> sex reassignment surgery, and the desire to have a marital relationship with a person of the same biological sex. on the other hand, transgender people may suffer silently, living a celibate life or being married to a spouse of the opposite sex.
 
-### Biblical Principles Relating to Sexuality and The Transgender Phenomenon
+### ^[Biblical Principles Relating to Sexuality and The Transgender Phenomenon]({"style": {"text": {"color": "#612E52"}}})
 
 As the transgender phenomenon must be evaluated by Scripture, the following biblical principles and teachings may help the community of faith relate to people affected by gender dysphoria in a biblical and Christ-like way:
 
@@ -57,4 +58,7 @@ As the transgender phenomenon must be evaluated by Scripture, the following bibl
 {"style": {"text": {"size": "sm"}}}
 <sup>5</sup> Cross-dressing, also referred to as transvestite behavior, is prohibited in Deuteronomy 22:5.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was voted during the Spring Meeting of the General Conference Executive Committee on Wednesday, April 11, 2017, in Silver Spring, Maryland.

@@ -1,14 +1,14 @@
 ---
 title: A Garden Wedding
+markdownTitle: '^[A Garden Wedding]({"style": {"text": {"color": "#5E2A53"}}})'
+subtitle: Elaine Oliver
 ---
 
-_By Elaine Oliver_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#5E2A53"}}})
 
 Genesis 2:18-25
 
-### Materials
+### ^[Materials]({"style": {"text": {"color": "#5E2A53"}}})
 
 Bible, flowers, picture of a bride and groom
 
@@ -50,4 +50,7 @@ So even though you are not married yet and won’t be for a very long time, you 
 
 **Let’s pray**: Dear Heavenly Father, thank you for creating us to be in good and healthy relationships. Thank you for the gift of marriage which helps us to be more like you. Please help us to be loving, kind, and forgiving to others every day just like you. in Jesus' name. Amen.
 
-_Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE is Associate Director of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE is Associate Director of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

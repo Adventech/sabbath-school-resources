@@ -1,5 +1,6 @@
 ---
 title: Family Life Profile
+markdownTitle: '^[Family Life Profile]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 `Church`
@@ -50,4 +51,7 @@ Single–Divorced
 - [ ] Ages 61-70
 - [ ] Ages 71 +
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _©2025 Permission granted to copy for local church use._

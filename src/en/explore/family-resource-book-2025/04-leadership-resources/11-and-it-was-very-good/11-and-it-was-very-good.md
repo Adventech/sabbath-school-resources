@@ -1,14 +1,14 @@
 ---
-title: and It Was Very Good
+title: And It Was Very Good
+markdownTitle: '^[And It Was Very Good]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Gina Wahlen
 ---
-
-_By Gina Wahlen_
 
 It was an incredible sight—something the angels, indeed the entire universe, had never seen before—God, kneeling in the dirt, shaping a figure with His hands. Carefully, the shape of a noble head came to view, complete with eyes, a nose, a mouth, and two ears. Then, a stately neck, broad shoulders, chest, arms, hands, legs—an entire body was formed. The heavenly beings stared at the still figure in the sand, then gazed in wonder as God “breathed into his nostrils the breath of life; and man became a living being” (Genesis 2:7).
 
 But all was not complete. This being—Adam—needed a mate. “and the Lord God said, ‘It is not good that man should be alone; I will make him a helper comparable to him’” (Genesis 2:18). Once again, the universe watched in awe as God, after causing a deep sleep to fall on Adam, took one of his ribs and, with His own hands, shaped that rib into a beautiful woman who would later be called Eve.
 
-### Human Beings Are Unique
+### ^[Human Beings Are Unique]({"style": {"text": {"color": "#00AABB"}}})
 
 The creation of human beings was unique. Earlier during that phenomenal week, God simply spoke everything into existence—the sea and the dry land, the sun, moon, stars, grass, flowers, trees, and all living creatures in the sea, land, and air.
 
@@ -18,7 +18,7 @@ The following verse tells us, “Then God blessed them, and God said to them, �
 
 This text reveals something very important about human beings—we are not just animals. We are made in the image of God. While we do not know all that entails—it is a good indication that we no doubt resemble Him in some aspects of appearance, and most importantly, He has given us the capacity to think and reason in ways that the rest of His creatures cannot.
 
-### The Image of God
+### ^[The Image of God]({"style": {"text": {"color": "#00AABB"}}})
 
 Richard M. Davidson, senior research professor of Old Testament Interpretation at Andrews University, writes: “Genesis 1:26 supports an understanding of the imago Dei [‘Image of God’] as resemblance—both inward (spiritual) and outward (form)” (Davidson, 2015, p. 19).
 
@@ -26,7 +26,7 @@ He goes on to give several examples of how humans are created in God’s image, 
 
 Regarding physical resemblance, he writes, “many expressions of divine and human activity in the Garden imply an outward resemblance of form and feature between humans and God: both God and humans speak; God plants a garden, and the human is to ‘tend and keep it’; God forms or shapes, and Adam names the animals that are formed: God breathes, has breath, and Adam has nostrils; God performs an anesthetized surgery upon Adam, removes one of his ribs, and ‘builds’ Eve; He brings Eve to Adam, and officiates at the first garden wedding. He comes ‘walking’ in the garden in the cool of the day, conducts a personal investigative judgment of the guilty pair, and makes tunics of skin to clothe Adam and Eve. The language throughout these chapters [Genesis 2 and 3] implies that the image of God is not physical or spiritual, outward or inward, but both— and, in harmony with a holistic and unitary view of human beings” (Davidson, 2015, pp. 25-26).
 
-### “Male and Female”
+### ^[“Male and Female”]({"style": {"text": {"color": "#00AABB"}}})
 
 In addition to being made “in the image of God,” God created human beings “male and female” (Genesis 1:26). Clearly, God made two separate beings with unique bodies, roles, and purposes. While other creatures were made male and female, the purpose for this distinction in human beings was far greater than mere copulation and procreation.
 
@@ -36,7 +36,7 @@ Davidson (2015) discusses ten components of a theology of sexuality that emerge 
 
 This complete view of human sexuality draws a clear line between complex human beings and other creatures where copulation is for the sole purpose of procreation.
 
-### A Counterfeit Model
+### ^[A Counterfeit Model]({"style": {"text": {"color": "#00AABB"}}})
 
 Sadly, however, God’s divine plan for human sexuality has been deeply distorted by a counterfeit model set up by Satan to bring human beings down to a level far lower than what God created them to be.
 
@@ -44,7 +44,7 @@ The philosophy of this counterfeit model is articulated clearly by Sharon Pope, 
 
 This self-centered outlook on life, encouraging one to follow their heart and be guided by their feelings, goes directly against the Bible’s emphatic statement that “The heart is deceitful above all things, and desperately wicked; who can know it?” (Jeremiah 17:9).
 
-### Clear Direction
+### ^[Clear Direction]({"style": {"text": {"color": "#00AABB"}}})
 
 In a world where we are continually bombarded with messages claiming that everyone can determine their own “truth” regarding sexuality as well as everything else, God has given us His Word—the Bible—to be a lamp to our feet and a light to our path (see Psalm 119:105).
 
@@ -64,4 +64,7 @@ Davidson, R. M. (2015). The nature of the human being from the beginning: Genesi
 
 Pope, S. (2019). If it feels good, do it. Marriage Inspiration. https://bit.ly/IfItFeelsGoodDoIt
 
-_Gina Wahlen, M.A. is the Editor and Project Manager for the Office of the President at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Gina Wahlen**, M.A. is the Editor and Project Manager for the Office of the President at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

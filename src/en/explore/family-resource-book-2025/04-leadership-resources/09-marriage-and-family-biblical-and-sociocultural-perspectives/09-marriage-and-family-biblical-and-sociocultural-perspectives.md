@@ -1,12 +1,12 @@
 ---
 title: "Marriage and Family: Biblical and Sociocultural Perspectives"
+markdownTitle: '^[Marriage and Family: Biblical and Sociocultural Perspectives]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Boubakar Sanou
 ---
-
-_By Boubakar Sanou_
 
 Marriage finds its origins in God’s creative plan and purpose for humanity. As a divine gift to humanity, marriage exists in diverse forms in societies around the world. This chapter examines Genesis 1-3 to highlight God’s original intention for marriage and subsequently explores how societal norms shape the perception and practice of marriage. The objective is to emphasize that despite societal trends and shifting influences, God’s fundamental purpose for marriage offers a steadfast compass to couples seeking to build healthy, fulfilling, and God-honoring relationships.
 
-### Marriage: The Biblical Foundation
+### ^[Marriage: The Biblical Foundation]({"style": {"text": {"color": "#00AABB"}}})
 
 The account of Creation in Genesis 1-3 is central to a biblical understanding of marriage. Genesis 1:26-28 states that God created humankind in His image as male and female, blessed them and commanded them to be fruitful and multiply, to fill and subdue the earth. This text highlights three important things about marriage. First, the marriage institution exists as a pre-Fall design of God, in which human sexuality in the context of the biblical framework for marriage is a divine arrangement. Second, Adam and Eve’s creation in God’s image confers to each of them equal status within the marital relationship regardless of their physical differences. Third, because the command to fill the earth requires conceiving children, it indicates that God strictly designed marriage for heterosexual relationships, making the sexual distinction between male and female fundamental to what God intends marriage to be. However, it is important to note that while procreation is emphasized in this passage, marriage is not solely about childbearing. Childless couples can still have a valid and fulfilling union in God’s eyes (Walton, 2001, p. 187; Clark, 1995, p. 29).
 
@@ -24,7 +24,7 @@ The account of Genesis 3 is a post-Fall account. Part of its focus (Gen 3:16b) i
 
 The concept of headship in the scriptural injunction, “Wives, submit to your own husbands, as to the Lord. For the husband is head of the wife, as also Christ is head of the church; and He is the Savior of the body. Therefore, just as the church is subject to Christ, so let the wives be to their own husbands in everything” (Eph 5:22-24) and “I want you to know that the head of every man is Christ, the head of woman is man, and the head of Christ is God” (1 Cor 11:3) has been historically used to support and even justify male superiority in marriage. in light of Genesis 1:26-28 and 2:18-24, Ephesians 5:22-24 indicates male leadership rather than male superiority in marriage. Calvin Rock points out that “if there is to be found significance of function in Adam’s primacy in the Creation order, it is that of caretaker or servant. He was created first as forerunner or guardian of the being who would follow. . . Leadership should be viewed not as a privileged superiority but as solemn, sacrificial responsibility” (2000, p. 733). Defending male superiority in marriage based on Ephesians 5:22-24 is also inconsistent with Ephesians 5:21, where Paul appeals to all the Ephesian believers to submit themselves “to one another in the fear of God.” The specific appeal of Ephesians 5:22-24 is that “the spirit that Christ manifests toward the church is the spirit that husband and wife are to manifest toward each other” (White, 1902, p. 46).
 
-### Sociocultural Perspectives on Marriage
+### ^[Sociocultural Perspectives on Marriage]({"style": {"text": {"color": "#00AABB"}}})
 
 #### Common Types of Marriage
 
@@ -48,7 +48,7 @@ Customary marriage, often known as traditional marriage, refers to any marriage 
 
 The relationship with the ancestors as understood in traditional religious contexts and the important role they occupy in customary marriage is problematic from an Adventist perspective, based on the biblical teachings concerning the state of human beings in death. As Adventists, we believe that “death is an unconscious state for all people” (Seventh-day Adventists Believe, 2018, p. 391). At death, the body and the spirit cease to exist until the resurrection of the dead at the Second Coming of Christ (1 Thess 4:16-17). Leviticus 19:28; 20:6, 27 and Deuteronomy 14:1-2; 18:10-13 speak against any practice involved with spiritism and ancestral worship. The same prohibition still applies to Christians of all eras and sociocultural and religious contexts. Therefore, faithfulness to biblical principles should never be overshadowed by any form of sensitivity to local traditions and religious practices that stand in conflict with the Word of God.
 
-### Choosing A Spouse
+### ^[Choosing A Spouse]({"style": {"text": {"color": "#00AABB"}}})
 
 The processes associated with mate selection vary significantly around the world.
 
@@ -62,7 +62,7 @@ Besides celebrating romantic love, the Song of Songs also has wisdom teachings o
 
 on the other hand, the marriage of Isaac and Rebekah is an example of an arranged marriage (Genesis 24). It provides valuable insights that can be applied to contemporary practices. First, the narrative underscores the importance of seeking divine guidance and honoring God’s will in marriage arrangements. Both Abraham and his servant relied on God’s providence to orchestrate the union of Isaac and Rebekah. Second, the story emphasizes character over social status or ethnicity. The extreme nature of the servant’s test served to reveal Rebekah’s positive character traits. Third, the passage sheds light on the importance of the bride’s consent. Even within the patriarchal society of the time, Abraham ensures Isaac’s bride-to-be has a say in the arrangement. Rebekah’s family and her own agreement make this a consensual arrangement. Fourth, the manner in which goods were transferred (garments and objects of silver and gold) from Abraham to Rebekah first and then to her relatives at the end of the negotiation process (Gen 24:53) is noteworthy. If this is considered a bride price, it was not an amount set by Rebekah’s relatives. It was a generous gift from Abraham to Rebekah and her family. Fifth, upon the arrival of Abraham’s servant with Rebekah, Isaac expressed his consent by taking her to his mother’s tent, a gesture signifying that she was now the mistress of the household (Walton, 2001, 532). Finally, the story suggests that arranged marriages can develop into love marriages. Isaac and Rebekah’s mutual affection for each other (Genesis 26:8) demonstrates the potential for love to blossom in arranged marriages through shared experiences and a life built together. in essence, Genesis 24 offers a framework for arranged marriages that prioritizes divine guidance, spouses’ characters, mutual consent, respect, and commitment to God and their marriage (Sanou and Duah, 2023, pp. 141-145).
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#00AABB"}}})
 
 While customs, traditions, and specific practices for entering marriage vary across cultures, the core principles established in the Garden of Eden remain the guide for Christians. These principles also serve as the foundation for interpreting other biblical teachings on the subject. Ideally, marriage takes place in the presence of God, acknowledging him as the one who instituted this sacred union. However, the Bible does not prescribe a single, specific ceremony format. Marriage can be entered into following “the customs acknowledged in different contexts and cultures, insofar as such customs do not contradict biblical principles” (Hasel, 2015, p. 48).
 
@@ -114,4 +114,7 @@ White, E. G. (1902). Testimonies for the church (Vol. 7). Pacific Press.
 
 Wilkins, M. J. (2004). The NIV Application Commentary: Matthew. Zondervan.
 
-_Boubakar Sanou, DMin, PhD is an Associate Professor of Mission and Intercultural Leadership at the Seventh-day Adventist Theological Seminary at Andrews University in Berrien Springs, MI, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Boubakar Sanou**, DMin, PhD is an Associate Professor of Mission and Intercultural Leadership at the Seventh-day Adventist Theological Seminary at Andrews University in Berrien Springs, MI, USA._

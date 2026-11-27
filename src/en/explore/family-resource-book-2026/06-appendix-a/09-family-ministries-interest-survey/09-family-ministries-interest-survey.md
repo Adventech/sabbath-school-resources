@@ -1,5 +1,6 @@
 ---
 title: Family Ministries Interest Survey
+markdownTitle: '^[Family Ministries Interest Survey]({"style": {"text": {"color": "#2B3241"}}})'
 ---
 
 **Your age group:**
@@ -66,4 +67,7 @@ title: Family Ministries Interest Survey
 - [ ] Fri.
 - [ ] Sat.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _©2025 Permission granted to copy for local church use._

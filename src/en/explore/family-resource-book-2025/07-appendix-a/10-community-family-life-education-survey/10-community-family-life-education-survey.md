@@ -1,5 +1,6 @@
 ---
 title: Community Family Life Education Survey
+markdownTitle: '^[Community Family Life Education Survey]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 `1. What do you believe is the number one problem facing families in this community right now?`
@@ -67,4 +68,7 @@ Are you:
 - [ ] Divorced
 - [ ] Remarried after divorce
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _©2025 Permission granted to copy for local church use._

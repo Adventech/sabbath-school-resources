@@ -1,8 +1,8 @@
 ---
 title: "Home, Sweet Home: What is our Most Important Task?"
+markdownTitle: '^[Home, Sweet Home: What is our Most Important Task?]({"style": {"text": {"color": "#00AABB"}}})'
+subtitle: Galina Stele
 ---
-
-_By Galina Stele_
 
 In 1913, two years before her death, Ellen White had an interesting conversation with a young man, a teacher, who was helping her with her writings and temporarily lived in her house in Elmshaven, CA (Spalding, 1949). Talking about parents’ responsibilities, she said that the church should do more to educate parents on how to bring up their kids in faith. She told the young man that his “work as a father is the most important educational work” he had “ever done or ever can do.” She continued that pastors, teachers, and medical personnel can do their work to educate and teach church members, “but underneath all their efforts, the first work done by the parents is the work that tells most decidedly for the upbuilding of the church” (Spalding, p. 192).
 
@@ -12,7 +12,7 @@ Since then, the Adventist Church has done a lot in this area. However, the impor
 
 One may wonder if a Christian family can be dysfunctional. Also, we can ask if the reality of how well our family functions affects our ability to bring our children closer to God. But what are the main characteristics of functional and dysfunctional families?
 
-### Functional and Dysfunctional Families
+### ^[Functional and Dysfunctional Families]({"style": {"text": {"color": "#00AABB"}}})
 
 It is easy to guess that functional families function well. They represent homes with healthy, warm atmospheres and healthy relations. Dysfunctional families are the opposite of happy families, filled with love, joy, and support. The word “dysfunction” reflects that something is broken or does not work properly. Norman Wright compares a dysfunctional family with a plane that lost its navigation and is going in the wrong direction. Even a tiny deviation from the course will result in the wrong destination. The same happens with families. Small things that hinder relations can bring a family to the wrong destination. and family members can find themselves in a home filled with criticism, misunderstanding, offense, and mistrust (Wright, p. 61).
 
@@ -34,7 +34,7 @@ We have valuable advice from the Spirit of Prophesy: “Every home should be a p
 
 The apostle John cited the words from Jesus’ prayer about the most important knowledge we could ever get: “and this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent” (John 17:3, KJV). A happy home filled with warmth, trust, and love will transmit this knowledge of God more effectively.
 
-### What Can We Do?
+### ^[What Can We Do?]({"style": {"text": {"color": "#00AABB"}}})
 
 A functional family is not a perfect family. We also meet imperfect families in the Bible: Issac and Jacob and their sons, the family of King David, Elkanah with his two wives, and others. However, God was able to use them, and He can also use our imperfect families, transform us, and make our families a blessing for our children and others. But we should be intentional in bringing our family closer to God so that He can work in it and through it. What can we do?
 
@@ -60,4 +60,7 @@ White, E. G. (1952). Adventist home. Review and Herald Publishing Association. h
 
 Wright, H. N. (1992). The premarital counseling handbook. Moody Press.
 
-_Galina Stele, DMin is the Director of the Department of Women’s Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Galina Stele**, DMin is the Director of the Department of Women’s Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

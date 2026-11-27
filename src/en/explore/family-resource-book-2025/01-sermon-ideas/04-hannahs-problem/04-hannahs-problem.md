@@ -1,14 +1,14 @@
 ---
-title: Hannah's Problem
+title: Hannah’s Problem
+markdownTitle: '^[Hannah’s Problem]({"style": {"text": {"color": "#0D6EEF"}}})'
+subtitle: Jongimpi Papu
 ---
 
-_By Jongimpi Papu_
-
-### The Text
+### ^[The Text]({"style": {"text": {"color": "#0D6EEF"}}})
 
 I Samuel 1:1-20
 
-### Introduction
+### ^[Introduction]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Hannah’s prayer for a male child, coupled with her extraordinary willingness to dedicate this gift back to the Giver, stands as one of the most unparalleled prayers in the entire Bible. Aside from the prayers of Jesus, Hannah’s prayer is among the most captivating. While Sarah, Rebekah, Rachel, and several other women in the Bible faced similar situations and may have prayed for a son to alleviate the void and emptiness in their families, none of them considered returning the child to God for lifelong service. Yet, this is precisely what we read in the story of Hannah.
 
@@ -18,11 +18,11 @@ The answer to this question will undoubtedly challenge us to deeply examine our 
 
 “There was a certain man of Ramathaim-zophim of the hill country of Ephraim whose name was Elkanah the son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephrathite. He had two wives. The name of the one was Hannah, and the name of the other, Peninnah. and Peninnah had children, but Hannah had no children. Now this man used to go up year by year from his city to worship and to sacrifice to the Lord of hosts at Shiloh, where the two sons of Eli, Hophni and Phinehas, were priests of the Lord. on the day when Elkanah sacrificed, he would give portions to Peninnah his wife and to all her sons and daughters. But to Hannah he gave a double portion, because he loved her, though the Lord had closed her womb. and her rival used to provoke her grievously to irritate her, because the Lord had closed her womb. So it went on year by year. As often as she went up to the house of the Lord, she used to provoke her. Therefore Hannah wept and would not eat. and Elkanah, her husband, said to her, ‘Hannah, why do you weep? and why do you not eat? and why is your heart sad? Am I not more to you than ten sons?’ After they had eaten and drunk in Shiloh, Hannah rose. Now Eli the priest was sitting on the seat beside the doorpost of the temple of the Lord. She was deeply distressed and prayed to the Lord and wept bitterly. and she vowed a vow and said, ‘O Lord of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the Lord all the days of his life, and no razor shall touch his head.’ As she continued praying before the Lord, Eli observed her mouth. Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore, Eli took her to be a drunken woman. and Eli said to her, ‘How long will you go on being drunk? Put your wine away from you.’ But Hannah answered, ‘No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the Lord. Do not regard your servant as a worthless woman, for all along I have been speaking out of my great anxiety and vexation.’ Then Eli answered, ‘Go in peace, and the God of Israel grant your petition that you have made to him.’ and she said, ‘Let your servant find favor in your eyes.’ Then the woman went her way and ate, and her face was no longer sad. They rose early in the morning and worshiped before the Lord; then they went back to their house at Ramah. and Elkanah knew Hannah his wife, and the Lord remembered her. and in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, ‘I have asked for him from the Lord’” (1 Samuel 1:1-20).
 
-### Narrative and Application
+### ^[Narrative and Application]({"style": {"text": {"color": "#0D6EEF"}}})
 
 This is not a narrative about Elkanah, even though he is initially introduced. Instead, it is a story about a woman named Hannah. Elkanah, a Levite as detailed in the genealogy found in I Chronicles 6:22-23, was a devout man who, for reasons not mentioned, was supposed to be serving at the temple in Shiloh. Elkanah had two wives, with Hannah as the first wife and Peninnah as the second. Elkanah’s desire to continue his lineage led him to enter into a second marriage. However, this decision, rooted in a lack of faith in God, did not bring him happiness (Patriarchs and Prophets, p. 569). This story, beginning as it were with the shortcoming of Elkanah, is used by God to fulfill His purpose. The dire consequences of not following God are outlined, but God can turn any situation and use it for His glory when we come to Him in prayer and repentance.
 
-### Hannah’s Prayer
+### ^[Hannah’s Prayer]({"style": {"text": {"color": "#0D6EEF"}}})
 
 It is the regrettable decision by Elkanah that introduces Hannah into the narrative. Her prayer, recorded in verses nine and ten, changed the natural trajectory of the story and established her as the main character. Hannah’s prayer not only changed her life but also altered the decline of worship in the Temple through the miraculous birth of Samuel. It can be said with certainty that her blessing brought the needed reformation to the temple and its services.
 
@@ -30,7 +30,7 @@ The situation in her family caused pain, misery, and grief in Hannah’s heart. 
 
 Sometimes the only and best thing to do is to pour out your soul to God. Hannah did not pour out her soul to Eli but to God first, her Creator, the one who was said in the narrative to have closed her womb. This is a lesson for all of us. God is often the last to hear about our challenges after everyone else has tried and failed. It is said that when prayers go up, blessings come down. This was true for Hannah. Her prayer was followed by an outpouring of praises, as recorded in chapter two. By closely examining the content of this prayer, we can gain a comprehensive understanding of what this woman was experiencing.
 
-### Elkanah, The Polygamist and Loving Husband
+### ^[Elkanah, The Polygamist and Loving Husband]({"style": {"text": {"color": "#0D6EEF"}}})
 
 It is easy and understandable to place the blame for Hannah’s pain on Elkanah and his lack of faith in marrying Peninnah. Elkanah’s action mirrored that of Abraham, who married Hagar to hasten God’s promise of an heir. It is noteworthy that this practice led to untold misery and introduced a spirit of discontentment in Elkanah’s family. The same can be seen in the case of Abraham, who succumbed to Sarah’s suggestion by marrying Hagar. He did not foresee the misery and pain this would introduce into his household. Soon after this decision, we read the following in Genesis 16:3-5):
 
@@ -40,7 +40,7 @@ Abraham’s decision as the head of the family destroyed the happiness within hi
 
 In Hannah’s prayer, no mention was made of Elkanah, nor was there any reference to the polygamous relationship that caused her misery. Elkanah was a problem, but he was not Hannah’s problem. in Sarah’s protest against Abraham’s decision, she appealed to God to judge between her and Abraham, presenting him as the cause of her pain and frustration. This was not the case with Hannah. This brings us once more to the main question: What was Hannah’s problem if it was not her husband?
 
-### Peninnah, Hannah’s Rival
+### ^[Peninnah, Hannah’s Rival]({"style": {"text": {"color": "#0D6EEF"}}})
 
 The question arises: was Peninnah the reason for Hannah’s prayer? It is noteworthy that Hannah does not mention Peninnah in her prayer. While it can be argued convincingly that Peninnah was a sore point in Hannah’s life, it would be incorrect to place the blame for Hannah’s misery on her. Hannah’s greatest pain was felt when the entire family went before the Lord to worship. on this occasion, she would receive a double portion because Elkanah loved her. However, she was also reminded by Peninnah that God had closed her womb and that she, Peninnah, was God’s favorite. This occurred every year. Elkanah treated Hannah as if she had children, while Peninnah reminded her of her childlessness. Thus, we read, “Her rival used to provoke her grievously to irritate her because the LORD had closed her womb.” It is easy to blame Peninnah for Hannah’s misery. However, Hannah does not mention Peninnah in her prayer. in fact, she did not even complain to Elkanah about Peninnah’s behavior. Elkanah sought to comfort her by reminding her that he was more to her than ten sons. in Sarah’s case, Hagar was mistreated until she decided to leave Abraham’s household. This could have easily been the case with Hannah, but she never protested against Peninnah’s provocations.
 
@@ -48,7 +48,7 @@ on the other hand, it should also be noted that Peninnah had her own pain. She w
 
 We are not fighting against enemies visible to the human eye. “We are not fighting against flesh and blood enemies, but against evil rulers and authorities of the unseen world...” (Ephesians 6:12). Sometimes, we empower our adversaries by making them the foundation of our misery and, by default, the center of our joy. When we see their presence as a threat to our joy, God’s presence in our lives becomes powerless and meaningless. We can only pray for our enemies when we realize their presence is not the final word. When God has a plan for our lives, no one can thwart it. We do not need to entertain unholy thoughts of wishing our enemies dead to move on with our lives. When Hannah refused to view flesh as her problem, she opened the door to a fuller realization of God’s significance in her life.
 
-### Hannah’s Childlessness
+### ^[Hannah’s Childlessness]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Was Hannah’s grief primarily due to her childlessness? It’s tempting to conclude this, given that the narrative revolves around this point. Her prayer specifically mentions her desire for a male child. However, it would be a gross misrepresentation to suggest that Hannah’s happiness hinged solely on having a child. Introducing children into a toxic family environment, already strained by rivalry, would likely exacerbate issues rather than resolve them.
 
@@ -56,7 +56,7 @@ Viewing children as the sole source of happiness is misleading. Peninnah, who ha
 
 Hannah did pray for a male child, but why would she dedicate him back to God? This gesture was not mandated by God. The child, a joyful toddler, was brought to the temple, not withheld for years until he could assume Levitical duties. Hannah’s specificity in praying for a male child indicates her desire was not selfish. She sought a child that would serve God as a Nazarite, a role only a male child could fulfill. Her prayer aimed to alleviate her barrenness by dedicating her child to God’s service.
 
-### Hannah’s Prayer to Be Remembered By God
+### ^[Hannah’s Prayer to Be Remembered By God]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Our empathy for Hannah’s struggle with childlessness might cause us to overlook the main aspect of her prayer. Despite his involvement, she didn’t pray for her husband or blame him for her situation. Nor did she complain about Peninnah’s provocations or take steps to remove her. Her prayer is recorded as follows: “O Lord of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give your servant a son, then I will give him to the LORD all the days of his life, and no razor shall touch his head” (1 Samuel 1:11).
 
@@ -66,7 +66,7 @@ God remembered Hannah not just for her sake but for His purposes, facilitating n
 
 The burden of restoring our relationship with God is the source of all divine blessings. God will not withhold anything that brings honor and glory to His name. When our requests align with God’s purpose, He will miraculously open the way, blessing us individually and granting us the privilege of contributing to His mission of saving the world. The importance of connecting our efforts with God’s purpose is highlighted in the book Education, page 291: “God’s purpose for His children growing up beside our hearth is wider, deeper, higher, than our restricted vision has comprehended.” Let our personal problems include God’s purpose, and let our prayers focus on fulfilling God’s mission. Often, our prayers are too limited to what we can see and what would satisfy us. Hannah’s prayer went beyond her needs and intersected with God’s purpose. Samuel would become one of the greatest judges in Israel, not just Hannah’s child.
 
-### The Source of Hannah’s Joy
+### ^[The Source of Hannah’s Joy]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Hannah’s joy was not solely dependent on having a child. Her relief and happiness came from the assurance that God had heard her prayers. After her interaction with Eli, she found peace, and her sadness lifted, even before the birth of her child. Her joy stemmed from her faith and trust in God, which transcended her circumstances. in I Samuel 2:1-2 the Bible says, “My heart rejoices in the Lord...nor is there any Rock like our God”. The joy she had before the child would still be hers after she had left the child with Eli. Commenting on Matthew 11:28-30, Ellen White says:
 
@@ -78,7 +78,7 @@ The peace Hannah experienced, as described in Philippians 4:7, precedes the fulf
 
 Nothing could bring more joy to Hannah’s heart. The sacrifice was worth it, bringing her peace and indescribable joy. This is the longing we all share, a desire that money cannot buy and neither marriage nor children can fulfill. It comes from God, our Rock. What we truly seek is an undisturbed rest that only Christ can give. This peace does not come with God’s gifts of marriage, family, and material blessings; it precedes them. It enables us to use what we have received for God’s glory and the advancement of His work. The Bible presents this joy as available to us today, not just a future hope.
 
-### Conclusion
+### ^[Conclusion]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Hannah’s problem turned out to align with God’s purpose. She longed to be remembered, and God sought a man to bring change to the temple and the nation of Israel. God used her barrenness to draw her attention to His plan. Although she eventually had five more children, her primary role was to introduce Samuel to Israel and the world. Her pain and suffering led her closer to God. The real challenge isn’t getting what we desire but using what we receive to serve God and His people. We must ask ourselves: What is the one thing that would make a difference in our marriage and families? Connect your prayers with God’s mission and purpose. It is often said that when we prioritize God’s work, He prioritizes ours. With Jesus in the family, we can face any storm with a smile. May this be our experience. Amen!
 
@@ -90,4 +90,7 @@ White, E. G. (1903). Education. Pacific Press Publishing Association.
 
 White, E. G. (1890). Patriarchs and prophets. Review and Herald Publishing Association.
 
-_Jongimpi Papu, PhD, DMin, is a Vice President and Director of Family Ministries of the Southern Africa-Indian Ocean Division of Seventh-day Adventists in Pretoria, South Africa._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Jongimpi Papu**, PhD, DMin, is a Vice President and Director of Family Ministries of the Southern Africa-Indian Ocean Division of Seventh-day Adventists in Pretoria, South Africa._

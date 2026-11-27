@@ -1,5 +1,6 @@
 ---
 title: "Redeeming The Digital Space: Faith, Family, And Tech-Wise Living"
+markdownTitle: '^[Redeeming The Digital Space: Faith, Family, And Tech-Wise Living]({"style": {"text": {"color": "#FF533E"}}})'
 subtitle: Willie and Elaine Oliver
 ---
 
@@ -8,7 +9,7 @@ _Guide families to balance digital life with faith through clear boundaries, hea
 **THE TEXTS:**\
 1 Corinthians 10:23, and Joshua 24:15
 
-### INTRODUCTION
+### ^[INTRODUCTION]({"style": {"text": {"color": "#FF533E"}}})
 
 Technology has revolutionized the way we live, work, and connect. While it offers incredible convenience and global reach, it also presents new challenges to family life: the erosion of presence, conversation, and connection. The Apostle Paul’s words ring profoundly true in this context: “All things are lawful for me, but not all things are helpful” (1 Corinthians 10:23, ESV). Just because we can use technology doesn’t mean we always should, or at least not in the ways we currently do.
 
@@ -18,7 +19,7 @@ These scenes are familiar, yet it’s worth remembering how recently these modes
 
 This article explores how technology is shaping family life, examines the biblical foundations for presence and connection, and provides practical guidance for families seeking to become tech-wise and faith-filled in the digital age.
 
-### THE DIGITAL DILEMMA IN MODERN FAMILIES
+### ^[THE DIGITAL DILEMMA IN MODERN FAMILIES]({"style": {"text": {"color": "#FF533E"}}})
 
 Research clearly demonstrates that technology has become a central force in family life. According to studies, families report spending 4-6 hours a day on screens, both individually and collectively. While technology has enabled easier communication, it has simultaneously led to a decrease in face-to-face communication, an increase in digital conversations, and conflicts centered around screen time.
 
@@ -39,7 +40,7 @@ The situation is particularly acute because technology is making the boundaries 
 
 **The relational boundaries** between professional and personal networks have become increasingly complicated with the advent of social media. Platforms like Facebook and Instagram create “context collapse,” where coworkers, family members, childhood friends, and professional contacts all occupy the same digital space, making it challenging to maintain appropriate boundaries between different aspects of our lives.
 
-### BIBLICAL FOUNDATIONS FOR PRESENCE AND CONNECTION
+### ^[BIBLICAL FOUNDATIONS FOR PRESENCE AND CONNECTION]({"style": {"text": {"color": "#FF533E"}}})
 
 Scripture offers profound wisdom about the importance of presence, connection, and relational living—principles that stand in stark contrast to the distracted, fragmented existence that technology can foster.
 
@@ -51,7 +52,7 @@ Technology, when unregulated, disrupts these foundational principles. Presence i
 
 Families who wish to pass on a legacy of faith must make intentional time for togetherness. We must treat the home as sacred ground—a sanctuary for discipleship, meaningful conversation, and love. This requires conscious decisions about how we use technology and deliberate efforts to create space for the kinds of interactions that Scripture describes.
 
-### ASSESSING YOUR FAMILY’S DIGITAL HEALTH
+### ^[ASSESSING YOUR FAMILY’S DIGITAL HEALTH]({"style": {"text": {"color": "#FF533E"}}})
 
 Before meaningful change can occur, honest reflection is needed. A digital health assessment can help families understand their current patterns and make informed adjustments about technology use.
 
@@ -72,7 +73,7 @@ Families can score themselves using this framework:
 
 This honest self-assessment creates space for dialogue, confession where needed, and renewed commitment to healthier patterns. The goal isn’t to demonize technology but to ensure it serves rather than dominates family life.
 
-### GUIDING PRINCIPLES FOR DIGITAL DISCIPLESHIP
+### ^[GUIDING PRINCIPLES FOR DIGITAL DISCIPLESHIP]({"style": {"text": {"color": "#FF533E"}}})
 
 In response to these challenges, here are four guiding principles rooted in faith and supported by research:
 
@@ -123,7 +124,7 @@ These “presence pockets” communicate value, build trust, strengthen emotiona
 
 Quality presence requires quantity time. We cannot schedule intimacy or engineer meaningful conversation, but we can create the conditions where these emerge naturally—and that requires protecting time and attention from digital encroachment.
 
-### DEVELOPING A FAMILY TECH COVENANT
+### ^[DEVELOPING A FAMILY TECH COVENANT]({"style": {"text": {"color": "#FF533E"}}})
 
 Just as Joshua declared, “As for me and my house, we will serve the Lord” (Joshua 24:15), families can make intentional commitments about their digital habits. A Family Tech Covenant provides shared vision and mutual accountability.
 
@@ -139,7 +140,7 @@ Just as Joshua declared, “As for me and my house, we will serve the Lord” (J
 
 Writing and signing a covenant together creates shared ownership. It’s not parents imposing rules on children, but a family agreeing together about the kind of home culture they want to create. Display the covenant prominently and refer to it regularly, revising as children grow and circumstances change.
 
-### PRACTICAL NEXT STEPS
+### ^[PRACTICAL NEXT STEPS]({"style": {"text": {"color": "#FF533E"}}})
 
 Change doesn’t happen all at once. It starts with one step. Here are practical next steps for families:
 
@@ -181,7 +182,7 @@ Ask God to help your family become tech-wise and Christ-centered:
 
 Remember that this is spiritual work, not merely behavior modification. Ultimately, the goal is not just to develop better technology habits, but to cultivate a deeper love for God and neighbor—a love that requires presence, attention, and intentionality.
 
-### CONCLUSION: TECHNOLOGY AS GIFT OR TEST
+### ^[CONCLUSION: TECHNOLOGY AS GIFT OR TEST]({"style": {"text": {"color": "#FF533E"}}})
 
 Technology is both a gift and a test. It can serve us or enslave us. It can build bonds or break them. The difference lies in whether we use it with intention and faith, or allow it to use us.
 
@@ -199,11 +200,12 @@ The question is not whether technology will be part of our lives—it will. The 
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhD, LCPC, CFLE are Directors of the Department of Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 ---
 
-### REFERENCES
+### ^[REFERENCES]({"style": {"text": {"color": "#FF533E"}}})
 
 Carr, N. (2010). _The shallows: What the Internet is doing to our brains_. W. W. Norton.
 

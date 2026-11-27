@@ -1,5 +1,6 @@
 ---
 title: Statement on Racism
+markdownTitle: '^[Statement on Racism]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 One of the odious evils of our day is racism, the belief or practice that views or treats certain racial groups as inferior and therefore justifiably the object of domination, discrimination, and segregation.
@@ -16,4 +17,7 @@ The standard for Seventh-day Adventist Christians is acknowledged in the churchâ
 
 Any other approach destroys the heart of the Christian gospel.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This public statement was released by the General Conference president, Neal C. Wilson, after consultation with the 16 world vice presidents of the Seventh-day Adventist Church, on June 27, 1985, at the General Conference session in New Orleans, Louisiana.

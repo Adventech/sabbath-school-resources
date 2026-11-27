@@ -1,5 +1,6 @@
 ---
 title: Statement on Family Violence
+markdownTitle: '^[Statement on Family Violence]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 Family violence involves an assault of any kind-verbal, physical, emotional, sexual, or active or passive neglect-that is committed by one person or persons against another within a family, whether they are married, related, living together or apart, or divorced. Current international research indicates that family violence is a global problem. It occurs between individuals of all ages and nationalities, at all socioeconomic levels, and in families from all types of religious and non-religious backgrounds. The overall rate of incidence has been found to be similar for city, suburban, and rural communities.
@@ -33,4 +34,7 @@ If we are to live as children of the light, we must illuminate the darkness wher
 
 (The above statement is informed by principles expressed in the following scriptural passages: Ex 20:12; Matt 7:12; 20:25-28; Mark 9:33-45; John 13:34; Rom 12:10, 13; l Cor 6:19; Gal 3:28; Eph 5:2, 3, 21-27; 6:1-4; Col 3:12-14; 1 Thess 5:11; 1 Tim 5:5-8.)
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was voted by the General Conference of Seventh-day Adventists Administrative Committee (ADCOM) on August 27, 1996, and by the General Conference Executive Committee at the Annual Council in San Jose, Costa Rica, October 1-10, 1996.

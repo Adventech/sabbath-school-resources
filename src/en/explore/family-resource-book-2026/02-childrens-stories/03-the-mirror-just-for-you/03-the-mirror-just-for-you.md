@@ -1,5 +1,6 @@
 ---
 title: The Mirror Just For You!
+markdownTitle: '^[The Mirror Just For You!]({"style": {"text": {"color": "#5E2A53"}}})'
 subtitle: Mildred Weiss
 ---
 
@@ -29,4 +30,5 @@ This shows us what happens when we compare! Comparing ourselves to others can ma
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Mildred Weiss**, PGDipEd, B.S. in Nutrition, is a Freelance Project Manager from Lacombe, Alberta, Canada._

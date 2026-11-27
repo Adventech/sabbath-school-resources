@@ -1,5 +1,6 @@
 ---
 title: A Family Ministries Policy and Purpose Statement
+markdownTitle: '^[A Family Ministries Policy and Purpose Statement]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 The congregation and staff of the:
@@ -23,4 +24,7 @@ Churches with programs for children are not insulated from those who abuse: ther
 - All meetings for children or youth must have the approval of the pastor and/or church board, especially overnight activities. Minors must have signed parental permission for each trip, including emergency medical treatment release.
 - It there is a known sex offender attending a church, a deacon or other responsible adult shall be assigned to monitor the person while on the premises or at off-site church activity. The offender shall be informed of the procedure. If a sex offender transfers to or attends another church, the leadership of that church shall be notified.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _Reprinted from Family Ministries Handbook: The complete how-to guide for local church leaders. (2003). Lincoln, NE: AdventSource. Used with permission_

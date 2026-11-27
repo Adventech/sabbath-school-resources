@@ -1,8 +1,8 @@
 ---
 title: We Have Teenagers, Please Help! Guiding Principles From A Biblical Perspective
+markdownTitle: '^[We Have Teenagers, Please Help! Guiding Principles From A Biblical Perspective]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <callout>Question</callout>
 > My husband and I are parents of teenage boys with lots of energy. They are constantly pushing the boundaries. What can we do to help them use more self-control? Are they possibly rebelling because we are holding the reigns too tightly? We welcome your insights and perspectives.
@@ -25,7 +25,10 @@ The wisdom found in Scripture and sound psychological insights can equip parents
 
 With empathy, open communication, and consistent yet relaxed boundaries, parents can position their teens for joyful, responsible adulthood. Please know that you and your husband are in our prayers during this challenging time of your lives. Be encouraged by the message of James 1:5, where God promises to be generous in providing wisdom wherever there is a need. Trust Him.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 _Bible references are from the English Standard Version and the New International Version._
 

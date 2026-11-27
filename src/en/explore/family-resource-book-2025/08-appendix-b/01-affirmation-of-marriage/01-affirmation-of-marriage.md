@@ -1,5 +1,6 @@
 ---
 title: Affirmation of Marriage
+markdownTitle: '^[Affirmation of Marriage]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 Issues related to marriage can be seen in their true light only as they are viewed against the background of the divine ideal for marriage. Marriage was divinely established in Eden and affirmed by Jesus Christ to be both monogamous and heterosexual, a lifelong union of loving companionship between a man and a woman. in the culmination of His creative activity, God fashioned humankind as male and female in His own image; and He instituted marriage, a covenant-based union of the two genders physically, emotionally, and spiritually, spoken of in Scripture as “one flesh.”
@@ -8,6 +9,9 @@ Arising from the diversity of the two human genders, the oneness of marriage ima
 
 The monogamous union in marriage of a man and a woman is affirmed as the divinely ordained foundation of the family and social life and the only morally appropriate locus of genital or related intimate sexual expression. However, the estate of marriage is not God’s only plan for the meeting of human relational needs or for knowing the experience of family. Singleness and the friendship of singles are within the divine design as well. The companionship and support of friends looms in importance in both biblical testaments. The fellowship of the Church, the household of God, is available to all regardless of their married state. Scripture, however, places a solid demarcation socially and sexually between such friendship relations and marriage.
 
-to this biblical view of marriage the Seventh-day Adventist Church adheres without reservation, believing that any lowering of this high view is to that extent a lowering of the heavenly ideal. Because marriage has been corrupted by sin, the purity and beauty of marriage as it was designed by God needs to be restored. Through an appreciation of the redemptive work of Christ and the work of His Spirit in human hearts, the original purpose of marriage may be recovered and the delightful and wholesome experience of marriage realized by a man and a woman who join their lives in the marriage covenant.
+To this biblical view of marriage the Seventh-day Adventist Church adheres without reservation, believing that any lowering of this high view is to that extent a lowering of the heavenly ideal. Because marriage has been corrupted by sin, the purity and beauty of marriage as it was designed by God needs to be restored. Through an appreciation of the redemptive work of Christ and the work of His Spirit in human hearts, the original purpose of marriage may be recovered and the delightful and wholesome experience of marriage realized by a man and a woman who join their lives in the marriage covenant.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was approved and voted by the General Conference of Seventh-day Adventists Administrative Committee (ADCOM) on April 23, 1996.

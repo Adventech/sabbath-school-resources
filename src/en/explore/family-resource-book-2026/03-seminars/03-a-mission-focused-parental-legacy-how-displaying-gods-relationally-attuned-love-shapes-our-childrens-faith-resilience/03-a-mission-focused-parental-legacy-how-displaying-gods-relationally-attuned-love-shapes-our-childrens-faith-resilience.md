@@ -1,20 +1,21 @@
 ---
 title: "A Mission-Focused Parental Legacy: How Displaying God’s Relationally Attuned Love Shapes Our Children’s Faith & Resilience"
+markdownTitle: '^[A Mission-Focused Parental Legacy: How Displaying God’s Relationally Attuned Love Shapes Our Children’s Faith & Resilience]({"style": {"text": {"color": "#FF533E"}}})'
 subtitle: César and Carolann De León
 ---
 
 _Help parents model God’s attuned love to build emotionally secure, spiritually grounded, and resilient children._
 
-### THE TEXTS
+### ^[THE TEXTS]({"style": {"text": {"color": "#FF533E"}}})
 
 - Word picture of relationally-attuned parental discipleship: Deuteronomy 6:4-9
 - Word picture of God’s relational attunement: Psalm 139: 1-10
 
-### STATEMENT OF PURPOSE
+### ^[STATEMENT OF PURPOSE]({"style": {"text": {"color": "#FF533E"}}})
 
 This seminar will explore how an emotionally connected parent shapes their child’s faith and resilience, amid the technologies that compete for their time and energy. Relationally attuned parenting that God displays to all of His post-fall children will be considered as a relevant and indispensable parenting practice in these increasingly challenging times. Recent tech advances in “AI companionship” as well as the ramifications and challenges these and other evolving technologies pose to a child’s emotional and spiritual _development_, and _resiliency_ will also be explored. Practical parenting strategies for creating and sustaining relationally attuned, Christ-reflecting relationships with their children, will be explored. It is our hope that seminar participants will accept the invitation to become increasingly intentional about displaying God’s relationship model to their children—no matter what their chronological age—that they may more fully experience a growing understanding and integration of the attuned love, compassion, mercy, and grace of Christ. We will explore how children raised by emotionally connected/attuned parents develop faith and resilience, and how these emotionally healthy bonds between parents and their children provide a strong foundation for the continued development of spiritual and emotional resilience.
 
-### SOME DEFINITIONS
+### ^[SOME DEFINITIONS]({"style": {"text": {"color": "#FF533E"}}})
 
 - **Psychological Resilience:** The American Psychological Association (APA) defines resilience as the process of adapting well in the face of adversity, trauma, tragedy, threats, or significant sources of stress like relationship problems or financial hardship. It involves developing behaviors, thoughts, and actions that can be learned and cultivated to “bounce back” from difficult experiences, rather than being an innate trait.<sup>1</sup>
 - **Spiritual Resilience:** While the American Psychological Association (APA) does not provide a singular, definitive definition of spiritual resilience, they and other sources describe it as the ability to successfully adapt to and navigate adversities by drawing on inner spiritual beliefs, principles, values, and external spiritual resources to maintain a sense of self, meaning, and purpose. It involves using these spiritual resources as a source of strength and meaning-making to cope with challenges and foster personal growth and well-being.
@@ -22,7 +23,7 @@ This seminar will explore how an emotionally connected parent shapes their child
 - **Childhood Emotional Neglect (CEN):** Dr. Jonice Webb, who is attributed to coining the term CEN, defines emotional neglect as the opposite of mistreatment and abuse, because while mistreatment and abuse are parental _acts_, emotional neglect is a parent’s _failure to act_. It is a failure to notice, attend to, or respond appropriately to a child’s feelings. Because it is an act of omission, it’s not visible, noticeable or memorable. Emotional neglect is the white space in the family picture; the background rather than the foreground. It is insidious and overlooked while it does its silent damage to people’s lives.<sup>2</sup>
 - **AI Companion:** A digital entity that uses artificial intelligence to provide ongoing companionship, emotional support, or social interaction, often through human-like conversations and stimulated empathy, to form a sustained relationship with a user. These AI-powered systems go beyond simple chatbots by remembering personal details, adapting to a user’s mood and needs, and offering a non-judgmental presence that can be both comforting and helpful.
 
-### INTRODUCTION
+### ^[INTRODUCTION]({"style": {"text": {"color": "#FF533E"}}})
 
 Healthy, relationship bonds between parents and children are the foundation of healthy human development. Parents are, by far, the biggest influence on the spiritual lives of their children. The church, TikTok, Christian schools, and Christian mentors undoubtedly play supportive roles; however, a Christian parent’s influence on their child’s faith formation is undisputed. In fact, parents play the central role in shaping their children’s character, faith, and holistic resilience.
 
@@ -30,7 +31,7 @@ Scripture instructs parents clearly on what relational influence looks like. You
 
 In this progressively uncertain and complex season of our planet, parents can be more intentional about creating and sustaining emotionally connected relationships with their children in every season of their development. Strong and healthy parent-child bonds help children learn how to manage their feelings (AKA: emotional regulation), build their confidence, and develop healthy relationship skills they will need in every stage of their life. When children feel loved, they feel emotionally secure. They are better equipped to develop resilience, allowing them to explore their environment and navigate the evolving life challenges as they transition through the stages of development. When children experience a strong and healthy emotional connection with their parents, it supports brain development and learning because positive interactions stimulate the growth of neurons.<sup>3</sup>
 
-### WIRED FOR RELATIONSHIPS BY AN ATTUNED GOD
+### ^[WIRED FOR RELATIONSHIPS BY AN ATTUNED GOD]({"style": {"text": {"color": "#FF533E"}}})
 
 We were created by a relational God in His image. Just as the Father, Son, and Holy Spirit enjoy harmonious, loving, and attuned relationships with each other, we humans—created in His image—can also enjoy healthy, loving—though not perfect—attuned relationships with God, others (beginning with our family members), and ourselves.
 
@@ -38,7 +39,7 @@ Relationships are the vehicles through which we display the loving, emotional co
 
 Parents who want to see their children experience emotional, spiritual, and relational triumphs will prioritize their time, focus, and energy in every season of their child’s development—but especially in the first five years—to foster and sustain loving, emotionally attuned relationships with God, their spouse, and their children. When parents are intentional about modeling God’s attuned love in their interactions with each other and with their children, they positively impact their children’s ability to handle the inadvertent mental health, academic, and relationship challenges they will encounter; additionally, these children will be able to develop sustainable emotional and spiritual resilience, even amid this challenging season of evolving technology, growing loneliness, and mental health decline in the general public.
 
-### PARENTING CHALLENGES TODAY
+### ^[PARENTING CHALLENGES TODAY]({"style": {"text": {"color": "#FF533E"}}})
 
 Parenting in today’s culture is an increasingly challenging feat amid the prevailing influence of the sophisticated and accessible technology available on children’s and youth’s phones and other devices, vying for their time, attention, and even affection. As primary tools for social connection, education, and accessing digital information, smartphones and Wi-Fi have become critically important for kids and teens. Many parents agree they feel they have to compete with technology to squeeze in some quality time with their children and teens. We believe that today, more than ever before in history, it is worth every creative effort a parent has to make, to create an emotionally attuned relationship with their child(ren) to help protect them from experiencing the debilitating mental health symptoms assailing so many of their peers, and to help them develop a strong faith that will fuel their resilience in the face of adversity.
 
@@ -46,7 +47,7 @@ According to the World Health Organization (WHO), one in seven 10–19-year-olds
 
 This generation’s constant connectivity to social media and evolving technology can also lead to _chronic distraction, anxiety, and a fear of missing out (FOMO)_. Jonathan Haidt, New York Times Bestselling author of The Anxious Generation: How the great rewiring of childhood is causing an epidemic of mental illness, writes, “My central claim in this book is that these two trends—over--protection in the real world and under-protection in the virtual world—are the major reasons why children born after 1995 became the anxious generation.” Haidt’s hypothesis sounds reasonable given the trend in helicopter parenting combined with the rising access children and teens are often given when they are given cell phones without adequate supervision or safety monitoring, and blocking programs. Concurrently, an increasing number of parents are reporting their kids are more aloof and emotionally disconnected at home and not very interested in having meaningful conversations with them, as they spend much of their down time scrolling their phones and engaging in social media —often while wearing conversation blocking earphones.<sup>5</sup>
 
-### COMMON SENSE MEDIA’S 2025 REPORT FINDINGS
+### ^[COMMON SENSE MEDIA’S 2025 REPORT FINDINGS]({"style": {"text": {"color": "#FF533E"}}})
 
 Research compiled this past Spring (2025) on AI companions examined how U.S. teens aged 13-17 currently use AI companions. The more recent rise of “AI companions” on platforms like Replika, Nomi, Character.AI, and CHAI is now offering their _users_—our children, who are often too young to understand the complexities of relationships with artificial intelligence—what are being referred to as “digital companions.” For younger kids and teens who may be lonely and emotionally vulnerable, these are easy-to-access alternatives to conversations and emotional connections they would benefit from having with their parents and other family members.
 
@@ -60,7 +61,7 @@ First, teens reported being drawn to AI Companions for the following three reaso
 
 So, let’s recap. AI companions are available 24/7, listen without judgment, and never push back. It isn’t difficult to understand why young teens who feel lonely or anxious find it easier to talk to them than to real people. However, we can also clearly see the potential danger that teens may expose themselves to when they engage in emotionally charged conversations with an AI companion that should have been shared with a parent or a caring and involved adult in their lives.
 
-### TRUE STORY
+### ^[TRUE STORY]({"style": {"text": {"color": "#FF533E"}}})
 
 {"style": {"text": {"size": "sm"}}}
 NOTE: Following is a tragic true story involving a teen and his emotionally connected relationship with his AI companion and contains discussion of suicide. If you decide that it is appropriate to share this true story in your seminar, ensure that you share the following disclaimer at the beginning and again at the end of the story: **_Help is available if you or someone you know is struggling with suicidal thoughts and mental health matters. In the U.S., call or text 988, the Suicide & Crisis Lifeline. Globally: The International Association for Suicide Prevention and Befrienders Worldwide have contact information for crisis centers around the world._**
@@ -69,13 +70,13 @@ Last year, fourteen-year-old Sewell Setzer III committed suicide after an AI Cha
 
 Garcia told CNN that she didn’t know Character.AI differs from other AI chatbots, such as ChatGPT, in that users can interact with a range of chatbots, often modeled after celebrities and fictional characters that they can create themselves. She was also unaware that Character.AI bots respond with human-like conversational cues, incorporating references to facial expressions or gestures into their replies, which can be particularly dangerous for younger users who communicate with and emotionally attach to these “humanized” chatbots. Garcia alleges that her son was following the highly inappropriate, self-harm encouragement from his AI “companion” before he took his life.<sup>7</sup> This is only one of several similar stories that ended tragically for young teens, who, like Sewell, unbeknownst to their parents, had developed an emotionally connected relationship with an AI Companion.
 
-### THE ROLE OF LOVING, CONNECTED PARENT-CHILD RELATIONSHIPS
+### ^[THE ROLE OF LOVING, CONNECTED PARENT-CHILD RELATIONSHIPS]({"style": {"text": {"color": "#FF533E"}}})
 
 We were wired by our relational God to flourish in loving, emotionally connected relationships. When children or teens do not experience emotionally connected relationships with their parents, they will seek to meet that God designed need somewhere outside of the family. When they are socially awkward, tend to isolate, or don’t fit in well with their peers, they may be more vulnerable to this new technology that mimics attuned friendships. Our children and teens—though they may not realize it or even deny it—do need to experience emotional connection and a sense of belonging in healthy, loving human relationships.
 
 Parents are responsible for taking the lead in seeking deeper emotional engagement with their children. By demonstrating more loving attunement and gentle curiosity about their inner world of thoughts, emotions, and experiences, and by asking more open-ended questions in a calm, empathic manner, their children and teens can begin to feel emotionally safe and may be more willing to open up and be honest about what is going on in their lives. Additionally, parents can ask God to empower them with serenity and calm as they interact with their children. When parents are prone to lashing out in angry words, ignoring calls for engagement, or shaming their kids for being human and experiencing the array of human emotions and turmoil that is especially common during the adolescent stage, they can seek professional assistance and resources to learn more effective and connected parenting skills. In the following section, we will explore positive initiatives parents can take to connect or reconnect emotionally with their children, teens, and young adults.
 
-### HOW PARENTS CAN NURTURE ATTUNED RELATIONSHIPS WITH THEIR CHILDREN
+### ^[HOW PARENTS CAN NURTURE ATTUNED RELATIONSHIPS WITH THEIR CHILDREN]({"style": {"text": {"color": "#FF533E"}}})
 
 As new generations of AI companions are being intentionally programmed to listen empathically, respond non-defensively, and attune emotionally to young users—our children—it behooves parents to be more intentional about learning how they provide emotional attunement and connection to their children.
 
@@ -95,7 +96,7 @@ The following are seven practical steps a parent can take to construct and susta
 6. **_Carve out technology-free, family FUN time:_** When children see their busy and overwhelmed parents make time to engage with them in outdoor or indoor recreational activities—especially in games and activities they most enjoy—they will be more inclined to respond positively and engage enthusiastically in family spiritual activities like daily Family Altar Time. We’ve learned that families that play together—can pray together more effectively. Engaging in any play, including sports, ping-pong or table games, creates deep emotional ties that result in more enthusiasm and authentic engagement during Family Alter moments. And most importantly, those emotional and spiritual ties created during times of family play, continue to enrich their lives and relationships throughout their lifespan.
 7. **_Connect emotionally through fun activities—chosen by your child:_** If you child enjoys watching movies, sit and watch movies with them. If you child enjoys hikes in nature, go hiking with you child. If you child enjoys gaming, sit and learn to play—even if you don’t particularly enjoy the game. Movies, games, outdoors activities, all of these moments of shared time—are wonderful opportunities to have open-hearted conversations about themes that come up, or anything else. The time invested in joining your child in activities that are fun for them, are relationship deposits that will yield amazing returns for your parent-child relationship. Remember that when the parent-child relationship is healthy and strong, it is easier to influence your child’s faith development.
 
-### CONCLUDING THOUGHTS
+### ^[CONCLUDING THOUGHTS]({"style": {"text": {"color": "#FF533E"}}})
 
 Emotionally connected and attuned loving relationships between parents and their children require intentional, consistent, honest, regular communication initiated and pursued by the parent. It is a parent’s—not a child’s—responsibility and privilege to initiate and sustain regular, open-hearted, authentic conversations with their children. Then, regardless of the subject matter, parents must respond to them with gentle compassion and grace, just like our loving heavenly Father responds to us.
 
@@ -117,11 +118,12 @@ When parents commit to displaying God’s attuned, healing love—by His grace�
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**César De León**, PhD, Licensed Marriage and Family Therapist and **Carolann De León** RN, MS in Marriage and Family Therapy, MAPM, are directors of the Department of Family Ministries of the North American Division of Seventh-day Adventists, Columbia, Maryland, USA._
 
 ---
 
-### NOTES
+### ^[NOTES]({"style": {"text": {"color": "#FF533E"}}})
 
 {"style": {"text": {"size": "sm"}}}
 <sup>1</sup> American Psychological Association. (2025). Resilience. APA Dictionary of Psychology.

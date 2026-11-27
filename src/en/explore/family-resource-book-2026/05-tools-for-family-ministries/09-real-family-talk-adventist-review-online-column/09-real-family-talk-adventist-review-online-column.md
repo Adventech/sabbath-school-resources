@@ -1,5 +1,6 @@
 ---
 title: "Real Family Talk: Adventist Review Online Column"
+markdownTitle: '^[Real Family Talk: Adventist Review Online Column]({"style": {"text": {"color": "#00B3B2"}}})'
 ---
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-09-real-family-talk-adventist-review-online-column/image.png)

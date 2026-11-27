@@ -1,8 +1,8 @@
 ---
 title: Meaningful Anniversary Traditions
+markdownTitle: '^[Meaningful Anniversary Traditions]({"style": {"text": {"color": "#009B72"}}})'
+subtitle: Willie and Elaine Oliver
 ---
-
-_By Willie and Elaine Oliver_
 
 > <p>Question</p>
 > Our third wedding anniversary is coming up soon and my wife and I have been talking about making our anniversaries meaningful. Please share some ideas that will help us accomplish this goal.
@@ -37,6 +37,9 @@ Implementing these traditions will significantly enhance the viability of your m
 
 You are in our prayers.
 
-_Willie Oliver, PhD, CFLE and Elaine Oliver, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
+---
+
+{"style": {"text": {"size": "sm"}}}
+_**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhDc, Licensed Clinical Professional Counselor, CFLE are Directors of Adventist Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 _Reprinted from an article that first appeared in the July 5, 2024 issue of Adventist World. used with permission._

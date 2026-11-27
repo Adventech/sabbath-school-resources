@@ -1,5 +1,6 @@
 ---
 title: Committee and Planning Guidelines
+markdownTitle: '^[Committee and Planning Guidelines]({"style": {"text": {"color": "#B5262D"}}})'
 ---
 
 Family ministries leaders who are either new to the position or have never served as a leader wonder where to begin! This section is to help a leader get started. It is often helpful to select a small committee with whom one can work well–people well oriented in the grace of Christ and who don’t have the proverbial ax to grind. A family ministries committee, more than any other, should seek to model family. What follows are some ways to accomplish that. While these ideas are not the only way to work, they can help a group work together more smoothly. (They may be helpful to other committees as well).
@@ -22,4 +23,7 @@ Then move to the agenda. Remember that you are modeling family.
 
 An important resource for Family Ministries leader is the Family Ministries Planbook. A new edition of this resource book is published every year and includes programs, sermon outlines, seminars and much more that can be used as part of your yearly program.
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _Reprinted from Family Ministries Handbook: The complete how-to guide for local church leaders. (2003). Lincoln, NE: AdventSource. Used with permission_

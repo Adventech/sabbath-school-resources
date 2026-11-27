@@ -1,15 +1,16 @@
 ---
 title: "When Knowledge Increases: Families Of Faith In A Digital Age"
+markdownTitle: '^[When Knowledge Increases: Families Of Faith In A Digital Age]({"style": {"text": {"color": "#0D6EEF"}}})'
 subtitle: Delbert And Susan Baker
 ---
 
 _This message reveals how prophetic knowledge and modern technology test our faith, guiding families to use innovation for mission._
 
-### THE TEXTS
+### ^[THE TEXTS]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Daniel 12:4; 1 Thessalonians 5:21; Proverbs 18:15
 
-### INTRODUCTION
+### ^[INTRODUCTION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Picture a simple scene: A family gathers around the dinner table. The food is hot, the prayer is said, but instead of conversation and laughter, each person bends their head toward a glowing screen. A text buzzes, a notification pings, someone checks a feed, and the moment of togetherness dissolves into digital distraction.
 
@@ -21,7 +22,7 @@ But the question for families of faith is this: _Will technology draw us closer 
 
 Paul’s counsel is urgent for our time: “Test all things; hold fast what is good” (1 Thessalonians 5:21). That’s the framework of this message. God calls us, as Adventist families, not to flee from technology in fear, nor to embrace it uncritically, but to test it, redeem it, and use it for His glory. Let us examine ways to approach this important subject effectively:
 
-### INCREASING KNOWLEDGE AND PROPHECY
+### ^[INCREASING KNOWLEDGE AND PROPHECY]({"style": {"text": {"color": "#0D6EEF"}}})
 
 The rapid rise of knowledge is not random; it is prophetic. Daniel’s vision is being fulfilled before our eyes. What once took decades of research to examine and understand can now be accomplished in hours by the use of artificial intelligence. Languages can be translated in seconds. Ideas once locked in libraries are now on our phones.
 
@@ -31,7 +32,7 @@ That same question is ours today. Families are surrounded by devices. Children l
 
 Solomon’s wisdom is clear: “The heart of the prudent acquires knowledge, and the ear of the wise seeks knowledge” (Proverbs 18:15). In other words, knowledge is good, but it must be guided by wisdom and discernment.
 
-### PRINCIPLES FOR STRONG FAMILIES
+### ^[PRINCIPLES FOR STRONG FAMILIES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 How can Adventist families remain anchored in God’s Word while navigating a sea of digital change? Three principles can guide us:
 
@@ -71,7 +72,7 @@ The Glory Principle is a practical filter families can intentionally incorporate
 - it doesn’t bring glory to God,
 - it doesn’t deserve our time or attention.
 
-### TECHNOLOGY AS A SERVANT, NOT A MASTER
+### ^[TECHNOLOGY AS A SERVANT, NOT A MASTER]({"style": {"text": {"color": "#0D6EEF"}}})
 
 When wisely managed, technology can bless and enrich family faith and spirituality. Consider these possibilities:
 
@@ -97,7 +98,7 @@ Revelation challenges us to take the everlasting gospel “_to every nation, tri
 
 The Bible writers who penned Scripture could not have imagined how God’s Word could be distributed around the world with the click of a button on a phone or laptop. The ones and zeroes of computer coding have replaced papyrus and ancient ink. The digital tools we have today can help to finish the work of spreading the Gospel faster than ever. Families can be part of this by sharing truth through their own platforms.
 
-### DANGERS FAMILIES NEED TO AVOID
+### ^[DANGERS FAMILIES NEED TO AVOID]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### 1. SHORTCUTS TO CHARACTER
 
@@ -111,7 +112,7 @@ Technology can never replace discernment. Families cannot allow AI or media to t
 
 AI can generate falsehoods, deepfakes, and misinformation. Social media can push biases and distort the truth. Children are exposed to moral confusion, harmful images, and addictive patterns. Families must teach vigilance. Paul urges: “Let your speech always be with grace, seasoned with salt” (Colossians 4:6). Families need the courage to reject harmful content and protect their homes.
 
-### BALANCED SPIRITUAL TECH PRACTICES
+### ^[BALANCED SPIRITUAL TECH PRACTICES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 How can families thrive spiritually while living in a tech-saturated world? Here are five practices:
 
@@ -121,7 +122,7 @@ How can families thrive spiritually while living in a tech-saturated world? Here
 - **Integrate Tech and Non-Tech to Deepen Spiritual Growth** – Use technology to enhance, not replace, worship, family devotions, and personal study. Use it and then don’t use it; try mixing up digital devices with just reading from a hard copy Bible. Try a “digital free Sabbath” periodically, setting devices aside to focus on God and one another.
 - **Set Healthy Boundaries** – Parents must model healthy tech use. Establish screen-free zones at meals, during worship, and at bedtime. It may not be easy, but the end will justify the efforts invested. Boundaries protect what matters most.
 
-### ADVENTIST MOVEMENT AND FAMILIES
+### ^[ADVENTIST MOVEMENT AND FAMILIES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 One can reasonably assume that Ellen White would support the use of modern technology for the benefit of others and the cause of good if she were alive today. In referring to how advances could be used in God’s work, she declared: “New methods must be introduced. God’s people must awake to the necessities of the time in which they are living” (White, 1946, p. 70).
 
@@ -129,7 +130,7 @@ We are living in that prophetic moment. Technology is here to stay. The question
 
 The increase of knowledge is a providential challenge. Families of faith must rise with wisdom, courage, and creativity. AI and digital tools are not ultimate threats nor ultimate saviors; they are tests and opportunities. If surrendered to God, they can help us prepare people for Christ’s return.
 
-### A CLOSING WORD…
+### ^[A CLOSING WORD…]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Recently, we spoke with a 19-year-old young woman. She made a serious statement that stuck with us. She said, “_It is not easy to be a young person today!_” Simply stated, but profoundly true. There are avenues for attack on today’s youth that we have not seen before, and technology is at the top of the list!
 
@@ -143,7 +144,7 @@ _Then_, Put Safeguards in Place: Don’t be hesitant to put parental controls an
 
 _Finally_, Use Grace and Gentleness with Firmness: Be gentle, not overbearing. The Bible encourages parents to “not provoke your children, lest they become discouraged” (Colossians 3:21). Learning is a process, and kids will make mistakes, just as parents do. Foster a spirit that builds trust and reinforces children for being honest. Resilience is built through failing and trying again. Don’t be too hard. And, ask the Holy Spirit for continual guidance.
 
-### CONCLUSION
+### ^[CONCLUSION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### FAMILIES THAT SHINE IN THE DIGITAL AGE
 
@@ -159,7 +160,7 @@ Let us use every tool, every device, every invention as servants of the gospel, 
 
 And finally, may our homes be filled with faith and love, shine as beacons of hope in a world distracted by screens but desperate for truth. And may our homes be places of light, truth, and hope, preparing for heaven and eternity.
 
-### APPEAL
+### ^[APPEAL]({"style": {"text": {"color": "#0D6EEF"}}})
 
 {"style": {"text": {"size": "sm"}}}
 _Optional for Appeal: Use the Family Covenant for Faith and Technology (in appendix)._
@@ -172,11 +173,12 @@ If so, let’s lift our eyes from our screens and turn our hearts toward heaven,
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Delbert Baker**, PhD, and **Susan Baker**, DSc are a ministry team who are seasoned educators, wellness advocates, authors, and an experienced pastoral team. They have served as a ministry team for more than 50 years on multiple continents. Dr. Delbert Baker currently serves as the Director of Research and Development for the Regional Conference Retirement Plan. Dr. Susan Baker, a physical therapist and educator, is retired._
 
 ---
 
-### REFERENCES
+### ^[REFERENCES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 White, E. G. (1883, April 26). _Signs of the Times._ Pacific Press Publishing Association.
 

@@ -1,5 +1,6 @@
 ---
 title: Mandy, The Good Influencer
+markdownTitle: '^[Mandy, The Good Influencer]({"style": {"text": {"color": "#5E2A53"}}})'
 subtitle: Orathai Chureson
 ---
 
@@ -60,7 +61,7 @@ After the assembly, many students thanked her. Even those who had been unkind be
 
 That night, Mandy wrote in her journal: “Being a good influencer is better than being a famous one. When I put God first and treat others kindly—even online—I’m shining His light. And that’s what matters most.”
 
-### Mandy’s Good Digital Influencer Rules
+### ^[Mandy’s Good Digital Influencer Rules]({"style": {"text": {"color": "#5E2A53"}}})
 
 - **Be Kind Always**: “And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you” (Ephesians 4:32).
 - **Speak the Truth with Love**: “But, speaking the truth in love, may grow up in all things into Him who is the head—Christ” (Ephesians 4:15).
@@ -70,4 +71,5 @@ That night, Mandy wrote in her journal: “Being a good influencer is better tha
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Orathai Chureson**, PhD, is the director of the Department of Children’s Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._

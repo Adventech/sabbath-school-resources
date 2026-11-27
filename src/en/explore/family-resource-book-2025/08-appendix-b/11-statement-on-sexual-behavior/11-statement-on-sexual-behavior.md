@@ -1,5 +1,6 @@
 ---
 title: Statement on Sexual Behavior
+markdownTitle: '^[Statement on Sexual Behavior]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
 In His infinite love and wisdom God created mankind, both male and female, and in so doing based human society on the firm foundation of loving homes and families.
@@ -14,4 +15,7 @@ An acceptance of God’s free grace inevitably leads the individual believer to 
 
 The Church recognizes the penetrating truth and powerful motivations of Paul’s words to Titus: “For the grace of God has dawned upon the world with healing for all mankind; and by it we are disciplined to renounce godless ways and worldly desires, and to live a life of temperance, honesty, and godliness in the present age, looking forward to the happy fulfilment of our hope when the splendor of our great God and Saviour Christ Jesus will appear. He it is who sacrificed himself for us, to set us free from all wickedness and to make us a pure people marked out for his own, eager to do good.”–Titus 2:11-14, NEB. (See also 2 Peter 3:11-14.)
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 This statement was approved and voted by the General Conference of Seventh-day Adventists Executive Committee at the Annual Council session in Washington, D.C., October 12, 1987.

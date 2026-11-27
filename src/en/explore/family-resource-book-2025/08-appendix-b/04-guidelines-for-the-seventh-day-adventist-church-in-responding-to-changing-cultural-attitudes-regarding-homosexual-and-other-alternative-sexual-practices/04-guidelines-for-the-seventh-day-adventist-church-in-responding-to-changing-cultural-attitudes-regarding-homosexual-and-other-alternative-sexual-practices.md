@@ -1,8 +1,9 @@
 ---
 title: Guidelines for the Seventh-day Adventist Church in Responding to Changing Cultural Attitudes Regarding Homosexual and Other Alternative Sexual Practices
+markdownTitle: '^[Guidelines for the Seventh-day Adventist Church in Responding to Changing Cultural Attitudes Regarding Homosexual and Other Alternative Sexual Practices]({"style": {"text": {"color": "#612E52"}}})'
 ---
 
-### The Divine Ideal of Sexuality and Marriage
+### ^[The Divine Ideal of Sexuality and Marriage]({"style": {"text": {"color": "#612E52"}}})
 
 Issues related to human sexuality and marriage can be seen in their true light as they are viewed against the background of the divine ideal for humanity. God’s creative activity culminated in making humankind in His own image as male and female and instituting marriage. Marriage as a wonderful divine gift to humanity is a covenant-based union of the two genders physically, emotionally, and spiritually, referred to in Scripture as “one flesh.” Jesus Christ affirmed marriage to be both monogamous and heterosexual, a lifelong union of loving companionship between a man and a woman. in addition, throughout Scripture such heterosexual union in marriage is elevated as a symbol of the bond between Deity and humanity.
 
@@ -14,13 +15,13 @@ Unfortunately, human sexuality and marriage have been corrupted by sin. Therefor
 
 The Seventh-day Adventist Church adheres without reservation to the divine ideal of pure, honorable, and loving sexual relations within heterosexual marriage, believing that any lowering of this high view is detrimental to humanity. It also believes that the ideals of purity and beauty of marriage as designed by God need to be emphasized. Through the redemptive work of Christ, the original purpose of marriage may be recovered, and the delightful and wholesome experience of matrimony may be realized by a man and a woman who join their lives in a lifelong marriage covenant.
 
-### The Church and Society
+### ^[The Church and Society]({"style": {"text": {"color": "#612E52"}}})
 
 The Seventh-day Adventist Church believes that it has been called into existence by God to proclaim the everlasting gospel to the entire world, and to invite persons everywhere to be ready for the second coming of Jesus. The Church pursues God’s mission around the globe, currently teaching, preaching, caring, and serving in more than 200 nations. The Seventh-day Adventist Church has no creedal statement: it believes that its teachings rest on the authority of the Bible alone. It summarizes those beliefs, however, in a Statement of Fundamental Beliefs, currently 28 in number. Central to the Church’s understanding of God’s plan for ordering human society is its teaching on “Marriage and the Family.” <sup>2</sup>
 
 Because Seventh-day Adventists live, work, and minister in every part of the world, individual Seventh-day Adventists and the institutions by which the Church pursues God’s mission relate to and interact with all levels of human government. The Bible instructs Christians to be obedient to the laws enacted by civil government, and wherever morally possible, Seventh-day Adventist members and Church organizations will seek to be subject to the governing authorities, even as they seek counsel about how to respond when the claims of government conflict with the truths of the Bible and the Fundamental Beliefs of the Church.
 
-### The Church’s Relationship to Civil Legislation About Homosexuality and Alternative Sexual Behaviors
+### ^[The Church’s Relationship to Civil Legislation About Homosexuality and Alternative Sexual Behaviors]({"style": {"text": {"color": "#612E52"}}})
 
 The Word of God is replete with instruction and illustration bearing on the believer’s relationship to the authority and jurisdiction of civil government. Because the Seventh-day Adventist Church values the entirety of the Word of God as its ultimate authority for truth, doctrine, and way of life, it always seeks to reflect in its teaching and practice the full message of Scripture regarding appropriate interaction with civil government. to that end, the Church periodically offers counsel to individuals, leaders, and church institutions when the claims of civil government and the teachings of the Bible appear to be in conflict. This document focuses on the growing divide between the enactments of some civil governments and the beliefs of the Seventh-day Adventist Church about acceptable sexual behaviors.
 
@@ -38,13 +39,13 @@ The following principles, though not comprehensive, undergird the Church’s con
 
 In light of the above principles derived from the Word of God, the Seventh-day Adventist Church seeks to offer counsel to congregations, church organizations and entities, and those who lead church organizations and entities. The complex issues surrounding civil governments’ responses to the reality of homosexuality and alternative sexual practices in contemporary society underscore the importance of this counsel.
 
-### The Challenges of State Legislation
+### ^[The Challenges of State Legislation]({"style": {"text": {"color": "#612E52"}}})
 
 In a growing number of nations, governments enact special legislative or judicial protection to prevent what they consider discriminatory behavior. Those protections sometimes appear to impair the religious-freedom rights of Seventh-day Adventist pastors, leaders, and Church organizations to employ persons, perform weddings, offer employment benefits, publish missional material, make public statements, and provide education or educational housing on the basis of the Seventh-day Adventist teaching about the sinfulness of sexual behaviors prohibited by Scripture.
 
 Conversely, in a number of nations, homosexual or alternative sexual practices result in harsh penalties imposed by law. While Seventh-day Adventist institutions and members may appropriately advocate for preserving the unique and God-given institution of heterosexual marriage in their societies and legal codes, it is the position of the Church to treat those practicing homosexual or alternative sexual behaviors with the redemptive love taught and lived by Jesus.
 
-### The Moral and Religious Freedoms of The Church
+### ^[The Moral and Religious Freedoms of The Church]({"style": {"text": {"color": "#612E52"}}})
 
 The Seventh-day Adventist Church will encourage all its congregations, employees, ministry leaders, organizations, and entities to uphold church teachings and faith-based practices in Church membership, employment, education, and marriage ceremonies, including officiating at weddings. These teachings and faith-based practices, built upon the Bible’s instructions about human sexuality, are equally applicable to heterosexual and homosexual relationships. It is inconsistent with the Church’s understanding of scriptural teaching to admit into or maintain in membership persons practicing sexual behaviors incompatible with biblical teachings. Neither is it acceptable for Adventist pastors or churches to provide wedding services or facilities for same-sex couples.
 
@@ -52,17 +53,17 @@ In upholding these Scriptural standards, the Church relies upon the faith-based 
 
 Congregational leaders, Church employees, ministry leaders, and institutions are advised to review carefully the Church’s existing policies with regard to membership, employment, and education to ensure that local practices are in harmony with the Church’s expressed teachings about sexual behavior. Consistent expression and application of organizational policies and teachings regarding such behavior will be a key feature of maintaining the faith-based exemptions customarily allowed by civil governments.
 
-### Faith-based Decision Making in Employment and Enrollment
+### ^[Faith-based Decision Making in Employment and Enrollment]({"style": {"text": {"color": "#612E52"}}})
 
 The Seventh-day Adventist Church asserts and reserves the right for its entities to employ individuals according to Church teaching about sexual behaviors compatible with the teaching of Scripture as understood by the Seventh-day Adventist Church.While each institution and ministry operates in its own society and legal climate, each also expresses the worldwide belief system and teachings of the global Church. The Church maintains the right of these ministries and institutions to make decisions based on the teaching of Scripture and will provide legal review of relevant law and ordinances.
 
 Wherever possible and feasible, the Church will continue to advocate, both legislatively and in courts of law, for faith-based preferential hiring and enrollment practices for itself and its ministries.
 
-### The Church and Public Speech
+### ^[The Church and Public Speech]({"style": {"text": {"color": "#612E52"}}})
 
 The Church asserts the right to express its commitment to biblical truth through the communication it makes available to its members and to various publics, as well as to defend the free-speech rights of its employees to express the Church’s teaching about sexual behavior in public environments, including worship services, evangelistic meetings, educational classrooms, and public forums. Church leaders accept the responsibility to keep themselves and Church employees informed about government regulations regarding acceptable speech, and to invite periodic legal review of how those regulations should affect the Church’s mission. Those responsible for the Church’s official communication and those who preach and teach should emphasize the importance of surrendering all behavior, including sexual behavior, to the transforming power of Jesus Christ. The standard for both published material and public statements about sexual behaviors must be that they are widely understood as both “clear and respectful,” expressing biblical truth with the kindness of Jesus Himself.
 
-### The Church and Public Speech
+### ^[The Church and Public Speech]({"style": {"text": {"color": "#612E52"}}})
 
 to achieve a consistent application of a “clear and respectful” standard in its ministries, the Church urges all its ministries, including pastoral and evangelistic ministries, educational ministries, publishing and media ministries, and health and medical ministries, among others, periodically to provide training and counsel to employees who interface with the public through media and public presentations. This training should include a review of current national or community law pertaining to public speech about sexual behaviors, and examples of appropriate ways to communicate the Church’s beliefs and teachings.
 
@@ -74,4 +75,5 @@ to achieve a consistent application of a “clear and respectful” standard in 
 {"style": {"text": {"size": "sm"}}}
 <sup>2</sup> Fundamental Beliefs of Seventh-day Adventists, “Marriage and Family,” No. 23.
 
+{"style": {"text": {"size": "sm"}}}
 These guidelines were approved and voted by the General Conference of Seventh-day Adventists, Spring Meeting 2014.

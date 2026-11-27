@@ -1,5 +1,6 @@
 ---
 title: Real Family Talk with Willie and Elaine Oliver
+markdownTitle: '^[Real Family Talk with Willie and Elaine Oliver]({"style": {"text": {"color": "#00B3B2"}}})'
 ---
 
 ![](https://sabbath-school-resources-assets.adventech.io/en/explore/family-resource-book-2026/05-tools-for-family-ministries-08-real-family-talk-with-willie-and-elaine-oliver/image.png)

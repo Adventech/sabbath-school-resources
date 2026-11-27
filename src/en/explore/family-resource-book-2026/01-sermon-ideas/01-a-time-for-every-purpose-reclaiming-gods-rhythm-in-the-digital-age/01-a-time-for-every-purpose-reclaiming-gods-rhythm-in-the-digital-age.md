@@ -1,15 +1,16 @@
 ---
 title: "A Time For Every Purpose: Reclaiming God’s Rhythm In The Digital Age"
+markdownTitle: '^[A Time For Every Purpose: Reclaiming God’s Rhythm In The Digital Age]({"style": {"text": {"color": "#0D6EEF"}}})'
 subtitle: Willie and Elaine Oliver
 ---
 
 _This sermon invites families to rediscover divine balance—teaching how sacred rhythms of rest, worship, and presence restore peace and unity._
 
-### THE TEXT
+### ^[THE TEXT]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Ecclesiastes 3:1-8
 
-### INTRODUCTION
+### ^[INTRODUCTION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### THE TYRANNY OF THE PING
 
@@ -23,7 +24,7 @@ But we’ve got good news for you today! The same God who set the rhythm of the 
 
 Today’s message is titled A Time for Every Purpose: Reclaiming God’s Rhythm in the Digital Age. Let’s pray.
 
-### PRAYER
+### ^[PRAYER]({"style": {"text": {"color": "#0D6EEF"}}})
 
 _Gracious Father, as we open Your Word today, open our hearts to hear what You would say to us about the times we live in. Help us to discern Your voice above the noise of this digital age. Give us wisdom to order our days according to Your perfect timing. In Jesus’ name, Amen._
 
@@ -31,7 +32,7 @@ Please turn with me to Ecclesiastes chapter 3, and let’s read together verses 
 
 Ecclesiastes 3:1-8
 
-### MAIN TEXT ANALYSIS
+### ^[MAIN TEXT ANALYSIS]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### THE DIVINE RHYTHM
 
@@ -95,7 +96,7 @@ Ellen White counseled in Testimonies for the Church, vol. 5: “We must be much 
 
 Notice she mentions praying in different places—the chamber, the barn, the orchard. These were seasons of silence, seasons of listening for God’s voice. When was the last time your family had a season of digital silence together?
 
-### THE GREAT DECEPTION
+### ^[THE GREAT DECEPTION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### TIME WITHOUT PURPOSE
 
@@ -109,7 +110,7 @@ Let me ask you, church: What is the divine purpose of spending three hours scrol
 
 Ellen White saw this coming when she wrote: “Angels delight in a home where God reigns supreme, and the children are taught to reverence religion, the Bible, and their Creator. Such families can claim the promise: ‘Them that honor Me I will honor’ ” (White, 1948, p. 424).
 
-### THE REDEMPTION RHYTHM
+### ^[THE REDEMPTION RHYTHM]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### GOD’S SOLUTION FOR DIGITAL FAMILIES
 
@@ -147,7 +148,7 @@ Ellen White understood this and shared in the book, The Desire of Ages: “It wo
 
 Contemplation requires silence. It demands solitude. It insists on seasons of disconnection from the world so we can connect with God.
 
-### PRACTICAL APPLICATIONS
+### ^[PRACTICAL APPLICATIONS]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### LIVING THE RHYTHM
 
@@ -169,7 +170,7 @@ Contemplation requires silence. It demands solitude. It insists on seasons of di
 - **Develop Alternative Activities**: Fill the non-digital seasons with activities that build character, creativity, and connection—such as reading, crafting, nature walks, and service projects.
 - **Understanding Consequences**: Help children see the connection between their digital habits and their emotional, physical, and spiritual well-being.
 
-### THE PSYCHOLOGICAL DIMENSION
+### ^[THE PSYCHOLOGICAL DIMENSION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### WHAT SCIENCE CONFIRMS
 
@@ -183,7 +184,7 @@ Modern psychology is catching up to what Solomon knew: human beings are designed
 
 Dr. Catherine Steiner-Adair, author of The Big Disconnect (2013) found that children as young as four years old report feeling “sad, mad, angry, and lonely” when their parents are distracted by devices. One child said, “I feel like I’m not important when my mom is looking at her phone.”
 
-### THE PROPHETIC CALL
+### ^[THE PROPHETIC CALL]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### A TIME FOR DECISION
 
@@ -195,7 +196,7 @@ The enemy knows that if he can fragment our attention, he can destroy our spirit
 
 But we believe God is calling us to be a peculiar people in this digital age—a people who understand seasons, who honor rhythm, who choose connection over distraction, presence over productivity, relationship over entertainment.
 
-### THE CHALLENGE
+### ^[THE CHALLENGE]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### 30 DAYS OF DIVINE RHYTHM
 
@@ -225,7 +226,7 @@ We want to challenge every family here today to commit to 30 days of practicing 
 - Plan a device-free family activity each week.
 - Teach your children to check in with their hearts before checking their phones.
 
-### THE PROMISE
+### ^[THE PROMISE]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### GOD’S BLESSING ON DIVINE ORDER
 
@@ -240,7 +241,7 @@ Ellen White declared in her book, _The Adventist Home_: “The more closely the 
 
 But we must choose love. We must choose presence. We must choose God’s rhythm over the world’s rush.
 
-### CONCLUSION
+### ^[CONCLUSION]({"style": {"text": {"color": "#0D6EEF"}}})
 
 #### THE TIME IS NOW
 
@@ -262,7 +263,7 @@ Beloved, the time for transformation is now! The season for change has come! Wil
 
 Let’s pray together, and let’s commit together to honoring the God of seasons in every season of our lives.
 
-### CLOSING PRAYER
+### ^[CLOSING PRAYER]({"style": {"text": {"color": "#0D6EEF"}}})
 
 _Heavenly Father, we come before You to recognize that we have allowed the urgent to crowd out the important, the immediate to override the eternal. We have traded Your perfect rhythm for the world’s restless rush. Forgive us, Lord._
 
@@ -280,11 +281,12 @@ _“To everything there is a season, a time for every purpose under heaven.”_ 
 
 ---
 
+{"style": {"text": {"size": "sm"}}}
 _**Willie Oliver**, PhD, CFLE and **Elaine Oliver**, PhD, LCPC, CFLE are Directors of the Department of Family Ministries at the General Conference of Seventh-day Adventists World Headquarters in Silver Spring, Maryland, USA._
 
 ---
 
-### REFERENCES
+### ^[REFERENCES]({"style": {"text": {"color": "#0D6EEF"}}})
 
 Kaplan, R., & Kaplan, S. (1989). _The Experience of Nature: A Psychological Perspective._ Cambridge University Press.
 

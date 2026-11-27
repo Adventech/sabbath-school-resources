@@ -1,5 +1,6 @@
 ---
 title: Family Life Profile Survey
+markdownTitle: '^[Family Life Profile Survey]({"style": {"text": {"color": "#2B3241"}}})'
 ---
 
 `Name`
@@ -101,4 +102,7 @@ title: Family Life Profile Survey
 
 `Your interest area(s)`
 
+---
+
+{"style": {"text": {"size": "sm"}}}
 _©2025 Permission granted to copy for local church use._
